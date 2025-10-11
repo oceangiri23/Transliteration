@@ -6,7 +6,7 @@ VOWELS = set('aeiou')
 PRIMARY_MAP = {
     'CH': 'C', 'KH': 'K', 'GH': 'G', 'PH': 'P', 'BH': 'B', 'JH': 'J', 'TH': 'T', 'DH': 'D', 'SH': 'S', 'NG': 'N', 'X': 'K',
     'k': 'K', 'q': 'K', 'c': 'K', 'g': 'G', 'j': 'J', 't': 'T', 'd': 'D', 'p': 'P', 'b': 'B',
-    'm': 'M', 'n': 'N', 'y': 'Y', 'r': 'R', 'l': 'L', 's': 'S', 'h': 'H', 'v': 'B', 'w': 'B', 'f': 'P', 'z': 'S', 'x': 'K'
+    'm': 'M', 'n': 'N', 'y': 'Y', 'r': 'R', 'l': 'L', 's': 'S', 'h': 'H', 'v': 'B', 'w': 'W', 'f': 'F', 'z': 'S', 'x': 'K'
 }
 ALTERNATE_MAP = PRIMARY_MAP.copy()
 ALTERNATE_MAP['X'] = 'X'
@@ -31,8 +31,10 @@ def _preprocess(word: str) -> str:
     w = re.sub(r'xo', 'cho', w)
     w = re.sub(r'xh', 'ch', w)
     w = re.sub(r'a{2,}', 'a', w)
-    w = re.sub(r'(e|i){2,}', 'i', w) 
-    w = re.sub(r'(o|u){2,}', 'u', w)   
+    w = re.sub(r'e{2,}', 'e', w) 
+    w = re.sub(r'i{2,}', 'i', w)
+    w = re.sub(r'o{2,}', 'o', w)
+    w = re.sub(r'u{2,}', 'u', w)
     w = re.sub(r'ae', 'ai', w)
     w = w.replace('chh', 'CH')
     w = w.replace('ch', 'CH')
@@ -46,10 +48,7 @@ def _preprocess(word: str) -> str:
     w = w.replace('sh', 'SH')
     w = w.replace('ng', 'NG')
     w = w.replace('f', 'PH')
-    w = re.sub(r'[vw]', 'b', w)
     w = w.replace('x', 'X')
-    w = re.sub(r'(?<=[aeiou])[nm](?=[^aeiou]|$)', '', w)
-    w = re.sub(r'(?<=[aeiou])h$', '', w)
     w = re.sub(r'(.)\1{2,}', r'\1\1', w)
 
     return w
@@ -77,15 +76,16 @@ def _encode_tokens(tokens: List[str], mapping: dict, max_len: int = 6) -> str:
     last_sym = None
     i = 0
     if tokens and isinstance(tokens[0], str) and tokens[0] and tokens[0][0] in VOWELS:
-        code.append('A')
-        last_sym = 'A'
+        first_vowel = tokens[0].upper()
+        code.append(first_vowel)
+        last_sym = first_vowel
         i = 1
 
     while i < len(tokens) and len(code) < max_len:
         tok = tokens[i]
         if len(tok) == 1 and tok in VOWELS:
-            i += 1
-            continue
+          i += 1
+          continue
 
         sym = mapping.get(tok, None)
         if sym is None and len(tok) == 1:
@@ -100,6 +100,12 @@ def _encode_tokens(tokens: List[str], mapping: dict, max_len: int = 6) -> str:
             last_sym = sym
         i += 1
 
+    if tokens and tokens[-1] in VOWELS:
+        last_vowel = tokens[-1].upper()
+        if last_vowel != last_sym and len(code) < max_len:
+            code.append(last_vowel)
+
+
     return ''.join(code)
 
 
@@ -108,20 +114,13 @@ def nepali_dmetaphone(source: str) -> Tuple[str, str]:
         return ('', '')
 
     pre = _preprocess(source)
-    print("Preprocessed:", pre)
     tokens = _tokenize(pre)
-    print("Tokens:", tokens)
 
     primary = _encode_tokens(tokens, PRIMARY_MAP)
-    print("Primary:", primary)
+
     alternate = _encode_tokens(tokens, ALTERNATE_MAP)
-    print("Alternate:", alternate)
 
     if primary == alternate:
         alternate = ''
 
     return (primary, alternate)
-
-
-print(nepali_dmetaphone("bikney"))
-print(nepali_dmetaphone("bujhne"))

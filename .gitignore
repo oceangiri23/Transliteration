@@ -1,3 +1,4 @@
 .env
 Normalization/Clustering/Fast_text_model_for_clean_corpus
 Normalization/Clustering/Fast_text_model_for_gpt_variations
+Training/ByT5/fine_tuned_byt5.pt
