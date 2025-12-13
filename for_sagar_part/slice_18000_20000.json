@@ -1,0 +1,10831 @@
+{
+  "CME": {
+    "base_word": ".....",
+    "variants": [
+      "chume",
+      "chumme",
+      "chhame",
+      "chhme"
+    ],
+    "id": 18000
+  },
+  "SKTS": {
+    "base_word": ".....",
+    "variants": [
+      "sakhtis",
+      "skits",
+      "sakthis",
+      "societies",
+      "squats"
+    ],
+    "id": 18008
+  },
+  "SKNW": {
+    "base_word": ".....",
+    "variants": [
+      "skinw",
+      "sakkaunw",
+      "sakinaw",
+      "saknw",
+      "sikaunaw",
+      "sakaunw",
+      "sakekoxainw",
+      "sakinnw",
+      "sikaaunw",
+      "sakkinnw",
+      "sakinw",
+      "sakaunww"
+    ],
+    "id": 18010
+  },
+  "HRDYE": {
+    "base_word": ".....",
+    "variants": [
+      "hurraidiye",
+      "herdaye",
+      "hirdiye",
+      "hardayie",
+      "hirdaye",
+      "herdye",
+      "hrdaye",
+      "hreedaye",
+      "herdeyee",
+      "hridaye",
+      "herdiye",
+      "heridiye",
+      "herediyeee"
+    ],
+    "id": 18011
+  },
+  "MHSB": {
+    "base_word": ".....",
+    "variants": [
+      "mahoshab",
+      "mahoshb",
+      "mahasab",
+      "mahossab"
+    ],
+    "id": 18014
+  },
+  "RMRS": {
+    "base_word": ".....",
+    "variants": [
+      "rumors",
+      "rumours",
+      "ramros"
+    ],
+    "id": 18015
+  },
+  "KTCA": {
+    "base_word": ".....",
+    "variants": [
+      "cutechha",
+      "katcha",
+      "katechha",
+      "katchha",
+      "khitcha",
+      "kaatcha"
+    ],
+    "id": 18017
+  },
+  "SBKO": {
+    "base_word": ".....",
+    "variants": [
+      "sabeiko",
+      "sibako",
+      "sbiko",
+      "saabaiko",
+      "sbko",
+      "saboiiko",
+      "sabaeko",
+      "subbako",
+      "sabhako",
+      "sabbaiko",
+      "sabako",
+      "savaiko",
+      "sabko",
+      "sabaiiko",
+      "sabbko",
+      "subako",
+      "sabaikooo",
+      "sabaiko",
+      "subeko",
+      "sovako",
+      "shivako",
+      "sabaikoo",
+      "subko",
+      "savako",
+      "sbaiko",
+      "shabaiko",
+      "subbhako",
+      "sabaibko",
+      "saboiko",
+      "sabhaiko",
+      "sabiko",
+      "sabiako",
+      "savko",
+      "sabeko"
+    ],
+    "id": 18018
+  },
+  "DNPRNI": {
+    "base_word": ".....",
+    "variants": [
+      "dinuparni",
+      "dinuprni",
+      "dinuparneni"
+    ],
+    "id": 18019
+  },
+  "MGRU": {
+    "base_word": ".....",
+    "variants": [
+      "mugharu",
+      "mghru",
+      "mgharu"
+    ],
+    "id": 18021
+  },
+  "KRHNA": {
+    "base_word": ".....",
+    "variants": [
+      "karhna",
+      "kurohuna",
+      "kurahunna",
+      "kriahnaa",
+      "kriahna"
+    ],
+    "id": 18029
+  },
+  "CMKI": {
+    "base_word": ".....",
+    "variants": [
+      "chamki",
+      "chemiki",
+      "chimeki",
+      "chhimeki",
+      "chamkiki",
+      "chemaki",
+      "chummeki",
+      "chiimeeki",
+      "chemeki",
+      "chamkai",
+      "chimekii"
+    ],
+    "id": 18033
+  },
+  "BSTBKM": {
+    "base_word": ".....",
+    "variants": [
+      "bastabikma",
+      "bastbikm",
+      "bastbikma"
+    ],
+    "id": 18034
+  },
+  "BDU": {
+    "base_word": ".....",
+    "variants": [
+      "badhou",
+      "badu",
+      "vdau",
+      "badau",
+      "budou",
+      "videu",
+      "bdhu",
+      "budau",
+      "badou",
+      "vidou",
+      "bodu",
+      "badhu",
+      "badhau”",
+      "buddhu",
+      "bhidu",
+      "vaideu",
+      "bidu",
+      "viodu",
+      "budu",
+      "bhadau",
+      "badeu",
+      "baddaau",
+      "baddau",
+      "badhuu",
+      "vidu",
+      "bedu",
+      "budhu",
+      "badauu",
+      "buddu",
+      "badhauu",
+      "vadauu",
+      "bhudu",
+      "badhaau",
+      "videou",
+      "vadau",
+      "budhau",
+      "badhau"
+    ],
+    "id": 18035
+  },
+  "SJYA": {
+    "base_word": ".....",
+    "variants": [
+      "shajaya",
+      "sajhyaa",
+      "sajayia",
+      "sajaiya",
+      "shajya",
+      "sajhya",
+      "saajaaya",
+      "sajayaaaaaaa",
+      "sajaya",
+      "sajhaya",
+      "sajaaya",
+      "sajayaa",
+      "sajya",
+      "sajiya"
+    ],
+    "id": 18037
+  },
+  "YNKI": {
+    "base_word": ".....",
+    "variants": [
+      "yankkiii",
+      "yaneki",
+      "yanaki",
+      "yankiiii",
+      "yankkkki",
+      "yannnki",
+      "yanki",
+      "yaniki",
+      "yenkai",
+      "yinkai",
+      "yeniki"
+    ],
+    "id": 18039
+  },
+  "SMPRDN": {
+    "base_word": ".....",
+    "variants": [
+      "sampurdan",
+      "sampurdna",
+      "sumpurdnw",
+      "sampurdn"
+    ],
+    "id": 18040
+  },
+  "TLN": {
+    "base_word": ".....",
+    "variants": [
+      "tilong",
+      "tulan",
+      "taln",
+      "teling",
+      "talen",
+      "thalan",
+      "thulung",
+      "thalin",
+      "thelan",
+      "thaling"
+    ],
+    "id": 18041
+  },
+  "SNJLI": {
+    "base_word": ".....",
+    "variants": [
+      "sanjhali",
+      "sinjali",
+      "shanjali",
+      "singjali",
+      "sanjallai",
+      "sanjhalai",
+      "sangjali",
+      "sinjalilai"
+    ],
+    "id": 18042
+  },
+  "BDSE": {
+    "base_word": ".....",
+    "variants": [
+      "bedeshe",
+      "bidese",
+      "bedise",
+      "bideshe",
+      "bidshe",
+      "bideshee"
+    ],
+    "id": 18043
+  },
+  "JTCA": {
+    "base_word": ".....",
+    "variants": [
+      "jitacha",
+      "jatcha",
+      "jitechha",
+      "jitaucha",
+      "jitcha",
+      "jitchha",
+      "jotchha"
+    ],
+    "id": 18044
+  },
+  "DMRU": {
+    "base_word": ".....",
+    "variants": [
+      "damaru",
+      "damru",
+      "dumaru"
+    ],
+    "id": 18047
+  },
+  "PTKLA": {
+    "base_word": ".....",
+    "variants": [
+      "patkela",
+      "fatkela",
+      "futkela",
+      "futkaula"
+    ],
+    "id": 18052
+  },
+  "MCL": {
+    "base_word": ".....",
+    "variants": [
+      "micheal",
+      "maichel",
+      "muchal",
+      "michel",
+      "michal",
+      "michael",
+      "muchall",
+      "machal"
+    ],
+    "id": 18054
+  },
+  "SNDTA": {
+    "base_word": ".....",
+    "variants": [
+      "sundata",
+      "sunndata",
+      "sundaata"
+    ],
+    "id": 18055
+  },
+  "HRTCN": {
+    "base_word": ".....",
+    "variants": [
+      "hearttouching",
+      "heartteaching",
+      "hrartouching",
+      "hearteaching",
+      "hearttuching",
+      "heartouching"
+    ],
+    "id": 18058
+  },
+  "WKSTO": {
+    "base_word": ".....",
+    "variants": [
+      "waookasto",
+      "wawkasto",
+      "wowkastooo",
+      "wowkasto"
+    ],
+    "id": 18062
+  },
+  "LPDA": {
+    "base_word": ".....",
+    "variants": [
+      "lafada",
+      "laifaida",
+      "lafdaa",
+      "lafda"
+    ],
+    "id": 18068
+  },
+  "LTDI": {
+    "base_word": ".....",
+    "variants": [
+      "lootdai",
+      "lutdaii",
+      "lutaudai",
+      "luttdai",
+      "lotdai",
+      "lutdae",
+      "lutdai",
+      "laitadi",
+      "lailutdai"
+    ],
+    "id": 18078
+  },
+  "AKLY": {
+    "base_word": ".....",
+    "variants": [
+      "akaly",
+      "aakhalay",
+      "akley",
+      "akly",
+      "aakhaley",
+      "akhaley",
+      "accually"
+    ],
+    "id": 18079
+  },
+  "SJLI": {
+    "base_word": ".....",
+    "variants": [
+      "sajileii",
+      "sajalai",
+      "sajilae",
+      "sijali",
+      "siejali",
+      "sajiloi",
+      "shojhalaae",
+      "sajailae",
+      "sajilaii",
+      "sojalai",
+      "sojolai",
+      "sajilei",
+      "sajilai",
+      "sajili",
+      "sajhilai",
+      "sajillai",
+      "sajeli",
+      "sjli",
+      "sajelai",
+      "shajeli"
+    ],
+    "id": 18085
+  },
+  "BGLY": {
+    "base_word": ".....",
+    "variants": [
+      "begly",
+      "vagly",
+      "vaglay"
+    ],
+    "id": 18087
+  },
+  "MYKI": {
+    "base_word": ".....",
+    "variants": [
+      "mayakai",
+      "maiyakai",
+      "mayaki"
+    ],
+    "id": 18091
+  },
+  "YSMI": {
+    "base_word": ".....",
+    "variants": [
+      "yesmai",
+      "yesmi",
+      "yasmae",
+      "yeshami",
+      "yasmai",
+      "yashmai",
+      "yesmaii"
+    ],
+    "id": 18093
+  },
+  "RMRHNK": {
+    "base_word": ".....",
+    "variants": [
+      "ramrohunx",
+      "ramrohunxa",
+      "ramrohunxaki"
+    ],
+    "id": 18094
+  },
+  "ASPS": {
+    "base_word": ".....",
+    "variants": [
+      "aspas",
+      "aaspaas",
+      "aaspas",
+      "aaspass"
+    ],
+    "id": 18096
+  },
+  "ARSE": {
+    "base_word": ".....",
+    "variants": [
+      "aruse",
+      "aarise",
+      "arisee"
+    ],
+    "id": 18097
+  },
+  "RSU": {
+    "base_word": ".....",
+    "variants": [
+      "reasau",
+      "resu",
+      "resau",
+      "risu",
+      "rasau",
+      "rosu",
+      "rashu",
+      "risau",
+      "rashau"
+    ],
+    "id": 18098
+  },
+  "RHSE": {
+    "base_word": ".....",
+    "variants": [
+      "rahse",
+      "rahase",
+      "rahashe"
+    ],
+    "id": 18104
+  },
+  "EPDE": {
+    "base_word": ".....",
+    "variants": [
+      "epoaide",
+      "epidode",
+      "epιѕodeѕ",
+      "epiaode",
+      "epiode"
+    ],
+    "id": 18107
+  },
+  "TPNA": {
+    "base_word": ".....",
+    "variants": [
+      "tipna",
+      "tipana",
+      "thopna",
+      "tapna",
+      "thapna",
+      "thapaunaa",
+      "thepna",
+      "topna",
+      "tafna",
+      "thapana",
+      "thapauna",
+      "tapepina",
+      "thapina"
+    ],
+    "id": 18108
+  },
+  "DMRKO": {
+    "base_word": ".....",
+    "variants": [
+      "damiiarko",
+      "dumreko",
+      "damaruko",
+      "dammaruko"
+    ],
+    "id": 18110
+  },
+  "NPG": {
+    "base_word": ".....",
+    "variants": [
+      "nfpg",
+      "npg",
+      "napug"
+    ],
+    "id": 18112
+  },
+  "ESO": {
+    "base_word": ".....",
+    "variants": [
+      "easo",
+      "eso",
+      "esoo",
+      "esso",
+      "esho",
+      "eeso",
+      "esooooo"
+    ],
+    "id": 18113
+  },
+  "EMT": {
+    "base_word": ".....",
+    "variants": [
+      "eamot",
+      "emot",
+      "emoit"
+    ],
+    "id": 18119
+  },
+  "PLNMA": {
+    "base_word": ".....",
+    "variants": [
+      "planma",
+      "planema",
+      "palnama",
+      "palangma",
+      "palanma"
+    ],
+    "id": 18122
+  },
+  "BKTS": {
+    "base_word": ".....",
+    "variants": [
+      "victos",
+      "bhukthish",
+      "vukthis",
+      "bhakts",
+      "voicethis",
+      "victus"
+    ],
+    "id": 18128
+  },
+  "SMKYKO": {
+    "base_word": ".....",
+    "variants": [
+      "samixxyako",
+      "shamixyako",
+      "samixyako",
+      "samikxyako",
+      "samixayako"
+    ],
+    "id": 18133
+  },
+  "BLGRA": {
+    "base_word": ".....",
+    "variants": [
+      "bulagria",
+      "bulgaria",
+      "valagara",
+      "balgarera"
+    ],
+    "id": 18136
+  },
+  "TKRYKO": {
+    "base_word": ".....",
+    "variants": [
+      "tukriyako",
+      "tikhariyako",
+      "takrayako",
+      "tukriyeko"
+    ],
+    "id": 18137
+  },
+  "KNKA": {
+    "base_word": ".....",
+    "variants": [
+      "khanxaaaa",
+      "xainaka",
+      "kanxa",
+      "xaenxa",
+      "khanca",
+      "kinuxa",
+      "kanxxa",
+      "kanika",
+      "konka",
+      "khunxa",
+      "xiunxa",
+      "kinexa",
+      "xanexa",
+      "khainxa",
+      "khanxa",
+      "khanaxa",
+      "khanxaa",
+      "khaonxa",
+      "khaneka",
+      "€kanxa",
+      "khanaka",
+      "kinxa",
+      "k…kanxa",
+      "khannxa",
+      "kanxaa",
+      "kununxa",
+      "xunexa",
+      "knxa",
+      "kinakoxa",
+      "cainxa",
+      "kininxa",
+      "xunnxa",
+      "khnaxa",
+      "xunxa",
+      "xekinxa",
+      "£khanxa",
+      "xinxa",
+      "kinxaaa",
+      "knaxa",
+      "kineka",
+      "xunxaa",
+      "xunixa",
+      "khaanxa",
+      "kaanxaa",
+      "xainxa",
+      "kanaxa",
+      "khaxkinxa"
+    ],
+    "id": 18141
+  },
+  "RPMA": {
+    "base_word": ".....",
+    "variants": [
+      "rupaima",
+      "rupmaa",
+      "rupma",
+      "roopmaa",
+      "rupmaaa",
+      "ruppma",
+      "ropma",
+      "rupamaa",
+      "rapma",
+      "rupama",
+      "roopma"
+    ],
+    "id": 18142
+  },
+  "ALBA": {
+    "base_word": ".....",
+    "variants": [
+      "aalaba",
+      "alava",
+      "alibaba"
+    ],
+    "id": 18143
+  },
+  "SPBNDA": {
+    "base_word": ".....",
+    "variants": [
+      "sapaivanda",
+      "sapvanda",
+      "sapbanda"
+    ],
+    "id": 18146
+  },
+  "GKLE": {
+    "base_word": ".....",
+    "variants": [
+      "gaikale",
+      "gakole",
+      "gokule",
+      "gaekale",
+      "gaikalale",
+      "gauxukhile"
+    ],
+    "id": 18153
+  },
+  "LYNW": {
+    "base_word": ".....",
+    "variants": [
+      "laynw",
+      "leyunw",
+      "layenaw",
+      "lyaunaw",
+      "layenw",
+      "lyaunw"
+    ],
+    "id": 18155
+  },
+  "KTRE": {
+    "base_word": ".....",
+    "variants": [
+      "xetree",
+      "katarie",
+      "kathore",
+      "khatre",
+      "cuture",
+      "khatrare",
+      "khatree",
+      "kaatre",
+      "katare",
+      "khatare"
+    ],
+    "id": 18157
+  },
+  "UPDRO": {
+    "base_word": ".....",
+    "variants": [
+      "upadro",
+      "updro",
+      "upadhro"
+    ],
+    "id": 18160
+  },
+  "PRDPS": {
+    "base_word": ".....",
+    "variants": [
+      "pardafas",
+      "prdafas",
+      "pardafass",
+      "pradafash",
+      "fardafas",
+      "pardafash",
+      "pardaphas",
+      "pardafaas",
+      "pardafs"
+    ],
+    "id": 18162
+  },
+  "BKBL": {
+    "base_word": ".....",
+    "variants": [
+      "beqvl",
+      "backbabal",
+      "becvl"
+    ],
+    "id": 18163
+  },
+  "STBLI": {
+    "base_word": ".....",
+    "variants": [
+      "sitebalae",
+      "sitebalai",
+      "sitebalaii"
+    ],
+    "id": 18171
+  },
+  "HNSA": {
+    "base_word": ".....",
+    "variants": [
+      "hinssa",
+      "hensa",
+      "hinsa",
+      "hangsa",
+      "hinsha",
+      "hanisa",
+      "hunsa",
+      "hingsa",
+      "hununsa",
+      "hunza",
+      "hinsaa"
+    ],
+    "id": 18174
+  },
+  "GRNHRL": {
+    "base_word": ".....",
+    "variants": [
+      "garneharulai",
+      "garnaharulai",
+      "garneharulaiyasaile",
+      "garneharule",
+      "garneharlai",
+      "garnaharula"
+    ],
+    "id": 18175
+  },
+  "NYK": {
+    "base_word": ".....",
+    "variants": [
+      "nyccc",
+      "nyc",
+      "nayeak",
+      "nayk",
+      "ninayek",
+      "nauyak",
+      "nyx",
+      "naayek",
+      "nayak",
+      "nyycccc",
+      "nayek",
+      "nyccccc",
+      "nyak",
+      "nyyxx",
+      "ninyak",
+      "nycc"
+    ],
+    "id": 18176
+  },
+  "BRNKO": {
+    "base_word": ".....",
+    "variants": [
+      "bornko",
+      "brniko",
+      "barunako",
+      "bharnako",
+      "barnako"
+    ],
+    "id": 18178
+  },
+  "PRTSHN": {
+    "base_word": ".....",
+    "variants": [
+      "protsahan",
+      "prothsahan",
+      "protsaahan",
+      "pratshohan",
+      "protshahan"
+    ],
+    "id": 18182
+  },
+  "KDPI": {
+    "base_word": ".....",
+    "variants": [
+      "kadhapi",
+      "kadaapi",
+      "kadapeae",
+      "kadapi",
+      "kdapi"
+    ],
+    "id": 18183
+  },
+  "GCO": {
+    "base_word": ".....",
+    "variants": [
+      "ghuicho",
+      "gocho",
+      "ghucho",
+      "ghocho"
+    ],
+    "id": 18184
+  },
+  "MRTDND": {
+    "base_word": ".....",
+    "variants": [
+      "mrituedanda",
+      "mritudand",
+      "mritiudanda",
+      "mirtudanda",
+      "mritudanda"
+    ],
+    "id": 18186
+  },
+  "ELY": {
+    "base_word": ".....",
+    "variants": [
+      "elley",
+      "ellililly",
+      "eailey",
+      "elay"
+    ],
+    "id": 18188
+  },
+  "ADKE": {
+    "base_word": ".....",
+    "variants": [
+      "aadhkxe",
+      "aadhxe",
+      "adakxe",
+      "adhaxe",
+      "aadke",
+      "adhexe",
+      "aadaxe",
+      "aadhaxe",
+      "adhakxe",
+      "adke"
+    ],
+    "id": 18189
+  },
+  "BSDA": {
+    "base_word": ".....",
+    "variants": [
+      "bishuddha",
+      "bisusdha",
+      "basda",
+      "basdaa",
+      "vosuda",
+      "bisuddha",
+      "bosoda",
+      "basada",
+      "basdha",
+      "bsda",
+      "vosada",
+      "bhosada",
+      "basuda",
+      "bhosda",
+      "bazda",
+      "bisudda",
+      "busda",
+      "bishudha",
+      "vosdaa",
+      "bosda",
+      "bisudha"
+    ],
+    "id": 18191
+  },
+  "NTLE": {
+    "base_word": ".....",
+    "variants": [
+      "nitile",
+      "netaile",
+      "nathle",
+      "natale",
+      "netaale",
+      "netale",
+      "netle",
+      "naataale",
+      "natalie",
+      "nathalie",
+      "nitale",
+      "natile"
+    ],
+    "id": 18193
+  },
+  "AHJI": {
+    "base_word": ".....",
+    "variants": [
+      "ahjjai",
+      "ahjhai",
+      "aahjei",
+      "ahjaee",
+      "ahjei",
+      "ahjoii",
+      "ahhjai",
+      "ahjae",
+      "ahajeai",
+      "ahjai"
+    ],
+    "id": 18194
+  },
+  "NCTNE": {
+    "base_word": ".....",
+    "variants": [
+      "nachetine",
+      "nachhutaune",
+      "nachutaune",
+      "nachuttne",
+      "nachhutne",
+      "nachetne"
+    ],
+    "id": 18195
+  },
+  "KRYO": {
+    "base_word": ".....",
+    "variants": [
+      "koriyo",
+      "kariyo",
+      "karyao",
+      "kurayo",
+      "khararayo",
+      "kharayo",
+      "kuarayo",
+      "koryo",
+      "xaryo",
+      "xariyo",
+      "xiryo",
+      "karayo",
+      "karyo",
+      "karaayo",
+      "coreyo",
+      "xiriyo",
+      "kuriyo",
+      "kureyo",
+      "kuryo"
+    ],
+    "id": 18199
+  },
+  "PHLKO": {
+    "base_word": ".....",
+    "variants": [
+      "pahileko",
+      "pahlako",
+      "paheliko",
+      "pohilako",
+      "pahilaako",
+      "pahelako",
+      "paihaleko",
+      "pohileko",
+      "pahiloko",
+      "pahiileko",
+      "fhaleko",
+      "pahilako",
+      "pahilakooo",
+      "pahilko",
+      "paheleko"
+    ],
+    "id": 18200
+  },
+  "SDNTI": {
+    "base_word": ".....",
+    "variants": [
+      "sidantai",
+      "sidhantai",
+      "sidhanti",
+      "siddhantai",
+      "siddantai"
+    ],
+    "id": 18201
+  },
+  "ASHYA": {
+    "base_word": ".....",
+    "variants": [
+      "asahya",
+      "asahiya",
+      "asahaya"
+    ],
+    "id": 18204
+  },
+  "NGMA": {
+    "base_word": ".....",
+    "variants": [
+      "negma",
+      "nagima",
+      "naghama",
+      "nagma"
+    ],
+    "id": 18205
+  },
+  "GRSE": {
+    "base_word": ".....",
+    "variants": [
+      "groze",
+      "garese",
+      "grazie",
+      "gurase",
+      "garesee"
+    ],
+    "id": 18206
+  },
+  "KNRLI": {
+    "base_word": ".....",
+    "variants": [
+      "kanrli",
+      "kinaaralai",
+      "kinaralai"
+    ],
+    "id": 18207
+  },
+  "SNSDI": {
+    "base_word": ".....",
+    "variants": [
+      "songsaudi",
+      "songsadhei",
+      "songzodii"
+    ],
+    "id": 18210
+  },
+  "TSRS": {
+    "base_word": ".....",
+    "variants": [
+      "tseries",
+      "tseris",
+      "teasers",
+      "tseres"
+    ],
+    "id": 18213
+  },
+  "GTDA": {
+    "base_word": ".....",
+    "variants": [
+      "ghatdaa",
+      "ghatda",
+      "ghtda",
+      "guatauda",
+      "gitdida",
+      "ghtada",
+      "geetaauda",
+      "ghatauda"
+    ],
+    "id": 18214
+  },
+  "RKSKO": {
+    "base_word": ".....",
+    "variants": [
+      "raxeshko",
+      "rakhisakeko",
+      "rksiko",
+      "raksiko",
+      "rekhsko"
+    ],
+    "id": 18216
+  },
+  "DYSI": {
+    "base_word": ".....",
+    "variants": [
+      "dayusi",
+      "dayushi",
+      "diyesi",
+      "diyasi",
+      "doyesi",
+      "diysi",
+      "deysi"
+    ],
+    "id": 18217
+  },
+  "TPLJN": {
+    "base_word": ".....",
+    "variants": [
+      "taplejung",
+      "taplejun",
+      "taplajung",
+      "taplajun"
+    ],
+    "id": 18218
+  },
+  "TYSI": {
+    "base_word": ".....",
+    "variants": [
+      "tyasai",
+      "tyausi",
+      "teysai",
+      "tyauusi",
+      "tyosai",
+      "tyasaiii",
+      "tyashai",
+      "tysae",
+      "tyasi",
+      "tysoi",
+      "tysii",
+      "tyasae",
+      "tyessai",
+      "tyassai",
+      "tyesaii",
+      "tysai",
+      "teyasai",
+      "tyesai"
+    ],
+    "id": 18219
+  },
+  "KLYRA": {
+    "base_word": ".....",
+    "variants": [
+      "khelyera",
+      "khelayara",
+      "kholyara",
+      "kholeyra",
+      "kilayera",
+      "khalyara",
+      "kelayera",
+      "khelaayera",
+      "khelayra",
+      "khulayera",
+      "khelayera",
+      "klayera",
+      "khalyera",
+      "khuleyra",
+      "khelyara",
+      "kholiyara",
+      "kelayara"
+    ],
+    "id": 18220
+  },
+  "MPLI": {
+    "base_word": ".....",
+    "variants": [
+      "mfuli",
+      "mamfulli",
+      "mamphuli",
+      "maamfulii",
+      "mamafuli",
+      "mumfali",
+      "mepali",
+      "mamfali",
+      "mapali",
+      "mamfuli",
+      "maamfuli",
+      "mamphulii",
+      "maafoli",
+      "mamfulii"
+    ],
+    "id": 18222
+  },
+  "BRYO": {
+    "base_word": ".....",
+    "variants": [
+      "beryo",
+      "bairiyo",
+      "bhariyo",
+      "vareyo",
+      "variyo",
+      "virayo",
+      "bryo",
+      "boriyo",
+      "bhairayo",
+      "baruyo",
+      "barararaaaaaayo",
+      "varyo",
+      "vryo",
+      "broyo",
+      "brayo",
+      "bariyo",
+      "bharyo"
+    ],
+    "id": 18223
+  },
+  "HSTNTR": {
+    "base_word": ".....",
+    "variants": [
+      "hastaantaran",
+      "hastantarn",
+      "hastantaran"
+    ],
+    "id": 18226
+  },
+  "LGL": {
+    "base_word": ".....",
+    "variants": [
+      "ligal",
+      "lagoall",
+      "legegal",
+      "leagal",
+      "lagal",
+      "laagal",
+      "lagil",
+      "ligil",
+      "lgil"
+    ],
+    "id": 18227
+  },
+  "GRMI": {
+    "base_word": ".....",
+    "variants": [
+      "ghrmi",
+      "gharmai",
+      "ghrmai",
+      "gharami",
+      "garmaee",
+      "ghaugharmai",
+      "gaugharmai",
+      "garamai",
+      "garmi",
+      "garumi",
+      "garmai"
+    ],
+    "id": 18229
+  },
+  "BSU": {
+    "base_word": ".....",
+    "variants": [
+      "basuu",
+      "bhauzu",
+      "bosou",
+      "baesau",
+      "basaau",
+      "basau",
+      "baseu",
+      "bashu",
+      "bishau",
+      "bosau",
+      "bhasu",
+      "bisu",
+      "baasu",
+      "basou",
+      "bisau",
+      "bishu",
+      "basu"
+    ],
+    "id": 18231
+  },
+  "SLS": {
+    "base_word": ".....",
+    "variants": [
+      "shailesh",
+      "sailesh",
+      "sells",
+      "selaos",
+      "sales",
+      "ssholes",
+      "soulz",
+      "souls",
+      "slass",
+      "sails"
+    ],
+    "id": 18237
+  },
+  "BYRK": {
+    "base_word": ".....",
+    "variants": [
+      "bayrek",
+      "vayarq",
+      "bhayrq",
+      "vyerax"
+    ],
+    "id": 18238
+  },
+  "BNTLE": {
+    "base_word": ".....",
+    "variants": [
+      "vanautile",
+      "vannataile",
+      "vuntile",
+      "banautole"
+    ],
+    "id": 18248
+  },
+  "UNTE": {
+    "base_word": ".....",
+    "variants": [
+      "unte",
+      "uinite",
+      "unate",
+      "unatte"
+    ],
+    "id": 18252
+  },
+  "MJRA": {
+    "base_word": ".....",
+    "variants": [
+      "majura",
+      "mujhraa",
+      "mujhra",
+      "majhera",
+      "mujra",
+      "majera",
+      "mujraa",
+      "mujura"
+    ],
+    "id": 18255
+  },
+  "JTYU": {
+    "base_word": ".....",
+    "variants": [
+      "jityou",
+      "jitayeu",
+      "jityeu",
+      "jitayau"
+    ],
+    "id": 18262
+  },
+  "RHYO": {
+    "base_word": ".....",
+    "variants": [
+      "rhayo",
+      "ruhayo",
+      "rahayo",
+      "rohyo",
+      "rahihayo",
+      "rohoyo",
+      "raheyo",
+      "ruhyo",
+      "ruhaayo",
+      "rahyooo",
+      "rohiyo",
+      "rohayo",
+      "ruhayoo",
+      "ruhayeao",
+      "rahyo",
+      "ruhiyo",
+      "rahiyo",
+      "rhiyo",
+      "rahhyo",
+      "ruhayio",
+      "ruhyaoo"
+    ],
+    "id": 18263
+  },
+  "RHCA": {
+    "base_word": ".....",
+    "variants": [
+      "rahichha",
+      "raehchha",
+      "rahecha",
+      "rahechaaa",
+      "rahexha",
+      "rahicha",
+      "rahachha",
+      "rahcha",
+      "rahechaaaa",
+      "raheicha",
+      "rahaicha",
+      "rhaichha",
+      "rahexhha",
+      "rhicha",
+      "rhaecha",
+      "ruhaucha",
+      "rahechha",
+      "rahaecha",
+      "rehecha",
+      "rhecha",
+      "raahechha",
+      "ruhauxha",
+      "rahacha",
+      "rhechha",
+      "rahaechha",
+      "rahechaa"
+    ],
+    "id": 18265
+  },
+  "GHTI": {
+    "base_word": ".....",
+    "variants": [
+      "guhati",
+      "gahati",
+      "gauhati"
+    ],
+    "id": 18266
+  },
+  "RKYKA": {
+    "base_word": ".....",
+    "variants": [
+      "rakhyka",
+      "rakhyeka",
+      "rakhyxaa",
+      "rakhyaxa"
+    ],
+    "id": 18267
+  },
+  "KMNE": {
+    "base_word": ".....",
+    "variants": [
+      "cumne",
+      "kamane",
+      "kamaunnne",
+      "commne",
+      "kamaane",
+      "kamaune",
+      "xamane",
+      "kaamne",
+      "kamoune",
+      "kmaune",
+      "kamine",
+      "kamune",
+      "kamaunee",
+      "xamne",
+      "kamaaune",
+      "khumane"
+    ],
+    "id": 18268
+  },
+  "BDRE": {
+    "base_word": ".....",
+    "variants": [
+      "bhadaure",
+      "badare",
+      "badure",
+      "vadre",
+      "bhadareeee",
+      "vadare",
+      "badere",
+      "vadaure"
+    ],
+    "id": 18271
+  },
+  "SDNTRA": {
+    "base_word": ".....",
+    "variants": [
+      "sadentra",
+      "sadeentra",
+      "sadenatra",
+      "sadantra",
+      "sadainatara",
+      "sadhantra"
+    ],
+    "id": 18273
+  },
+  "KYRNU": {
+    "base_word": ".....",
+    "variants": [
+      "kyarnu",
+      "kyrnu",
+      "kyaarnu"
+    ],
+    "id": 18278
+  },
+  "SDYNU": {
+    "base_word": ".....",
+    "variants": [
+      "sidiyaunu",
+      "sidyaunu",
+      "sodiyaunu",
+      "siddyaunu"
+    ],
+    "id": 18280
+  },
+  "BCRHKA": {
+    "base_word": ".....",
+    "variants": [
+      "bechiraheka",
+      "bachiraheka",
+      "baachiraheka"
+    ],
+    "id": 18281
+  },
+  "SRSNA": {
+    "base_word": ".....",
+    "variants": [
+      "sarsana",
+      "sirisnga",
+      "sirzana",
+      "sorzana",
+      "srzna"
+    ],
+    "id": 18284
+  },
+  "ATLO": {
+    "base_word": ".....",
+    "variants": [
+      "atithulo",
+      "aatilo",
+      "aathilo",
+      "autilo",
+      "atilo"
+    ],
+    "id": 18285
+  },
+  "MNTA": {
+    "base_word": ".....",
+    "variants": [
+      "maonta",
+      "monta",
+      "maaneta",
+      "manata",
+      "manthea",
+      "maneta",
+      "munnita",
+      "maneeta",
+      "mantha",
+      "mamnita",
+      "maunata",
+      "mangta",
+      "menta",
+      "manthia",
+      "manaunata",
+      "manita",
+      "montha",
+      "munata",
+      "manneta",
+      "manthaa",
+      "mantaa"
+    ],
+    "id": 18288
+  },
+  "PRDNHN": {
+    "base_word": ".....",
+    "variants": [
+      "paraidinuhune",
+      "paraidinuhunexa",
+      "paridinuhune"
+    ],
+    "id": 18290
+  },
+  "BLGE": {
+    "base_word": ".....",
+    "variants": [
+      "vloge",
+      "balghe",
+      "“village"
+    ],
+    "id": 18292
+  },
+  "ABN": {
+    "base_word": ".....",
+    "variants": [
+      "abhin",
+      "aban",
+      "abin",
+      "aaban",
+      "avon",
+      "abbhin",
+      "abiean",
+      "avin",
+      "abang",
+      "abian"
+    ],
+    "id": 18293
+  },
+  "CSTI": {
+    "base_word": ".....",
+    "variants": [
+      "chaiastai",
+      "chausathi",
+      "chhisti",
+      "chusti",
+      "chaasti",
+      "chaaasti"
+    ],
+    "id": 18296
+  },
+  "KMDNA": {
+    "base_word": ".....",
+    "variants": [
+      "kamaidaina",
+      "kamdaina",
+      "kmaudaina",
+      "kamaudaina",
+      "kamudaina",
+      "kamaudoiena"
+    ],
+    "id": 18297
+  },
+  "BCRKA": {
+    "base_word": ".....",
+    "variants": [
+      "bachirakoxa",
+      "bachiraxa",
+      "bechiraxa",
+      "bacheraxa"
+    ],
+    "id": 18298
+  },
+  "GRYKNA": {
+    "base_word": ".....",
+    "variants": [
+      "garyokina",
+      "garyxainaa",
+      "garyaxaina"
+    ],
+    "id": 18302
+  },
+  "CPLO": {
+    "base_word": ".....",
+    "variants": [
+      "chipleo",
+      "chopilo",
+      "chaplo",
+      "chopilooo",
+      "chiplo"
+    ],
+    "id": 18304
+  },
+  "JSTHO": {
+    "base_word": ".....",
+    "variants": [
+      "jastaiho",
+      "jastooho",
+      "jasteiho"
+    ],
+    "id": 18306
+  },
+  "MTSE": {
+    "base_word": ".....",
+    "variants": [
+      "maotose",
+      "mithas…he",
+      "moatse",
+      "matisse",
+      "maotse",
+      "mautse"
+    ],
+    "id": 18311
+  },
+  "PLHRU": {
+    "base_word": ".....",
+    "variants": [
+      "fulharu",
+      "foolharu",
+      "palharu",
+      "paaiilaharu",
+      "phoolaharu"
+    ],
+    "id": 18312
+  },
+  "PRBS": {
+    "base_word": ".....",
+    "variants": [
+      "pravaash",
+      "praves",
+      "forbes",
+      "prabas",
+      "parebes",
+      "parbish",
+      "parbash",
+      "prevuous",
+      "paribes",
+      "pravesh",
+      "parives",
+      "paribas",
+      "purbaz",
+      "prabash",
+      "paribeass",
+      "parevesh",
+      "prabish",
+      "parebas",
+      "parbes",
+      "pravas",
+      "parbesh",
+      "parvesh",
+      "prabhas",
+      "prabhash",
+      "prabes",
+      "parebesh",
+      "freebies",
+      "paribesh",
+      "prabesh",
+      "proves",
+      "pravash",
+      "pribes",
+      "parivesh"
+    ],
+    "id": 18321
+  },
+  "GWA": {
+    "base_word": ".....",
+    "variants": [
+      "gwa",
+      "guwa",
+      "ghuwa",
+      "ghewa",
+      "gawa",
+      "ghwa"
+    ],
+    "id": 18323
+  },
+  "MRTRPB": {
+    "base_word": ".....",
+    "variants": [
+      "marotarfabata",
+      "merotarphbat",
+      "meratarphabata"
+    ],
+    "id": 18324
+  },
+  "CMKNU": {
+    "base_word": ".....",
+    "variants": [
+      "chamkaunu",
+      "chamkinu",
+      "chamkenu"
+    ],
+    "id": 18325
+  },
+  "SBNKO": {
+    "base_word": ".....",
+    "variants": [
+      "sabnko",
+      "sabunko",
+      "sabinko"
+    ],
+    "id": 18328
+  },
+  "LGNPRO": {
+    "base_word": ".....",
+    "variants": [
+      "lagaunuprooo",
+      "lagnuparo",
+      "lagainuparo"
+    ],
+    "id": 18329
+  },
+  "ABD": {
+    "base_word": ".....",
+    "variants": [
+      "abad",
+      "abhod",
+      "abodh",
+      "avedh",
+      "avaid",
+      "aabad",
+      "abd",
+      "abod"
+    ],
+    "id": 18331
+  },
+  "BYDA": {
+    "base_word": ".....",
+    "variants": [
+      "bhayda",
+      "bhaydea",
+      "bayda",
+      "vyda",
+      "byddha",
+      "vyauda"
+    ],
+    "id": 18334
+  },
+  "KCO": {
+    "base_word": ".....",
+    "variants": [
+      "kachho",
+      "khicho",
+      "kucho",
+      "khachoo",
+      "cxo",
+      "kachoooo",
+      "xxxxxxooooooo",
+      "xucho",
+      "kacho",
+      "kauxo",
+      "khachho",
+      "xuccho",
+      "khaacho",
+      "khaccho",
+      "khocho",
+      "khacho",
+      "koicho",
+      "kaacho",
+      "xuchho"
+    ],
+    "id": 18335
+  },
+  "DSMN": {
+    "base_word": ".....",
+    "variants": [
+      "dhushman",
+      "dosman",
+      "dusman",
+      "dhusmaan",
+      "dusaman",
+      "dushmann",
+      "dushman",
+      "dushmaan",
+      "daisamman",
+      "dusmaan",
+      "dhusman",
+      "dusmun",
+      "dusmon",
+      "dusmann",
+      "dusmn"
+    ],
+    "id": 18337
+  },
+  "SNSNU": {
+    "base_word": ".....",
+    "variants": [
+      "sunnusunu",
+      "sunusnu",
+      "sunusunu",
+      "sunausunau"
+    ],
+    "id": 18340
+  },
+  "MBKA": {
+    "base_word": ".....",
+    "variants": [
+      "movieaakha",
+      "movieka",
+      "moviexa"
+    ],
+    "id": 18341
+  },
+  "DYLI": {
+    "base_word": ".....",
+    "variants": [
+      "dayalai",
+      "deyali",
+      "deyeli",
+      "dayli",
+      "dhayeli",
+      "diyalai",
+      "diyali"
+    ],
+    "id": 18343
+  },
+  "NMH": {
+    "base_word": ".....",
+    "variants": [
+      "nmh",
+      "namhh",
+      "namh",
+      "namah",
+      "nimah",
+      "namoh"
+    ],
+    "id": 18344
+  },
+  "PRTBE": {
+    "base_word": ".....",
+    "variants": [
+      "prithivee",
+      "prthabe",
+      "pirthibe",
+      "peratebe",
+      "prithive"
+    ],
+    "id": 18347
+  },
+  "BNSKE": {
+    "base_word": ".....",
+    "variants": [
+      "banaaisake",
+      "banaesake",
+      "vanisake",
+      "banaisake",
+      "banaisakee",
+      "banisake"
+    ],
+    "id": 18352
+  },
+  "HMU": {
+    "base_word": ".....",
+    "variants": [
+      "homu",
+      "humu",
+      "hamu",
+      "hemu"
+    ],
+    "id": 18353
+  },
+  "DPNE": {
+    "base_word": ".....",
+    "variants": [
+      "didiphone",
+      "doupne",
+      "dhapaune"
+    ],
+    "id": 18354
+  },
+  "DBNY": {
+    "base_word": ".....",
+    "variants": [
+      "dubuney",
+      "dubnay",
+      "dubney",
+      "dubaunay",
+      "dubauney"
+    ],
+    "id": 18360
+  },
+  "SKYSI": {
+    "base_word": ".....",
+    "variants": [
+      "sakiyesi",
+      "sakyeasi",
+      "sakiyasi",
+      "sakiysi",
+      "sakkiyesii",
+      "sakkiyesi"
+    ],
+    "id": 18370
+  },
+  "JGRU": {
+    "base_word": ".....",
+    "variants": [
+      "jagaru",
+      "jagru",
+      "jagharu"
+    ],
+    "id": 18376
+  },
+  "BDSKA": {
+    "base_word": ".....",
+    "variants": [
+      "bideshka",
+      "bidasika",
+      "bidaska",
+      "bidesika"
+    ],
+    "id": 18379
+  },
+  "KLNHNC": {
+    "base_word": ".....",
+    "variants": [
+      "khalanuhunacha",
+      "khelnuhuncha",
+      "khalnuhuncha"
+    ],
+    "id": 18380
+  },
+  "KMI": {
+    "base_word": ".....",
+    "variants": [
+      "kammi",
+      "kamai",
+      "komai",
+      "kàamai",
+      "kaamiii",
+      "xami",
+      "xiaomi",
+      "khemae",
+      "kamii",
+      "kmi",
+      "xaomi",
+      "kami",
+      "kamei",
+      "xaiomi",
+      "xioami",
+      "kumai",
+      "kamaaii",
+      "kamaii",
+      "kamae",
+      "xiomi",
+      "xeumai",
+      "kmai",
+      "kamiii",
+      "kaaamai",
+      "kaami",
+      "kamoi",
+      "kammai",
+      "xiamoi",
+      "camei",
+      "komei",
+      "xiami",
+      "kimi",
+      "khumai",
+      "khaimai",
+      "khamai",
+      "kamaai",
+      "komi",
+      "kaamai",
+      "xiemi"
+    ],
+    "id": 18381
+  },
+  "ANDNI": {
+    "base_word": ".....",
+    "variants": [
+      "aandani",
+      "aanndanai",
+      "aaundainani"
+    ],
+    "id": 18382
+  },
+  "ODKO": {
+    "base_word": ".....",
+    "variants": [
+      "oddeko",
+      "odeeko",
+      "odeko",
+      "odko",
+      "oddko",
+      "oodekoo"
+    ],
+    "id": 18384
+  },
+  "MRNPRK": {
+    "base_word": ".....",
+    "variants": [
+      "marnuprx",
+      "marnuparxayi",
+      "marnuparx",
+      "marnparxa",
+      "marnuporxa",
+      "marnuparxa"
+    ],
+    "id": 18385
+  },
+  "GRYRW": {
+    "base_word": ".....",
+    "variants": [
+      "gareyrw",
+      "garyraw",
+      "garayraw",
+      "garayrw",
+      "gareyarw",
+      "gareyraw",
+      "garyerw",
+      "garyrw",
+      "gryraw",
+      "garyarw",
+      "garayerw"
+    ],
+    "id": 18386
+  },
+  "PMPA": {
+    "base_word": ".....",
+    "variants": [
+      "pamfa",
+      "pampha",
+      "pempa"
+    ],
+    "id": 18387
+  },
+  "HRNPYO": {
+    "base_word": ".....",
+    "variants": [
+      "hernpaiyoooo",
+      "hernupayo",
+      "hernpaiyo",
+      "hernapayo",
+      "hernupaiyo",
+      "hrnapaiyo",
+      "hernapaiyo"
+    ],
+    "id": 18388
+  },
+  "HSYU": {
+    "base_word": ".....",
+    "variants": [
+      "hasyau",
+      "hasayau",
+      "hasayu",
+      "hasayou",
+      "hassayou",
+      "hasayuu",
+      "hasyou",
+      "hasayeuu"
+    ],
+    "id": 18393
+  },
+  "JMBRI": {
+    "base_word": ".....",
+    "variants": [
+      "jimmebari",
+      "jimbebari",
+      "jimmevari",
+      "jimebari",
+      "jimbari"
+    ],
+    "id": 18394
+  },
+  "BNSYO": {
+    "base_word": ".....",
+    "variants": [
+      "vanisyo",
+      "banaisiyo",
+      "banaisyo",
+      "banaisayo",
+      "bhansyo"
+    ],
+    "id": 18397
+  },
+  "PRPL": {
+    "base_word": ".....",
+    "variants": [
+      "prafull",
+      "porfail",
+      "purpul",
+      "praful",
+      "parful",
+      "paropaul"
+    ],
+    "id": 18400
+  },
+  "SMTNA": {
+    "base_word": ".....",
+    "variants": [
+      "sametena",
+      "samatana",
+      "sametna",
+      "samatna"
+    ],
+    "id": 18402
+  },
+  "RHKI": {
+    "base_word": ".....",
+    "variants": [
+      "rahixi",
+      "rahekai",
+      "rahexi",
+      "rahexai",
+      "rhikae",
+      "raheki"
+    ],
+    "id": 18403
+  },
+  "MNSYE": {
+    "base_word": ".....",
+    "variants": [
+      "mansaye",
+      "mannsaye",
+      "manasaye",
+      "manushye",
+      "manunsye"
+    ],
+    "id": 18407
+  },
+  "KBDKBD": {
+    "base_word": ".....",
+    "variants": [
+      "kabaddikabaddikabaddi",
+      "kabaddikabaddi",
+      "kabbaddikabbaddikabbaddii",
+      "kabadikabadi"
+    ],
+    "id": 18410
+  },
+  "YSTSI": {
+    "base_word": ".....",
+    "variants": [
+      "ystsi",
+      "yestsi",
+      "yastsi"
+    ],
+    "id": 18412
+  },
+  "NPLSE": {
+    "base_word": ".....",
+    "variants": [
+      "nepalese",
+      "nepalaise",
+      "nonnepalese",
+      "nepalise",
+      "nepolese",
+      "nplease",
+      "nplse",
+      "neplese",
+      "naplease",
+      "neplease",
+      "népalaise",
+      "nepalisse"
+    ],
+    "id": 18413
+  },
+  "NKRNU": {
+    "base_word": ".....",
+    "variants": [
+      "nikhaarnu",
+      "nakurnu",
+      "nakarnu",
+      "nakaraunu",
+      "nikharnu",
+      "nikharinu",
+      "nakuraunu"
+    ],
+    "id": 18416
+  },
+  "PSCMI": {
+    "base_word": ".....",
+    "variants": [
+      "passchimi",
+      "paschimi",
+      "pashchimi",
+      "paschmi"
+    ],
+    "id": 18417
+  },
+  "BNLS": {
+    "base_word": ".....",
+    "variants": [
+      "banlas",
+      "banlaass",
+      "vanlas",
+      "vinglish",
+      "vannlas",
+      "banglash",
+      "banaulas",
+      "bangaless"
+    ],
+    "id": 18418
+  },
+  "DPKO": {
+    "base_word": ".....",
+    "variants": [
+      "deepikako",
+      "deepko",
+      "dupeko",
+      "depko",
+      "deepakko",
+      "dadapakhako",
+      "dipakeko",
+      "dipakko",
+      "dipikako",
+      "dhupiko",
+      "deepako",
+      "depakeko",
+      "dipako",
+      "didipoco"
+    ],
+    "id": 18419
+  },
+  "KLYE": {
+    "base_word": ".....",
+    "variants": [
+      "kiliye",
+      "kheliye",
+      "keliye",
+      "kailyee",
+      "khalaye",
+      "kailye",
+      "khelaye",
+      "khulaye",
+      "khelye",
+      "khaliye"
+    ],
+    "id": 18420
+  },
+  "CML": {
+    "base_word": ".....",
+    "variants": [
+      "chimal",
+      "chaml",
+      "chaimul",
+      "chamaal",
+      "chaamal"
+    ],
+    "id": 18427
+  },
+  "NHRA": {
+    "base_word": ".....",
+    "variants": [
+      "nahera",
+      "naherrea",
+      "naherara",
+      "naharera",
+      "nihuriera",
+      "nahara",
+      "nihurera",
+      "naherira",
+      "naherrera",
+      "naherera",
+      "nuhara"
+    ],
+    "id": 18428
+  },
+  "HNSME": {
+    "base_word": ".....",
+    "variants": [
+      "hensome",
+      "hnsme",
+      "hanosme",
+      "hansome"
+    ],
+    "id": 18430
+  },
+  "KLTA": {
+    "base_word": ".....",
+    "variants": [
+      "khaltha",
+      "khalta",
+      "khelta",
+      "kolta",
+      "khulita",
+      "khulitta",
+      "khalthia",
+      "khullita",
+      "kholta",
+      "…khulitta",
+      "khaileta",
+      "kalta",
+      "kaileta"
+    ],
+    "id": 18431
+  },
+  "AKTRSK": {
+    "base_word": ".....",
+    "variants": [
+      "actressxam",
+      "actressexcept",
+      "actorsko",
+      "actressko",
+      "actressactor",
+      "actressesko",
+      "actorsactresses",
+      "actorsactor"
+    ],
+    "id": 18432
+  },
+  "RMN": {
+    "base_word": ".....",
+    "variants": [
+      "roman",
+      "raming",
+      "raman",
+      "ramaun",
+      "remin",
+      "ruman",
+      "romanain",
+      "ramen",
+      "rooming",
+      "remaining",
+      "‌romanian‌",
+      "roming",
+      "romen"
+    ],
+    "id": 18434
+  },
+  "SYJLI": {
+    "base_word": ".....",
+    "variants": [
+      "syaujali",
+      "sayajali",
+      "syaujaali"
+    ],
+    "id": 18436
+  },
+  "LMKDI": {
+    "base_word": ".....",
+    "variants": [
+      "lamkadai",
+      "lamkadae",
+      "lamkidai",
+      "lmikidai"
+    ],
+    "id": 18437
+  },
+  "SCKO": {
+    "base_word": ".....",
+    "variants": [
+      "sachchiko",
+      "sicheko",
+      "sachako",
+      "sachhaiko",
+      "sochako",
+      "sachaiko",
+      "sachiko",
+      "socheiko",
+      "suchako",
+      "sachikaiko",
+      "sacheko",
+      "sochiko",
+      "sochaiko",
+      "sochko",
+      "sachhikaiko",
+      "socheako",
+      "socheko",
+      "sachchikaiko",
+      "sochekoo",
+      "sachchieko",
+      "sachhiko",
+      "shocheko",
+      "sucheko",
+      "sachchaiko"
+    ],
+    "id": 18438
+  },
+  "NMN": {
+    "base_word": ".....",
+    "variants": [
+      "namanun",
+      "namn",
+      "namnan",
+      "nmn",
+      "naman",
+      "nnmnnnn",
+      "nnnnnnnnnnnnnmn",
+      "neonman",
+      "nanuman",
+      "namaan",
+      "namen",
+      "namann",
+      "nman",
+      "niman",
+      "namon",
+      "nemin"
+    ],
+    "id": 18439
+  },
+  "SJLO": {
+    "base_word": ".....",
+    "variants": [
+      "sajiloo",
+      "sjilo",
+      "sajilo",
+      "sojilo",
+      "sajelo",
+      "sajeloo",
+      "sajhilo",
+      "saajilo",
+      "sajulo",
+      "sajlo"
+    ],
+    "id": 18443
+  },
+  "NT": {
+    "base_word": ".....",
+    "variants": [
+      "nitait",
+      "nitoit",
+      "notè",
+      "niet",
+      "ѕαngєєt",
+      "ngt",
+      "natt",
+      "netà",
+      "nott",
+      "ngeet",
+      "ñat",
+      "natat",
+      "…net",
+      "naout",
+      "nait",
+      "nt",
+      "naath",
+      "nath"
+    ],
+    "id": 18444
+  },
+  "BTYK": {
+    "base_word": ".....",
+    "variants": [
+      "bhettayex",
+      "beethayak",
+      "vetiyex"
+    ],
+    "id": 18451
+  },
+  "JNDKI": {
+    "base_word": ".....",
+    "variants": [
+      "jendaki",
+      "jindaki",
+      "jhandaki",
+      "jndaki",
+      "jundekai",
+      "jindhaki",
+      "jhindaki"
+    ],
+    "id": 18453
+  },
+  "SKLE": {
+    "base_word": ".....",
+    "variants": [
+      "saicale",
+      "sukhile",
+      "sukkile",
+      "sakkele",
+      "sakale",
+      "sokhle",
+      "sukhale",
+      "saikole",
+      "sukaile",
+      "sakaile",
+      "sequle",
+      "sakkle"
+    ],
+    "id": 18454
+  },
+  "LSMA": {
+    "base_word": ".....",
+    "variants": [
+      "lasama",
+      "lasamaa",
+      "lausima",
+      "lasma",
+      "lashma",
+      "laasma"
+    ],
+    "id": 18455
+  },
+  "BNDNKN": {
+    "base_word": ".....",
+    "variants": [
+      "banaaidinxan",
+      "vanidnxaani",
+      "banaedinxan",
+      "vanaidinxan",
+      "banaidinxan",
+      "vandinxan",
+      "banidinxan",
+      "banaidinxn"
+    ],
+    "id": 18456
+  },
+  "GRDNY": {
+    "base_word": ".....",
+    "variants": [
+      "gardiney",
+      "gardiny",
+      "garduny",
+      "gardainy",
+      "gardinay"
+    ],
+    "id": 18457
+  },
+  "TRHI": {
+    "base_word": ".....",
+    "variants": [
+      "torahi",
+      "thorhi",
+      "thorahi",
+      "tarhi",
+      "trrehi"
+    ],
+    "id": 18462
+  },
+  "KRBHI": {
+    "base_word": ".....",
+    "variants": [
+      "kaarbaahii",
+      "karbaihi",
+      "karbahai",
+      "karabahi",
+      "karbaahi",
+      "karbahi",
+      "karvahi",
+      "carbahi",
+      "krabahi",
+      "karbahiii",
+      "kaarbaahi",
+      "kaarbahai",
+      "kaarbahi",
+      "kharbaehi",
+      "kharbahi",
+      "karbhahi"
+    ],
+    "id": 18463
+  },
+  "DLNY": {
+    "base_word": ".....",
+    "variants": [
+      "dhilony",
+      "dalengey",
+      "dalalanyay",
+      "dhalnay"
+    ],
+    "id": 18465
+  },
+  "LPN": {
+    "base_word": ".....",
+    "variants": [
+      "lapn",
+      "lapan",
+      "lepain",
+      "lafang",
+      "lopon",
+      "lappan",
+      "laapan"
+    ],
+    "id": 18470
+  },
+  "MLSYBT": {
+    "base_word": ".....",
+    "variants": [
+      "malesiyabaata",
+      "malesiyabata",
+      "malesiyabat"
+    ],
+    "id": 18472
+  },
+  "YSTK": {
+    "base_word": ".....",
+    "variants": [
+      "yestk",
+      "ystuox",
+      "yestaix",
+      "yastaix",
+      "ystaix"
+    ],
+    "id": 18473
+  },
+  "SKNO": {
+    "base_word": ".....",
+    "variants": [
+      "sikhno",
+      "sikno",
+      "saknao"
+    ],
+    "id": 18475
+  },
+  "GBN": {
+    "base_word": ".....",
+    "variants": [
+      "giveing",
+      "gvn",
+      "govan",
+      "gabbin",
+      "geban",
+      "gbon",
+      "gebaan",
+      "geeban",
+      "giban",
+      "govn",
+      "gobin",
+      "givan",
+      "gbn",
+      "ghiban"
+    ],
+    "id": 18478
+  },
+  "NSKNE": {
+    "base_word": ".....",
+    "variants": [
+      "nasakene",
+      "nsakne",
+      "niskine",
+      "nasaknne",
+      "naskane",
+      "nasakine",
+      "naniskine",
+      "nskne",
+      "niskane",
+      "nasaknee",
+      "niskkane",
+      "niskkine",
+      "neskeane",
+      "naskene",
+      "nasaskne",
+      "naniskane",
+      "nisakane",
+      "naskne",
+      "nasakinne",
+      "naskinee",
+      "nasakkine",
+      "nsakine",
+      "nasakkne",
+      "nasakne",
+      "naskine",
+      "nasikne"
+    ],
+    "id": 18481
+  },
+  "NTE": {
+    "base_word": ".....",
+    "variants": [
+      "naate",
+      "nitte",
+      "ngate",
+      "nite",
+      "nithe",
+      "nitee",
+      "nate",
+      "naathe",
+      "nte",
+      "nauthe"
+    ],
+    "id": 18482
+  },
+  "HNYKA": {
+    "base_word": ".....",
+    "variants": [
+      "hunayxa",
+      "haniyexa",
+      "hunayaxa",
+      "huneyxa",
+      "hunyxa"
+    ],
+    "id": 18483
+  },
+  "AKBTA": {
+    "base_word": ".....",
+    "variants": [
+      "aakhabata",
+      "akhabata",
+      "aaakhabata",
+      "aakhbata"
+    ],
+    "id": 18485
+  },
+  "MJB": {
+    "base_word": ".....",
+    "variants": [
+      "majjv",
+      "mujeeb",
+      "majhib"
+    ],
+    "id": 18487
+  },
+  "BDWS": {
+    "base_word": ".....",
+    "variants": [
+      "vaidewos",
+      "badhawos",
+      "badhawosh"
+    ],
+    "id": 18489
+  },
+  "UPST": {
+    "base_word": ".....",
+    "variants": [
+      "upastit",
+      "upasthet",
+      "upasthit",
+      "upsthit"
+    ],
+    "id": 18495
+  },
+  "SKYS": {
+    "base_word": ".....",
+    "variants": [
+      "sakiyosh",
+      "sakiyos",
+      "sakayious",
+      "skys",
+      "sakiyos…",
+      "sakiyoss",
+      "skiyos",
+      "skyz",
+      "shakkeys",
+      "sakayos",
+      "sakyous"
+    ],
+    "id": 18496
+  },
+  "PRPO": {
+    "base_word": ".....",
+    "variants": [
+      "parepo",
+      "preipo",
+      "propo",
+      "prpo"
+    ],
+    "id": 18497
+  },
+  "SYRA": {
+    "base_word": ".....",
+    "variants": [
+      "saiyera",
+      "saiyaara",
+      "siyara",
+      "sayara",
+      "syria",
+      "sayra",
+      "sayera",
+      "siyera"
+    ],
+    "id": 18500
+  },
+  "DNDBYO": {
+    "base_word": ".....",
+    "variants": [
+      "dandibiyo",
+      "dandibiyooo",
+      "dandibiyoo",
+      "d̺a̺n̺d̺i̺b̺i̺y̺o̺",
+      "dondibiyo",
+      "dnadibiyo"
+    ],
+    "id": 18503
+  },
+  "MHNTKO": {
+    "base_word": ".....",
+    "variants": [
+      "mehenetako",
+      "mihinetko",
+      "mehenatko",
+      "mehanatko"
+    ],
+    "id": 18508
+  },
+  "MNPRNE": {
+    "base_word": ".....",
+    "variants": [
+      "monparne",
+      "manparane",
+      "monparaune",
+      "manaparaune",
+      "maanparne",
+      "monperne",
+      "manparune",
+      "manparaune",
+      "monporne",
+      "manparauune",
+      "manparne",
+      "mannparune",
+      "manparnee",
+      "mannparne",
+      "mnparne",
+      "mannaparne",
+      "mannuparne",
+      "mannaparaune",
+      "mnprne",
+      "manpraune",
+      "maanparaune"
+    ],
+    "id": 18510
+  },
+  "SNRKO": {
+    "base_word": ".....",
+    "variants": [
+      "suniraako",
+      "sunirakheko",
+      "singerko",
+      "sunairakheko",
+      "sunarko",
+      "singrko",
+      "sunneraruko",
+      "singareko",
+      "sunerako",
+      "sunairako",
+      "songarko",
+      "sunirako",
+      "sunirko",
+      "sunurako",
+      "sunrko",
+      "sungurko",
+      "sunaairaakho"
+    ],
+    "id": 18511
+  },
+  "DRKNI": {
+    "base_word": ".....",
+    "variants": [
+      "drkhinai",
+      "darkhani",
+      "darauxani"
+    ],
+    "id": 18514
+  },
+  "HPNI": {
+    "base_word": ".....",
+    "variants": [
+      "hepni",
+      "haiaafnai",
+      "hoafnai",
+      "hopani",
+      "hahapani",
+      "ho…pani",
+      "hapni",
+      "hapnii"
+    ],
+    "id": 18518
+  },
+  "KRPI": {
+    "base_word": ".....",
+    "variants": [
+      "kharppai",
+      "khrpi",
+      "kharapi",
+      "khorpi",
+      "xurpi",
+      "kurupai"
+    ],
+    "id": 18522
+  },
+  "PRYR": {
+    "base_word": ".....",
+    "variants": [
+      "paryer",
+      "pariyer",
+      "prayar",
+      "priyar",
+      "paryoooyrr",
+      "paariyar",
+      "paryear",
+      "paryoar",
+      "pariyaer",
+      "pariyar",
+      "purayar",
+      "pariyor",
+      "parayar",
+      "poriyar",
+      "paryiar",
+      "pariayr",
+      "purayr",
+      "pariyr",
+      "parayer",
+      "pryor",
+      "paryar",
+      "periyar",
+      "pariyaar",
+      "pairyar",
+      "praiyar",
+      "pareyar"
+    ],
+    "id": 18523
+  },
+  "PSDNA": {
+    "base_word": ".....",
+    "variants": [
+      "fasdina",
+      "fasdaina",
+      "pasdaina",
+      "pasdena"
+    ],
+    "id": 18524
+  },
+  "TKM": {
+    "base_word": ".....",
+    "variants": [
+      "thikam",
+      "thokummm",
+      "thakum",
+      "tikam",
+      "thikom",
+      "thukum",
+      "thokham",
+      "thokam",
+      "tokam",
+      "thokum",
+      "thokom",
+      "tekam",
+      "tokm",
+      "thukam",
+      "tokum",
+      "thokamm"
+    ],
+    "id": 18528
+  },
+  "KNCU": {
+    "base_word": ".....",
+    "variants": [
+      "kanchhou",
+      "khanchu",
+      "khanchau",
+      "kinchhu",
+      "khanchhu",
+      "kanchu",
+      "kanchhu",
+      "khaanchhu",
+      "kinechhu",
+      "khnxou",
+      "xinchu",
+      "khaanchhau",
+      "khanxhu",
+      "xanachu",
+      "khanchhau",
+      "kinchu",
+      "kininachu",
+      "kanchau",
+      "khinchu",
+      "kinchau"
+    ],
+    "id": 18530
+  },
+  "HGT": {
+    "base_word": ".....",
+    "variants": [
+      "heaight",
+      "higt",
+      "highet",
+      "hogeet",
+      "haight",
+      "heighttt",
+      "hgt",
+      "haigeet",
+      "hght",
+      "haiigeet",
+      "haigit"
+    ],
+    "id": 18531
+  },
+  "LRYO": {
+    "base_word": ".....",
+    "variants": [
+      "laryo",
+      "lerayo",
+      "larayo",
+      "lierayo"
+    ],
+    "id": 18532
+  },
+  "PLYN": {
+    "base_word": ".....",
+    "variants": [
+      "palyan",
+      "playang",
+      "palayen",
+      "palying",
+      "palaayan",
+      "playing",
+      "palayan"
+    ],
+    "id": 18533
+  },
+  "BLTA": {
+    "base_word": ".....",
+    "variants": [
+      "boltha",
+      "bhaileta",
+      "balta",
+      "bolita",
+      "belata",
+      "bholta",
+      "volita",
+      "bolta",
+      "baulta",
+      "boltea",
+      "vilita",
+      "balathaa",
+      "bholita",
+      "bhauleta",
+      "volta"
+    ],
+    "id": 18534
+  },
+  "ABSYK": {
+    "base_word": ".....",
+    "variants": [
+      "aabaseyakx",
+      "aabashyak",
+      "avshyak",
+      "aabsyk",
+      "absyak",
+      "abashyak",
+      "avasyak",
+      "aabashayak",
+      "aabasyak",
+      "aabsyak",
+      "aabasyek",
+      "abasyak",
+      "avasyax",
+      "avashyak",
+      "aabasyk",
+      "avasyek"
+    ],
+    "id": 18540
+  },
+  "BKTKO": {
+    "base_word": ".....",
+    "variants": [
+      "bhakteko",
+      "bakteko",
+      "bhaktiko",
+      "vakteko",
+      "vkteko",
+      "baktiko",
+      "vokoteko",
+      "vokateko",
+      "bakhateko",
+      "bakhatko",
+      "bektiko",
+      "vaktako",
+      "bhaaubuktako"
+    ],
+    "id": 18544
+  },
+  "PDKN": {
+    "base_word": ".....",
+    "variants": [
+      "padxan",
+      "pudxun",
+      "peudaixan",
+      "padhxan",
+      "padkin",
+      "padukon",
+      "padkauxan"
+    ],
+    "id": 18548
+  },
+  "AJDI": {
+    "base_word": ".....",
+    "variants": [
+      "aajadi",
+      "ajadi",
+      "aajdai"
+    ],
+    "id": 18549
+  },
+  "ALU": {
+    "base_word": ".....",
+    "variants": [
+      "aalu",
+      "auluau",
+      "auluuu",
+      "aluu",
+      "aluuuu",
+      "allu",
+      "alou",
+      "aaalluuu",
+      "alllu",
+      "aaalu",
+      "alau",
+      "alu",
+      "aulluu",
+      "aallu"
+    ],
+    "id": 18550
+  },
+  "TKNK": {
+    "base_word": ".....",
+    "variants": [
+      "teknik",
+      "tikanik",
+      "thikhunx",
+      "tacnic",
+      "thuknuk",
+      "teknek",
+      "teknick",
+      "tecknick",
+      "taknak",
+      "teknic"
+    ],
+    "id": 18551
+  },
+  "NBCNE": {
+    "base_word": ".....",
+    "variants": [
+      "nabuchne",
+      "navachine",
+      "nabachene"
+    ],
+    "id": 18553
+  },
+  "JTR": {
+    "base_word": ".....",
+    "variants": [
+      "jitr",
+      "joter",
+      "jatr",
+      "jatar",
+      "jattar",
+      "juthr",
+      "jiterr",
+      "juther",
+      "jiter",
+      "jhuter"
+    ],
+    "id": 18554
+  },
+  "PYTNK": {
+    "base_word": ".....",
+    "variants": [
+      "paiyothank",
+      "payethank",
+      "paiyo…thank",
+      "paayeyothank"
+    ],
+    "id": 18555
+  },
+  "BGKI": {
+    "base_word": ".....",
+    "variants": [
+      "vagaki",
+      "vagcai",
+      "bogeki",
+      "vogekoi",
+      "vogekai",
+      "bhogeki",
+      "vageki"
+    ],
+    "id": 18556
+  },
+  "LDNU": {
+    "base_word": ".....",
+    "variants": [
+      "laidinu",
+      "laedenu",
+      "ladhanu",
+      "ladaunu",
+      "ladanu",
+      "laidenu",
+      "lidinu",
+      "ladinu",
+      "leidinu",
+      "lidainau",
+      "laadnu",
+      "leudainau",
+      "laidhinu",
+      "ladaidinu",
+      "ladhnu",
+      "ladnu"
+    ],
+    "id": 18558
+  },
+  "DHKO": {
+    "base_word": ".....",
+    "variants": [
+      "dehkeko",
+      "deahko",
+      "deihko",
+      "deheko"
+    ],
+    "id": 18559
+  },
+  "AKPKT": {
+    "base_word": ".....",
+    "variants": [
+      "accpct",
+      "accpect",
+      "accpeact",
+      "acpect",
+      "acepact",
+      "accepct",
+      "acepcct",
+      "accpact",
+      "accepect"
+    ],
+    "id": 18560
+  },
+  "KYLI": {
+    "base_word": ".....",
+    "variants": [
+      "khyelii",
+      "kyalae",
+      "xyaaaaali",
+      "koyeli",
+      "koylali",
+      "kayli",
+      "koyali",
+      "khyali",
+      "kyli",
+      "kayaliae",
+      "khyalai",
+      "kaylai",
+      "khyelai"
+    ],
+    "id": 18561
+  },
+  "ASPL": {
+    "base_word": ".....",
+    "variants": [
+      "aasufeel",
+      "ashafal",
+      "asphal",
+      "aasfal",
+      "asafaaal",
+      "asfal",
+      "aasafal",
+      "asaphal",
+      "ashfal",
+      "asafal"
+    ],
+    "id": 18562
+  },
+  "PKLO": {
+    "base_word": ".....",
+    "variants": [
+      "pakhalo",
+      "paxxilo",
+      "paxilo",
+      "phaxilo",
+      "paxillo"
+    ],
+    "id": 18563
+  },
+  "BDNME": {
+    "base_word": ".....",
+    "variants": [
+      "badname",
+      "badanme",
+      "badaname"
+    ],
+    "id": 18564
+  },
+  "RHI": {
+    "base_word": ".....",
+    "variants": [
+      "rhi",
+      "rahi",
+      "rahahi",
+      "rahei",
+      "ruhi",
+      "rahae",
+      "rehai",
+      "rohi",
+      "rihahi",
+      "ruhaii",
+      "rahai",
+      "ruhai",
+      "rhai",
+      "rihai",
+      "rehi"
+    ],
+    "id": 18565
+  },
+  "PHU": {
+    "base_word": ".....",
+    "variants": [
+      "pahuu",
+      "pahau",
+      "pahu"
+    ],
+    "id": 18569
+  },
+  "UPLBDA": {
+    "base_word": ".....",
+    "variants": [
+      "uplavdha",
+      "upalbdha",
+      "uplabdha",
+      "upalabdha",
+      "upalabda",
+      "uplabda",
+      "upalabdaa"
+    ],
+    "id": 18570
+  },
+  "DTYI": {
+    "base_word": ".....",
+    "variants": [
+      "duityi",
+      "diutyi",
+      "dutyi"
+    ],
+    "id": 18571
+  },
+  "WKM": {
+    "base_word": ".....",
+    "variants": [
+      "wcm",
+      "wocom",
+      "waaaowxam"
+    ],
+    "id": 18573
+  },
+  "NWLPR": {
+    "base_word": ".....",
+    "variants": [
+      "newalpur",
+      "nawalpur",
+      "nawolpur",
+      "nowalpur"
+    ],
+    "id": 18579
+  },
+  "JNTE": {
+    "base_word": ".....",
+    "variants": [
+      "janthe",
+      "jaenate",
+      "jointee",
+      "jainttee",
+      "janete",
+      "jinte",
+      "joaente",
+      "jointe",
+      "jaanthee",
+      "joiente",
+      "janthee",
+      "jante",
+      "jaanthe",
+      "jaente",
+      "jainte"
+    ],
+    "id": 18585
+  },
+  "NKRYKO": {
+    "base_word": ".....",
+    "variants": [
+      "nikhariyako",
+      "naxireyko",
+      "nikhiriyako",
+      "nikhariyeko"
+    ],
+    "id": 18587
+  },
+  "UTNE": {
+    "base_word": ".....",
+    "variants": [
+      "uathne",
+      "uthene",
+      "uthaunee",
+      "uthaoune",
+      "uthnee",
+      "uthaune",
+      "uthaaune",
+      "uthne",
+      "utne",
+      "utunee",
+      "uthine",
+      "uthane",
+      "utthne",
+      "uthneee",
+      "uthaone",
+      "utaune"
+    ],
+    "id": 18591
+  },
+  "BSNDA": {
+    "base_word": ".....",
+    "variants": [
+      "bhasinda",
+      "vsnda",
+      "basinda",
+      "basindda",
+      "bashinda",
+      "bhsnda",
+      "bhasanda",
+      "baasinda",
+      "basenda",
+      "basindha",
+      "basindaa",
+      "basneda"
+    ],
+    "id": 18592
+  },
+  "BNHNA": {
+    "base_word": ".....",
+    "variants": [
+      "banahuna",
+      "vanuhunna",
+      "banahna"
+    ],
+    "id": 18593
+  },
+  "DJNI": {
+    "base_word": ".....",
+    "variants": [
+      "dajuani",
+      "duijanai",
+      "daajuani",
+      "daijhanai",
+      "dujanai",
+      "dhujanai"
+    ],
+    "id": 18594
+  },
+  "ICA": {
+    "base_word": ".....",
+    "variants": [
+      "ichcha",
+      "ichha",
+      "ichchaa",
+      "icha",
+      "iechha",
+      "ichchha"
+    ],
+    "id": 18601
+  },
+  "BRNR": {
+    "base_word": ".....",
+    "variants": [
+      "biranr",
+      "brianer",
+      "barnr"
+    ],
+    "id": 18603
+  },
+  "INDO": {
+    "base_word": ".....",
+    "variants": [
+      "indooooooooooo",
+      "indooooo",
+      "indoooo",
+      "indooo",
+      "indoio",
+      "indooooooo",
+      "indo",
+      "indoooooooooo",
+      "indoo",
+      "indoooooo",
+      "indooooooooooooo"
+    ],
+    "id": 18607
+  },
+  "BYJSTO": {
+    "base_word": ".....",
+    "variants": [
+      "bhayajasto",
+      "vyajasto",
+      "vaayajasto",
+      "vayejasto",
+      "vayajasto",
+      "bhayjasto",
+      "vayejastoo"
+    ],
+    "id": 18608
+  },
+  "RKDMA": {
+    "base_word": ".....",
+    "variants": [
+      "rukdaima",
+      "rakhadaima",
+      "rakhdaima"
+    ],
+    "id": 18609
+  },
+  "KCD": {
+    "base_word": ".....",
+    "variants": [
+      "khichad",
+      "kuched",
+      "khachad",
+      "cxhd",
+      "khacchad"
+    ],
+    "id": 18615
+  },
+  "ASKS": {
+    "base_word": ".....",
+    "variants": [
+      "asks",
+      "aashices",
+      "askash"
+    ],
+    "id": 18625
+  },
+  "AHTI": {
+    "base_word": ".....",
+    "variants": [
+      "ahutaai",
+      "ahati",
+      "ahaaati",
+      "ahtti",
+      "ahuti",
+      "ahti",
+      "aahuti",
+      "ahtii",
+      "ahutai",
+      "aahutai",
+      "ahtoi"
+    ],
+    "id": 18630
+  },
+  "HRSKYO": {
+    "base_word": ".....",
+    "variants": [
+      "haresakyo",
+      "harisakyoo",
+      "herisakyoo",
+      "harisakyooo",
+      "haraisakyo",
+      "herisakiyo",
+      "herisakyo",
+      "harisakyo",
+      "hareiskyoo",
+      "hreskyo",
+      "herisakaeyo"
+    ],
+    "id": 18635
+  },
+  "AJDKI": {
+    "base_word": ".....",
+    "variants": [
+      "aajadeki",
+      "aajadekhi",
+      "aajdekhi",
+      "ajadekhi"
+    ],
+    "id": 18640
+  },
+  "PRMPRA": {
+    "base_word": ".....",
+    "variants": [
+      "parampra",
+      "prampara",
+      "parmapara",
+      "prampra",
+      "parmpra",
+      "parmpara",
+      "paramparaa",
+      "paramapra",
+      "parampara"
+    ],
+    "id": 18641
+  },
+  "GMDI": {
+    "base_word": ".....",
+    "variants": [
+      "ghamdi",
+      "ghumaidai",
+      "ghamdhi",
+      "gamdi",
+      "ghumaudai",
+      "gumaudai",
+      "gumdai",
+      "ghumdai",
+      "ghamadi",
+      "gamadi"
+    ],
+    "id": 18644
+  },
+  "UHKA": {
+    "base_word": ".....",
+    "variants": [
+      "uhaka",
+      "uhakaa",
+      "uhaakaa"
+    ],
+    "id": 18646
+  },
+  "KCRI": {
+    "base_word": ".....",
+    "variants": [
+      "kixori",
+      "koxori",
+      "kachori"
+    ],
+    "id": 18648
+  },
+  "JBS": {
+    "base_word": ".....",
+    "variants": [
+      "jibesh",
+      "jbs",
+      "jobz",
+      "jobs",
+      "jabs",
+      "jvis"
+    ],
+    "id": 18651
+  },
+  "SRD": {
+    "base_word": ".....",
+    "variants": [
+      "shareid",
+      "zaesrd",
+      "shared",
+      "saard",
+      "sirdad",
+      "sharad",
+      "shrod",
+      "sarad"
+    ],
+    "id": 18652
+  },
+  "NHRDA": {
+    "base_word": ".....",
+    "variants": [
+      "naharda",
+      "naherdaa",
+      "naherda",
+      "naherdha",
+      "nherda",
+      "naharada"
+    ],
+    "id": 18658
+  },
+  "GRYR": {
+    "base_word": ".....",
+    "variants": [
+      "garyar",
+      "garyr",
+      "garayr",
+      "garyer",
+      "garayer",
+      "giraayar",
+      "garayar",
+      "gareyar",
+      "gareyr",
+      "geerayyrr",
+      "grayer",
+      "gryr",
+      "gareyrr",
+      "gharayer"
+    ],
+    "id": 18666
+  },
+  "BNDYA": {
+    "base_word": ".....",
+    "variants": [
+      "vandiya",
+      "vanideya",
+      "vandya",
+      "bhandya",
+      "bandeya",
+      "bandhya",
+      "bhandiya",
+      "vandeya",
+      "banadiya",
+      "banaidya",
+      "banaidiya",
+      "vanidiya"
+    ],
+    "id": 18668
+  },
+  "GMG": {
+    "base_word": ".....",
+    "variants": [
+      "gamg",
+      "gimag",
+      "gmg",
+      "gamig",
+      "gamimg"
+    ],
+    "id": 18669
+  },
+  "YSTNI": {
+    "base_word": ".....",
+    "variants": [
+      "yestani",
+      "yestoni",
+      "yastinoi",
+      "yestonii",
+      "yostoni",
+      "ystoni",
+      "yestainai",
+      "yastoni",
+      "yastani"
+    ],
+    "id": 18670
+  },
+  "ANJN": {
+    "base_word": ".....",
+    "variants": [
+      "anjn",
+      "anajan",
+      "anjaan"
+    ],
+    "id": 18671
+  },
+  "KTRU": {
+    "base_word": ".....",
+    "variants": [
+      "ktharu",
+      "ktuturu",
+      "ktaru",
+      "ktaaaru",
+      "kathru",
+      "ketatiru"
+    ],
+    "id": 18672
+  },
+  "ABNU": {
+    "base_word": ".....",
+    "variants": [
+      "avneu",
+      "aubanu",
+      "abanu"
+    ],
+    "id": 18673
+  },
+  "PDR": {
+    "base_word": ".....",
+    "variants": [
+      "pader",
+      "paderr",
+      "fouder",
+      "pdher",
+      "padhar",
+      "foadar",
+      "pouder",
+      "paudar",
+      "paader",
+      "padher"
+    ],
+    "id": 18675
+  },
+  "HTYO": {
+    "base_word": ".....",
+    "variants": [
+      "haityo",
+      "hatiyo",
+      "hutyo",
+      "hataiyo",
+      "huthyo",
+      "hateyo",
+      "haattyo",
+      "huthoyo",
+      "huthiyoo",
+      "hutheyo",
+      "huutyo",
+      "hataeyo",
+      "huthiyo",
+      "hotyo",
+      "hatayo",
+      "hatyo",
+      "hethyo",
+      "hathyo",
+      "hoityo",
+      "huteyo",
+      "hatyoo",
+      "hautyo"
+    ],
+    "id": 18676
+  },
+  "HNHO": {
+    "base_word": ".....",
+    "variants": [
+      "hunihoo",
+      "hanneho",
+      "huneho",
+      "huniho",
+      "hunuho",
+      "hunnnhooo",
+      "hoinaho",
+      "hunaho"
+    ],
+    "id": 18677
+  },
+  "BDRNU": {
+    "base_word": ".....",
+    "variants": [
+      "badarnu",
+      "badraunu",
+      "badrnu"
+    ],
+    "id": 18679
+  },
+  "KMDE": {
+    "base_word": ".....",
+    "variants": [
+      "comede",
+      "camade",
+      "comadie",
+      "comade",
+      "kamide",
+      "kamede",
+      "kamade",
+      "camde",
+      "comide"
+    ],
+    "id": 18680
+  },
+  "KRPA": {
+    "base_word": ".....",
+    "variants": [
+      "kurupa",
+      "khurpa",
+      "kirpa",
+      "kripa",
+      "krupa",
+      "kreepa",
+      "kripaa"
+    ],
+    "id": 18681
+  },
+  "KRKRTA": {
+    "base_word": ".....",
+    "variants": [
+      "karekarta",
+      "karakarta",
+      "karkekarta"
+    ],
+    "id": 18685
+  },
+  "MGYKO": {
+    "base_word": ".....",
+    "variants": [
+      "magayko",
+      "magyako",
+      "magyko",
+      "magayeko"
+    ],
+    "id": 18688
+  },
+  "SDBKO": {
+    "base_word": ".....",
+    "variants": [
+      "sidhebako",
+      "sadvabko",
+      "sadhaibko"
+    ],
+    "id": 18691
+  },
+  "SNPU": {
+    "base_word": ".....",
+    "variants": [
+      "senungfu",
+      "sunupau",
+      "sunnpau",
+      "sunapau",
+      "sunnapau",
+      "songafu"
+    ],
+    "id": 18692
+  },
+  "NSHNE": {
+    "base_word": ".....",
+    "variants": [
+      "nasahaune",
+      "nasuhauhne",
+      "nasuhaune",
+      "nashuhaune",
+      "nasahane"
+    ],
+    "id": 18693
+  },
+  "HKDI": {
+    "base_word": ".....",
+    "variants": [
+      "hakadai",
+      "hokhadi",
+      "hakdai",
+      "haikadi"
+    ],
+    "id": 18695
+  },
+  "CYP": {
+    "base_word": ".....",
+    "variants": [
+      "choyop",
+      "chyap",
+      "chhyap",
+      "chyaap",
+      "chhoyp"
+    ],
+    "id": 18696
+  },
+  "PRDNKT": {
+    "base_word": ".....",
+    "variants": [
+      "pardainakathai",
+      "pardainaxito",
+      "pardainakatinai",
+      "pardainacting"
+    ],
+    "id": 18699
+  },
+  "TRKS": {
+    "base_word": ".....",
+    "variants": [
+      "tirxash",
+      "treaks",
+      "tracks",
+      "turkesh",
+      "tricks",
+      "turkish",
+      "tharkauxas"
+    ],
+    "id": 18701
+  },
+  "KSMPRN": {
+    "base_word": ".....",
+    "variants": [
+      "xasampurnama",
+      "xusampurna",
+      "xasampurna"
+    ],
+    "id": 18706
+  },
+  "DSNA": {
+    "base_word": ".....",
+    "variants": [
+      "daazna",
+      "duizana",
+      "desona",
+      "dashina",
+      "desena",
+      "disana",
+      "dhusna",
+      "dasna",
+      "dazna",
+      "dashaina",
+      "disona",
+      "daisanga",
+      "disinnna"
+    ],
+    "id": 18709
+  },
+  "BLYU": {
+    "base_word": ".....",
+    "variants": [
+      "balyou",
+      "bolyau",
+      "bolayau",
+      "vulyau",
+      "bhulyau"
+    ],
+    "id": 18710
+  },
+  "MNTRS": {
+    "base_word": ".....",
+    "variants": [
+      "mientras",
+      "mentors",
+      "mantris",
+      "monitors"
+    ],
+    "id": 18714
+  },
+  "BNBN": {
+    "base_word": ".....",
+    "variants": [
+      "banaunebhang",
+      "vnnvvnnnn",
+      "vnnnnnvnn"
+    ],
+    "id": 18716
+  },
+  "TMY": {
+    "base_word": ".....",
+    "variants": [
+      "thamay",
+      "timy",
+      "tmy",
+      "thieamy",
+      "thamey",
+      "timmy",
+      "timay"
+    ],
+    "id": 18719
+  },
+  "ANRDA": {
+    "base_word": ".....",
+    "variants": [
+      "anroida",
+      "anurodha",
+      "anurada",
+      "anuradha",
+      "aanurodha",
+      "anuridha"
+    ],
+    "id": 18725
+  },
+  "NGNU": {
+    "base_word": ".....",
+    "variants": [
+      "nagaunu",
+      "nagaunuu",
+      "nagunu",
+      "nangginu",
+      "nnangginu"
+    ],
+    "id": 18730
+  },
+  "TMPA": {
+    "base_word": ".....",
+    "variants": [
+      "thampa",
+      "tempa",
+      "tampa"
+    ],
+    "id": 18733
+  },
+  "PRYG": {
+    "base_word": ".....",
+    "variants": [
+      "pryog",
+      "proyog",
+      "paryoog",
+      "parayog",
+      "prayoog",
+      "proyug",
+      "pryoug",
+      "pareyog",
+      "proyg",
+      "pariyag",
+      "prayog",
+      "paroyg",
+      "paryog"
+    ],
+    "id": 18736
+  },
+  "SRTL": {
+    "base_word": ".....",
+    "variants": [
+      "sirital",
+      "surtil",
+      "surtal"
+    ],
+    "id": 18737
+  },
+  "UTRYKO": {
+    "base_word": ".....",
+    "variants": [
+      "utriyeko",
+      "utaariyko",
+      "utareeyeko",
+      "utariyako",
+      "utariyeko",
+      "utarayko"
+    ],
+    "id": 18738
+  },
+  "NRWU": {
+    "base_word": ".....",
+    "variants": [
+      "naruwau",
+      "narowu",
+      "narowou"
+    ],
+    "id": 18740
+  },
+  "SNW": {
+    "base_word": ".....",
+    "variants": [
+      "songw",
+      "songanw",
+      "sunw",
+      "sunnnw",
+      "sunnw",
+      "sangw",
+      "sangww",
+      "songwow",
+      "sunnaw",
+      "sunaww",
+      "zannw",
+      "sunaw",
+      "sngw",
+      "sunow",
+      "songnew",
+      "sunuw"
+    ],
+    "id": 18741
+  },
+  "SMJYRA": {
+    "base_word": ".....",
+    "variants": [
+      "samjiyera",
+      "samjhyara",
+      "samjyra",
+      "samjayera",
+      "samjhayera",
+      "samjiyara",
+      "samjhaayera",
+      "samjhiyera",
+      "samjyara"
+    ],
+    "id": 18742
+  },
+  "EYSTI": {
+    "base_word": ".....",
+    "variants": [
+      "eyasteii",
+      "eyastai",
+      "eystei",
+      "eystai"
+    ],
+    "id": 18744
+  },
+  "RCKA": {
+    "base_word": ".....",
+    "variants": [
+      "racheka",
+      "raichaxa",
+      "rachhaka",
+      "ruchika",
+      "rachxa"
+    ],
+    "id": 18746
+  },
+  "OTKO": {
+    "base_word": ".....",
+    "variants": [
+      "otako",
+      "oothaako",
+      "othko",
+      "otheko",
+      "otaiko"
+    ],
+    "id": 18749
+  },
+  "LTRE": {
+    "base_word": ".....",
+    "variants": [
+      "litre",
+      "lautre",
+      "laitare",
+      "latheure"
+    ],
+    "id": 18750
+  },
+  "DRJ": {
+    "base_word": ".....",
+    "variants": [
+      "dheeraj",
+      "dhirj",
+      "deraj",
+      "daraj",
+      "dheraj",
+      "dirj",
+      "dhiraj",
+      "dhuraj",
+      "dhiroj",
+      "dhraj",
+      "diraj",
+      "dheraij",
+      "darj"
+    ],
+    "id": 18753
+  },
+  "GYNKA": {
+    "base_word": ".....",
+    "variants": [
+      "gayanxa",
+      "gayenxaa",
+      "gayenxa",
+      "gaiyenaxa",
+      "geyangunka",
+      "gyanka",
+      "gayeenxa",
+      "gayinxa"
+    ],
+    "id": 18756
+  },
+  "RMCU": {
+    "base_word": ".....",
+    "variants": [
+      "ramaauchhu",
+      "ramauchu",
+      "ramauchhu"
+    ],
+    "id": 18758
+  },
+  "RWK": {
+    "base_word": ".....",
+    "variants": [
+      "ruwaaux",
+      "rwex",
+      "ruwauax",
+      "ruwaux"
+    ],
+    "id": 18760
+  },
+  "ADNW": {
+    "base_word": ".....",
+    "variants": [
+      "aauodainw",
+      "aaudainaw",
+      "aaudenw",
+      "audainw",
+      "aaudainw",
+      "aaudinw",
+      "aaudanw"
+    ],
+    "id": 18761
+  },
+  "RKTK": {
+    "base_word": ".....",
+    "variants": [
+      "roktok",
+      "rokthok",
+      "raktik",
+      "raixatq"
+    ],
+    "id": 18762
+  },
+  "BTBTI": {
+    "base_word": ".....",
+    "variants": [
+      "bhatbhati",
+      "vatvati",
+      "batobatai"
+    ],
+    "id": 18764
+  },
+  "PRMT": {
+    "base_word": ".....",
+    "variants": [
+      "promt",
+      "promot",
+      "farmet",
+      "promit",
+      "parmot",
+      "pramot",
+      "promet",
+      "premt"
+    ],
+    "id": 18766
+  },
+  "PCDI": {
+    "base_word": ".....",
+    "variants": [
+      "pachadiii",
+      "pachdai",
+      "pachhaadi",
+      "pachadidai",
+      "pixhadi",
+      "pachhadi",
+      "pachadi",
+      "pachadii",
+      "paxhadi",
+      "pachaadi",
+      "pachaudai",
+      "pachadai",
+      "pichadi",
+      "pichedi",
+      "puchhdae"
+    ],
+    "id": 18770
+  },
+  "GBND": {
+    "base_word": ".....",
+    "variants": [
+      "gobind",
+      "govind",
+      "goband"
+    ],
+    "id": 18786
+  },
+  "LNW": {
+    "base_word": ".....",
+    "variants": [
+      "laenw",
+      "linw",
+      "linewow",
+      "launw",
+      "lanw",
+      "leunnw",
+      "lenew"
+    ],
+    "id": 18787
+  },
+  "RHLE": {
+    "base_word": ".....",
+    "variants": [
+      "rahale",
+      "rahle",
+      "rahohole",
+      "reahile"
+    ],
+    "id": 18788
+  },
+  "KYSTI": {
+    "base_word": ".....",
+    "variants": [
+      "xayestai",
+      "xaaayestai",
+      "xayastai",
+      "koyestai",
+      "xa…yestai"
+    ],
+    "id": 18791
+  },
+  "DSTRYD": {
+    "base_word": ".....",
+    "variants": [
+      "distroyednagrita",
+      "distroyed",
+      "destroyed"
+    ],
+    "id": 18799
+  },
+  "ARU": {
+    "base_word": ".....",
+    "variants": [
+      "arru",
+      "aaaru",
+      "aaru",
+      "arruu",
+      "arau",
+      "…aru",
+      "aruuu",
+      "aruaruaruaru",
+      "aaruuu",
+      "aauru",
+      "aruu",
+      "aaruu",
+      "aarau",
+      "åaru",
+      "aruuuu",
+      "……………aru",
+      "auru",
+      "arou",
+      "arouu",
+      "aruaru"
+    ],
+    "id": 18800
+  },
+  "KMPLTE": {
+    "base_word": ".....",
+    "variants": [
+      "cmplete",
+      "complte",
+      "xacomplete",
+      "complate",
+      "cmplte",
+      "compalate",
+      "compelete"
+    ],
+    "id": 18805
+  },
+  "MNR": {
+    "base_word": ".....",
+    "variants": [
+      "mangir",
+      "mnr",
+      "meanger",
+      "munnar",
+      "maner",
+      "munir",
+      "mngr",
+      "munar",
+      "mangar"
+    ],
+    "id": 18807
+  },
+  "YSTE": {
+    "base_word": ".....",
+    "variants": [
+      "yastee",
+      "yeastoe",
+      "yastaie",
+      "yastoie",
+      "yste",
+      "yesate",
+      "yeshtee",
+      "yastoee",
+      "yestoe",
+      "yasthie",
+      "yeste",
+      "yestie",
+      "yeshteee",
+      "yestaie",
+      "ystaie",
+      "yastoe",
+      "yestee",
+      "yasthee",
+      "yesteee",
+      "yaste",
+      "yastie"
+    ],
+    "id": 18809
+  },
+  "HSBN": {
+    "base_word": ".....",
+    "variants": [
+      "husbn",
+      "hosvan",
+      "hasben"
+    ],
+    "id": 18811
+  },
+  "ARTW": {
+    "base_word": ".....",
+    "variants": [
+      "aarutw",
+      "arutw",
+      "arutaw"
+    ],
+    "id": 18815
+  },
+  "GYMPE": {
+    "base_word": ".....",
+    "variants": [
+      "ghyamepeeeee",
+      "ghyampeeee",
+      "ghuyampe",
+      "ghyampe"
+    ],
+    "id": 18820
+  },
+  "IL": {
+    "base_word": ".....",
+    "variants": [
+      "ial",
+      "işğal",
+      "il"
+    ],
+    "id": 18821
+  },
+  "YTMA": {
+    "base_word": ".....",
+    "variants": [
+      "yutoma",
+      "yattima",
+      "ytma",
+      "yothauma",
+      "yautaima",
+      "yatima",
+      "yetima"
+    ],
+    "id": 18822
+  },
+  "LKTNTR": {
+    "base_word": ".....",
+    "variants": [
+      "loktantra",
+      "loktantrama",
+      "lloktantra",
+      "loktantraganatantra",
+      "lokatantra",
+      "loktantralai",
+      "loktantraa",
+      "looktantrik",
+      "loktantraolideubaprachanda",
+      "loktantara",
+      "loktantrik"
+    ],
+    "id": 18824
+  },
+  "INBSTR": {
+    "base_word": ".....",
+    "variants": [
+      "investers",
+      "investorma",
+      "invester",
+      "investors"
+    ],
+    "id": 18826
+  },
+  "SKRTS": {
+    "base_word": ".....",
+    "variants": [
+      "skirts",
+      "seccuritis",
+      "securities",
+      "secrets"
+    ],
+    "id": 18828
+  },
+  "HCYO": {
+    "base_word": ".....",
+    "variants": [
+      "hachiyo",
+      "hochyayo",
+      "hochayo"
+    ],
+    "id": 18830
+  },
+  "PYNK": {
+    "base_word": ".....",
+    "variants": [
+      "pyinx",
+      "payenauq",
+      "payenax",
+      "payinax",
+      "payinx"
+    ],
+    "id": 18831
+  },
+  "AYBA": {
+    "base_word": ".....",
+    "variants": [
+      "aaiyoaba",
+      "aayoaaba",
+      "aayoaba"
+    ],
+    "id": 18833
+  },
+  "MKRI": {
+    "base_word": ".....",
+    "variants": [
+      "makurii",
+      "makuri",
+      "maakkuri",
+      "maakuri",
+      "maukuri"
+    ],
+    "id": 18835
+  },
+  "MRTYU": {
+    "base_word": ".....",
+    "variants": [
+      "mirtyu",
+      "mirtiyu",
+      "mrityu",
+      "mrutyu",
+      "mirityu",
+      "mrittyu",
+      "mirtuyu",
+      "mirtyou",
+      "mirtyiu",
+      "murtyu"
+    ],
+    "id": 18839
+  },
+  "JGTE": {
+    "base_word": ".....",
+    "variants": [
+      "jhagate",
+      "jgaate",
+      "jagte",
+      "jagate"
+    ],
+    "id": 18846
+  },
+  "JLNU": {
+    "base_word": ".....",
+    "variants": [
+      "jalnu",
+      "jalanu",
+      "jalunu",
+      "jilnu",
+      "jelnu",
+      "jhelnu",
+      "jlanu",
+      "jalaunu",
+      "jalaaunu",
+      "jhalaunu"
+    ],
+    "id": 18847
+  },
+  "SNTYE": {
+    "base_word": ".....",
+    "variants": [
+      "sunthiye",
+      "sunethye",
+      "sunauthiye",
+      "sunthye",
+      "sunnthiye"
+    ],
+    "id": 18848
+  },
+  "BKRN": {
+    "base_word": ".....",
+    "variants": [
+      "bikran",
+      "backring",
+      "backroung",
+      "vikiran"
+    ],
+    "id": 18850
+  },
+  "SDRNCA": {
+    "base_word": ".....",
+    "variants": [
+      "sudrincha",
+      "sudrinchha",
+      "sudhrinchha"
+    ],
+    "id": 18853
+  },
+  "BHBLI": {
+    "base_word": ".....",
+    "variants": [
+      "bahubali",
+      "bahubhali",
+      "bahuboli",
+      "baahoobali",
+      "bahibali",
+      "bahubalii",
+      "bahubalilai",
+      "bahubli",
+      "baahubali",
+      "bahaubali"
+    ],
+    "id": 18854
+  },
+  "SHRKI": {
+    "base_word": ".....",
+    "variants": [
+      "saharaki",
+      "saharki",
+      "zharki"
+    ],
+    "id": 18855
+  },
+  "INTRI": {
+    "base_word": ".....",
+    "variants": [
+      "intrae",
+      "intri",
+      "intiri"
+    ],
+    "id": 18861
+  },
+  "PRKDI": {
+    "base_word": ".....",
+    "variants": [
+      "parkhidoi",
+      "parkhidei",
+      "farkdai",
+      "farkidae",
+      "farkadi",
+      "farkedai",
+      "farkhidai",
+      "parxadai",
+      "farkidai",
+      "parkhadai",
+      "parxadi",
+      "parkhidai"
+    ],
+    "id": 18865
+  },
+  "AGNST": {
+    "base_word": ".....",
+    "variants": [
+      "aganist",
+      "agnaist",
+      "agenst"
+    ],
+    "id": 18872
+  },
+  "PDLE": {
+    "base_word": ".....",
+    "variants": [
+      "pidale",
+      "paadele",
+      "padedaile",
+      "padelaie",
+      "pidle",
+      "pidhile",
+      "padale",
+      "pidile",
+      "padhele",
+      "pdele",
+      "padele"
+    ],
+    "id": 18876
+  },
+  "PLTN": {
+    "base_word": ".....",
+    "variants": [
+      "politan",
+      "pollutation",
+      "paltaan",
+      "flauting",
+      "populatin",
+      "polution",
+      "politetion",
+      "papuletion",
+      "plattiing",
+      "paltin",
+      "paltan",
+      "poulation",
+      "palatan",
+      "polition",
+      "pultung"
+    ],
+    "id": 18881
+  },
+  "ISTNYA": {
+    "base_word": ".....",
+    "variants": [
+      "isthaniya",
+      "isthaneya",
+      "istanya"
+    ],
+    "id": 18882
+  },
+  "KCKA": {
+    "base_word": ".....",
+    "variants": [
+      "khichxa",
+      "khochxa",
+      "cchakka",
+      "kichikka",
+      "kochxa",
+      "kchakka"
+    ],
+    "id": 18886
+  },
+  "CHNDNA": {
+    "base_word": ".....",
+    "variants": [
+      "chahindeina",
+      "chahindaina",
+      "chahindena",
+      "chahindainaa"
+    ],
+    "id": 18890
+  },
+  "SHNCA": {
+    "base_word": ".....",
+    "variants": [
+      "suhaunchha",
+      "suhaaauncha",
+      "suhanchha"
+    ],
+    "id": 18891
+  },
+  "CTYPA": {
+    "base_word": ".....",
+    "variants": [
+      "chutiyapaa",
+      "chutiyappa",
+      "chutiyapa",
+      "chutiyaappaa"
+    ],
+    "id": 18892
+  },
+  "LYK": {
+    "base_word": ".....",
+    "variants": [
+      "laayek",
+      "laykk",
+      "lyk",
+      "layak",
+      "layek",
+      "lyaux",
+      "layk",
+      "lyyaux",
+      "leyux",
+      "layx",
+      "lyak",
+      "layax",
+      "leyax",
+      "laayak",
+      "liyekox",
+      "liyex",
+      "layex"
+    ],
+    "id": 18895
+  },
+  "PYU": {
+    "base_word": ".....",
+    "variants": [
+      "payau",
+      "paeyou",
+      "pyou",
+      "paayou",
+      "payou",
+      "paiyou",
+      "paayeu",
+      "paiyu",
+      "payu",
+      "payeu",
+      "piyu",
+      "pyu",
+      "payeou",
+      "paiyau",
+      "payeuu"
+    ],
+    "id": 18896
+  },
+  "GRHE": {
+    "base_word": ".....",
+    "variants": [
+      "garahe",
+      "grirahee",
+      "grirhe",
+      "gairahe",
+      "ghorahe",
+      "garirahe",
+      "grihe"
+    ],
+    "id": 18897
+  },
+  "KNSRI": {
+    "base_word": ".....",
+    "variants": [
+      "xainasarai",
+      "kanseri",
+      "kansiri"
+    ],
+    "id": 18899
+  },
+  "CRL": {
+    "base_word": ".....",
+    "variants": [
+      "choural",
+      "xoral",
+      "chaural",
+      "chhreal"
+    ],
+    "id": 18900
+  },
+  "MTYKO": {
+    "base_word": ".....",
+    "variants": [
+      "motayako",
+      "mattiyeko",
+      "matiyeko",
+      "mathyko",
+      "metayeko",
+      "motayeko",
+      "mutayko",
+      "maatyeko"
+    ],
+    "id": 18907
+  },
+  "MNPLTE": {
+    "base_word": ".....",
+    "variants": [
+      "manupulate",
+      "manuplate",
+      "maniuplate"
+    ],
+    "id": 18908
+  },
+  "JTNDRA": {
+    "base_word": ".....",
+    "variants": [
+      "jitendra",
+      "jeetendra",
+      "jhetendra"
+    ],
+    "id": 18910
+  },
+  "NMSKRM": {
+    "base_word": ".....",
+    "variants": [
+      "namaskarramro",
+      "namaskarm",
+      "namaskaram",
+      "namaskarram",
+      "namaskarmero",
+      "namaskarma"
+    ],
+    "id": 18913
+  },
+  "BNPRO": {
+    "base_word": ".....",
+    "variants": [
+      "vanaunuparo",
+      "bannuparo",
+      "vanuparo",
+      "banaunuparo",
+      "vannuparo",
+      "banauparo",
+      "banaunaparo",
+      "banaunuparuo",
+      "banaiupro"
+    ],
+    "id": 18914
+  },
+  "AKDN": {
+    "base_word": ".....",
+    "variants": [
+      "akdin",
+      "aaakdin",
+      "aakdan",
+      "akaidin",
+      "akadin"
+    ],
+    "id": 18915
+  },
+  "LGKU": {
+    "base_word": ".....",
+    "variants": [
+      "lagexu",
+      "lagaouxu",
+      "lagxau",
+      "lagixeu",
+      "laghxu",
+      "lagauxau",
+      "lagexau",
+      "ligxu",
+      "lagauxeu",
+      "lagekoxu",
+      "lagxu",
+      "lgauxu",
+      "lagauxu"
+    ],
+    "id": 18916
+  },
+  "JGRT": {
+    "base_word": ".....",
+    "variants": [
+      "jigrt",
+      "jagrut",
+      "jagrit",
+      "jagruth"
+    ],
+    "id": 18920
+  },
+  "GNRA": {
+    "base_word": ".....",
+    "variants": [
+      "ginera",
+      "gaanra",
+      "ganrea",
+      "ghangra",
+      "ganra",
+      "gunera",
+      "ganara",
+      "ganera",
+      "gaunera"
+    ],
+    "id": 18921
+  },
+  "RKSNI": {
+    "base_word": ".....",
+    "variants": [
+      "raxesni",
+      "raxeshni",
+      "rakshasni",
+      "raxasni",
+      "rakshesni",
+      "rakxesni",
+      "raxxesni",
+      "rakshinai",
+      "raxesani",
+      "raxisni",
+      "rakshni"
+    ],
+    "id": 18924
+  },
+  "GRGRE": {
+    "base_word": ".....",
+    "variants": [
+      "gurgure",
+      "ghurgre",
+      "ghurghure",
+      "ghurgure"
+    ],
+    "id": 18926
+  },
+  "LGD": {
+    "base_word": ".....",
+    "variants": [
+      "laiiigood",
+      "laughed",
+      "legood",
+      "laigood"
+    ],
+    "id": 18929
+  },
+  "BLNK": {
+    "base_word": ".....",
+    "variants": [
+      "belnx",
+      "bhlinx",
+      "vulinx"
+    ],
+    "id": 18930
+  },
+  "KDSKYO": {
+    "base_word": ".....",
+    "variants": [
+      "xadisakyoo",
+      "xadisakyo",
+      "khaidisakyo"
+    ],
+    "id": 18931
+  },
+  "PWNKA": {
+    "base_word": ".....",
+    "variants": [
+      "pawunxa",
+      "pawnxa",
+      "pawanka"
+    ],
+    "id": 18932
+  },
+  "HNMA": {
+    "base_word": ".....",
+    "variants": [
+      "hangama",
+      "hunamaa",
+      "hunumaa",
+      "hungama",
+      "haungama",
+      "hanumaa",
+      "hunama",
+      "hunma",
+      "honuma",
+      "hangaamaaa",
+      "hangma",
+      "henama",
+      "hunuma",
+      "hunemaa",
+      "hunema",
+      "hanama"
+    ],
+    "id": 18935
+  },
+  "BKNYO": {
+    "base_word": ".....",
+    "variants": [
+      "bhakkaniyo",
+      "vakaneyo",
+      "vakkaniyo",
+      "bhakaniyo",
+      "vakaniyo"
+    ],
+    "id": 18936
+  },
+  "DRSKLI": {
+    "base_word": ".....",
+    "variants": [
+      "drsklai",
+      "darsaklaii",
+      "darshaklai",
+      "darsaklai",
+      "darshaklaii"
+    ],
+    "id": 18938
+  },
+  "KTYNA": {
+    "base_word": ".....",
+    "variants": [
+      "xutayuna",
+      "xutayena",
+      "xuttyina",
+      "xutayana",
+      "xutyauna",
+      "khuttyauna",
+      "xuttyauna",
+      "khutiyena"
+    ],
+    "id": 18939
+  },
+  "CPRA": {
+    "base_word": ".....",
+    "variants": [
+      "chepera",
+      "choperaaaaa",
+      "chapera",
+      "chapara",
+      "chopara",
+      "chhopera",
+      "chepara",
+      "chhapera",
+      "chaopera",
+      "chupera",
+      "chapra",
+      "xopera",
+      "chopera",
+      "chopra"
+    ],
+    "id": 18940
+  },
+  "PLME": {
+    "base_word": ".....",
+    "variants": [
+      "filame",
+      "filmuee",
+      "falame",
+      "filime",
+      "phalame",
+      "flime",
+      "filme"
+    ],
+    "id": 18942
+  },
+  "ITU": {
+    "base_word": ".....",
+    "variants": [
+      "itu",
+      "ithau",
+      "itau"
+    ],
+    "id": 18944
+  },
+  "ESI": {
+    "base_word": ".....",
+    "variants": [
+      "eshi",
+      "esai",
+      "esei",
+      "easai",
+      "esi",
+      "essai",
+      "esoi",
+      "esoiii"
+    ],
+    "id": 18945
+  },
+  "SGDI": {
+    "base_word": ".....",
+    "variants": [
+      "sagdei",
+      "sagdai",
+      "sagadi"
+    ],
+    "id": 18947
+  },
+  "GLTYRA": {
+    "base_word": ".....",
+    "variants": [
+      "galatyarea",
+      "galatayera",
+      "galatyara"
+    ],
+    "id": 18948
+  },
+  "KNDR": {
+    "base_word": ".....",
+    "variants": [
+      "kandar",
+      "kundar",
+      "khendar",
+      "khandar",
+      "kundur",
+      "xaunder",
+      "kandhar",
+      "kinder"
+    ],
+    "id": 18949
+  },
+  "CNDKA": {
+    "base_word": ".....",
+    "variants": [
+      "chindaixa",
+      "chandika",
+      "chhainadhukka",
+      "chandeka",
+      "chhainadukha"
+    ],
+    "id": 18952
+  },
+  "APTRO": {
+    "base_word": ".....",
+    "variants": [
+      "aftaro",
+      "aapthero",
+      "apthero",
+      "afthero",
+      "afthero…",
+      "aftaroo",
+      "aafthero",
+      "aftharo",
+      "aaftharo",
+      "aptharo",
+      "aphtharo",
+      "aftero"
+    ],
+    "id": 18953
+  },
+  "YSTLI": {
+    "base_word": ".....",
+    "variants": [
+      "yestailai",
+      "yestalae",
+      "yestolai",
+      "yestalai",
+      "yestelai",
+      "yastalai",
+      "yastolai"
+    ],
+    "id": 18954
+  },
+  "HNCE": {
+    "base_word": ".....",
+    "variants": [
+      "hunche",
+      "hunchhe",
+      "hunxhe"
+    ],
+    "id": 18955
+  },
+  "ERK": {
+    "base_word": ".....",
+    "variants": [
+      "erak",
+      "erick",
+      "erc",
+      "eraq"
+    ],
+    "id": 18957
+  },
+  "NJNI": {
+    "base_word": ".....",
+    "variants": [
+      "najanuni",
+      "najaniii",
+      "njani",
+      "najanii",
+      "najaani",
+      "najaneni",
+      "najani",
+      "najanni"
+    ],
+    "id": 18958
+  },
+  "BRJGR": {
+    "base_word": ".....",
+    "variants": [
+      "berojgar",
+      "barojgar",
+      "berojgaar",
+      "berojgarr",
+      "berojgaar—",
+      "birojgar"
+    ],
+    "id": 18959
+  },
+  "SWRM": {
+    "base_word": ".....",
+    "variants": [
+      "sworoom",
+      "swarum",
+      "swram",
+      "swarmim",
+      "showrrom",
+      "shwarm"
+    ],
+    "id": 18960
+  },
+  "WTPI": {
+    "base_word": ".....",
+    "variants": [
+      "wowtapai",
+      "wawatapai",
+      "wowtapae",
+      "wtfi"
+    ],
+    "id": 18964
+  },
+  "SWRGYA": {
+    "base_word": ".....",
+    "variants": [
+      "sworgya",
+      "sworgiya",
+      "swargiya"
+    ],
+    "id": 18965
+  },
+  "STSA": {
+    "base_word": ".....",
+    "variants": [
+      "sotsha",
+      "satsa",
+      "satisha"
+    ],
+    "id": 18969
+  },
+  "LRKO": {
+    "base_word": ".....",
+    "variants": [
+      "lerako",
+      "larko",
+      "lairako",
+      "leraeko",
+      "laiarko",
+      "laureko",
+      "laerako",
+      "lirako",
+      "larako",
+      "leraaeko",
+      "larkeko",
+      "leraako",
+      "lerairako"
+    ],
+    "id": 18970
+  },
+  "MPKA": {
+    "base_word": ".....",
+    "variants": [
+      "maampaka",
+      "mampakka",
+      "mampakha",
+      "mampka",
+      "mapaka",
+      "mampaka"
+    ],
+    "id": 18974
+  },
+  "DBYE": {
+    "base_word": ".....",
+    "variants": [
+      "dhubye",
+      "dubaye",
+      "dabaye"
+    ],
+    "id": 18979
+  },
+  "SPNSRS": {
+    "base_word": ".....",
+    "variants": [
+      "sponshorship",
+      "spoonsorship",
+      "sponsors",
+      "sponsership"
+    ],
+    "id": 18980
+  },
+  "KSLRA": {
+    "base_word": ".....",
+    "variants": [
+      "khasalera",
+      "khaselera",
+      "khasalara"
+    ],
+    "id": 18983
+  },
+  "SNBA": {
+    "base_word": ".....",
+    "variants": [
+      "sangba",
+      "sungabha",
+      "sunba",
+      "songabba",
+      "sanva",
+      "sungava",
+      "soongava",
+      "songaba",
+      "sonba"
+    ],
+    "id": 18986
+  },
+  "BRLNT": {
+    "base_word": ".....",
+    "variants": [
+      "brillent",
+      "briliant",
+      "brillant",
+      "birlant"
+    ],
+    "id": 18987
+  },
+  "JYT": {
+    "base_word": ".....",
+    "variants": [
+      "jyoit",
+      "joyit",
+      "jyot"
+    ],
+    "id": 18990
+  },
+  "SRMNKO": {
+    "base_word": ".....",
+    "variants": [
+      "shrimanko",
+      "sremanko",
+      "sirmanko",
+      "shreemanko",
+      "srimanko"
+    ],
+    "id": 18993
+  },
+  "KCU": {
+    "base_word": ".....",
+    "variants": [
+      "kochu",
+      "kacchu",
+      "kuchu",
+      "cchu",
+      "kachu",
+      "cchau",
+      "khauchu",
+      "kichu",
+      "xchu",
+      "khachu"
+    ],
+    "id": 18996
+  },
+  "SLYO": {
+    "base_word": ".....",
+    "variants": [
+      "selayo",
+      "selaayo",
+      "salyo",
+      "salayo"
+    ],
+    "id": 18999
+  },
+  "SKCYA": {
+    "base_word": ".....",
+    "variants": [
+      "sikchhiya",
+      "sikchyaa",
+      "sikchhya",
+      "shikchya",
+      "sikchya"
+    ],
+    "id": 19000
+  },
+  "PCDYKA": {
+    "base_word": ".....",
+    "variants": [
+      "pichhadiyeka",
+      "pichadiyeka",
+      "pichhadiyaka"
+    ],
+    "id": 19001
+  },
+  "SPRTR": {
+    "base_word": ".....",
+    "variants": [
+      "spporter",
+      "supportar",
+      "saporter",
+      "superter",
+      "sportar",
+      "supertar",
+      "supportter",
+      "supartar"
+    ],
+    "id": 19004
+  },
+  "UCLI": {
+    "base_word": ".....",
+    "variants": [
+      "uchali",
+      "uchaali",
+      "uachali"
+    ],
+    "id": 19007
+  },
+  "GNTLI": {
+    "base_word": ".....",
+    "variants": [
+      "gunthali",
+      "ghantulli",
+      "ghantalai",
+      "gonthali"
+    ],
+    "id": 19008
+  },
+  "HNHI": {
+    "base_word": ".....",
+    "variants": [
+      "hoinahai",
+      "hunuhaii",
+      "hanhai",
+      "hunuhii",
+      "hunnahai",
+      "hunuhai",
+      "hunhaiii",
+      "hinhi"
+    ],
+    "id": 19009
+  },
+  "OTMA": {
+    "base_word": ".....",
+    "variants": [
+      "othaimaa",
+      "othama",
+      "oothaima",
+      "othmaa",
+      "oothma",
+      "otama",
+      "othaima",
+      "othma"
+    ],
+    "id": 19010
+  },
+  "AKRST": {
+    "base_word": ".....",
+    "variants": [
+      "akarshit",
+      "aakrosit",
+      "akarsit",
+      "akrosit",
+      "akroset",
+      "aakarshit",
+      "aakarsit"
+    ],
+    "id": 19011
+  },
+  "KDYKA": {
+    "base_word": ".....",
+    "variants": [
+      "khedayeka",
+      "khedayaka",
+      "khaidiyexa"
+    ],
+    "id": 19013
+  },
+  "MDNU": {
+    "base_word": ".....",
+    "variants": [
+      "modedinu",
+      "modinu",
+      "modnu",
+      "madhnu"
+    ],
+    "id": 19015
+  },
+  "GRNTA": {
+    "base_word": ".....",
+    "variants": [
+      "garnuta",
+      "garnueuta",
+      "grantha",
+      "garnata",
+      "garaunata",
+      "garneauta",
+      "garrnata",
+      "grnuta",
+      "garanuta",
+      "garnta",
+      "garenata",
+      "garneta",
+      "garunata",
+      "garanta"
+    ],
+    "id": 19016
+  },
+  "HDNS": {
+    "base_word": ".....",
+    "variants": [
+      "hudoinas",
+      "hodains",
+      "hidnus",
+      "hedinush",
+      "hudainash",
+      "hudainas"
+    ],
+    "id": 19017
+  },
+  "NCS": {
+    "base_word": ".....",
+    "variants": [
+      "naxos",
+      "naches",
+      "nachos"
+    ],
+    "id": 19024
+  },
+  "LNRI": {
+    "base_word": ".....",
+    "variants": [
+      "langri",
+      "lengari",
+      "lanri",
+      "lengri"
+    ],
+    "id": 19026
+  },
+  "MNYE": {
+    "base_word": ".....",
+    "variants": [
+      "maanye",
+      "manaye",
+      "manaaye",
+      "manniye",
+      "maninnye",
+      "manye",
+      "mananiye"
+    ],
+    "id": 19029
+  },
+  "BCYNA": {
+    "base_word": ".....",
+    "variants": [
+      "vachiyna",
+      "baechiyaena",
+      "bechiyana",
+      "bachayena"
+    ],
+    "id": 19030
+  },
+  "ATPTO": {
+    "base_word": ".....",
+    "variants": [
+      "atopato",
+      "aatopato",
+      "attopatto"
+    ],
+    "id": 19035
+  },
+  "DLNE": {
+    "base_word": ".....",
+    "variants": [
+      "dilaaune",
+      "dhaaalne",
+      "dhulne",
+      "delne",
+      "dulne",
+      "dilaune",
+      "deelaune",
+      "dalne",
+      "dilaone",
+      "dulaune",
+      "diline",
+      "dolne",
+      "dhalne",
+      "dhallne"
+    ],
+    "id": 19036
+  },
+  "PRBHA": {
+    "base_word": ".....",
+    "variants": [
+      "prbhaha",
+      "pravhaha",
+      "prabaha",
+      "parbaha",
+      "prabhaha"
+    ],
+    "id": 19040
+  },
+  "ANO": {
+    "base_word": ".....",
+    "variants": [
+      "aunoo",
+      "ano",
+      "υтano",
+      "aano",
+      "auno",
+      "aingo",
+      "aauno",
+      "anuo"
+    ],
+    "id": 19041
+  },
+  "CHYO": {
+    "base_word": ".....",
+    "variants": [
+      "chahayo",
+      "chahiyo",
+      "chaheeyo",
+      "chahoyo",
+      "chaiiihyoo",
+      "chaheyo",
+      "chhahiyo",
+      "chihiyo",
+      "chahiyoo",
+      "chhhayo",
+      "xohyo",
+      "chuhayo",
+      "chahahiyo",
+      "chahyo",
+      "chahieyo",
+      "chahiyeo",
+      "chahiyooooo",
+      "chahaiyo",
+      "chaheyo…",
+      "chuhiyo",
+      "chaahyo",
+      "chahiyooo",
+      "chaahiyo",
+      "chahiiyo"
+    ],
+    "id": 19043
+  },
+  "ADRJYA": {
+    "base_word": ".....",
+    "variants": [
+      "adhirajhya",
+      "adhirajeya",
+      "adhirajjya",
+      "adirajya",
+      "adhirajya"
+    ],
+    "id": 19046
+  },
+  "SRSR": {
+    "base_word": ".....",
+    "variants": [
+      "sarasar",
+      "sarsar",
+      "shirsir",
+      "sirsir",
+      "sarasrr",
+      "suresr"
+    ],
+    "id": 19047
+  },
+  "TMLO": {
+    "base_word": ".....",
+    "variants": [
+      "tamilo",
+      "tamailo",
+      "timlo",
+      "tmlo"
+    ],
+    "id": 19048
+  },
+  "ASRA": {
+    "base_word": ".....",
+    "variants": [
+      "aasaraa",
+      "aasara",
+      "asra",
+      "aasra"
+    ],
+    "id": 19052
+  },
+  "ABW": {
+    "base_word": ".....",
+    "variants": [
+      "aabw",
+      "abaw",
+      "abw",
+      "aavw",
+      "aabaw",
+      "avw"
+    ],
+    "id": 19053
+  },
+  "BJDNW": {
+    "base_word": ".....",
+    "variants": [
+      "bujhdainw",
+      "bujdainw",
+      "bujdainaww"
+    ],
+    "id": 19059
+  },
+  "RYP": {
+    "base_word": ".....",
+    "variants": [
+      "reyap",
+      "rayf",
+      "reyaf",
+      "ryf",
+      "reyp",
+      "ryaaf",
+      "ryp",
+      "ryap",
+      "ryaf",
+      "rayp",
+      "reyappp",
+      "ryaph",
+      "ryaap",
+      "rayap"
+    ],
+    "id": 19060
+  },
+  "LGS": {
+    "base_word": ".....",
+    "variants": [
+      "lagis",
+      "lagus",
+      "laagos",
+      "lagos",
+      "leagues",
+      "lagoush",
+      "lagais",
+      "lagossssssssssssssssssssssssssssssssssss",
+      "lagoss",
+      "laagosh",
+      "lagaos",
+      "legs",
+      "lagaus",
+      "lags",
+      "ligeues",
+      "lagosh",
+      "lagaes",
+      "lgoss"
+    ],
+    "id": 19063
+  },
+  "ATRTA": {
+    "base_word": ".....",
+    "variants": [
+      "atharthata",
+      "athaartha",
+      "atharta",
+      "athartha",
+      "atartha",
+      "aatharta",
+      "aathartha",
+      "aathertha",
+      "athrtha"
+    ],
+    "id": 19064
+  },
+  "BNSE": {
+    "base_word": ".....",
+    "variants": [
+      "banse",
+      "vanise",
+      "banase",
+      "vnese",
+      "banaise",
+      "bhanse",
+      "vanse",
+      "vanase",
+      "babinashe"
+    ],
+    "id": 19066
+  },
+  "YDRLI": {
+    "base_word": ".....",
+    "variants": [
+      "yidarlai",
+      "yadharoolai",
+      "yadharulai"
+    ],
+    "id": 19070
+  },
+  "RDKBN": {
+    "base_word": ".....",
+    "variants": [
+      "radekoban",
+      "radikaban",
+      "radikoban",
+      "radikobaan",
+      "radhikoban",
+      "radakabaan"
+    ],
+    "id": 19073
+  },
+  "SRBTKR": {
+    "base_word": ".....",
+    "variants": [
+      "sarbautkrista",
+      "sarbotkrista",
+      "sarvotkrist",
+      "sarvotkrishta",
+      "sarbautkrist"
+    ],
+    "id": 19074
+  },
+  "BKTO": {
+    "base_word": ".....",
+    "variants": [
+      "vkotheo",
+      "vakteo",
+      "bixto",
+      "bheukuto",
+      "bektitto",
+      "baktito",
+      "bektito"
+    ],
+    "id": 19076
+  },
+  "GSO": {
+    "base_word": ".....",
+    "variants": [
+      "gso",
+      "gaaiso",
+      "ghuso",
+      "gaisoo"
+    ],
+    "id": 19077
+  },
+  "NMRNE": {
+    "base_word": ".....",
+    "variants": [
+      "namorne",
+      "namrne",
+      "nmrne",
+      "namarnee",
+      "namarne",
+      "namarnne",
+      "nmarne",
+      "namrune"
+    ],
+    "id": 19078
+  },
+  "ARL": {
+    "base_word": ".....",
+    "variants": [
+      "ĸнarel",
+      "arl",
+      "arel"
+    ],
+    "id": 19080
+  },
+  "PCMLI": {
+    "base_word": ".....",
+    "variants": [
+      "pachameli",
+      "pachhemeli",
+      "pachhimili",
+      "pachimeli",
+      "pachimali",
+      "pachemili",
+      "pachhimeli",
+      "pachimili"
+    ],
+    "id": 19082
+  },
+  "GTPNI": {
+    "base_word": ".....",
+    "variants": [
+      "getpani",
+      "gitpni",
+      "gitpani",
+      "geetpani",
+      "ghatepani"
+    ],
+    "id": 19083
+  },
+  "SKTYN": {
+    "base_word": ".....",
+    "variants": [
+      "sakthiyon",
+      "shaktiyon",
+      "shaktiyan",
+      "saktiyon"
+    ],
+    "id": 19086
+  },
+  "SDRY": {
+    "base_word": ".....",
+    "variants": [
+      "sudrey",
+      "sudaray",
+      "sudharey"
+    ],
+    "id": 19088
+  },
+  "THBYNA": {
+    "base_word": ".....",
+    "variants": [
+      "thahabhayana",
+      "thaahaabhayaena",
+      "tahavayena",
+      "thahaivayana"
+    ],
+    "id": 19089
+  },
+  "RKHKO": {
+    "base_word": ".....",
+    "variants": [
+      "rakhheko",
+      "rakehko",
+      "rkaheko",
+      "rakahako"
+    ],
+    "id": 19090
+  },
+  "KDL": {
+    "base_word": ".....",
+    "variants": [
+      "khadl",
+      "kadhal",
+      "kdel",
+      "khadel",
+      "kadel",
+      "kidal",
+      "khadal",
+      "kaodel",
+      "xidal",
+      "cudel",
+      "xeidall",
+      "kadal"
+    ],
+    "id": 19093
+  },
+  "UTU": {
+    "base_word": ".....",
+    "variants": [
+      "uthaau",
+      "uthautheu",
+      "uthu",
+      "utuu",
+      "uthaaau",
+      "utheu",
+      "uthou",
+      "uthau",
+      "utthau",
+      "uuthau",
+      "utau"
+    ],
+    "id": 19094
+  },
+  "NTRO": {
+    "base_word": ".....",
+    "variants": [
+      "nitrro",
+      "natetro",
+      "nitetro",
+      "netatero",
+      "ntro",
+      "natro",
+      "notro"
+    ],
+    "id": 19096
+  },
+  "IH": {
+    "base_word": ".....",
+    "variants": [
+      "ih",
+      "ihh",
+      "iih"
+    ],
+    "id": 19097
+  },
+  "NLM": {
+    "base_word": ".....",
+    "variants": [
+      "nilalam",
+      "nalim",
+      "neelim",
+      "nilam",
+      "nellam",
+      "nalaam",
+      "nilum",
+      "neelam",
+      "nlm",
+      "nalam"
+    ],
+    "id": 19100
+  },
+  "KLNYK": {
+    "base_word": ".....",
+    "variants": [
+      "khalanayak",
+      "khalnayek",
+      "khalnayak",
+      "kaalnayak"
+    ],
+    "id": 19101
+  },
+  "BCSKYO": {
+    "base_word": ".....",
+    "variants": [
+      "bhechisakyo",
+      "bechisakyo",
+      "bichisakyo",
+      "bechisakyoo"
+    ],
+    "id": 19103
+  },
+  "NTMA": {
+    "base_word": ".....",
+    "variants": [
+      "natama",
+      "notema",
+      "netama",
+      "netmaa",
+      "netma"
+    ],
+    "id": 19106
+  },
+  "ADRYA": {
+    "base_word": ".....",
+    "variants": [
+      "aadriya",
+      "aadharaya",
+      "adariya",
+      "adarariya"
+    ],
+    "id": 19107
+  },
+  "ANHRNI": {
+    "base_word": ".....",
+    "variants": [
+      "anuhrni",
+      "anuharnai",
+      "anuharni"
+    ],
+    "id": 19108
+  },
+  "SKGN": {
+    "base_word": ".....",
+    "variants": [
+      "sakkigon",
+      "sakkigoin",
+      "sakkigion"
+    ],
+    "id": 19109
+  },
+  "RSTRBD": {
+    "base_word": ".....",
+    "variants": [
+      "raastrabaadi",
+      "rashtrabadi",
+      "rashtrabad",
+      "rastrabad",
+      "rastrbaadi",
+      "rastrabadi",
+      "rastrabaadi",
+      "rastrabaad"
+    ],
+    "id": 19110
+  },
+  "CTWA": {
+    "base_word": ".....",
+    "variants": [
+      "chituwa",
+      "chuthuwa",
+      "chatwa",
+      "chaatuwaa",
+      "chatuwa"
+    ],
+    "id": 19114
+  },
+  "NKLR": {
+    "base_word": ".....",
+    "variants": [
+      "neclear",
+      "nnikaler",
+      "nikalerr",
+      "nakheler",
+      "nikaler"
+    ],
+    "id": 19118
+  },
+  "CDYA": {
+    "base_word": ".....",
+    "variants": [
+      "chodaya",
+      "xodyya",
+      "xoddiya",
+      "chhadaya",
+      "chidiya",
+      "chadaya",
+      "chodya",
+      "xodideya",
+      "xodeya",
+      "xodyaa",
+      "xodiya",
+      "chaidaya",
+      "chudiya",
+      "xoddya",
+      "chudaya",
+      "chadya",
+      "xodidiya",
+      "xodya"
+    ],
+    "id": 19121
+  },
+  "PRKRA": {
+    "base_word": ".....",
+    "variants": [
+      "ferkera",
+      "parkhera",
+      "farkera",
+      "prakhera",
+      "furkera",
+      "farkeraa",
+      "parxaara",
+      "parkhira",
+      "parxara",
+      "farkara",
+      "pracāra",
+      "prakara",
+      "pharkera",
+      "purakura",
+      "farkira",
+      "farkra",
+      "porquería",
+      "pareukorea",
+      "prkhera",
+      "parkhara",
+      "parxra",
+      "parkera"
+    ],
+    "id": 19122
+  },
+  "TRDTNL": {
+    "base_word": ".....",
+    "variants": [
+      "treditinol",
+      "traditionell",
+      "treditional"
+    ],
+    "id": 19124
+  },
+  "KWL": {
+    "base_word": ".....",
+    "variants": [
+      "kauwal",
+      "kawal",
+      "kewl",
+      "kewal"
+    ],
+    "id": 19126
+  },
+  "ANDLNM": {
+    "base_word": ".....",
+    "variants": [
+      "andolanm",
+      "aandolanma",
+      "andolanma"
+    ],
+    "id": 19128
+  },
+  "ANHRU": {
+    "base_word": ".....",
+    "variants": [
+      "auneharu",
+      "aouneharu",
+      "auniharu",
+      "aauneharu",
+      "àauneharu",
+      "aaaunuharuu"
+    ],
+    "id": 19130
+  },
+  "RMRP": {
+    "base_word": ".....",
+    "variants": [
+      "rammmrp",
+      "ramroop",
+      "ramrp"
+    ],
+    "id": 19133
+  },
+  "JNC": {
+    "base_word": ".....",
+    "variants": [
+      "janchh",
+      "janch",
+      "jaanchh"
+    ],
+    "id": 19134
+  },
+  "KRTYA": {
+    "base_word": ".....",
+    "variants": [
+      "crotiya",
+      "kritya",
+      "kartya"
+    ],
+    "id": 19137
+  },
+  "NMSKRS": {
+    "base_word": ".....",
+    "variants": [
+      "namaskarsabailaiegauri",
+      "namaskarsanpuna",
+      "namaskarsip"
+    ],
+    "id": 19142
+  },
+  "HNDRA": {
+    "base_word": ".....",
+    "variants": [
+      "handiraa",
+      "handra",
+      "handera",
+      "handiraaa",
+      "haandira",
+      "handira"
+    ],
+    "id": 19147
+  },
+  "DTS": {
+    "base_word": ".....",
+    "variants": [
+      "dotes",
+      "dots",
+      "dhots",
+      "diits",
+      "ditos",
+      "deaths",
+      "dhotis"
+    ],
+    "id": 19148
+  },
+  "SDRPKM": {
+    "base_word": ".....",
+    "variants": [
+      "sudurpaxim",
+      "sudurpaxmi",
+      "sudarpaximeli",
+      "sudurpacim"
+    ],
+    "id": 19150
+  },
+  "PTYE": {
+    "base_word": ".....",
+    "variants": [
+      "patyaaye",
+      "patyaye",
+      "pattaye",
+      "fathayee",
+      "potaye",
+      "pathye",
+      "pauthiye",
+      "patye",
+      "pathaye",
+      "pauthye"
+    ],
+    "id": 19153
+  },
+  "LH": {
+    "base_word": ".....",
+    "variants": [
+      "lahh",
+      "luh",
+      "leh",
+      "leah",
+      "loh",
+      "leeh",
+      "lehh",
+      "lahhh",
+      "laah",
+      "lalh",
+      "lh",
+      "lohh",
+      "lah",
+      "luhh",
+      "løh"
+    ],
+    "id": 19154
+  },
+  "HNDY": {
+    "base_word": ".....",
+    "variants": [
+      "handay",
+      "hundy",
+      "handiy",
+      "handey",
+      "hunday",
+      "hendey"
+    ],
+    "id": 19155
+  },
+  "HLNCA": {
+    "base_word": ".....",
+    "variants": [
+      "halinchha",
+      "halnucha",
+      "hallauncha",
+      "halenacha",
+      "halincha"
+    ],
+    "id": 19157
+  },
+  "HTNKS": {
+    "base_word": ".....",
+    "variants": [
+      "hotnks",
+      "haithanks",
+      "hothanks"
+    ],
+    "id": 19159
+  },
+  "SRWL": {
+    "base_word": ".....",
+    "variants": [
+      "surewal",
+      "sirwell",
+      "surwal",
+      "surwaal",
+      "suruwal",
+      "suruwaal",
+      "suruwall"
+    ],
+    "id": 19163
+  },
+  "ASLYT": {
+    "base_word": ".....",
+    "variants": [
+      "asaliyat",
+      "aasliyat",
+      "asliyet",
+      "asliyat"
+    ],
+    "id": 19164
+  },
+  "SHTYO": {
+    "base_word": ".....",
+    "variants": [
+      "suhauthyoo",
+      "sauhauthyo",
+      "suhauthyo",
+      "suhautyiyo",
+      "suhathiyo",
+      "suhautheyo",
+      "suhauthiyo",
+      "suhathyo",
+      "suhautyo"
+    ],
+    "id": 19166
+  },
+  "DNHRLI": {
+    "base_word": ".....",
+    "variants": [
+      "dinharulai",
+      "dainharulai",
+      "dinhrulai"
+    ],
+    "id": 19167
+  },
+  "BRTLE": {
+    "base_word": ".....",
+    "variants": [
+      "varatle",
+      "bhartile",
+      "bhartle",
+      "bharatle",
+      "bharatile"
+    ],
+    "id": 19172
+  },
+  "SNCE": {
+    "base_word": ".....",
+    "variants": [
+      "sanchaie",
+      "sanche",
+      "sanchaiee",
+      "sonche",
+      "sanchee"
+    ],
+    "id": 19175
+  },
+  "GRDYU": {
+    "base_word": ".....",
+    "variants": [
+      "gardeyeu",
+      "gardiyau",
+      "gardayu",
+      "gardyau",
+      "gardyeu",
+      "gardeyau",
+      "gardayyou"
+    ],
+    "id": 19178
+  },
+  "PRKLKO": {
+    "base_word": ".....",
+    "variants": [
+      "purkhauileko",
+      "purkhauliko",
+      "purkhaliko"
+    ],
+    "id": 19181
+  },
+  "TLBA": {
+    "base_word": ".....",
+    "variants": [
+      "thulaba",
+      "thulobaba",
+      "tholobaba",
+      "thulba",
+      "tulobaba",
+      "thulbaa",
+      "tloova",
+      "thuloba",
+      "talba"
+    ],
+    "id": 19182
+  },
+  "LGDA": {
+    "base_word": ".....",
+    "variants": [
+      "lagauda",
+      "lagada",
+      "laagdaa",
+      "lgauda",
+      "lgda",
+      "laguda",
+      "lagdaa",
+      "lagaudha",
+      "laegda",
+      "laagda",
+      "lagaudaa",
+      "lagaauda",
+      "ligda",
+      "lagda"
+    ],
+    "id": 19188
+  },
+  "PRNRA": {
+    "base_word": ".....",
+    "variants": [
+      "parinaara",
+      "parenra",
+      "parnera",
+      "puraunera",
+      "puranara",
+      "pirngara"
+    ],
+    "id": 19191
+  },
+  "UPYKTA": {
+    "base_word": ".....",
+    "variants": [
+      "upayukta",
+      "upayuktta",
+      "upyukta"
+    ],
+    "id": 19192
+  },
+  "PTRW": {
+    "base_word": ".....",
+    "variants": [
+      "pathaarw",
+      "futeraw",
+      "pitrw",
+      "patrw",
+      "pathaerw",
+      "pathauarw",
+      "piterw",
+      "futerw"
+    ],
+    "id": 19196
+  },
+  "PJRI": {
+    "base_word": ".....",
+    "variants": [
+      "pujarii",
+      "fjuri",
+      "pujjari",
+      "pjari",
+      "fojori",
+      "pujari",
+      "pjaċiri"
+    ],
+    "id": 19197
+  },
+  "BPKI": {
+    "base_word": ".....",
+    "variants": [
+      "vaepxi",
+      "vepxi",
+      "vaepaxi",
+      "bipaxi",
+      "vaepaxxi",
+      "bhaepaxi",
+      "vaipaxi",
+      "vaeapxi",
+      "vapaxi"
+    ],
+    "id": 19198
+  },
+  "BLYWD": {
+    "base_word": ".....",
+    "variants": [
+      "bollywood",
+      "bolleywood",
+      "ballywood",
+      "boollywod",
+      "balywood",
+      "bollywod",
+      "boollywood",
+      "bolywod",
+      "bolywood"
+    ],
+    "id": 19200
+  },
+  "MCKNA": {
+    "base_word": ".....",
+    "variants": [
+      "machikena",
+      "machikna",
+      "maachikna",
+      "maachiknea",
+      "machickna",
+      "michikena",
+      "machikana"
+    ],
+    "id": 19203
+  },
+  "HMRO": {
+    "base_word": ".....",
+    "variants": [
+      "√√hamro",
+      "haamroo",
+      "hamiro",
+      "hamarao",
+      "hmaro",
+      "hamroo",
+      "haaamro",
+      "homro",
+      "haimaro",
+      "hamruo",
+      "hamaro",
+      "hamoro",
+      "hohamro",
+      "homoro",
+      "hamrooo",
+      "haimero",
+      "haamrooo",
+      "homaro",
+      "h̤a̤m̤r̤o̤",
+      "humro",
+      "haamro",
+      "hàmro",
+      "hamareo",
+      "⁦⁩⁦⁩⁦hamro",
+      "hamro",
+      "hemro",
+      "“hamro",
+      "hammro",
+      "homero",
+      "hamero",
+      "hamroooo",
+      "hoiimero",
+      "hhamro",
+      "hemero",
+      "haihamro",
+      "hamrro",
+      "hmro",
+      "hoomero",
+      "hmroo",
+      "hahahhamro"
+    ],
+    "id": 19205
+  },
+  "TLSKO": {
+    "base_word": ".....",
+    "variants": [
+      "thalisako",
+      "thalisakeko",
+      "thulousko"
+    ],
+    "id": 19207
+  },
+  "JMLI": {
+    "base_word": ".....",
+    "variants": [
+      "jimmali",
+      "jimolai",
+      "jimmollai",
+      "jimmlai",
+      "jimali",
+      "jimalai",
+      "jimallai",
+      "jimaoli",
+      "jumeli",
+      "jumlelilai",
+      "jumli",
+      "jimlai",
+      "jimmalai",
+      "jimmallai",
+      "jamalai",
+      "jimmalalai",
+      "jimlae",
+      "jhimmallai",
+      "jimli"
+    ],
+    "id": 19209
+  },
+  "HDNK": {
+    "base_word": ".....",
+    "variants": [
+      "hudainx",
+      "hoiidnc",
+      "hudenq",
+      "hidhneek"
+    ],
+    "id": 19210
+  },
+  "NPR": {
+    "base_word": ".....",
+    "variants": [
+      "nofear",
+      "napaer",
+      "nopor",
+      "naparer",
+      "npr",
+      "naper",
+      "npar",
+      "nefer",
+      "napar"
+    ],
+    "id": 19213
+  },
+  "BJNHS": {
+    "base_word": ".....",
+    "variants": [
+      "bujhnuhos",
+      "bujnuhos",
+      "bujunuhos",
+      "bujhaunuhos"
+    ],
+    "id": 19214
+  },
+  "AE": {
+    "base_word": ".....",
+    "variants": [
+      "aoe",
+      "aioe",
+      "aiee",
+      "aaue",
+      "aie",
+      "aue",
+      "aaie"
+    ],
+    "id": 19217
+  },
+  "UNKLE": {
+    "base_word": ".....",
+    "variants": [
+      "unicle",
+      "uncleee",
+      "unclee",
+      "uncale",
+      "unkle"
+    ],
+    "id": 19222
+  },
+  "MGNLI": {
+    "base_word": ".....",
+    "variants": [
+      "magnelai",
+      "magnelaii",
+      "magnelaai",
+      "maganelae"
+    ],
+    "id": 19223
+  },
+  "GLBNDI": {
+    "base_word": ".....",
+    "variants": [
+      "gallbandi",
+      "galbnadi",
+      "galvandi",
+      "galbandhi",
+      "galbandai",
+      "galbandii",
+      "galbandiii",
+      "galabandi",
+      "galbandi",
+      "galbbandi"
+    ],
+    "id": 19225
+  },
+  "PSCMLI": {
+    "base_word": ".....",
+    "variants": [
+      "pashchimeli",
+      "paschemelii",
+      "paschimeli",
+      "paschimali",
+      "paschemeli",
+      "paschhemili"
+    ],
+    "id": 19227
+  },
+  "KLKNE": {
+    "base_word": ".....",
+    "variants": [
+      "khulkinee",
+      "khulkaune",
+      "kulekhane",
+      "khulkine"
+    ],
+    "id": 19230
+  },
+  "GPKI": {
+    "base_word": ".....",
+    "variants": [
+      "gaeapaxi",
+      "ghapauxi",
+      "gaepaxi"
+    ],
+    "id": 19234
+  },
+  "SRMD": {
+    "base_word": ".....",
+    "variants": [
+      "shrimad",
+      "sarmad",
+      "srimad",
+      "sharamad"
+    ],
+    "id": 19235
+  },
+  "RNKN": {
+    "base_word": ".....",
+    "variants": [
+      "runxin",
+      "rainaxin",
+      "runexan",
+      "rainaxan",
+      "rnxn",
+      "runxan",
+      "ranxan",
+      "rainxan",
+      "ranking",
+      "runexin"
+    ],
+    "id": 19239
+  },
+  "DNKH": {
+    "base_word": ".....",
+    "variants": [
+      "dancehahahhah",
+      "dincah",
+      "denxuh",
+      "dinxuh"
+    ],
+    "id": 19241
+  },
+  "STDNI": {
+    "base_word": ".....",
+    "variants": [
+      "sutaedinuni",
+      "sutdani",
+      "satadnai"
+    ],
+    "id": 19244
+  },
+  "KRNS": {
+    "base_word": ".....",
+    "variants": [
+      "cringes",
+      "koreans",
+      "corns",
+      "karnus",
+      "cronzzzz"
+    ],
+    "id": 19247
+  },
+  "BRDS": {
+    "base_word": ".....",
+    "variants": [
+      "birds",
+      "vardozz",
+      "boards",
+      "brides"
+    ],
+    "id": 19249
+  },
+  "INDRJT": {
+    "base_word": ".....",
+    "variants": [
+      "indrajit",
+      "indrajeet",
+      "indrajatra"
+    ],
+    "id": 19250
+  },
+  "HBY": {
+    "base_word": ".....",
+    "variants": [
+      "havey",
+      "hvy",
+      "huby",
+      "hebby",
+      "heby",
+      "habby",
+      "hovy",
+      "havy",
+      "haaebey"
+    ],
+    "id": 19251
+  },
+  "BYKLE": {
+    "base_word": ".....",
+    "variants": [
+      "vayakolee",
+      "bhayakale",
+      "bhayakole",
+      "bhayekole",
+      "bhayakooleee",
+      "vayekale",
+      "vayekole",
+      "vayakale",
+      "vyekole",
+      "vayakole",
+      "vayokele",
+      "vaykole"
+    ],
+    "id": 19254
+  },
+  "UPLDE": {
+    "base_word": ".....",
+    "variants": [
+      "uploade",
+      "uplode",
+      "uplde"
+    ],
+    "id": 19255
+  },
+  "NJRA": {
+    "base_word": ".....",
+    "variants": [
+      "najera",
+      "najara",
+      "najra",
+      "najaraaaaa",
+      "najhara",
+      "njara",
+      "najira"
+    ],
+    "id": 19260
+  },
+  "PTLNU": {
+    "base_word": ".....",
+    "variants": [
+      "patlaunu",
+      "pattolaaunu",
+      "paatalaunu",
+      "futalnu",
+      "patalunu"
+    ],
+    "id": 19261
+  },
+  "DKYCA": {
+    "base_word": ".....",
+    "variants": [
+      "dekhiyachha",
+      "dekhaycha",
+      "dekhiyecha",
+      "dekhyachha"
+    ],
+    "id": 19263
+  },
+  "BTNLI": {
+    "base_word": ".....",
+    "variants": [
+      "vetnalai",
+      "vtenlai",
+      "bhootnilai",
+      "bitaunulai"
+    ],
+    "id": 19266
+  },
+  "ABSA": {
+    "base_word": ".....",
+    "variants": [
+      "aabisha",
+      "aaubasa",
+      "avasha",
+      "aabsa",
+      "abasha",
+      "abasa"
+    ],
+    "id": 19273
+  },
+  "YKDN": {
+    "base_word": ".....",
+    "variants": [
+      "yakden",
+      "yekdan",
+      "yeakdin",
+      "yakdan",
+      "yakdon",
+      "ykdin",
+      "yekdin",
+      "yakdin"
+    ],
+    "id": 19275
+  },
+  "PLTA": {
+    "base_word": ".....",
+    "variants": [
+      "palita",
+      "pilitta",
+      "falta",
+      "pailata",
+      "phalta",
+      "falatta",
+      "pallta",
+      "palta",
+      "palata",
+      "plta",
+      "polta",
+      "paulata",
+      "paltaa",
+      "paltha",
+      "palota",
+      "platta",
+      "faleta",
+      "pulta",
+      "plata"
+    ],
+    "id": 19278
+  },
+  "BLH": {
+    "base_word": ".....",
+    "variants": [
+      "vloh",
+      "belh",
+      "balah",
+      "ballah",
+      "balaahh",
+      "boleh",
+      "boulah",
+      "baleh",
+      "beulah",
+      "balh"
+    ],
+    "id": 19279
+  },
+  "BNTN": {
+    "base_word": ".....",
+    "variants": [
+      "vanthan",
+      "bhanthin",
+      "vnthin",
+      "vuntung",
+      "bhantin",
+      "vantang",
+      "vanthin",
+      "bhanten",
+      "bangtann"
+    ],
+    "id": 19282
+  },
+  "RSMYA": {
+    "base_word": ".....",
+    "variants": [
+      "reshmiya",
+      "reshammiya",
+      "rasmaya",
+      "resamiya"
+    ],
+    "id": 19283
+  },
+  "JYS": {
+    "base_word": ".....",
+    "variants": [
+      "jayous",
+      "joyesh",
+      "jaoyos",
+      "jayash",
+      "jays",
+      "jayos",
+      "jiyas",
+      "jayas",
+      "jhys",
+      "jhyas",
+      "jaayez",
+      "jayoss",
+      "joyash"
+    ],
+    "id": 19289
+  },
+  "KMKNA": {
+    "base_word": ".....",
+    "variants": [
+      "kaamxaina",
+      "kamxinaa",
+      "kamqna",
+      "kamxina",
+      "kaamxaena",
+      "kamxenaa",
+      "kamxaina",
+      "kàmxaina"
+    ],
+    "id": 19293
+  },
+  "UDSY": {
+    "base_word": ".....",
+    "variants": [
+      "udeshay",
+      "udesey",
+      "uddhesay"
+    ],
+    "id": 19294
+  },
+  "JNMDN": {
+    "base_word": ".....",
+    "variants": [
+      "janmidaian",
+      "janmdin",
+      "janmadin",
+      "janmadeinan"
+    ],
+    "id": 19297
+  },
+  "PRTYMA": {
+    "base_word": ".....",
+    "variants": [
+      "pratyma",
+      "parthyma",
+      "partyma"
+    ],
+    "id": 19300
+  },
+  "USKO": {
+    "base_word": ".....",
+    "variants": [
+      "ussko",
+      "useiko",
+      "usko",
+      "uosko",
+      "usco",
+      "uskoo",
+      "usaiko",
+      "ushko",
+      "uusko",
+      "usako",
+      "ushako",
+      "uasko",
+      "ussaiko"
+    ],
+    "id": 19302
+  },
+  "HRYL": {
+    "base_word": ".....",
+    "variants": [
+      "heriyoall",
+      "hauriyall",
+      "horyl"
+    ],
+    "id": 19303
+  },
+  "AJRMRO": {
+    "base_word": ".....",
+    "variants": [
+      "aajaeramro",
+      "ajramro",
+      "ajharamro",
+      "ajhairamro",
+      "ajairamro"
+    ],
+    "id": 19304
+  },
+  "BGRMA": {
+    "base_word": ".....",
+    "variants": [
+      "bagarma",
+      "bhagharuma",
+      "vagharuma",
+      "bagarmaa"
+    ],
+    "id": 19305
+  },
+  "SNPYO": {
+    "base_word": ".....",
+    "variants": [
+      "sunapaiyo",
+      "sunpaiyao",
+      "sunnapaeyo",
+      "sunpaeyo",
+      "sunapayo",
+      "sunnapaiyo"
+    ],
+    "id": 19307
+  },
+  "SMRKSN": {
+    "base_word": ".....",
+    "variants": [
+      "samrakshen",
+      "samrakshn",
+      "samreksenma",
+      "samrakshan"
+    ],
+    "id": 19314
+  },
+  "KRNR": {
+    "base_word": ".....",
+    "variants": [
+      "karnar",
+      "cornor",
+      "koraner"
+    ],
+    "id": 19318
+  },
+  "PRMO": {
+    "base_word": ".....",
+    "variants": [
+      "puramo",
+      "prmo",
+      "poromo",
+      "parmo",
+      "pramo",
+      "pormo",
+      "promo"
+    ],
+    "id": 19321
+  },
+  "DRBR": {
+    "base_word": ".....",
+    "variants": [
+      "diriver",
+      "durbavar",
+      "driveer",
+      "durber",
+      "darbur",
+      "durbaar",
+      "draibhar",
+      "darbar",
+      "darabar",
+      "daraebar",
+      "dharbar",
+      "daraivar",
+      "daraaibar"
+    ],
+    "id": 19323
+  },
+  "DNL": {
+    "base_word": ".....",
+    "variants": [
+      "dhungel",
+      "dongol",
+      "dungal",
+      "dhanlal",
+      "daniel",
+      "dongal",
+      "donll",
+      "dangal…",
+      "dangal",
+      "dangol"
+    ],
+    "id": 19326
+  },
+  "BDP": {
+    "base_word": ".....",
+    "variants": [
+      "vidiep",
+      "videp",
+      "videoop"
+    ],
+    "id": 19328
+  },
+  "KWKU": {
+    "base_word": ".....",
+    "variants": [
+      "khuwaauxu",
+      "khoaowxu",
+      "khuwauxu",
+      "khuwaxu"
+    ],
+    "id": 19330
+  },
+  "BWNA": {
+    "base_word": ".....",
+    "variants": [
+      "bhaawana",
+      "vawana",
+      "bawana",
+      "vawna",
+      "bwanga",
+      "bhawanna",
+      "vaawana",
+      "bhaawna",
+      "bhuwna",
+      "vawona",
+      "bhawna",
+      "bhawana"
+    ],
+    "id": 19332
+  },
+  "TMT": {
+    "base_word": ".....",
+    "variants": [
+      "timit",
+      "teammet",
+      "tomet",
+      "timmet",
+      "timeout",
+      "thamt"
+    ],
+    "id": 19334
+  },
+  "PLDNA": {
+    "base_word": ".....",
+    "variants": [
+      "faldaina",
+      "phaldinuna",
+      "palaudaina",
+      "palaudina",
+      "phaldaina",
+      "poldaina",
+      "faldina",
+      "paldaina",
+      "palidaina"
+    ],
+    "id": 19335
+  },
+  "PSRKO": {
+    "base_word": ".....",
+    "variants": [
+      "psreko",
+      "fasirako",
+      "fasairako"
+    ],
+    "id": 19340
+  },
+  "PBE": {
+    "base_word": ".....",
+    "variants": [
+      "pabhe",
+      "fabe",
+      "pabe",
+      "phobe",
+      "febe",
+      "fave"
+    ],
+    "id": 19343
+  },
+  "ANBKA": {
+    "base_word": ".....",
+    "variants": [
+      "aaunuvaxa",
+      "aauunuvaxa",
+      "aaunubaxa"
+    ],
+    "id": 19344
+  },
+  "JNBKO": {
+    "base_word": ".....",
+    "variants": [
+      "janubhako",
+      "januvako",
+      "janubhaeko",
+      "januvaiko"
+    ],
+    "id": 19346
+  },
+  "MNPRO": {
+    "base_word": ".....",
+    "variants": [
+      "manparoo",
+      "manpharo",
+      "manpro",
+      "manparao",
+      "manparro",
+      "manpareo",
+      "monpero",
+      "manpario",
+      "manparo",
+      "monporo",
+      "monparo",
+      "munpuro",
+      "maanparo"
+    ],
+    "id": 19351
+  },
+  "JNMNCN": {
+    "base_word": ".....",
+    "variants": [
+      "janmanchhan",
+      "janminchan",
+      "janminechhan"
+    ],
+    "id": 19353
+  },
+  "RSTKA": {
+    "base_word": ".....",
+    "variants": [
+      "rishuthxa",
+      "resuthxa",
+      "resutxa",
+      "risutxa",
+      "risitxa",
+      "rastaka",
+      "risuthxa",
+      "risutheaxa"
+    ],
+    "id": 19358
+  },
+  "KNPLI": {
+    "base_word": ".....",
+    "variants": [
+      "xunepali",
+      "xnepali",
+      "konepali",
+      "xanepali",
+      "xannepali",
+      "kinanepali",
+      "kinepali"
+    ],
+    "id": 19360
+  },
+  "SLMI": {
+    "base_word": ".....",
+    "variants": [
+      "salami",
+      "salaami",
+      "salamii"
+    ],
+    "id": 19361
+  },
+  "LKSTR": {
+    "base_word": ".....",
+    "variants": [
+      "loksatar",
+      "lokstar",
+      "lokster",
+      "lokkstar",
+      "lockstar",
+      "lookstar",
+      "lokstr"
+    ],
+    "id": 19363
+  },
+  "DSKS": {
+    "base_word": ".....",
+    "variants": [
+      "desks",
+      "dsks",
+      "diskas",
+      "disscus",
+      "dasks"
+    ],
+    "id": 19364
+  },
+  "NMRDA": {
+    "base_word": ".....",
+    "variants": [
+      "namardha",
+      "namrda",
+      "naamrda",
+      "namorda",
+      "namarda",
+      "naamarda"
+    ],
+    "id": 19367
+  },
+  "DWNKO": {
+    "base_word": ".....",
+    "variants": [
+      "dhawanko",
+      "deewanko",
+      "downko",
+      "dewaniiko",
+      "deewaniko"
+    ],
+    "id": 19370
+  },
+  "CTN": {
+    "base_word": ".....",
+    "variants": [
+      "chhatting",
+      "chhathin",
+      "chetan",
+      "choton",
+      "chatan",
+      "chhetan",
+      "chattan",
+      "chaiting",
+      "cheatting",
+      "cheten",
+      "chiting",
+      "chating",
+      "chataun",
+      "chaten"
+    ],
+    "id": 19371
+  },
+  "DLY": {
+    "base_word": ".....",
+    "variants": [
+      "dholiyey",
+      "dailly",
+      "dalley",
+      "dadly",
+      "deally",
+      "daley",
+      "deadlyyy",
+      "dealy",
+      "dhely",
+      "dadalay",
+      "dely",
+      "dhaley",
+      "dhaly",
+      "delly",
+      "dalay",
+      "ddley",
+      "dailey",
+      "dilaley",
+      "dillaley",
+      "daiiley",
+      "dadaly",
+      "daelay",
+      "diley",
+      "dallay",
+      "doley",
+      "dilay",
+      "daliy",
+      "dailay"
+    ],
+    "id": 19372
+  },
+  "NG": {
+    "base_word": ".....",
+    "variants": [
+      "ngggggggg",
+      "noog",
+      "naag",
+      "neg",
+      "nagh",
+      "nggg",
+      "nug"
+    ],
+    "id": 19377
+  },
+  "HLNS": {
+    "base_word": ".....",
+    "variants": [
+      "haalnus",
+      "healings",
+      "halnush",
+      "halunus",
+      "halnos",
+      "haalnis",
+      "halinash",
+      "halnuss",
+      "halnus"
+    ],
+    "id": 19383
+  },
+  "DNPLI": {
+    "base_word": ".....",
+    "variants": [
+      "didainanepali",
+      "dainepali",
+      "deenepali",
+      "donenepali"
+    ],
+    "id": 19384
+  },
+  "KMTA": {
+    "base_word": ".....",
+    "variants": [
+      "xamta",
+      "xamata",
+      "cameta",
+      "xemeta",
+      "kamta",
+      "kimata",
+      "kamtaa",
+      "kamita",
+      "khamota",
+      "kimotha",
+      "xamtaa",
+      "kameta",
+      "xuuumata",
+      "xemata"
+    ],
+    "id": 19385
+  },
+  "MLRA": {
+    "base_word": ".....",
+    "variants": [
+      "mileara",
+      "mileraaa",
+      "mileraa",
+      "molera",
+      "mileera",
+      "mailara",
+      "maleria",
+      "melaraa",
+      "milera",
+      "milaraa",
+      "malaera",
+      "millara",
+      "miluera",
+      "meelara",
+      "melaara",
+      "milra",
+      "milaara",
+      "mailera",
+      "mulera",
+      "milaira",
+      "milira",
+      "meleara",
+      "milara",
+      "milaaera",
+      "mailra",
+      "milaera",
+      "melira",
+      "melera",
+      "melara"
+    ],
+    "id": 19388
+  },
+  "PRDYA": {
+    "base_word": ".....",
+    "variants": [
+      "purdaya",
+      "phordiya",
+      "pardaya",
+      "pardya",
+      "puradiya"
+    ],
+    "id": 19390
+  },
+  "JWDI": {
+    "base_word": ".....",
+    "variants": [
+      "jiwdei",
+      "jiwdai",
+      "jewdai"
+    ],
+    "id": 19392
+  },
+  "MHNB": {
+    "base_word": ".....",
+    "variants": [
+      "mahanubhab",
+      "mahanuvaab",
+      "mahanuv",
+      "mahaanuvav",
+      "mahanbab",
+      "mahanuvav",
+      "mahanbhav",
+      "mahanubhav",
+      "mahanuvab"
+    ],
+    "id": 19396
+  },
+  "SHRE": {
+    "base_word": ".....",
+    "variants": [
+      "saharie",
+      "shahree",
+      "saharaie",
+      "sahareeeee"
+    ],
+    "id": 19397
+  },
+  "MYTA": {
+    "base_word": ".....",
+    "variants": [
+      "myta",
+      "mayeta",
+      "maayata",
+      "mayta",
+      "mayata"
+    ],
+    "id": 19398
+  },
+  "PHRI": {
+    "base_word": ".....",
+    "variants": [
+      "fhori",
+      "phheri",
+      "fhrai",
+      "fheri",
+      "fohari",
+      "pohari",
+      "piharii",
+      "fherii",
+      "fhuri",
+      "fohori",
+      "fhiri",
+      "pahari",
+      "fherai",
+      "pahri",
+      "fhohori",
+      "fohri",
+      "fhauri",
+      "phohori",
+      "foohori"
+    ],
+    "id": 19401
+  },
+  "RSTRGT": {
+    "base_word": ".....",
+    "variants": [
+      "rastraghat",
+      "rastraghaati",
+      "rastraghati",
+      "raastraghati"
+    ],
+    "id": 19407
+  },
+  "GPL": {
+    "base_word": ".....",
+    "variants": [
+      "gopaal",
+      "ghopal",
+      "gopal",
+      "gpl",
+      "gapal",
+      "gopl"
+    ],
+    "id": 19410
+  },
+  "SKRTLI": {
+    "base_word": ".....",
+    "variants": [
+      "saskirtilai",
+      "saskritilai",
+      "saskrirtilai",
+      "saskrtilai",
+      "saskritilaii",
+      "saskritilae"
+    ],
+    "id": 19411
+  },
+  "PDM": {
+    "base_word": ".....",
+    "variants": [
+      "fodum",
+      "padidam",
+      "paidim",
+      "padumm",
+      "fodhdim",
+      "fidim",
+      "paidum",
+      "pdm",
+      "padam",
+      "padhum",
+      "padham",
+      "phidim",
+      "padaidim",
+      "padhim"
+    ],
+    "id": 19414
+  },
+  "PTNY": {
+    "base_word": ".....",
+    "variants": [
+      "puteney",
+      "putineyyy",
+      "pathauny",
+      "putiney",
+      "pathauney",
+      "pitney",
+      "pattiney",
+      "putineey",
+      "futauney",
+      "futny"
+    ],
+    "id": 19415
+  },
+  "PGNS": {
+    "base_word": ".....",
+    "variants": [
+      "pugens",
+      "paginas",
+      "pigeons",
+      "pugnush",
+      "pugnas"
+    ],
+    "id": 19416
+  },
+  "SLPE": {
+    "base_word": ".....",
+    "variants": [
+      "selfe",
+      "selife",
+      "sulfe",
+      "selfie",
+      "selfpee"
+    ],
+    "id": 19420
+  },
+  "NJLA": {
+    "base_word": ".....",
+    "variants": [
+      "najala",
+      "nijala",
+      "najaaala"
+    ],
+    "id": 19425
+  },
+  "JTYLE": {
+    "base_word": ".....",
+    "variants": [
+      "jutheyle",
+      "juthyle",
+      "juthyele",
+      "jotyle"
+    ],
+    "id": 19428
+  },
+  "TSMTI": {
+    "base_word": ".....",
+    "variants": [
+      "tesmathiii",
+      "tesimathi",
+      "tesmathi",
+      "tesmati",
+      "tesaimathi",
+      "tesmaathi"
+    ],
+    "id": 19431
+  },
+  "ATRI": {
+    "base_word": ".....",
+    "variants": [
+      "atteri",
+      "autaari",
+      "attrai",
+      "aatturi",
+      "aturi",
+      "ateri",
+      "aautarii",
+      "autariii",
+      "aaturi",
+      "atri",
+      "autari",
+      "atrai",
+      "aautari"
+    ],
+    "id": 19434
+  },
+  "BCDNE": {
+    "base_word": ".....",
+    "variants": [
+      "bachidine",
+      "bachaidine",
+      "bechadine",
+      "bechidine"
+    ],
+    "id": 19435
+  },
+  "URT": {
+    "base_word": ".....",
+    "variants": [
+      "uraath",
+      "urath",
+      "urrt",
+      "uurat"
+    ],
+    "id": 19436
+  },
+  "OPO": {
+    "base_word": ".....",
+    "variants": [
+      "oopo",
+      "oppoooooooo",
+      "ooppo",
+      "opopopopopo",
+      "oppo",
+      "opo",
+      "oiiioopo",
+      "opoo"
+    ],
+    "id": 19437
+  },
+  "YBTI": {
+    "base_word": ".....",
+    "variants": [
+      "yubti",
+      "youbati",
+      "youvati",
+      "yubati",
+      "yavti",
+      "youbiti"
+    ],
+    "id": 19438
+  },
+  "NJRBND": {
+    "base_word": ".....",
+    "variants": [
+      "najarband",
+      "najarbanda",
+      "najarbndm"
+    ],
+    "id": 19455
+  },
+  "GRKI": {
+    "base_word": ".....",
+    "variants": [
+      "greki",
+      "gareraxi",
+      "garaci",
+      "garaki",
+      "garirakai",
+      "giriki",
+      "girkhaki",
+      "garauki",
+      "garaaki",
+      "gareki",
+      "gorkhai",
+      "gareakai",
+      "gariraxae",
+      "garxki",
+      "garxi",
+      "grekai",
+      "gorki",
+      "garekaiii",
+      "garekeii",
+      "garxauki",
+      "gharkai",
+      "gorkhakaiii",
+      "gareci",
+      "gariki",
+      "ghareki",
+      "garreki",
+      "grki",
+      "gorkhakai",
+      "gharki",
+      "garakaii",
+      "gharkae",
+      "garekoi",
+      "garekoii",
+      "garirakhekai",
+      "garki",
+      "garexi",
+      "garekai",
+      "gireki",
+      "ghriki",
+      "gareekai",
+      "garxaki",
+      "garakai",
+      "garekii",
+      "ghurki",
+      "garukhai",
+      "garekoki",
+      "gariaki",
+      "garuki",
+      "garirakhi"
+    ],
+    "id": 19459
+  },
+  "LSBI": {
+    "base_word": ".....",
+    "variants": [
+      "lesabai",
+      "laisabi",
+      "lasabai"
+    ],
+    "id": 19460
+  },
+  "PRKNTR": {
+    "base_word": ".....",
+    "variants": [
+      "prxantra",
+      "parxnatra",
+      "parxainternational",
+      "parxanatra",
+      "parxxntra"
+    ],
+    "id": 19461
+  },
+  "DKYR": {
+    "base_word": ".....",
+    "variants": [
+      "dcyr",
+      "dekyr",
+      "dhekhayar",
+      "dekheyar",
+      "dekhiyer",
+      "dkyer",
+      "dhekhayr",
+      "dekhiayar",
+      "dekhyr",
+      "dekhayr",
+      "dukhyar",
+      "dekayar",
+      "dekheyr",
+      "dhekhayer",
+      "dekhiyar",
+      "dukhayer",
+      "dukhayar",
+      "dekhayar",
+      "dekhayer",
+      "dekhayaer",
+      "dekhyar",
+      "dekhyer",
+      "dakhyar"
+    ],
+    "id": 19467
+  },
+  "KPTL": {
+    "base_word": ".....",
+    "variants": [
+      "cipital",
+      "captial",
+      "capitel"
+    ],
+    "id": 19468
+  },
+  "KNKRI": {
+    "base_word": ".....",
+    "variants": [
+      "kunkiri",
+      "cencuri",
+      "kunkuri"
+    ],
+    "id": 19470
+  },
+  "ADMTRI": {
+    "base_word": ".....",
+    "variants": [
+      "aaudamatrai",
+      "adamatri",
+      "aadhamatrai"
+    ],
+    "id": 19471
+  },
+  "SMHLRA": {
+    "base_word": ".....",
+    "variants": [
+      "samhaaaalera",
+      "samhalara",
+      "samhalera"
+    ],
+    "id": 19478
+  },
+  "GYBA": {
+    "base_word": ".....",
+    "variants": [
+      "gayabaa",
+      "gyaba",
+      "gayoaba"
+    ],
+    "id": 19480
+  },
+  "KWA": {
+    "base_word": ".....",
+    "variants": [
+      "kawaaa",
+      "xawa",
+      "kuwaaaa",
+      "kaxuwa",
+      "kauwa",
+      "kawa",
+      "khawa",
+      "kieuwa",
+      "kewa",
+      "xwa",
+      "kauwwa",
+      "xauwa",
+      "xuwa",
+      "kuwaa",
+      "kwa",
+      "khuwa",
+      "kiwa",
+      "kuwa",
+      "khuwaa"
+    ],
+    "id": 19492
+  },
+  "PJO": {
+    "base_word": ".....",
+    "variants": [
+      "pujo",
+      "pujoo",
+      "poijo",
+      "pajo"
+    ],
+    "id": 19493
+  },
+  "NRMLO": {
+    "base_word": ".....",
+    "variants": [
+      "narmailo",
+      "noromailo",
+      "naramaelo",
+      "nramalio",
+      "naramailoo",
+      "naramlo",
+      "naramelo",
+      "nramailo",
+      "nramilo",
+      "naramailo",
+      "naramilo",
+      "naraimlo"
+    ],
+    "id": 19495
+  },
+  "GRH": {
+    "base_word": ".....",
+    "variants": [
+      "gorah",
+      "goearoh",
+      "garh",
+      "grah",
+      "gairah",
+      "garah",
+      "garoh",
+      "groh",
+      "garauh",
+      "grh",
+      "garerah",
+      "garohhh",
+      "garerh",
+      "giroh"
+    ],
+    "id": 19498
+  },
+  "JBP": {
+    "base_word": ".....",
+    "variants": [
+      "jbap",
+      "jabaff",
+      "jabaf",
+      "jbf"
+    ],
+    "id": 19499
+  },
+  "EKPRTN": {
+    "base_word": ".....",
+    "variants": [
+      "expreation",
+      "experation",
+      "expretion",
+      "exporting"
+    ],
+    "id": 19500
+  },
+  "BKSN": {
+    "base_word": ".....",
+    "variants": [
+      "boksng",
+      "biksan",
+      "booksing",
+      "voicesong"
+    ],
+    "id": 19501
+  },
+  "BYRKA": {
+    "base_word": ".....",
+    "variants": [
+      "vayeraxa",
+      "vayeraixa",
+      "vayirakhxa"
+    ],
+    "id": 19506
+  },
+  "UTRCA": {
+    "base_word": ".....",
+    "variants": [
+      "utarecha",
+      "utarchha",
+      "utheraicha",
+      "uthiracha"
+    ],
+    "id": 19507
+  },
+  "MLYA": {
+    "base_word": ".....",
+    "variants": [
+      "mailya",
+      "milayea",
+      "melya",
+      "milya",
+      "maileya",
+      "mallya",
+      "maliiya",
+      "maillya",
+      "malaya",
+      "mileya",
+      "maelya",
+      "malayaa",
+      "maluya",
+      "mullya",
+      "mileyaa",
+      "maliya",
+      "mulya",
+      "melyaa",
+      "milaya",
+      "mulyaa",
+      "moilya"
+    ],
+    "id": 19509
+  },
+  "THLKA": {
+    "base_word": ".....",
+    "variants": [
+      "tahilka",
+      "tahlka",
+      "tahalkha",
+      "tahlexa",
+      "tahalaxa",
+      "thahalka",
+      "tahalkka",
+      "tahalkaa",
+      "tahalka",
+      "tahalaka",
+      "thhalexa"
+    ],
+    "id": 19510
+  },
+  "LGNTA": {
+    "base_word": ".....",
+    "variants": [
+      "lagenata",
+      "lagaunuta",
+      "laginaita"
+    ],
+    "id": 19511
+  },
+  "LGDYNA": {
+    "base_word": ".....",
+    "variants": [
+      "lagdynana",
+      "lagdayna",
+      "lagdaeyna",
+      "lagdyna"
+    ],
+    "id": 19513
+  },
+  "SKTA": {
+    "base_word": ".....",
+    "variants": [
+      "saktita",
+      "sakta",
+      "sashakta",
+      "skxata",
+      "shasakta",
+      "sakxata",
+      "sikauta",
+      "sukhuta",
+      "sasakta",
+      "sakthea",
+      "sikta",
+      "saktha",
+      "sakhta",
+      "sikhata",
+      "sakata",
+      "skta",
+      "saktaaa"
+    ],
+    "id": 19514
+  },
+  "SKSMA": {
+    "base_word": ".....",
+    "variants": [
+      "sakasma",
+      "sakesama",
+      "sakaesamma",
+      "sakesamma",
+      "sakesmma"
+    ],
+    "id": 19517
+  },
+  "MRKI": {
+    "base_word": ".....",
+    "variants": [
+      "marxaki",
+      "marekae",
+      "merci",
+      "mariraakhaekai",
+      "marakai",
+      "morxuki",
+      "merakai",
+      "marexi",
+      "marekoii",
+      "markai",
+      "marxuki",
+      "marekai",
+      "marki",
+      "morekai",
+      "marekoi",
+      "mareakai",
+      "marekei",
+      "morakai",
+      "maraikai",
+      "murkhai",
+      "murxai",
+      "mareki"
+    ],
+    "id": 19518
+  },
+  "SNKRTI": {
+    "base_word": ".....",
+    "variants": [
+      "sankrati",
+      "sasnkrti",
+      "sanakriti",
+      "sasnkriti",
+      "sankriti",
+      "sankirti"
+    ],
+    "id": 19519
+  },
+  "BRKT": {
+    "base_word": ".....",
+    "variants": [
+      "barakot",
+      "birkot",
+      "brokhoet",
+      "birkat"
+    ],
+    "id": 19521
+  },
+  "JNDGE": {
+    "base_word": ".....",
+    "variants": [
+      "jendage",
+      "jindge",
+      "jindagee",
+      "jindhage",
+      "jindage",
+      "jindaghee"
+    ],
+    "id": 19522
+  },
+  "PTL": {
+    "base_word": ".....",
+    "variants": [
+      "puthul",
+      "pital",
+      "puthal",
+      "pattal",
+      "putil",
+      "pittal",
+      "ftl",
+      "pathal",
+      "pitl",
+      "popatlal",
+      "futual",
+      "patall",
+      "paatal",
+      "patal",
+      "fathelol"
+    ],
+    "id": 19526
+  },
+  "AHO": {
+    "base_word": ".....",
+    "variants": [
+      "aheho",
+      "aaho",
+      "aahiho",
+      "ahhho",
+      "ahiho",
+      "ahoo",
+      "ahio",
+      "aeeho"
+    ],
+    "id": 19528
+  },
+  "NBNDNU": {
+    "base_word": ".....",
+    "variants": [
+      "nvndinu",
+      "navanndinu",
+      "nabhanidinu",
+      "navandinu",
+      "nabanaidinu"
+    ],
+    "id": 19533
+  },
+  "TBA": {
+    "base_word": ".....",
+    "variants": [
+      "tava",
+      "tauba",
+      "theba",
+      "tabaaaa",
+      "toba",
+      "tabha",
+      "thiaaba",
+      "taba",
+      "taaba",
+      "tba",
+      "tabba",
+      "tabaaa",
+      "thaba",
+      "tabaa",
+      "taaaba"
+    ],
+    "id": 19535
+  },
+  "SKCNI": {
+    "base_word": ".....",
+    "variants": [
+      "sakchaani",
+      "sacchainai",
+      "sacchinai"
+    ],
+    "id": 19536
+  },
+  "PRML": {
+    "base_word": ".....",
+    "variants": [
+      "premil",
+      "parmol",
+      "formol"
+    ],
+    "id": 19540
+  },
+  "HNDO": {
+    "base_word": ".....",
+    "variants": [
+      "hunndo",
+      "hunundo",
+      "handeao",
+      "hunudho",
+      "hundoo",
+      "hiundo",
+      "hundho",
+      "hindo",
+      "handeo",
+      "hunudoo",
+      "handio",
+      "hando",
+      "hunudo",
+      "hinduo",
+      "hunundooo",
+      "hundo",
+      "hanndo",
+      "hanido"
+    ],
+    "id": 19541
+  },
+  "RKSE": {
+    "base_word": ".....",
+    "variants": [
+      "requse",
+      "rakhashe",
+      "rekease",
+      "rokse",
+      "rakse"
+    ],
+    "id": 19543
+  },
+  "GMRI": {
+    "base_word": ".....",
+    "variants": [
+      "ghumaerai",
+      "ghamrai",
+      "ghimeri",
+      "ggemeri",
+      "ghumarai"
+    ],
+    "id": 19548
+  },
+  "ASRMN": {
+    "base_word": ".....",
+    "variants": [
+      "ashirmann",
+      "aasirman",
+      "aashirmaan",
+      "ashriman",
+      "asshirman",
+      "aashirman",
+      "asirman",
+      "ashirman"
+    ],
+    "id": 19549
+  },
+  "TNTA": {
+    "base_word": ".....",
+    "variants": [
+      "thinata",
+      "teneta",
+      "thinta",
+      "tinnta",
+      "tunta",
+      "tanata",
+      "tintaa",
+      "teenta"
+    ],
+    "id": 19550
+  },
+  "NPLK": {
+    "base_word": ".....",
+    "variants": [
+      "nepaliuk",
+      "nєpαlkє",
+      "nepalk",
+      "nepalix"
+    ],
+    "id": 19551
+  },
+  "PHRO": {
+    "base_word": ".....",
+    "variants": [
+      "pahiro",
+      "fohoro",
+      "pehro",
+      "pohero"
+    ],
+    "id": 19552
+  },
+  "BDKMA": {
+    "base_word": ".....",
+    "variants": [
+      "vaedekoma",
+      "budakoma",
+      "badhekoma"
+    ],
+    "id": 19558
+  },
+  "WDA": {
+    "base_word": ".....",
+    "variants": [
+      "wada",
+      "waida",
+      "wadda",
+      "waħda",
+      "woda"
+    ],
+    "id": 19559
+  },
+  "ACMKO": {
+    "base_word": ".....",
+    "variants": [
+      "achhamiko",
+      "aachammako",
+      "achamko",
+      "achaammmako",
+      "achhamako",
+      "achammako",
+      "achamako",
+      "achammko"
+    ],
+    "id": 19560
+  },
+  "BDLNE": {
+    "base_word": ".....",
+    "variants": [
+      "badaline",
+      "badline",
+      "badlene",
+      "badlane",
+      "bidholne",
+      "bdline",
+      "badalne"
+    ],
+    "id": 19561
+  },
+  "PBR": {
+    "base_word": ".....",
+    "variants": [
+      "foever",
+      "paber",
+      "fvour",
+      "favour",
+      "paŕbar",
+      "fevier",
+      "fvr"
+    ],
+    "id": 19562
+  },
+  "SNSRKO": {
+    "base_word": ".....",
+    "variants": [
+      "sansarko",
+      "sansaarko",
+      "sansarako"
+    ],
+    "id": 19567
+  },
+  "BLCS": {
+    "base_word": ".....",
+    "variants": [
+      "bolxhas",
+      "bolchhis",
+      "bolchas"
+    ],
+    "id": 19571
+  },
+  "KNYWY": {
+    "base_word": ".....",
+    "variants": [
+      "koanyway",
+      "kuniianyway",
+      "xaanyway"
+    ],
+    "id": 19572
+  },
+  "NBJY": {
+    "base_word": ".....",
+    "variants": [
+      "nabujay",
+      "nabhujey",
+      "nabujey",
+      "nabujhey"
+    ],
+    "id": 19577
+  },
+  "BKG": {
+    "base_word": ".....",
+    "variants": [
+      "bxkgh",
+      "bookig",
+      "vqg"
+    ],
+    "id": 19578
+  },
+  "JYNTKO": {
+    "base_word": ".....",
+    "variants": [
+      "jayentiko",
+      "jaynteko",
+      "jayenteko",
+      "jayantako",
+      "jayanteko"
+    ],
+    "id": 19581
+  },
+  "PRDSBT": {
+    "base_word": ".....",
+    "variants": [
+      "pradeshbata",
+      "pardesabata",
+      "pardesbata"
+    ],
+    "id": 19582
+  },
+  "HRSDI": {
+    "base_word": ".....",
+    "variants": [
+      "harisiddhi",
+      "harissidhi",
+      "hareshdai"
+    ],
+    "id": 19583
+  },
+  "WNA": {
+    "base_word": ".....",
+    "variants": [
+      "woina",
+      "wanna",
+      "wena",
+      "wana"
+    ],
+    "id": 19587
+  },
+  "TNY": {
+    "base_word": ".....",
+    "variants": [
+      "taanney",
+      "taany",
+      "tany",
+      "taney",
+      "tanney",
+      "thangney",
+      "toney",
+      "tetiney",
+      "tatauney",
+      "tainy",
+      "thaaney",
+      "tonny",
+      "tutney",
+      "tanay"
+    ],
+    "id": 19588
+  },
+  "MTNS": {
+    "base_word": ".....",
+    "variants": [
+      "motions",
+      "mitaunus",
+      "mothings",
+      "motaunus"
+    ],
+    "id": 19590
+  },
+  "JNMSTM": {
+    "base_word": ".....",
+    "variants": [
+      "janmaasthami",
+      "janmashtami",
+      "janmastami"
+    ],
+    "id": 19601
+  },
+  "NBJKO": {
+    "base_word": ".....",
+    "variants": [
+      "nbujeko",
+      "nabhujeko",
+      "nabujko",
+      "nabijako",
+      "nabujekooo",
+      "nabujhekoo",
+      "nabujiko",
+      "nabujeko",
+      "nubjheko",
+      "nbujako",
+      "nabujheko",
+      "nabjheko",
+      "nbujekoo",
+      "nabujako",
+      "nabhujheko",
+      "nabijeko"
+    ],
+    "id": 19603
+  },
+  "DSH": {
+    "base_word": ".....",
+    "variants": [
+      "desah",
+      "deshshh",
+      "deshhh",
+      "deshhhhhh",
+      "deshh",
+      "deeeeeshh",
+      "doshhh",
+      "dashh"
+    ],
+    "id": 19604
+  },
+  "UTRU": {
+    "base_word": ".....",
+    "variants": [
+      "utarau",
+      "utriu",
+      "utrriu"
+    ],
+    "id": 19606
+  },
+  "PRDKN": {
+    "base_word": ".....",
+    "variants": [
+      "pardhxan",
+      "producing",
+      "prodcan"
+    ],
+    "id": 19608
+  },
+  "KRMLE": {
+    "base_word": ".....",
+    "variants": [
+      "karmale",
+      "karmaale",
+      "xuramle"
+    ],
+    "id": 19609
+  },
+  "HRSA": {
+    "base_word": ".....",
+    "variants": [
+      "herisa",
+      "haruaasa",
+      "haresa",
+      "harsa",
+      "herusa",
+      "harsha"
+    ],
+    "id": 19612
+  },
+  "KMRD": {
+    "base_word": ".....",
+    "variants": [
+      "comred",
+      "camerared",
+      "kamred",
+      "commared",
+      "comrad"
+    ],
+    "id": 19613
+  },
+  "LKTR": {
+    "base_word": ".....",
+    "variants": [
+      "laiqatar",
+      "lakheter",
+      "laiquatar",
+      "lextérieur",
+      "lkhtr",
+      "lakhatar"
+    ],
+    "id": 19617
+  },
+  "SJNKO": {
+    "base_word": ".....",
+    "variants": [
+      "sejanko",
+      "sajanko",
+      "sujnako"
+    ],
+    "id": 19619
+  },
+  "CLYKA": {
+    "base_word": ".....",
+    "variants": [
+      "chalayka",
+      "chalyaxa",
+      "chalayaka",
+      "chalayeka",
+      "chalykoxa"
+    ],
+    "id": 19620
+  },
+  "GCYMI": {
+    "base_word": ".....",
+    "variants": [
+      "gachhyami",
+      "gachyami",
+      "gachchyami"
+    ],
+    "id": 19621
+  },
+  "TSTA": {
+    "base_word": ".....",
+    "variants": [
+      "taista",
+      "tatastha",
+      "tathasta",
+      "tessta",
+      "testaaa",
+      "teesta",
+      "testaa",
+      "tesaita",
+      "tista",
+      "thista",
+      "tesata",
+      "testia",
+      "tissta",
+      "tishta",
+      "titosatta",
+      "tasta",
+      "teasta"
+    ],
+    "id": 19622
+  },
+  "KRKRM": {
+    "base_word": ".....",
+    "variants": [
+      "karekrm",
+      "karakarm",
+      "kracrem",
+      "karkram",
+      "karikaram",
+      "karikarm",
+      "karekarm",
+      "karekaram",
+      "karakram",
+      "karakaram",
+      "karekram",
+      "karikram"
+    ],
+    "id": 19625
+  },
+  "HDNY": {
+    "base_word": ".....",
+    "variants": [
+      "hidhney",
+      "hedney",
+      "hednay",
+      "hidney"
+    ],
+    "id": 19627
+  },
+  "DKNTRL": {
+    "base_word": ".....",
+    "variants": [
+      "decentralized",
+      "decentralise",
+      "decentralisation"
+    ],
+    "id": 19629
+  },
+  "RMRPO": {
+    "base_word": ".....",
+    "variants": [
+      "ramrpo",
+      "ramropo",
+      "ramripo"
+    ],
+    "id": 19632
+  },
+  "ATSA": {
+    "base_word": ".....",
+    "variants": [
+      "atsa",
+      "aatsa",
+      "atsha"
+    ],
+    "id": 19635
+  },
+  "BLKRI": {
+    "base_word": ".....",
+    "variants": [
+      "blkari",
+      "balkaari",
+      "balkari"
+    ],
+    "id": 19637
+  },
+  "BRNDR": {
+    "base_word": ".....",
+    "variants": [
+      "birendar",
+      "birendr",
+      "brounder",
+      "virendar",
+      "birindar"
+    ],
+    "id": 19639
+  },
+  "IRI": {
+    "base_word": ".....",
+    "variants": [
+      "iriii",
+      "irrii",
+      "irri"
+    ],
+    "id": 19641
+  },
+  "BYSTA": {
+    "base_word": ".....",
+    "variants": [
+      "vayesita",
+      "baaa…yesta",
+      "byastha",
+      "byasta",
+      "byestata",
+      "bysata"
+    ],
+    "id": 19643
+  },
+  "BKWN": {
+    "base_word": ".....",
+    "variants": [
+      "bakwan",
+      "bhokwon",
+      "vakawaan"
+    ],
+    "id": 19644
+  },
+  "ANDO": {
+    "base_word": ".....",
+    "variants": [
+      "aando",
+      "andio",
+      "anndho",
+      "aandho",
+      "ando",
+      "aundo",
+      "andhoo",
+      "aaundo",
+      "andho",
+      "andhooo"
+    ],
+    "id": 19645
+  },
+  "NDTA": {
+    "base_word": ".....",
+    "variants": [
+      "nadhata",
+      "nandita",
+      "nindita",
+      "nindta"
+    ],
+    "id": 19646
+  },
+  "JNLNI": {
+    "base_word": ".....",
+    "variants": [
+      "junleni",
+      "janalainai",
+      "janalanai"
+    ],
+    "id": 19648
+  },
+  "SNDRI": {
+    "base_word": ".....",
+    "variants": [
+      "songdherai",
+      "sunedherai",
+      "songdheriii",
+      "sunderi",
+      "songderai",
+      "sendiri",
+      "songdharai"
+    ],
+    "id": 19650
+  },
+  "ADBSI": {
+    "base_word": ".....",
+    "variants": [
+      "aadhibaasi",
+      "adhivasii",
+      "adivasi",
+      "adhibasi",
+      "aadibasi",
+      "adivashi",
+      "aadabasi",
+      "aadibashi",
+      "adibashi",
+      "adhibashi",
+      "aadivasi",
+      "advisai",
+      "adibasi"
+    ],
+    "id": 19651
+  },
+  "BYBSTA": {
+    "base_word": ".....",
+    "variants": [
+      "byebastha",
+      "bhyabastha",
+      "vyabastha",
+      "baybasthaa",
+      "vyavastha",
+      "byabastha",
+      "byabasta",
+      "byabasthaa",
+      "beybasta",
+      "byabstha",
+      "byabashta",
+      "byebstha"
+    ],
+    "id": 19652
+  },
+  "NST": {
+    "base_word": ".....",
+    "variants": [
+      "nist",
+      "nishit",
+      "nasut"
+    ],
+    "id": 19654
+  },
+  "JRW": {
+    "base_word": ".....",
+    "variants": [
+      "jharerw",
+      "jaraw",
+      "jharaww",
+      "jharew"
+    ],
+    "id": 19655
+  },
+  "NRDSN": {
+    "base_word": ".....",
+    "variants": [
+      "nirdeson",
+      "nirdeshan",
+      "nirdesan",
+      "nirdasan",
+      "nirdessn",
+      "nirdesn"
+    ],
+    "id": 19656
+  },
+  "KNPRCA": {
+    "base_word": ".....",
+    "variants": [
+      "kinuparcha",
+      "khonuparcha",
+      "khanuparcha"
+    ],
+    "id": 19657
+  },
+  "NKN": {
+    "base_word": ".....",
+    "variants": [
+      "naxan",
+      "nakhan",
+      "nakhaun",
+      "nakin",
+      "nukun",
+      "nunkin",
+      "nakkung",
+      "naxaun",
+      "nikan",
+      "noking",
+      "nxn",
+      "naxuikan",
+      "nicng",
+      "naikin",
+      "nakung",
+      "nacn",
+      "nikun"
+    ],
+    "id": 19659
+  },
+  "HMN": {
+    "base_word": ".....",
+    "variants": [
+      "heman",
+      "hamein",
+      "həmin",
+      "homin",
+      "hoiiimaan",
+      "haiman",
+      "hamen",
+      "hmmnn",
+      "hummn",
+      "hmmn",
+      "humen",
+      "homann",
+      "humn",
+      "hoiman",
+      "humann",
+      "homan",
+      "hmong"
+    ],
+    "id": 19660
+  },
+  "KRTKA": {
+    "base_word": ".....",
+    "variants": [
+      "cortexa",
+      "kartika",
+      "kritika",
+      "kuroutexa"
+    ],
+    "id": 19665
+  },
+  "HWN": {
+    "base_word": ".....",
+    "variants": [
+      "hwng",
+      "hawan",
+      "hownn",
+      "howen",
+      "huwing"
+    ],
+    "id": 19674
+  },
+  "SRKTLI": {
+    "base_word": ".....",
+    "variants": [
+      "surkhethaili",
+      "surkhetlaii",
+      "surkhethaililai",
+      "surkhetlai",
+      "surkethaili"
+    ],
+    "id": 19679
+  },
+  "SRBS": {
+    "base_word": ".....",
+    "variants": [
+      "sarbis",
+      "sarvis",
+      "sarbash"
+    ],
+    "id": 19683
+  },
+  "DBRI": {
+    "base_word": ".....",
+    "variants": [
+      "dubarai",
+      "dbhari",
+      "dbeerai",
+      "dudabari",
+      "daibhari",
+      "divari",
+      "dberai"
+    ],
+    "id": 19686
+  },
+  "JNJN": {
+    "base_word": ".....",
+    "variants": [
+      "janjn",
+      "jhanjhan",
+      "janjan",
+      "janajan",
+      "jienienjen"
+    ],
+    "id": 19688
+  },
+  "DJLE": {
+    "base_word": ".....",
+    "variants": [
+      "dajulee",
+      "dajaile",
+      "daijaile",
+      "dajule",
+      "dijule",
+      "dajuaile",
+      "dhojale",
+      "dijjule"
+    ],
+    "id": 19690
+  },
+  "BHLKA": {
+    "base_word": ".....",
+    "variants": [
+      "vaiihalxa",
+      "vaehalxa",
+      "behalxa",
+      "bhahihalxa",
+      "baihalxa",
+      "vaihalxa",
+      "bhaihalxa"
+    ],
+    "id": 19693
+  },
+  "RMKI": {
+    "base_word": ".....",
+    "variants": [
+      "ramkai",
+      "ramkae",
+      "ramkei",
+      "ramki",
+      "rameki",
+      "ramaki",
+      "raamkai",
+      "ramakai",
+      "ramkoi",
+      "rumki",
+      "ramakaii",
+      "ramkaii"
+    ],
+    "id": 19695
+  },
+  "AJKA": {
+    "base_word": ".....",
+    "variants": [
+      "ajka",
+      "aajaka",
+      "aajaaka",
+      "aajka",
+      "aajoxa",
+      "aajxa",
+      "aajkaĺ",
+      "ajaka"
+    ],
+    "id": 19696
+  },
+  "DKRE": {
+    "base_word": ".....",
+    "variants": [
+      "dekhere",
+      "dicuore",
+      "dakhxre",
+      "dhekare",
+      "dhakure",
+      "dhukure",
+      "dekhare",
+      "dhakre",
+      "dekhxare",
+      "dukure"
+    ],
+    "id": 19702
+  },
+  "SMJME": {
+    "base_word": ".....",
+    "variants": [
+      "samajme",
+      "samjme",
+      "somjme",
+      "samjhme",
+      "samajhme"
+    ],
+    "id": 19703
+  },
+  "YTRTPR": {
+    "base_word": ".....",
+    "variants": [
+      "yetharthaparak",
+      "yatharthapark",
+      "yatharthaparak"
+    ],
+    "id": 19704
+  },
+  "BNKBT": {
+    "base_word": ".....",
+    "variants": [
+      "vanekobut",
+      "banauxabut",
+      "vnicebut"
+    ],
+    "id": 19714
+  },
+  "BLGI": {
+    "base_word": ".....",
+    "variants": [
+      "belgai",
+      "balagi",
+      "baligi"
+    ],
+    "id": 19715
+  },
+  "DKTR": {
+    "base_word": ".....",
+    "variants": [
+      "dactor",
+      "ductar",
+      "dictor",
+      "douctar",
+      "dacter",
+      "dactar",
+      "dooctor",
+      "docter",
+      "daktar",
+      "dicteor"
+    ],
+    "id": 19717
+  },
+  "PLPA": {
+    "base_word": ".....",
+    "variants": [
+      "pulpa",
+      "palpa",
+      "plpa",
+      "plapa"
+    ],
+    "id": 19719
+  },
+  "RBE": {
+    "base_word": ".....",
+    "variants": [
+      "revivee",
+      "rivive",
+      "rube",
+      "rabe",
+      "rêve",
+      "ravie",
+      "revieve",
+      "rebue"
+    ],
+    "id": 19720
+  },
+  "PRMI": {
+    "base_word": ".....",
+    "variants": [
+      "premii",
+      "promi",
+      "premiiiiii",
+      "prami",
+      "preami",
+      "perimi",
+      "premi",
+      "perami",
+      "preemi",
+      "peremi",
+      "freemai",
+      "primi",
+      "parmi",
+      "permi"
+    ],
+    "id": 19722
+  },
+  "BRTYA": {
+    "base_word": ".....",
+    "variants": [
+      "bharateya",
+      "bharitya",
+      "bharathiya",
+      "bharatiyaa",
+      "bharatiya",
+      "bhartiya",
+      "baratiya",
+      "varatiya"
+    ],
+    "id": 19725
+  },
+  "KGK": {
+    "base_word": ".....",
+    "variants": [
+      "cgcc",
+      "cghc",
+      "kgc",
+      "xgioxk"
+    ],
+    "id": 19728
+  },
+  "HNCR": {
+    "base_word": ".....",
+    "variants": [
+      "hoenachor",
+      "hunchachor",
+      "hinxhr",
+      "hunchar"
+    ],
+    "id": 19730
+  },
+  "NBRA": {
+    "base_word": ".....",
+    "variants": [
+      "navaira",
+      "naibaira",
+      "nivera",
+      "nabaara",
+      "navaara",
+      "nabuaera",
+      "naburera",
+      "nobra",
+      "nabhara",
+      "nabira",
+      "navera",
+      "navauera",
+      "nvara",
+      "nibera",
+      "navara",
+      "nobbra",
+      "navaera",
+      "nabhaera"
+    ],
+    "id": 19731
+  },
+  "SMTRA": {
+    "base_word": ".....",
+    "variants": [
+      "samatera",
+      "samatara",
+      "samaatera",
+      "samaataera",
+      "sametra",
+      "sumitra",
+      "samtra",
+      "samteera",
+      "sametera",
+      "smetera",
+      "sametara",
+      "samteraa",
+      "samtera"
+    ],
+    "id": 19737
+  },
+  "MYL": {
+    "base_word": ".....",
+    "variants": [
+      "mayal",
+      "meyal",
+      "mayllll",
+      "myl"
+    ],
+    "id": 19739
+  },
+  "NSKE": {
+    "base_word": ".....",
+    "variants": [
+      "naniskee",
+      "nsake",
+      "naske",
+      "nasce",
+      "naniske",
+      "naseke",
+      "nisce",
+      "nasakhe",
+      "naskke",
+      "neske",
+      "niske",
+      "nasake",
+      "nasakke",
+      "niskie"
+    ],
+    "id": 19743
+  },
+  "PKNKA": {
+    "base_word": ".....",
+    "variants": [
+      "pokhinxa",
+      "pukhinxa",
+      "pakenaxa"
+    ],
+    "id": 19744
+  },
+  "ALT": {
+    "base_word": ".....",
+    "variants": [
+      "aloott",
+      "altet",
+      "aulaat",
+      "allt",
+      "aulat",
+      "aaulat",
+      "alott",
+      "alot",
+      "allout",
+      "allooot",
+      "aolot",
+      "aailet",
+      "ailet"
+    ],
+    "id": 19746
+  },
+  "PRKNKU": {
+    "base_word": ".....",
+    "variants": [
+      "farkanxu",
+      "farkinxau",
+      "farkinxu",
+      "parkhinaxu",
+      "parkhinxu"
+    ],
+    "id": 19747
+  },
+  "HPY": {
+    "base_word": ".....",
+    "variants": [
+      "happyyyyy",
+      "happyy",
+      "heppy",
+      "hapoy",
+      "happpy",
+      "hepey",
+      "hpy",
+      "happyসাধু",
+      "happpyy",
+      "happyyyy",
+      "hepay",
+      "hppy",
+      "happey",
+      "hapy",
+      "haappyyy",
+      "hepyy",
+      "happpyyy",
+      "hhapppy",
+      "haapy"
+    ],
+    "id": 19748
+  },
+  "TMKO": {
+    "base_word": ".....",
+    "variants": [
+      "timiko",
+      "timko",
+      "tmko",
+      "teemko",
+      "tumko",
+      "teamko",
+      "temko",
+      "tamko",
+      "thaameko",
+      "tmceo",
+      "thameko",
+      "tamiko",
+      "timeko",
+      "tamuko"
+    ],
+    "id": 19751
+  },
+  "SRKCYA": {
+    "base_word": ".....",
+    "variants": [
+      "surkxhya",
+      "surakhchya",
+      "surkchaya",
+      "surakchya",
+      "surakchhya",
+      "surkchya",
+      "surakchiya"
+    ],
+    "id": 19753
+  },
+  "HTO": {
+    "base_word": ".....",
+    "variants": [
+      "hataoo",
+      "hoito",
+      "hutheo",
+      "huthoo",
+      "hito",
+      "hoto",
+      "hatoo",
+      "hitho",
+      "huteo",
+      "hatao",
+      "hutho",
+      "huto",
+      "haito",
+      "hato",
+      "hattao",
+      "hatto",
+      "huthio"
+    ],
+    "id": 19754
+  },
+  "NLE": {
+    "base_word": ".....",
+    "variants": [
+      "naile",
+      "nolole",
+      "niaile",
+      "nanile",
+      "nale",
+      "nanule",
+      "niule",
+      "nile",
+      "ninaile",
+      "nele",
+      "nalee",
+      "nunale",
+      "niaaile"
+    ],
+    "id": 19756
+  },
+  "HSL": {
+    "base_word": ".....",
+    "variants": [
+      "hsl",
+      "hoaasal",
+      "hoisal",
+      "hasil",
+      "hausal",
+      "haasil",
+      "hashil",
+      "hosall"
+    ],
+    "id": 19758
+  },
+  "PKNK": {
+    "base_word": ".....",
+    "variants": [
+      "piknic",
+      "pokhinx",
+      "picnick",
+      "picknik"
+    ],
+    "id": 19760
+  },
+  "BTWLI": {
+    "base_word": ".....",
+    "variants": [
+      "vatiwali",
+      "bhattiwali",
+      "bhatiwali"
+    ],
+    "id": 19762
+  },
+  "NWRI": {
+    "base_word": ".....",
+    "variants": [
+      "neawri",
+      "newari",
+      "niwari"
+    ],
+    "id": 19765
+  },
+  "BMLA": {
+    "base_word": ".....",
+    "variants": [
+      "bamala",
+      "bimla",
+      "bimala",
+      "bhumila"
+    ],
+    "id": 19767
+  },
+  "LGNY": {
+    "base_word": ".....",
+    "variants": [
+      "lagaauney",
+      "lgney",
+      "laagny",
+      "laghney",
+      "laagney",
+      "lagneyyy",
+      "lagney",
+      "lageney",
+      "lagneyy",
+      "lagny",
+      "lagaunay",
+      "laganey",
+      "lagnay",
+      "logney",
+      "laganay",
+      "llagnay",
+      "lagaeney",
+      "lagauney"
+    ],
+    "id": 19771
+  },
+  "TRNCA": {
+    "base_word": ".....",
+    "variants": [
+      "tarinxhha",
+      "tharincha",
+      "tirnuchha"
+    ],
+    "id": 19772
+  },
+  "LMTA": {
+    "base_word": ".....",
+    "variants": [
+      "laimeta",
+      "laimata",
+      "lamta"
+    ],
+    "id": 19774
+  },
+  "MSKN": {
+    "base_word": ".....",
+    "variants": [
+      "mushkan",
+      "muskan",
+      "misician",
+      "maskin",
+      "muskaan",
+      "muskin",
+      "moskan"
+    ],
+    "id": 19775
+  },
+  "KSKNI": {
+    "base_word": ".....",
+    "variants": [
+      "khasekoni",
+      "kasakni",
+      "kasaikoni"
+    ],
+    "id": 19781
+  },
+  "DNRMA": {
+    "base_word": ".....",
+    "variants": [
+      "donnarumma",
+      "dinrma",
+      "dhungrama",
+      "dhungroma"
+    ],
+    "id": 19782
+  },
+  "NBDI": {
+    "base_word": ".....",
+    "variants": [
+      "nibhaudai",
+      "nabudhi",
+      "noobdai",
+      "nabiddai",
+      "naubadi",
+      "nabaddai"
+    ],
+    "id": 19784
+  },
+  "PRTMKT": {
+    "base_word": ".....",
+    "variants": [
+      "prathmikta",
+      "prathamiktha",
+      "praathamikta",
+      "parthamikata",
+      "parthamikta",
+      "parathamikta",
+      "prathamikata",
+      "prathimakta",
+      "pratamikta",
+      "parthamiktaaa",
+      "prarthmikta",
+      "prathaamikta",
+      "prathamikta"
+    ],
+    "id": 19785
+  },
+  "CLTI": {
+    "base_word": ".....",
+    "variants": [
+      "xolti",
+      "chlti",
+      "chulti",
+      "chalti"
+    ],
+    "id": 19786
+  },
+  "YDRLE": {
+    "base_word": ".....",
+    "variants": [
+      "yadharule",
+      "yaadharule",
+      "yadherule"
+    ],
+    "id": 19792
+  },
+  "BDRGLK": {
+    "base_word": ".....",
+    "variants": [
+      "bhadragoalko",
+      "bhadragolka",
+      "bhadragolko",
+      "vadragolko"
+    ],
+    "id": 19800
+  },
+  "IMSN": {
+    "base_word": ".....",
+    "variants": [
+      "imsang",
+      "imoson",
+      "imsong"
+    ],
+    "id": 19803
+  },
+  "BLKLE": {
+    "base_word": ".....",
+    "variants": [
+      "balxile",
+      "bolekole",
+      "balakle",
+      "bolxile"
+    ],
+    "id": 19805
+  },
+  "KNCO": {
+    "base_word": ".....",
+    "variants": [
+      "knxo",
+      "cancho",
+      "kinchoo",
+      "xunxo",
+      "kanchho",
+      "khanxo",
+      "khancho",
+      "kanxo",
+      "kancho"
+    ],
+    "id": 19806
+  },
+  "BNSWR": {
+    "base_word": ".....",
+    "variants": [
+      "baneswar",
+      "baneshower",
+      "baneswor",
+      "banswor",
+      "baneshwor",
+      "baneshowr"
+    ],
+    "id": 19809
+  },
+  "JLRA": {
+    "base_word": ".....",
+    "variants": [
+      "jalira",
+      "jhalera",
+      "jalera",
+      "jelera",
+      "jhulaera",
+      "jholera",
+      "jalara"
+    ],
+    "id": 19814
+  },
+  "NLYA": {
+    "base_word": ".....",
+    "variants": [
+      "nilya",
+      "nalyaya",
+      "nlaya",
+      "nalaya"
+    ],
+    "id": 19816
+  },
+  "GCN": {
+    "base_word": ".....",
+    "variants": [
+      "gaauchan",
+      "gauchan",
+      "gachan",
+      "gaauchhan",
+      "gauchhan",
+      "guachhin",
+      "gachhen"
+    ],
+    "id": 19818
+  },
+  "HNHRKO": {
+    "base_word": ".....",
+    "variants": [
+      "haanneharuko",
+      "huneharuko",
+      "hinharuko",
+      "hanneharuko"
+    ],
+    "id": 19820
+  },
+  "UTM": {
+    "base_word": ".....",
+    "variants": [
+      "uthaaam",
+      "utthamm",
+      "uotaam",
+      "uthamm",
+      "uthaam",
+      "uttam",
+      "utham",
+      "utam",
+      "ṳt̤t̤a̤m̤",
+      "uthaum"
+    ],
+    "id": 19822
+  },
+  "HNDSM": {
+    "base_word": ".....",
+    "variants": [
+      "handosm",
+      "hendsom",
+      "handsam",
+      "hinduism",
+      "hendsam",
+      "handsum",
+      "handsom",
+      "handsm",
+      "hndsm",
+      "hndsom",
+      "hinduisim",
+      "hondsom",
+      "hindusm",
+      "hendsham"
+    ],
+    "id": 19823
+  },
+  "OCH": {
+    "base_word": ".....",
+    "variants": [
+      "oichhh",
+      "ouchhhh",
+      "oichhhh"
+    ],
+    "id": 19824
+  },
+  "NRKYRA": {
+    "base_word": ".....",
+    "variants": [
+      "narakhyra",
+      "narokiyara",
+      "narakheyera"
+    ],
+    "id": 19825
+  },
+  "AGDM": {
+    "base_word": ".....",
+    "variants": [
+      "agdam",
+      "aagdam",
+      "aegdam",
+      "agdham",
+      "agdm",
+      "aagdm"
+    ],
+    "id": 19826
+  },
+  "JNDYO": {
+    "base_word": ".....",
+    "variants": [
+      "jundiyo",
+      "jhundiyo",
+      "jhundyo"
+    ],
+    "id": 19828
+  },
+  "SKCY": {
+    "base_word": ".....",
+    "variants": [
+      "socchey",
+      "sikxhey",
+      "sikchey"
+    ],
+    "id": 19832
+  },
+  "NHM": {
+    "base_word": ".....",
+    "variants": [
+      "nahim",
+      "nahum",
+      "nahaum",
+      "nahoum",
+      "nhm",
+      "niham"
+    ],
+    "id": 19836
+  },
+  "ANPD": {
+    "base_word": ".....",
+    "variants": [
+      "anpaad",
+      "anpdh",
+      "aanpaad",
+      "anpad",
+      "aanpad",
+      "anapadh",
+      "anpadh",
+      "aanpadh",
+      "anapad"
+    ],
+    "id": 19838
+  },
+  "KNDS": {
+    "base_word": ".....",
+    "variants": [
+      "xandesh",
+      "kandas",
+      "kinds",
+      "khands"
+    ],
+    "id": 19842
+  },
+  "KTJ": {
+    "base_word": ".....",
+    "variants": [
+      "kattej",
+      "katej",
+      "xitij",
+      "ktej",
+      "cotej",
+      "kxitij",
+      "kataj",
+      "cattej"
+    ],
+    "id": 19847
+  },
+  "NCNY": {
+    "base_word": ".....",
+    "variants": [
+      "nachainay",
+      "nachaainey",
+      "nachney",
+      "nachainey",
+      "nachnay",
+      "nachany",
+      "nachinney",
+      "nachiney"
+    ],
+    "id": 19853
+  },
+  "TYK": {
+    "base_word": ".....",
+    "variants": [
+      "thyak",
+      "thiyak",
+      "tya…k",
+      "tyaxxx",
+      "tyaak",
+      "tyk",
+      "thiyex",
+      "thiyek",
+      "thyok",
+      "thyk",
+      "tyc",
+      "theyak",
+      "tyak",
+      "thiyk"
+    ],
+    "id": 19854
+  },
+  "KHLNI": {
+    "base_word": ".....",
+    "variants": [
+      "kahilenai",
+      "kahilenii",
+      "kahileni"
+    ],
+    "id": 19859
+  },
+  "RTMA": {
+    "base_word": ".....",
+    "variants": [
+      "raatmaa",
+      "raatma",
+      "ratma",
+      "ratamaa",
+      "rituma",
+      "rataimaa",
+      "ratoma",
+      "ratima",
+      "raatima",
+      "rataima",
+      "raataima"
+    ],
+    "id": 19861
+  },
+  "LBH": {
+    "base_word": ".....",
+    "variants": [
+      "lövhə",
+      "luvhh",
+      "lebih",
+      "laavh"
+    ],
+    "id": 19875
+  },
+  "NGRDNU": {
+    "base_word": ".....",
+    "variants": [
+      "nagaraidinu",
+      "nagrdinu",
+      "nagaridinu",
+      "nagardinu"
+    ],
+    "id": 19876
+  },
+  "CLCA": {
+    "base_word": ".....",
+    "variants": [
+      "chlcha",
+      "chhalcha",
+      "chalchaa",
+      "chalecha",
+      "chalechha",
+      "chalchha",
+      "chalxha",
+      "chalucha",
+      "chalacha",
+      "chalcha",
+      "chalaucha"
+    ],
+    "id": 19880
+  },
+  "PRDM": {
+    "base_word": ".....",
+    "variants": [
+      "paridam",
+      "puraidimm",
+      "freedommmmmmm",
+      "pardim",
+      "pirdim",
+      "puraidem",
+      "puraidim",
+      "pradam"
+    ],
+    "id": 19882
+  },
+  "BLHRU": {
+    "base_word": ".....",
+    "variants": [
+      "bolharu",
+      "bhaluharuu",
+      "ballaheru"
+    ],
+    "id": 19883
+  },
+  "AGRJ": {
+    "base_word": ".....",
+    "variants": [
+      "agraj",
+      "aggraj",
+      "aagaraj",
+      "agaraj",
+      "agarj",
+      "aagraj"
+    ],
+    "id": 19885
+  },
+  "DJR": {
+    "base_word": ".....",
+    "variants": [
+      "djur",
+      "dhajer",
+      "djr",
+      "dojer",
+      "dajur",
+      "ddhjr",
+      "dhojar",
+      "dojar"
+    ],
+    "id": 19886
+  },
+  "SKNT": {
+    "base_word": ".....",
+    "variants": [
+      "siknet",
+      "skont",
+      "shashikant"
+    ],
+    "id": 19892
+  },
+  "MLNKO": {
+    "base_word": ".....",
+    "variants": [
+      "milaunako",
+      "melinako",
+      "milneko",
+      "milanko",
+      "milniko",
+      "melenako",
+      "milenako"
+    ],
+    "id": 19894
+  },
+  "ALMLA": {
+    "base_word": ".....",
+    "variants": [
+      "alamala",
+      "alamalla",
+      "allamalla",
+      "almalla"
+    ],
+    "id": 19899
+  },
+  "HRNLE": {
+    "base_word": ".....",
+    "variants": [
+      "hernile",
+      "hernale",
+      "hironile",
+      "heronile",
+      "hernlie",
+      "hoeranle",
+      "hernele",
+      "harunle",
+      "heroinele",
+      "hernnele",
+      "heroinle",
+      "hernalaieeeeeeeeeeeeeeeee"
+    ],
+    "id": 19903
+  },
+  "TRSA": {
+    "base_word": ".....",
+    "variants": [
+      "tirisa",
+      "turesa",
+      "teresaa",
+      "teresa",
+      "trisha",
+      "terisa",
+      "tersa"
+    ],
+    "id": 19906
+  },
+  "RSNKE": {
+    "base_word": ".....",
+    "variants": [
+      "risauneke",
+      "razanice",
+      "resaunxe"
+    ],
+    "id": 19912
+  },
+  "NBNYE": {
+    "base_word": ".....",
+    "variants": [
+      "nabanaye",
+      "nbanaye",
+      "nabanye",
+      "nabaanaye",
+      "nabanaaye"
+    ],
+    "id": 19914
+  },
+  "MNCYE": {
+    "base_word": ".....",
+    "variants": [
+      "maanchye",
+      "manxhye",
+      "manchye"
+    ],
+    "id": 19917
+  },
+  "ARHKA": {
+    "base_word": ".....",
+    "variants": [
+      "airahekoxa",
+      "aairaheka",
+      "aairahexa"
+    ],
+    "id": 19918
+  },
+  "SNTLI": {
+    "base_word": ".....",
+    "variants": [
+      "sngeetlai",
+      "sunttali",
+      "suntali",
+      "sangitalai",
+      "santalai",
+      "sangitlai",
+      "suntalii",
+      "santatilai",
+      "shuntali",
+      "suntalilai",
+      "suntaliai",
+      "suntli",
+      "santali",
+      "suntaali",
+      "sangitli",
+      "sintali",
+      "sangitlaai",
+      "suntalili",
+      "sunatali",
+      "sangeetlai"
+    ],
+    "id": 19919
+  },
+  "CKTN": {
+    "base_word": ".....",
+    "variants": [
+      "chhaacting",
+      "chaikhotang",
+      "chaacting",
+      "chaiacting"
+    ],
+    "id": 19922
+  },
+  "KRTR": {
+    "base_word": ".....",
+    "variants": [
+      "keretar",
+      "krater",
+      "caretar",
+      "kaaretaar",
+      "kartur",
+      "creater",
+      "cretor",
+      "qarter",
+      "caretor",
+      "carater",
+      "caretr"
+    ],
+    "id": 19924
+  },
+  "ANRJ": {
+    "base_word": ".....",
+    "variants": [
+      "angrej",
+      "aanuroj",
+      "anuraj"
+    ],
+    "id": 19929
+  },
+  "SBL": {
+    "base_word": ".....",
+    "variants": [
+      "sbl",
+      "sabail",
+      "sibal",
+      "sabal",
+      "sevalal",
+      "sabaal",
+      "shival",
+      "sabl"
+    ],
+    "id": 19930
+  },
+  "ABSLTL": {
+    "base_word": ".....",
+    "variants": [
+      "abosultley",
+      "absulutly",
+      "absoulatly"
+    ],
+    "id": 19932
+  },
+  "NHS": {
+    "base_word": ".....",
+    "variants": [
+      "nhoss",
+      "nahooos",
+      "nahossss",
+      "nàhos",
+      "nohos",
+      "nhs",
+      "nahuss",
+      "nuhos",
+      "nahoss",
+      "nahus",
+      "nahish",
+      "nahosss",
+      "nahosz",
+      "nahas",
+      "nuhosh",
+      "nahis",
+      "nahos",
+      "nahosh",
+      "nihos",
+      "nhos",
+      "nahasus",
+      "nhoas",
+      "nahisss",
+      "nahoos",
+      "nhosh",
+      "nahos…",
+      "nahass"
+    ],
+    "id": 19942
+  },
+  "ANR": {
+    "base_word": ".....",
+    "variants": [
+      "anor",
+      "anur",
+      "ainger",
+      "anar",
+      "aaunar",
+      "aunr",
+      "angir",
+      "anuar",
+      "anaar",
+      "annar",
+      "angar",
+      "angaar",
+      "angur",
+      "aungaor",
+      "aanur",
+      "anir",
+      "aanuar"
+    ],
+    "id": 19947
+  },
+  "NKCE": {
+    "base_word": ".....",
+    "variants": [
+      "nakchucheeee",
+      "naakchuchche",
+      "nakoche"
+    ],
+    "id": 19948
+  },
+  "HSPTLM": {
+    "base_word": ".....",
+    "variants": [
+      "haspitlma",
+      "hospitalma",
+      "haspitalma",
+      "haspetalma"
+    ],
+    "id": 19951
+  },
+  "YPCR": {
+    "base_word": ".....",
+    "variants": [
+      "yopuchar",
+      "yopachar",
+      "yupchar",
+      "ypachar",
+      "yupachar"
+    ],
+    "id": 19952
+  },
+  "LHA": {
+    "base_word": ".....",
+    "variants": [
+      "laiuha",
+      "lhaa",
+      "laha",
+      "laihahahahaha",
+      "laihahaha",
+      "lehahahaha",
+      "lha",
+      "lehahaha",
+      "laihahahaaha",
+      "lolhaha",
+      "lehahahaaaa"
+    ],
+    "id": 19957
+  },
+  "HNMLI": {
+    "base_word": ".....",
+    "variants": [
+      "hoinamalai",
+      "hunnamalaai",
+      "hainamalai"
+    ],
+    "id": 19960
+  },
+  "BCLRS": {
+    "base_word": ".....",
+    "variants": [
+      "bachelors",
+      "bachlores",
+      "bachlors"
+    ],
+    "id": 19963
+  },
+  "NRMRI": {
+    "base_word": ".....",
+    "variants": [
+      "naramroi",
+      "naramri",
+      "naramrooi",
+      "nramrai",
+      "nanramri",
+      "naramari",
+      "nramri",
+      "naraamri",
+      "narmri",
+      "naramrai",
+      "naramrari",
+      "nrmri",
+      "naramrii"
+    ],
+    "id": 19965
+  },
+  "KLDNU": {
+    "base_word": ".....",
+    "variants": [
+      "kheldaenau",
+      "kholidinu",
+      "khulaidinu",
+      "khoildinu",
+      "kholdinu",
+      "kheladinu",
+      "kheldinu"
+    ],
+    "id": 19969
+  },
+  "TLNI": {
+    "base_word": ".....",
+    "variants": [
+      "tailenai",
+      "tolauni",
+      "talainai",
+      "talini",
+      "thalani",
+      "talani",
+      "toileni",
+      "teleni",
+      "tlauni",
+      "taileni"
+    ],
+    "id": 19970
+  },
+  "GYTA": {
+    "base_word": ".....",
+    "variants": [
+      "gaayata",
+      "ghayta",
+      "gayta",
+      "gayeta",
+      "gayota",
+      "gayoetta",
+      "giyata"
+    ],
+    "id": 19975
+  },
+  "SKRI": {
+    "base_word": ".....",
+    "variants": [
+      "sashkaarai",
+      "suikari",
+      "sikri",
+      "saskriri",
+      "saskari",
+      "zakari",
+      "zakri",
+      "sikari",
+      "sakerai",
+      "sikhri",
+      "sakari",
+      "shakari",
+      "zikri",
+      "saskri",
+      "sakri",
+      "shaskari",
+      "sakkaerai",
+      "ziqri",
+      "saekari"
+    ],
+    "id": 19976
+  },
+  "AKTRSL": {
+    "base_word": ".....",
+    "variants": [
+      "actorslocationvoice",
+      "actorslai",
+      "actresseslai",
+      "actreslalita"
+    ],
+    "id": 19979
+  },
+  "KJNA": {
+    "base_word": ".....",
+    "variants": [
+      "khojnaa",
+      "khojna",
+      "xakhojna",
+      "xajna",
+      "kojna",
+      "khajana",
+      "khijna",
+      "khojena",
+      "khojina",
+      "cjaina",
+      "khojana",
+      "kojina",
+      "xajana"
+    ],
+    "id": 19981
+  },
+  "THK": {
+    "base_word": ".....",
+    "variants": [
+      "tihk",
+      "thahax",
+      "tahk",
+      "thaahax",
+      "thhuk",
+      "thhak",
+      "thhik",
+      "thhukkk",
+      "thahac",
+      "thhaak"
+    ],
+    "id": 19982
+  },
+  "MCH": {
+    "base_word": ".....",
+    "variants": [
+      "mochhh",
+      "muchhhhh",
+      "muchhh",
+      "machhh",
+      "muchhhh"
+    ],
+    "id": 19985
+  },
+  "HLYNI": {
+    "base_word": ".....",
+    "variants": [
+      "halyoni",
+      "halayni",
+      "halyuni",
+      "halyauni"
+    ],
+    "id": 19986
+  },
+  "WHN": {
+    "base_word": ".....",
+    "variants": [
+      "wahan”",
+      "whean",
+      "whєn",
+      "wahan"
+    ],
+    "id": 19988
+  },
+  "MNRA": {
+    "base_word": ".....",
+    "variants": [
+      "munnira",
+      "mangera",
+      "manerara",
+      "manarera",
+      "munara",
+      "manra",
+      "mannara",
+      "munaara",
+      "manera",
+      "manaera",
+      "manara",
+      "minura",
+      "mnera",
+      "manira",
+      "maanera"
+    ],
+    "id": 19989
+  },
+  "ARKNU": {
+    "base_word": ".....",
+    "variants": [
+      "aerakhnu",
+      "airakhnu",
+      "aairakhnu"
+    ],
+    "id": 19991
+  },
+  "DCA": {
+    "base_word": ".....",
+    "variants": [
+      "decha",
+      "didecha",
+      "diecha",
+      "dideucha",
+      "didaicha",
+      "dhacha",
+      "dicha",
+      "daicha",
+      "dacha",
+      "ducha"
+    ],
+    "id": 19992
+  },
+  "NGNI": {
+    "base_word": ".....",
+    "variants": [
+      "naganunai",
+      "nagaini",
+      "nagnai",
+      "naaghaauni",
+      "naagauni",
+      "naaghauni",
+      "naaaghauni",
+      "nagauni",
+      "nagini",
+      "naghauni",
+      "nagaununi"
+    ],
+    "id": 19993
+  },
+  "HGE": {
+    "base_word": ".....",
+    "variants": [
+      "hage",
+      "hugee",
+      "hehege",
+      "hogee",
+      "hague",
+      "hoge"
+    ],
+    "id": 19994
+  },
+  "BLGS": {
+    "base_word": ".....",
+    "variants": [
+      "villages",
+      "volgs",
+      "vlogs",
+      "blogs",
+      "bilges",
+      "vloges"
+    ],
+    "id": 19996
+  },
+  "HRDKA": {
+    "base_word": ".....",
+    "variants": [
+      "heradaixuka",
+      "hardika",
+      "herdekha",
+      "hārdika",
+      "herdaixa",
+      "heridaixa",
+      "hardhika"
+    ],
+    "id": 19998
+  },
+  "RJS": {
+    "base_word": ".....",
+    "variants": [
+      "raajes",
+      "rajes",
+      "rajish",
+      "raejesh",
+      "rajas",
+      "rajeesh",
+      "rajaesh",
+      "rjesh",
+      "rajesh",
+      "rajsh",
+      "raajesh",
+      "rajaaus",
+      "rajash",
+      "rejesh",
+      "rajhesh",
+      "rajhes",
+      "rajess",
+      "rajssh",
+      "rojesh"
+    ],
+    "id": 20000
+  }
+}
