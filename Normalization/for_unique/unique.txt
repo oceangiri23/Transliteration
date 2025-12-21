@@ -1,0 +1,1040 @@
+baisakh, baishakh, baisaaak, baysakh, baesakh, besakh,
+jestha, jetha, jeshtha, jeth, jethaah, jeshta,
+asadh, asar, aasad, asaar, assar, asad,
+shrawan, shrawun, shravan, srawan, shraawan, sarawan,
+bhadra, bhadau, bhado, bhadraah, badra, bhadro,
+ashoj, asoj, ashuj, ashooz, ashoz,
+kartik, kartick, kartikah, kartiq, kaartik, kartikaa,
+mangshir, mangsir, manshir, mansir, munsir, mangseer,
+poush, posh, paush, powsh, poosh, pous,
+magh, maag, mag, maagh, makh,
+falgun, falgoon, falyun, phalgun, fhalgun, falgunah,
+chaitra, chaitar, chetra, chaitraa, chaitri, chaiter
+
+aaitabaar, aaitabar, aaitabar, aaitbaar, aitabar, aitbaar, aaytabar, aaitavar, aitvar, aitbar, aitbaar,
+sombaar, sombar, sombaar, somwar, somvar, somwaar, somvaer, sombarr, sambar, soombar,
+mangalbaar, mangalbar, mangalbaar, mangalwar, mangalvar, mangalwaar, mangalb, mangalbarrr, mangalbarr, mangalvaar,
+budhabaar, budhabar, budhabaar, budhbar, budhbaar, budhwar, budhvar, budabaar, boodabar, budabar,
+bihibaar, bihibaar, bhibaar, bhibar, bihibar, bihebaar, bihibarr, bihibarrr, bihibaar, bhibaar,
+shukrabaar, shukrabar, shukrabaar, shukrawar, shukravar, shukrawaar, shukrab, shukrabarrr, sukrabaar, sukrabar,
+shanibaar, shanibar, shanibaar, shaniwar, shanivar, shaniwaar, shanib, shanibarr, sanibaar, sanibar
+
+purba, purva, purbaa, purwa, purbah, puraba, purbaaa, purbaho, purbaside, purb,
+paschim, paschin, pashchim, pashchin, paschimah, paschhim, paschhin, paschimside, paschimho, paschimmm,
+uttar, uttarrr, utar, uttarh, uttra, utra, uttara, uttarside, uttarho, uttarrrr,
+dakshin, dakshina, dakchin, daksin, dakshhin, dakshinah, dakshinside, dakshinho, dakshinmm, dakshinaaa
+
+kera, kela, keyra, keraa, keraaa, kaila, kayra,
+syaau, syau, siau, syaoo, syaauu, siaau, syawo,
+amba, aam, aamba, am, aammm, ambah, ambaa,
+suntala, suntalaa, suntla, suntaala, suntalaaa, suntalaaah,
+anar, anaar, anarrr, aneer, anarr, anaarah,
+kagati, kagatii, kagti, kagatee, kagatiii, kagatiyah,
+angur, angoor, angurr, anguur, angor, angoorr,
+naspati, naspatee, naspatiii, nashpati, naspata, naspaty,
+lichi, lichi, lechi, litchi, lichii, lechii,
+kharbuja, kharbooja, kharbujaa, kharbujaaa, kharbujah,
+tarbuja, tarbooja, tarbujaa, tarbujaaa, tarbujah,
+bhogate, bhogataa, bhogatey, bhokate, bhogateee, bhogata,
+aaru, aaru, aru, aaruu, aarooo, aaruh,
+meva, mewaa, meba, mevaa, mewah,
+jamun, jamoon, jamunn, jamuun, jamoone,
+lapsi, lapsii, lapsee, lapshi, lapsy
+amala, aamalakii, aamalaki, amalaa, amla, aamlah,
+bel, bael, belaa, belah, baela, belii,
+kafal, kafall, kaafal, kafaloo, kafalah, kaaphal,
+aiselu, aiselu, aaiselu, aiselloo, ayselu, aiseluu,
+jamir, jameer, jamirr, jamirii, jameerah,
+nibuwa, nibuvaa, nibua, nibuah, nebuwa, nibuaa,
+phalamewa, phalmewa, falamewa, phalamewa, phalmevaa,
+sitaphal, sitafal, sitaphall, sitafall, sitaphala,
+papita, papitaa, papitaaa, papitha, papeeta, papeta,
+anarasa, ananas, ananash, ananaas, annanas, ananass,
+nariwal, nariyal, narial, nariwaal, nariyall, nariwaloo,
+khajur, khajoor, khajurr, khajuur, khajorah,
+badam, badaam, badamm, badamii, badaamah,
+akharot, akhrot, akharott, akharoat, akharod,
+kaaju, kaju, kaajuu, kajoo, kajuh,
+pistaa, pista, pistaa, pistah, pishtha
+
+
+dalbhat, dalbhat, daalbhat, dalbhaat, daalbhaat, dalbhatt, dalbhattt, dalbhatta, dalvat, dalvaat,
+momo, momoo, momoos, momoz, momoaa, momooo, moma, momoho, mommo, momooy,
+chowmein, chowmin, chowmein, chowmeeen, chowmain, chowmen, chowmeon, chowmeen, chauimin, chomin,
+achar, achaar, acchar, acharrr, acher, acharah, acharho, acharr, acharu, acharya,
+selroti, selroti, selrotii, selrotii, selrotie, selroty, selrooti, selrot, selrotee,
+gundruk, gundrukko, gundrukk, gundruc, gundruuk, gundrukh, gundrukah, gundrukho,
+dhido, dhidoh, dhidoo, dhiddo, dido, dhidooo, dhidho, dhidah,
+alutama, alutama, alootama, alutaama, alutamma, alutamah, alutamaaa,
+chatamari, chatamari, chatamaree, chatamrii, chatamary, chattamari, chatamariii,
+yomari, yomarii, yommari, yomary, yomaree, yomaari, yomariii,
+bara, baara, baraa, barah, baaraa, baraaa, bbara, baraho,
+choila, choilaa, choyla, choilaah, choylaa, choilaaa, choylah,
+sukuti, sukutii, sukooti, sukutee, sukutiii, sukuty, sukutti,
+thukpa, thukpaa, thukpah, thukppa, thukpaah, thukpaaa, thukbah,
+khajaset, khajaset, khajasett, khajasetto, khajaseet, khajaseet,
+samaybaji, samaybaji, samaibaji, samaybajee, samaybajii, samaybaje,
+aluchop, aluchop, aloochop, aluchopp, aluchopp, aluchoppp,
+pakoda, pakodaah, pakodaa, pakoura, pakora, pakoraa, pakodaaa,
+samosa, samosaah, samoosa, samossa, samosaa, samosaaa,
+kachila, kachilaa, kachilla, kachela, kachilah, kachilaaa,
+bhutekobhat, bhutekobhatt, bhutekovaat, bhutekobhat, bhutekoobhat,
+chiura, chiuraa, chura, chyoora, chiurraa, chiuraha,
+dahi, dahii, dahee, dahy, dahiii, daahii,
+lassi, lassii, lasi, lasee, lassyyy, lassie,
+masubhat, masubhat, masubhaat, masoobhat, masubhatt, masuvaat,
+buffmomo, buffmomo, buffmomoo, bufmomo, buffmomoz, buffmomooo,
+chickenmomo, chickenmomo, chiknmomo, chickenmomoo, chikmomo,
+vegmomo, vegmomo, veegmomo, vegmomoo, vegmomoz,
+eggcurry, eggcurry, eggkarry, egcurry, eggcurryy,
+alucurry, alucurry, aloocurry, alukarry, alucurryy,
+saag, saagg, saagaa, sag, saagh, saagoo,
+tarkari, tarkarii, tarkary, tarakari, tarkaree, tarkariii,
+faparroti, faparrotii, phaparroti, faparrroti, faparrotee,
+makairoti, makaroti, makairotii, makairooti, makairotee,
+bhakka, bhakkaa, bhakkaah, bhakha, bhakaa, bhakkah,
+dhungri, dhungrii, dhungre, dhungary, dhungry, dhungrii,
+sinki, sinkii, sinky, sincki, sinkee, sinkiah,
+tilkoladdu, tilkoladdu, tilladdu, tilladdoo, tilladduu,
+gajarhaluwa, gajarhalwa, gajjarhalwa, gajarhaluaa, gajarhalva,
+kheer, kheerh, kheerii, khir, kheerr, kheerah,
+puritarkari, puritarkary, pooritarkari, puritarakari,
+andachiura, andachiura, andachyura, andachiuraa, andachura,
+chanachat, chanachat, chanachaat, channachat, chanachatt
+
+kathmandu, kathmandau, kathmanduvalley, kathmanduu, kathmadu, ktm, kathmandhu,
+lalitpur, lalitpoor, lalitpurah, lalitpurii, patan, lalitpurr,
+bhaktapur, bhaktpur, bhaktapoor, bhaktapurii, bhaktapurr, bhaktapurah,
+pokhara, pokhra, pokharaa, pokharaah, pokra, pkr,
+chitwan, chitwon, chitwaan, chitwanah, chitwann, ctwn,
+biratnagar, biratnagar, biratnagr, biratnagarr, biratnagarah,
+birgunj, birganj, birganz, birgunja, birgunnj,
+janakpur, janakpoor, janakpurr, janakpura, jnkpr,
+dharan, dharanah, dharann, dharran, daran,
+butwal, butwol, butwaal, butwalh, butwoll,
+hetauda, hetaudaah, hetaoda, hetaouda, hetaunda,
+nepalgunj, nepalganj, nepalgunja, nepalgunjj, neplgunj,
+itahari, itaharee, itaharii, itaahari, itaharry,
+dhangadhi, dhangadi, dhangadhee, dhangaddhi, dangadhi,
+mahendranagar, mahendranagar, mahendranagr, mahendranagarr,
+bharatpur, bharatpoor, bharatpurr, bharatpurah,
+gorkha, gorkhaa, gorakha, gorkhah, gorkhaaa,
+lamjung, lamjungg, lamjungah, lamjoong, lamjng,
+tanahun, tanahoon, tanahunah, tanahunn, tanahn,
+syangja, syanja, syangjaa, syangjah, syngja,
+kaski, kaskii, kaskiia, kasky, kaskee,
+palpa, palpaa, palppaa, palpaah, paalpa,
+rupandehi, rupandahi, rupandehii, rupandehy, rpnhi,
+nawalpur, nawalpoor, nawalpurr, nawalpurah,
+dang, daang, dangg, dangah, daangg,
+banke, bankee, bankey, bankeh, bannke,
+bardiya, bardia, bardiyaah, bardiyaa, bardyah,
+kailali, kailalee, kailalii, kailaly, kailaliii,
+kanchanpur, kanchanpoor, kanchanpurr, kanchanpurah,
+achham, acham, achhaam, achamm, achhamah,
+doti, dotii, dotee, doty, dotih,
+dadeldhura, dadeldura, dadeldhurra, dadeldhuraa,
+jumla, jumlaa, jumlah, jumlla, jumlaah,
+kalikot, kalikott, kalikotah, kalikod, klkt,
+mugu, mugoo, muguh, muggu, mugua,
+dolpa, dolpaa, dolpah, dolppa, dolpaah,
+mustang, mustangg, mustaang, mustangah, mstng,
+manang, manangg, manaang, manangah, mnng,
+myagdi, myaagdi, myagdee, myagdiia, mygd,
+baglung, bagloong, baglungah, baglungh, baglunng,
+parbat, parbatt, parbatah, parvad, prbt,
+arghakhanchi, arghakhanchii, arghakhanchy, arghakhanchah,
+kapilvastu, kapilbastu, kapilvastoo, kapilvastuh,
+nuwakot, nuwakott, nuwakotah, nuwakod,
+rasuwa, rasua, rasuwaah, rasuua, rsw,
+dhading, dhadding, dhadeeng, dhadingah,
+makwanpur, makawanpur, makwanpoor, makwanpurr,
+sindhuli, sindulee, sindhulii, sindhuly,
+sindhupalchok, sindhupalchock, sindhupalchokk, sindhupalchokah,
+ramechhap, ramechap, ramechhapp, ramechhapah,
+okhaldhunga, okhaldunga, okhaldhungaa, okhaldungah,
+solukhumbu, solukhumbuu, solukhumbuh, solukhumbii,
+taplejung, taplejungg, taplejungah, taplejoong,
+panchthar, panchtharr, panchtharah, panchthaar,
+illam, ilam, illaam, illamm, ilamm,
+jhapa, jhappaa, jhapaa, jhapah, jhppa,
+morang, morangg, moraang, morangah, mrng,
+sunsari, sunsaree, sunsarii, sunsary,
+saptari, saptaree, saptarii, saptary,
+siraha, sirahaa, sirhah, sirrah, srh
+
+ek, aik, eak,
+dui, duī, dooi,
+tin, teen, thin,
+char, chaar, charr,
+panch, paanch, panchh,
+chha, chaa, chhah,
+sat, saat, sath,
+aath, aat, ath,
+nau, nao, now,
+das, dash, daas,
+
+gyarah, gyara, gyaarah,
+barah, bara, baara,
+terah, tera, teerah,
+chaudah, chaudha, choda,
+pandrah, pandra, pandrahh,
+sorah, sora, sorahh,
+satrah, satra, satar,
+atharah, athara, athra,
+unnais, unnays, unnais,
+bis, bees, biis,
+
+ekkais, ikkais, ekkays,
+bais, baais, bayis,
+teis, teiis, tays,
+chaubis, chaubees, chobis,
+pachis, pachees, pachiss,
+chhabbis, chhabis, chhabbees,
+sattais, sathais, sattais,
+athais, athaees, athays,
+untis, untees, untiss,
+tiss, tees, this,
+
+ekattis, ekatiss, ekatees,
+battis, battees, battis,
+tettis, tettees, tettiss,
+chauntis, chauntees, chautis,
+paintis, paintees, paintiss,
+chhattis, chhatees, chattiss,
+saitis, saintees, saitiss,
+athtis, athatees, athtiss,
+untalis, untalees, untaliss,
+chalis, chalees, chaliss,
+
+ekchalis, ekchalees, ekchalis,
+bayalis, bayalees, bayaliss,
+taitalis, taitalees, taitaliss,
+chaualis, chauwalis, chautalis,
+paintalis, paintalees, paintaliss,
+chhyalis, chhyalees, chhyaliss,
+saitalis, saitalis, saintalis,
+athalis, athalees, athaliss,
+untapanchas, untapachass,
+pachas, pachass, pachaas,
+
+ekpanchas, ekpachass, ekpachas,
+bawann, bawan, bawannn,
+tirpann, tirpan, tirpannn,
+chawann, chawan, chawannn,
+pachpan, pachpann, pachpanh,
+chhappan, chhapan, chappan,
+sattawan, satpan, sattawan,
+athawan, athpan, athawan,
+unsath, unsaath, unsat,
+sath, saath, satth,
+
+eksath, eksaath, eksat,
+basaath, basaathh, basat,
+tirsaath, tirsat, tirsaath,
+chunsaath, chunsat, chunsaath,
+painsaath, painsat, painsaath,
+chhainsaath, chhainsat, chhainsaath,
+sadsath, sadsat, sadsaath,
+athsaath, athsat, athsaath,
+unaunsath, unaunsat, unonsath,
+sattar, sattarh, satar,
+
+eksattar, eksatar, eksattarh,
+bahattar, bahatar, bahattarh,
+tirhattar, tirhatar, tirhattarh,
+chauhattar, chauhatar, chauhattarh,
+pachhattar, pachhatar, pachattar,
+chhihattar, chhihatar, chhihattar,
+sattahattar, sattahatar, sattahattar,
+athhattar, athhatar, athhattar,
+unasi, unaasi, unasee,
+asi, aasi, ase,
+
+ekasi, ekaasi, ekasee,
+bayasi, bayaasi, bayasee,
+tirasi, tiraasi, tirasee,
+chaurasi, chauraasi, chaurasee,
+pachasi, pachaasi, pachasee,
+chhyasi, chhyaasi, chhyasee,
+sattasi, sattaasi, sattasee,
+athasi, athaasi, athasee,
+unannabbe, unannabe, unanabbe,
+nabbe, nabbeeh, nabbey,
+
+eknabbe, eknabbe, eknabey,
+bayanabbe, bayannabbe, baynabbe,
+tirannabbe, tiranabbe, tirnabbe,
+chauranabbe, chauranabbe, chaurnabbe,
+panchanabbe, panchanabbe, panchanabbey,
+chhyanabbe, chhyanabbe, chhyanabbey,
+sattanabbe, sattanabbe, sattanabbey,
+athhanabbe, athhanabbe, athanabbey,
+unansau, unansauu, unansow,
+sau, sao, sow
+
+ma, maa, maah, mah, m,
+hami, haami, hamii, hamiho, hamro, haamro
+ta, taa, tah, t,
+timi, timii, tmi, tmii, timiho, timro
+tapai, tapaai, tapaii, tapain, tapaiko, tapaiho
+hajur, hajuur, hajr, hajurko, hajurle
+u, uu, uh,
+uhah, uha, uhaa, uhaah
+uniharu, uniharu, uniharoo, unihru,
+uhaaharu, uhaharu, uhaaharu
+mero, merro, merooo, mera,
+hamro, haamro, hamroo,
+timro, timroo, tmro,
+tapaiko, tapaiko, tapaikooo,
+uhako, uhako, uhaako,
+usko, uskai, uskooo
+aafai, aafnai, afai, afnai,
+aafu, aaphu, aafuho
+yo, yoo, yeh,
+tyo, tyo, tyoho,
+yi, yii,
+ti, tii
+ko, koho, koh,
+kasle, kasley, kasleee,
+kasko, kasko, kaskoho,
+ke, k, keho,
+kina, kinaa, kinaho,
+kaha, kahaah, kahaa,
+kati, katii, katiho
+aama, ama, mummy, mom,
+bau, baba, daddy, dad,
+dai, daiih, daiho,
+bhai, bhaii, vai,
+didi, didii, dd,
+bahini, baini, baini,
+sir, sarr, sirji,
+miss, misss, missji
+tmle, timile, tmiley, tmlai, timilai, tmro, timro,
+hamle, hamiley, hmlai, hamlai, hamro,
+maile, mailay, malai, maley, mero,
+usle, usley, uslai, usko,
+ule, uley, ulai, uko,
+unile, uniharule, unilai, uniharulai,
+
+khayo, khayoo, khayoho, khayeko, khayau, khaye,
+khanu, khana, khanchu, khanchha, khanchas, khanchau,
+khai, kha, khau, khaideu,
+
+gayo, gayoo, gayeko, gayau, gaye,
+jaanu, jana, janchu, janchha, janchas, janchau,
+ja, jau, jaideu,
+
+ayo, aayo, ayeko, ayau, aye,
+aunu, auna, auchu, auchha, auchas, auchau,
+aa, aau, aaideu,
+
+bhayo, bhayoo, bhayeko, bhayau,
+huncha, hunxa, hunchaah, huneycha,
+hudaina, hunna, hudainah,
+
+garo, garyo, garyoo, garyeko, garyau, garye,
+garna, garnu, garchu, garchha, garchas, garchau,
+gar, gara, gardeu,
+
+bhana, bhannu, bhanchu, bhanchha, bhanchas,
+bhan, bhanaideu,
+
+dekhe, dekhyoo, dekheko, dekhyo, dekhau,
+dekhna, dekhchu, dekhchha, dekhchas,
+hera, herana, herdeu,
+
+sunyo, sunyoo, suneko, sunau,
+sunna, sunchu, sunchha, sunchas,
+sun, sunaideu,
+
+aayoki, gayoki, bhayoki,
+khais, gais, aais, garis,
+
+aaja, aja, ajaa,
+bholi, bholii,
+hijo, hijoo,
+
+yahaa, yaha, yeta,
+tyahaa, tyaha, teta,
+
+ho, hoo, hoina, hoinaa, haina,
+la, laa, ta, taa, ni, nai,
+
+cha, xa, chha,
+thiyo, thiyoo,
+chaina, chainaah,
+
+sakyo, sakyoo, sakeko,
+sakdina, sakdinaah,
+
+pugyo, pugyoo, pugeko,
+pugdina, pugena,
+
+lagyo, lagyoo, lageko,
+lagnu, lagcha, lagchha,
+
+milyo, milyoo, mileko,
+milena, mildaina,
+
+chhito, chito,
+dhilo, dhiloo,
+
+ramro, ramroo,
+naramo, naramro,
+sahi, sahii,
+
+kina, kinaa,
+kaha, kahaa,
+kati, katii,
+kasari, kasarii,
+
+bharkhar, bharkharai,
+ahile, aile, ahilee,
+sadhai, sadai,
+
+thikai, thikaii,
+problem, prblm,
+time, tym
+aauchha, aauxa, aauchau, aauchhas, aauchhu,
+jaanchha, jaanxa, janchau, janchas, janchhu,
+khanchha, khanxa, khanchau, khanchas, khanchhu,
+
+gardai, gardaichu, gardaichhu, gardaithiye, gardaithyo,
+khadai, khadaichu, khadaichhu, khadaithiyo,
+jadai, jadaichu, jadaichhu,
+aadai, aadaichu, aadaichhu,
+
+garnuparcha, garnuparxa, garnuparcha,
+januparcha, januparcha,
+khanuparcha, khanuparcha,
+
+bhanchhani, bhanchani, bhanchasni,
+honi, hoinani, hainani,
+hunchani, hudainani,
+
+lana, tana, nina, hona,
+herana, sunana, bhanana,
+
+kgardai, kgardaichau, kgardaichas,
+kbhayo, kvayo, kbho,
+kinabhayo, kinavayo,
+
+kaileaauchau, kaileauchas, kaileaune,
+kailejaney, kailejane,
+katagako, katagais, katagayo,
+
+pahila, paila, pahile,
+pachi, pachhi, paxi,
+aghi, aaghi,
+ahilenai, ailenai,
+
+chadai, chadainai,
+dhilobhayo, dhilovayo,
+samayachaina, timechaina,
+
+mildaina, mildena, milena,
+hudaichaina, hudainajasto,
+lagdaina, lagena,
+
+aayera, gayera, khayera,
+garera, bhayera,
+
+bhannuparda, bhandata,
+sodhdata, herdata,
+
+trygar, trygara,
+confirmgar, confirmgara,
+msggara, callgara,
+
+replygara, replygar,
+bhetera, bhetna,
+bhetam, bhetau,
+
+bhannubhanda, bhannuparyo,
+bujhina, bujhena,
+bujheu, bujhyo,
+
+yaadaayo, yaadaauxa,
+birsiye, birsyo, birse,
+
+manlagyo, manlagena,
+manparyo, manparena,
+
+aafno, aafna, aafnai,
+arko, arkota,
+yeuta, euta, auta,
+
+dherai, dherainai,
+thorai, thorainai,
+sabai, sabbai,
+
+kehi, keii, keipani,
+kehichaina, keichaina,
+
+thakailagyo, thakaivayo,
+nindralagyo, nindravayo,
+
+busychu, busychhu,
+freechu, freechhu,
+
+sureho, sureta,
+maybeho, maybeta,
+
+problembhayo, issueaayo,
+solvebhayo, solvevayo,
+
+hunthyo, hunxajasto,
+bhayenajasto, lagchajasto,
+
+sidyo, sakiyo, sakyojasto,
+chaliraheko, chaliraxa,
+
+bolamna, bolauna,
+sodhamna, sodhauna,
+
+parkha, parkhahai,
+herahai, sunahai,
+
+aayerabhana,
+gayerabhana,
+
+majjaaayo, majjaaauxa,
+ramailobhayo, ramailocha,
+
+garum, garau,
+jamna, jauna
+
+aba, abata, abachai,
+tesobhaye, tesovaye,
+thikaicha, thikaixa,
+ramraicha, ramraixa,
+naraicha, naraixa,
+
+kegarne, kgarneaba,
+khuncha, khunxa,
+khola, kholata,
+kbhanchau, kbhanxau,
+
+lagcha, lagxa,
+lagdaicha, lagdaixa,
+lagdaichaina, lagdaixaina,
+
+bhayepachi, bhayepachi,
+bhayesi, bhayesi,
+nabhae, nabhaye,
+
+hunchhahola, hunxahola,
+hudainahola, hudainajasto,
+milchahola, mildainahola,
+
+sakyau, sakyena,
+sakyas, sakinas,
+sakekochaina, sakiyena,
+
+pugdaicha, pugxajasto,
+napugne, pugenahola,
+
+bujhda, bujhdata,
+bujhdina, bujhdaichaina,
+bujhinas, bujhyas,
+
+yaadcha, yaadxa,
+yaadchaina, yaadxaina,
+yaadaauxani, yaadaauxata,
+
+sochdaichu, sochdaichhu,
+sochdaichau, sochdaichas,
+sochnaparcha, sochnaparxa,
+
+garnasakchhu, garnasakchu,
+garnasakdina, garnasakdinani,
+
+bhannuparcha, bhannuparxa,
+nabhaney, nabhaneta,
+
+heram, herau,
+sunam, sunau,
+parkham, parkhau,
+
+chintanagara, chintanagar,
+tensionnalina, tensionnalin,
+darlagyo, darlagxa,
+
+maafgara, maafgar,
+sorryhai, sorryta,
+thankyouhai,
+
+khaita, khaik,
+lahera, lasuna,
+lata, laaba,
+
+tachai, nichai,
+tani, nita,
+chaita, naita,
+
+ekchin, ekchhin,
+aliber, alibelaa,
+pachikuragaram,
+
+ahilesakdina, ailesakdina,
+ahilemildaina, ailemildaina,
+
+surecha, surexa,
+confirmcha, confirmxa,
+
+timemilcha, timemildaina,
+timechabhane,
+
+aafaibhayo, aafaihuncha,
+aafnaigalti, aafnaimistake,
+
+arkaiho, arkokura,
+teskolagi,
+
+mata, hamita,
+timita, tapaita,
+uta, unita,
+
+bhandaichu, bhandaichhu,
+bhannaiparcha, bhannaiparxa,
+
+herdaichu, herdaichhu,
+sunirachu, sunirachhu,
+
+chalcha, chalxa,
+nachalne, chalena,
+
+majjalagyo, majjalagxa,
+ramailolagyo, ramailolagxa,
+
+bistarai, bistari,
+chadainai,
+ekdum, ekdumm,
+
+sabaithik, sabairamro,
+kehibhayena, keibhayena,
+
+mahun, maho,
+timiho, timinai,
+uhiho, teiho,
+
+kaamcha, kaamxa,
+kaamchaina, kaamxaina,
+
+garnaaauxa, garnaaucha,
+garnaaaudaina, garnaaudaina,
+
+bolnasakchu, bolnasakdina,
+leknasakchu, leknasakdina,
+
+bhayoni, bhayota,
+hainani, hoinani,
+hota, honi,
+
+tyahiho, teiho,
+aajanai, ajanai,
+ahilenai, ailenai
+
+haha, hahaha, hahah, hahaa, hahaah,
+hehe, hehehe, heeh, heheh,
+hihi, hihihi,
+lol, lolll, lolol,
+rofl, lmao,
+
+uff, uffa, uffoo, uffta,
+ufff, uffff,
+
+aayo, aaiyo, aaiyoo,
+aaiyaa, aiyaa, aiyya,
+
+hai, haiii, haai,
+haita, haini,
+
+la, laa, laaa,
+lata, laaba,
+
+oh, oho, ohoo, ohho,
+ohmy, omg,
+
+arey, are, arre,
+areyyaar, areybaba,
+
+eh, eeh, ehe,
+ehhta,
+
+hyaa, hyan, hyyaa,
+hyaata, hyanta,
+
+aaa, aaaa, aai,
+aaata,
+
+hmmm, hmm, hmmmmm,
+hmmta, hmmni,
+
+hoho, hoho,
+hoinaho, hainaho,
+
+yaar, yar, yrr,
+yaarta,
+
+kya, kyaho, kyata,
+kyaa,
+
+wah, waaah, wahh,
+wahkya,
+
+baba, babaa,
+babare,
+
+ae, aee, aeey,
+aeta,
+
+oi, oii, oye, oy,
+oyeoye,
+
+chi, chii, chiii,
+chee, cheee,
+
+ufffbaba,
+uffyaar,
+
+hahalol,
+hehelol,
+
+sigh, sighh,
+ahh, ahhh,
+
+ouch, ouchh,
+ayyo, aiyoo,
+
+hyaababa,
+hyaayaar,
+
+areywah,
+areyhai,
+
+lala,
+lahai,
+
+hatt, hattta,
+hattna,
+
+shhh, shh,
+shhhh,
+
+tsk, tsktsk,
+tskta,
+
+meh, mehh,
+mehta,
+
+bruh, bruhh,
+brooo,
+
+ufffho,
+ufffni,
+
+hehenice,
+hahanice,
+
+sad, sadd,
+cry, crying,
+
+angry, anger,
+mad, madd,
+
+happy, happi,
+excited, excite,
+
+bored, boredd,
+tired, tiredd,
+
+wow, wowww,
+woo, wooow
+
+na, naa, naaa,
+nata, nani, nahai,
+
+ni, nii, niii,
+nita, nihai, nina,
+
+ta, taa, taaa,
+tani, tana, tahai,
+
+hai, haii, haiii,
+haina, haita, haini,
+
+la, laa, laaa,
+lana, lata, lahai,
+
+ali, alita, alina,
+alihai, alini,
+
+ekchin, ekchhin,
+ekchinna, ekchinta,
+
+jara, jarata, jarana,
+jarahai, jarani,
+
+please, pls,
+pleasena, pleaseta,
+
+bhanana, bhannuna,
+herana, herata,
+sunana, sunata,
+
+parkhana, parkhata,
+basnana, basta,
+
+bolana, bolnata,
+aauna, aana,
+jana, jauna,
+
+garana, garna,
+gardeuna, gardeuta,
+
+milchana, milchata,
+hunchana, hunchata,
+
+thikaina, thikaita,
+ramrona, ramrota,
+
+maafgarana, maafta,
+sorryna, sorryta,
+
+ekpalta, ekpatak,
+ekpatakna, ekpaltata,
+
+chhitona, chhitota,
+bistaraina, bistaraita,
+
+hona, hota,
+hainana, hoinata,
+
+tachai, nichai,
+chaina, chaita,
+
+aliali,
+thoraina, thoraita,
+
+hererana, socherana,
+bujherana,
+
+sodhnana, sodhata,
+bhannana, bhanata,
+
+aajaina, aajata,
+ahilena, aileta
+
+
+
+acharya, achari, acharyaa, acharia, achrya, aacharya, acharya ji
+adhikari, adhikary, adikari, adhikaari, adhikaree, adhikarii
+basnet, basnyat, basnett, basnyatt, baasnet, basniat
+bhandari, bhandary, bhandaree, bhandarii, bhandri
+bhattarai, bhattrai, bhatarai, bhattary, bhattaraii
+bista, biste, bistaa, bysta, bistha
+bishwakarma, biswakarma, vishwakarma, bishwakarmii
+budhathoki, budathoki, budha thoki, budhathoky, budathokii
+chaudhary, chaudhari, chaudhry, choudhary, chaudharii
+chhetri, chhetry, chettri, kshetri, xetri, chhetrii
+dahal, daahal, dahall, dahalji, dahalh
+damai, damay, damaai, damaee, damahi
+devkota, dewkota, devkotaa, devkott, devkotha
+dhakal, dhakaal, dhakall, dhakalh
+gautam, gauttom, gautamm, gowtam, gautama
+ghale, ghalee, ghaale, ghallay, ghaley
+ghimire, ghimiri, ghimiree, ghimery, ghimrai
+gurung, gurungg, gurong, goorung, gurungii
+joshi, joshii, jhoshi, jossi, joshy
+jaisi, jaysi, jaisii, jaisy, jaishi
+jirel, jirell, jeerel, jirail, jirelee
+
+kafle, kaafle, kafley, kaffle, kafleee,
+karki, kaarki, karkiih, karkiie, karkiho,
+khadka, khadkaa, khadkaa, khadga, khadkka,
+khatri, khatri, khattri, khatree, khatry,
+khanal, khanalh, khanaal, khanall, khanalji,
+koirala, koiralaa, koiraley, koyrala, koiralla,
+kami, kaami, kamii, kaamee, kamy,
+kandel, kandell, kandelh, kandale, kandely,
+
+lamichhane, lamichane, lamichhany, lamichhaney, lamichhanii,
+lama, laama, lamaa, lamaee, lamma,
+limbu, limbuu, limboo, limbo, limbuh,
+lohar, lohaar, loharh, loharr, loher,
+luitel, luitell, luitela, luytel, luitely,
+
+magar, magarr, magaer, magaar, magur,
+mahato, mahatoo, mahatoah, mahatto, mahatha,
+maharjan, maharjanah, maharjaan, maharjann, maharjany,
+malakar, malakarh, malakaar, malakker, malakary,
+manandhar, manandharh, manandhaar, manandher, manandary,
+
+nepali, nepalee, nepaali, nepallii, nepaly,
+nyaupane, nyaupanee, nyaupany, nyopane, nyaupanii,
+
+oli, olii, olly, oliye, olli,
+
+pandey, pandeyy, pandeyee, panday, pande,
+panta, pantaa, pantah, panty, pantae,
+paudel, paudell, paudeel, poudel, poudell,
+poudyal, poudyall, poudyalh, poudiyal, poudyalii,
+prajapati, prajapatee, prajapaty, prajapatti, prajapatee,
+pun, punh, puun, poon, punn,
+
+rai, raai, ray, raee, raii,
+rana, ranaa, ranah, rannee, ranna,
+regmi, regmii, regmee, regmy, regmyee,
+rokaya, rokayaa, rokayee, rokayah, rokayya,
+
+sah, sahh, saah, saha, sahaa,
+sarki, saarki, sarkii, sarky, sarkee,
+shah, shahh, shaha, shahaah, shaah,
+sharma, sharmaa, sharmma, sharmmah, sharmya,
+shrestha, shresthaa, shreshta, shretha, shresthy,
+silwal, silwall, silwaal, silval, silwale,
+subedi, subedee, subeddy, subediih, subedy,
+sunuwar, sunuvar, sunuwarr, sunoowar, sunuwarah,
+
+tamang, tamangg, tamaang, tamangh, taman,
+thapa, thapaa, thappa, thapah, thapy,
+thakuri, thakuree, thakurii, thakury, thakurri,
+tiwari, tiwary, teewari, tiwarri, tiwarii,
+
+upadhyay, upadhyaya, upadhyayh, upadhyaye, upadhyaay,
+
+vaidya, vaidhya, baidya, vaidyaa, vaidyah,
+vishwakarma, bishwakarma, biswakarma, vishwakarmii, bishwakarmii,
+
+yadav, yadhav, jadav, yadavh, yadhavii,
+
+jha, jha, jhaa, jhah, jhaaa
+
+giri, girii, geeri, giry, giree, gerri, girih, giri ji
+puri, purii, poori, puree, puriih, pury, purri, puri ji
+sapkota, sapkotaa, sapkotta, sapkothaa, sapkoty, sapkotaah, sapkottaa, sapkot
+ranabhat, rana bhat, ranabhatt, ranabhaat, rana-bhat, ranabhatta, ranabhaat, ranabhaatji
+baral, baraal, barall, barale, baralh, baraly, berral, baral ji
+
+
+plz = please
+pls = please
+wlcm = welcome
+welcm = welcome
+wlc = welcome
+ofc = of course
+ofcourse = of course
+thx = thanks
+tnx = thanks
+tx = thanks
+thanx = thanks
+ok = okay
+oke = okay
+oky = okay
+u = you
+ur = your
+urs = yours
+urself = yourself
+r = are
+ru = are you
+c = see
+cu = see you
+cya = see you
+bcz = because
+coz = because
+cuz = because
+bcuz = because
+btw = by the way
+b/w = between
+idk = I don’t know
+idc = I don’t care
+imo = in my opinion
+imho = in my humble opinion
+omg = oh my god
+lol = laughing out loud
+lmao = laughing my ass off
+rofl = rolling on the floor laughing
+brb = be right back
+afk = away from keyboard
+asap = as soon as possible
+msg = message
+dm = direct message
+pm = private message
+pic = picture
+pix = pictures
+vid = video
+vids = videos
+sec = second
+mins = minutes
+hr = hour
+tmrw = tomorrow
+tom = tomorrow
+gd = good
+gn = good night
+g9 = good night
+gm = good morning
+tc = take care
+np = no problem
+nvm = never mind
+w8 = wait
+gr8 = great
+grt = great
+frm = from
+thru = through
+abt = about
+hw = how
+wt = what
+whn = when
+wer = where
+whr = where
+yr = year
+yea = yes
+yep = yes
+yup = yes
+nah = no
+nope = no
+fr = for real
+jk = just kidding
+ikr = I know right
+smh = shaking my head
+tbh = to be honest
+fyi = for your information
+irl = in real life
+atm = at the moment
+aka = also known as
+lmk = let me know
+tho = though
+txt = text
+fb = Facebook
+ig = Instagram
+yt = YouTube
+wp = WhatsApp
+kk = okay
+k = okay
+sup = what’s up
+wassup = what’s up
+wsp = what’s up
+hbd = happy birthday
+hbday = happy birthday
+congrats = congratulations
+grats = congratulations
+ty = thank you
+gg = good game
+ez = easy
+bruh = brother
+bro = brother
+sis = sister
+fam = family
+bae = before anyone else
+bff = best friend forever
+bf = boyfriend
+gf = girlfriend
+hehe = laughter
+haha = laughter
+xoxo = hugs and kisses
+ily = I love you
+ilym = I love you more
+idgaf = I don’t give a fuck
+tldr = too long; didn’t read
