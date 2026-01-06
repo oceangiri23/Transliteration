@@ -46032,7 +46032,8 @@
     "variants": [
       "aachur",
       "achhar",
-      "aachar"
+      "aachar",
+      "achar"
     ]
   },
   "ACR2": {
@@ -46073,7 +46074,7 @@
     ]
   },
   "ADNKI": {
-    "base_word": "aaudainaki",
+    "base_word": "aaudaina ki",
     "variants": [
       "aaudaineki",
       "aaudeenaki",
