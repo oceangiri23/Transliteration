@@ -8,6 +8,106 @@
       "gorusinghhe"
     ]
   },
+  "BCNA1": {
+    "base_word": "baachna",
+    "variants": [
+      "baachna",
+      "bachna",
+      "bachana",
+      "bachnaaa",
+      "bachhana",
+      "baachnah",
+      "bachnah",
+      "bachanah",
+      "bachnaaah",
+      "bachhanah"
+    ]
+  },
+  "BCNA2": {
+    "base_word": "bachaauna",
+    "variants": [
+      "bachauna",
+      "bachaauna",
+      "bachhauna",
+      "bchauna",
+      "bhachuna"
+    ]
+  },
+  "BCNA3": {
+    "base_word": "bhaachhaina",
+    "variants": [
+      "bachaina",
+      "bachaiouna",
+      "bhachaina",
+      "bhachhaina",
+      "bhaachhaina",
+      "vachaina",
+      "vachhaina",
+      "vaachhaina"
+    ]
+  },
+  "BCNA4": {
+    "base_word": "bechna",
+    "variants": [
+      "bechna",
+      "bechana",
+      "bechina",
+      "bechnia",
+      "beachna"
+    ]
+  },
+  "BCNA5": {
+    "base_word": "bhaachna",
+    "variants": [
+      "vachna",
+      "vachina",
+      "bhachna",
+      "bhaachnah"
+    ]
+  },
+  "BCNA6": {
+    "base_word": "bibechanaa",
+    "variants": [
+      "bibechana",
+      "bibeychana",
+      "bibeychanaa"
+    ]
+  },
+  "TPRMA": {
+    "base_word": "taparimaa",
+    "variants": [
+      "taparimaa",
+      "taparima",
+      "taparama"
+    ]
+  },
+  "YTRTA": {
+    "base_word": "yathaartha",
+    "variants": [
+      "ythartha",
+      "yathratha",
+      "yathaartha",
+      "yethart",
+      "ythart",
+      "yetharta",
+      "yatartha",
+      "yathart",
+      "yatrtha",
+      "yetharthaa",
+      "yatharta",
+      "yattharta",
+      "yathrtha",
+      "yetartha",
+      "yatharth",
+      "yethartha",
+      "yethrtha",
+      "ytrtha",
+      "yetharth",
+      "yathrata",
+      "yetharthata",
+      "yethaartha"
+    ]
+  },
   "KNTNU": {
     "base_word": "continue",
     "variants": [
@@ -36,10 +136,8 @@
       "gaonlay",
       "gaulya",
       "ganle",
-      "gunle",
       "gauliya",
       "gaonle",
-      "gauli",
       "guliya"
     ]
   },
@@ -62,7 +160,7 @@
     ]
   },
   "HRBRA": {
-    "base_word": "harabhara",
+    "base_word": "haraabharaa",
     "variants": [
       "harabara",
       "harabharaaa",
@@ -122,19 +220,12 @@
   "SHRI": {
     "base_word": "saarai",
     "variants": [
-      "siriyai",
       "sarayi",
       "sahrei",
-      "sryi",
       "saahrai",
-      "saharie",
-      "sahrii",
-      "sahiri",
       "saharaie",
-      "sahri",
       "sahrae",
       "sahrai",
-      "saryai",
       "sahraii",
       "saryi",
       "sahroi"
@@ -95352,14 +95443,23 @@
     ]
   },
   "ASKR": {
-    "base_word": "aaskaar",
-    "variants": []
+    "base_word": "aswikaar",
+    "variants": [
+      "asuikar",
+      "aasuikar",
+      "aaswikar",
+      "asuikaar",
+      "aasuikaar",
+      "aaswikaar"
+    ]
   },
   "ADKI": {
-    "base_word": "adhikai",
+    "base_word": "adhki",
     "variants": [
       "adhiki",
-      "adkai"
+      "adkai",
+      "adki",
+      "adhki"
     ]
   },
   "SJYKO": {
@@ -95374,7 +95474,7 @@
     ]
   },
   "MNMA": {
-    "base_word": "manma",
+    "base_word": "manmaa",
     "variants": [
       "manema",
       "manamaa",
@@ -95393,7 +95493,7 @@
     ]
   },
   "HLPLS": {
-    "base_word": "hola plz",
+    "base_word": "hola please",
     "variants": [
       "holaaplz",
       "holaplz",
@@ -95540,106 +95640,7 @@
       "launuko"
     ]
   },
-  "BCNA1": {
-    "base_word": "baachna",
-    "variants": [
-      "baachna",
-      "bachna",
-      "bachana",
-      "bachnaaa",
-      "bachhana",
-      "baachnah",
-      "bachnah",
-      "bachanah",
-      "bachnaaah",
-      "bachhanah"
-    ]
-  },
-  "BCNA2": {
-    "base_word": "bachaauna",
-    "variants": [
-      "bachauna",
-      "bachaauna",
-      "bachhauna",
-      "bchauna",
-      "bhachuna"
-    ]
-  },
-  "BCNA3": {
-    "base_word": "bhaachhaina",
-    "variants": [
-      "bachaina",
-      "bachaiouna",
-      "bhachaina",
-      "bhachhaina",
-      "bhaachhaina",
-      "vachaina",
-      "vachhaina",
-      "vaachhaina"
-    ]
-  },
-  "BCNA4": {
-    "base_word": "bechna",
-    "variants": [
-      "bechna",
-      "bechana",
-      "bechina",
-      "bechnia",
-      "beachna"
-    ]
-  },
-  "BCNA5": {
-    "base_word": "bhaachna",
-    "variants": [
-      "vachna",
-      "vachina",
-      "bhachna",
-      "bhaachnah"
-    ]
-  },
-  "BCNA6": {
-    "base_word": "bibechanaa",
-    "variants": [
-      "bibechana",
-      "bibeychana",
-      "bibeychanaa"
-    ]
-  },
-  "TPRMA": {
-    "base_word": "taparimaa",
-    "variants": [
-      "taparimaa",
-      "taparima",
-      "taparama"
-    ]
-  },
-  "YTRTA": {
-    "base_word": "yathartha",
-    "variants": [
-      "ythartha",
-      "yathratha",
-      "yathaartha",
-      "yethart",
-      "ythart",
-      "yetharta",
-      "yatartha",
-      "yathart",
-      "yatrtha",
-      "yetharthaa",
-      "yatharta",
-      "yattharta",
-      "yathrtha",
-      "yetartha",
-      "yatharth",
-      "yethartha",
-      "yethrtha",
-      "ytrtha",
-      "yetharth",
-      "yathrata",
-      "yetharthata",
-      "yethaartha"
-    ]
-  },
+  
   "JSRNI": {
     "base_word": "jasarini",
     "variants": [
@@ -114140,7 +114141,7 @@
     ]
   },
   "YBA": {
-    "base_word": "yubha",
+    "base_word": "yuwaa",
     "variants": [
       "yubaa",
       "youba",
@@ -114152,11 +114153,10 @@
   "MGNI": {
     "base_word": "maagni",
     "variants": [
-      "magauni",
-      "mageni",
-      "magneai",
-      "maganai",
-      "mugni"
+      "maaghni",
+      "maagni",
+      "maagani",
+      "magni"
     ]
   },
   "TLCN": {
@@ -114169,13 +114169,13 @@
     ]
   },
   "BRHCA": {
-    "base_word": "vairahecha",
+    "base_word": "bhairahecha",
     "variants": [
       "vairaahacha"
     ]
   },
   "SWD": {
-    "base_word": "swadh",
+    "base_word": "swaad",
     "variants": [
       "sowad",
       "swaad",
@@ -114192,7 +114192,7 @@
     ]
   },
   "MDKBNJ": {
-    "base_word": "mudku bhanjayng",
+    "base_word": "mudkhu bhanjyaang",
     "variants": [
       "midkhuvanjayng",
       "mudkhuvanjyag",
@@ -114206,7 +114206,7 @@
     ]
   },
   "BSYBNI": {
-    "base_word": "bhabisyawaani",
+    "base_word": "bhavishyawaani",
     "variants": [
       "bhabisyabaaani",
       "bhabisyabani",
