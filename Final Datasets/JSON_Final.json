@@ -45612,7 +45612,7 @@
     "variants": [
       "sambhanda",
       "samndha",
-      "sambandidh",
+      "sambanddh",
       "sambandh",
       "samband",
       "samanda",
@@ -45626,21 +45626,26 @@
     ]
   },
   "DRDI": {
-    "base_word": "daraudai",
+    "base_word": "daraaudai",
     "variants": [
-      "dardai",
-      "dardi",
-      "dhrdai",
+      "darudai",
+      "darudi",
+      "dhraudai",
       "daraudi",
-      "derdai"
+      "derdai",
+      "daraaudai",
+      "daraudai"
     ]
   },
   "TYTKO": {
-    "base_word": "tyettiko",
+    "base_word": "tyattiko",
     "variants": [
       "tyatiko",
       "tyetiko",
-      "tyetaiko"
+      "tyetaiko",
+      "tyettiko",
+      "tettiko",
+      "tetiko"
     ]
   },
   "KLKRLE": {
@@ -45654,17 +45659,23 @@
     ]
   },
   "APCI": {
-    "base_word": "aafu chai",
+    "base_word": "aafu chaahi",
     "variants": [
       "afuchai",
       "apuchai",
-      "aafuchai"
+      "aafuchai",
+      "aafuchaai",
+      "aaphuchai",
+      "aaphuchaai",
+      "aphuchaai"
     ]
   },
   "BNYLE": {
-    "base_word": "bhanne le",
+    "base_word": "bhannele",
     "variants": [
-      "bhanneyle"
+      "bhanneyle",
+      "vannele",
+      "bhanneley"
     ]
   },
   "YRI": {
@@ -61365,7 +61376,9 @@
     "variants": [
       "bhaneh",
       "bhaneuh",
-      "bhaenahhh"
+      "vne",
+      "vane",
+      "vaney"
     ]
   },
   "BNH4": {
@@ -65842,14 +65855,18 @@
   "KMNKTN": {
     "base_word": "communication",
     "variants": [
-      "communicationko",
-      "communicationkina",
-      "communications"
+      "communicationn",
+      "comunication",
+      "communicetion"
     ]
   },
   "KLPL": {
     "base_word": "chhalfal",
-    "variants": []
+    "variants": [
+      "chalfal",
+      "chhalphal",
+      "chalphal"
+    ]
   },
   "YSU": {
     "base_word": "yashu",
@@ -84210,6 +84227,7 @@
       "bhayeana",
       "bhyenaa",
       "bahyena",
+      "bhaenahhh",
       "bhayaena",
       "bhayana",
       "vhayen",
@@ -104257,7 +104275,7 @@
     "variants": [
       "bhannele",
       "bhannaley",
-      "bhanneley"
+      "bhanaley"
     ]
   },
   "BNLE4": {
@@ -127507,7 +127525,6 @@
       "mommo",
       "momoaa",
       "momoho",
-      "maa",
       "maho",
       "momooo",
       "momoo"
@@ -127520,7 +127537,6 @@
       "momoho",
       "moma",
       "mommo",
-      "maa",
       "momooo",
       "maho",
       "momooy",
@@ -156374,21 +156390,25 @@
     "base_word": "ma",
     "variants": [
       "maah",
-      "mehh",
-      "meh"
+      "mahh",
+      "mah",
+      "maa"
     ]
   },
   "SBRMRO": {
     "base_word": "sabai raamro",
     "variants": [
-      "sabairamro"
+      "sabairamro",
+      "sabairaamro"
     ]
   },
   "BNPRCA": {
     "base_word": "bhannaiparchha",
     "variants": [
       "bhanaiparchha",
-      "bhannaiparcha"
+      "bhannaiparcha",
+      "vanaiparchha",
+      "vannaiparcha"
     ]
   },
   "AMBH": {
@@ -160252,6 +160272,7 @@
       "suvidaa",
       "subidha",
       "subhida",
+      "suvidha",
       "subidaa"
     ]
   },
@@ -160260,6 +160281,7 @@
     "variants": [
       "ridaye",
       "hridaye",
+      "hriday",
       "hridayaa",
       "ridaya"
     ]
@@ -160372,6 +160394,7 @@
     "variants": [
       "khaana",
       "khanaa",
+      "khana",
       "khaanah"
     ]
   },
