@@ -18605,51 +18605,27 @@
   "DKI": {
     "base_word": "dekhi",
     "variants": [
-      "dekhiki",
+      
       "dahki",
-      "dekhoki",
       "dekkhi",
-      "dekhei",
-      "dekhaai",
       "deaki",
-      "dukhi",
       "deki",
       "dhekhi",
       "daekhi",
-      "deuki",
-      "dkhai",
       "dehkhi",
       "dekhii",
-      "dhekhai",
       "dheki",
       "deekhi",
-      "dekhai",
       "dehki",
       "dkehi",
-      "dekhechhi",
-      "dekhaki",
-      "dehaki",
       "dekhiii",
-      "deakhai",
-      "dejhi",
       "dekhhi",
-      "deahkai",
       "deakhi",
       "deakhii",
       "dekhkhi",
-      "dekhiae",
-      "dekoi",
-      "dkhi",
-      "dekhaui",
       "dekki",
-      "dikhi",
       "dakhi",
-      "dekheki",
-      "ddekhi",
-      "dokhi",
-      "deji",
-      "dekhehai",
-      "dekai"
+      "ddekhi"
     ]
   },
   "PRWNE": {
@@ -32909,12 +32885,14 @@
     ]
   },
   "WDA": {
-    "base_word": "wadaa",
+    "base_word": "waadaa",
     "variants": [
       "wada",
-      "waida",
+      "wadha",
       "wadda",
-      "waħda"
+      "waħda",
+      "waada",
+      "wadaa"
     ]
   },
   "ACMKO": {
