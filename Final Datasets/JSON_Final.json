@@ -45540,7 +45540,6 @@
       "tahio",
       "tihyo",
       "theyoa",
-      "tyo",
       "thyoi",
       "tiheo",
       "thhyo",
@@ -59912,13 +59911,10 @@
   "KBKE": {
     "base_word": "kehi",
     "variants": [
-      "kahay",
       "kei",
       "kyei",
       "khhey",
-      "kai",
       "kyai",
-      "khai",
       "keii",
       "kehy"
     ]
@@ -92906,15 +92902,12 @@
     "base_word": "okay",
     "variants": [
       "okey",
-      "kk",
-      "ok",
-      "k",
       "oke",
       "oky"
     ]
   },
   "PRKN1": {
-    "base_word": "paraunchhan",
+    "base_word": "paraaunchhan",
     "variants": [
       "parauchhan",
       "parauchhann",
@@ -155916,7 +155909,6 @@
   "KI": {
     "base_word": "kehi",
     "variants": [
-      "khai",
       "keii"
     ]
   },
@@ -159141,10 +159133,10 @@
     ]
   },
   "TYO": {
-    "base_word": "thiyo",
+    "base_word": "tyo",
     "variants": [
       "tyo",
-      "thiyoo"
+      "tyoo"
     ]
   },
   "BA": {
@@ -159490,12 +159482,11 @@
       "yup"
     ]
   },
-  "NO": {
-    "base_word": "no",
+  "NOP": {
+    "base_word": "nope",
     "variants": [
-      "nah",
-      "nope",
-      "nao"
+      "nopp",
+      "nop"
     ]
   },
   "FR": {
