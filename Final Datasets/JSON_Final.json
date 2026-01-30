@@ -18605,7 +18605,6 @@
   "DKI": {
     "base_word": "dekhi",
     "variants": [
-      
       "dahki",
       "dekkhi",
       "deaki",
@@ -81901,6 +81900,8 @@
     "base_word": "murti",
     "variants": [
       "murtti",
+      "moorti",
+      "muurti",
       "muurthi"
     ]
   },
@@ -81922,7 +81923,6 @@
   "AGNE": {
     "base_word": "aghaaune",
     "variants": [
-      "agane",
       "agaune",
       "aghaune",
       "aagaune"
@@ -81945,13 +81945,12 @@
     ]
   },
   "HNDA": {
-    "base_word": "handa",
+    "base_word": "haanda",
     "variants": [
       "handea",
       "hannda",
-      "hunda",
+      "handa",
       "handaa",
-      "haanda",
       "handha"
     ]
   },
@@ -81964,38 +81963,28 @@
   "ATU": {
     "base_word": "aautheu",
     "variants": [
-      "aathau",
-      "aathu",
-      "aatu",
-      "aateu",
+      "auteu",
+      "autheu",
+      "aauteu",
+      "aauteu",
       "autheu"
     ]
   },
   "SLI": {
     "base_word": "saalelaai",
     "variants": [
-      "saeli",
       "salelai",
-      "sallai",
-      "salai",
-      "salli",
-      "sailolai",
-      "sailalai",
-      "salilai",
-      "selai",
-      "saililai"
+      "saalelai",
+      "salelaai"
     ]
   },
   "BKY": {
     "base_word": "boke",
     "variants": [
-      "bukey",
       "bhokey",
       "bokey",
       "bkey",
-      "bokchhey",
-      "bakey",
-      "bikey"
+      "bakey"
     ]
   },
   "JBNLI": {
@@ -82003,37 +81992,44 @@
     "variants": [
       "jevanlai",
       "jibanlai",
-      "jivanlai"
+      "jivanlai",
+      "jevanlaai",
+      "jibanlaai",
+      "jivanlaai"
     ]
   },
   "TO": {
     "base_word": "tito",
     "variants": [
       "tieto",
-      "tio",
-      "thito",
-      "thitho",
-      "thitto",
       "titoo",
       "titto"
+    ]
+  },
+  "TO2": {
+    "base_word": "thito",
+    "variants": [
+      "thito",
+      "thitho",
+      "thitto"
     ]
   },
   "BJYE": {
     "base_word": "bujhaaye",
     "variants": [
-      "bujyue",
+      "bujayue",
       "bujhaye",
-      "bhujye",
+      "bhujaye",
       "bujheye",
-      "bujhiye",
-      "beujhaye",
+      "bujhae",
+      "bujhay",
       "bujaye"
     ]
   },
   "DMI1": {
-    "base_word": "dami",
+    "base_word": "daami",
     "variants": [
-      "daami",
+      "dami",
       "daamy",
       "d’ami",
       "dammey",
@@ -86959,11 +86955,10 @@
     "variants": [
       "banauchhas",
       "banaunchhas",
-      "banauchha",
-      "banaucha",
+      "banaauchas",
+      "banauchas",
       "banauxas",
-      "banauchau",
-      "banauch"
+      "banauchs"
     ]
   },
   "SPNSR": {
