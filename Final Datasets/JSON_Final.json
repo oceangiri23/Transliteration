@@ -523,8 +523,8 @@
       "vhayo",
       "bhayao",
       "bhoyo",
-      "bhayoo…",
-      "bhaiyo…",
+      "bhayoo",
+      "bhaiyo",
       "bhahyo",
       "bhaayo",
       "bhaiyoo",
@@ -532,17 +532,14 @@
       "vayop",
       "bhayio",
       "bayoo",
-      "bhayo…",
+      "bhayo",
       "vayooo",
       "vayo",
       "bhyao",
-      "bhayeķo",
       "bhayoo",
       "bhayeo",
-      "bhayo”",
+      "bhayo",
       "bahayo",
-      "vayp",
-      "vyp",
       "bbayo",
       "bhyo",
       "bhaiyo",
@@ -1018,7 +1015,7 @@
       "yaatri",
       "yatrai",
       "ytrai",
-      "“yatri"
+      "yatri"
     ]
   },
   "JDYR": {
@@ -1170,7 +1167,7 @@
       "thaiit",
       "taait",
       "tyte",
-      "était",
+      "etait",
       "thait",
       "tyatee",
       "teyate",
@@ -1346,7 +1343,7 @@
   "LMCNE1": {
     "base_word": "laamichhaane",
     "variants": [
-      "lamichhane……",
+      "lamichhane",
       "namichhinne",
       "lamchani",
       "lamichhne",
@@ -1411,7 +1408,7 @@
       "storyyy",
       "strory",
       "satory",
-      "story…",
+      "story",
       "stury",
       "sotory",
       "storey",
@@ -1559,7 +1556,7 @@
     "base_word": "entry",
     "variants": [
       "intry",
-      "eñtire",
+      "entire",
       "intri",
       "intiriy",
       "entre",
@@ -2043,7 +2040,7 @@
       "malie",
       "moile",
       "milee",
-      "mailē",
+      "maile",
       "maelya",
       "mahilay",
       "maele",
@@ -2119,7 +2116,7 @@
   "GPLS": {
     "base_word": "gopals",
     "variants": [
-      "gopal’s"
+      "gopals"
     ]
   },
   "API1": {
@@ -2203,7 +2200,7 @@
       "aley",
       "aahile",
       "aileyy",
-      "‘yela’",
+      "yela",
       "ahilee",
       "aihlay",
       "ahhile",
@@ -2223,7 +2220,7 @@
       "aily",
       "ahiel",
       "yala",
-      "ahile​",
+      "ahile",
       "yela",
       "ailya",
       "aheily",
@@ -2477,7 +2474,7 @@
       "dhanebata",
       "dhannebath",
       "dhanyabaada",
-      "dhanyavāda",
+      "dhanyavada",
       "dhanibada",
       "dhanyavad",
       "dandebhath",
@@ -3116,7 +3113,7 @@
       "raaamlee",
       "ramlee",
       "ramaley",
-      "ramlày",
+      "ramlay",
       "ramly",
       "ramlay",
       "raamlee",
@@ -3582,10 +3579,10 @@
       "mobvie",
       "muvice",
       "mmove",
-      "movie​",
+      "movie",
       "moove",
       "mubhey",
-      "…movie",
+      "movie",
       "muvise",
       "nmove",
       "movic",
@@ -3599,7 +3596,7 @@
       "moviewow",
       "movieo",
       "mobhiethank",
-      "movie”",
+      "movie",
       "movee",
       "movo",
       "moveie",
@@ -3623,7 +3620,7 @@
       "mavie",
       "movice",
       "moviebishal",
-      "movie…",
+      "movie",
       "moive",
       "mobie",
       "mviea"
@@ -4194,7 +4191,7 @@
       "lovly",
       "lovey",
       "loplee",
-      "ꮃꮎꮃlovely",
+      "lovely",
       "lvly",
       "lovelyyyy",
       "lovily",
@@ -4966,7 +4963,7 @@
       "shanshar",
       "saansaar",
       "sansara",
-      "sansar”",
+      "sansar",
       "snsar",
       "sansaara",
       "sanusara",
@@ -5118,7 +5115,7 @@
       "arre",
       "areyy",
       "aree",
-      "are…",
+      "are",
       "aarey",
       "aare",
       "aure",
@@ -5152,7 +5149,7 @@
     "base_word": "interpreted",
     "variants": [
       "interpretkasailey",
-      "interprétée"
+      "interpretee"
     ]
   },
   "NRMLA": {
@@ -5292,30 +5289,24 @@
     "base_word": "laaune",
     "variants": [
       "launue",
-      "launone",
-      "lanee",
-      "laĸne",
+      "laune",
       "launee",
       "laiune",
       "lawoney",
-      "luane",
-      "liune",
-      "laane",
+      "lauane",
+      "launey",
+      "laauney",
       "lawney",
-      "leune",
-      "liane",
-      "lange",
       "llaune",
       "leaune",
       "launya",
       "lawnay",
       "launeya",
-      "laeune",
       "loune"
     ]
   },
   "CNLBTA": {
-    "base_word": "channel baata",
+    "base_word": "channelbaata",
     "variants": [
       "chanelbata",
       "changulbata",
@@ -5334,7 +5325,7 @@
       "chinise",
       "chinij",
       "chiniese",
-      "chaina…j",
+      "chainaj",
       "chainese",
       "chinease"
     ]
@@ -5372,7 +5363,7 @@
     "base_word": "pugos",
     "variants": [
       "pugoos",
-      "pugos°°",
+      "pugos",
       "pugas",
       "pughoss",
       "pugis",
@@ -5530,7 +5521,7 @@
   "SKPE": {
     "base_word": "scope",
     "variants": [
-      "×scope",
+      "iscope",
       "scpope"
     ]
   },
@@ -5565,7 +5556,7 @@
       "vayachhu",
       "vayechhu",
       "vaychhu",
-      "vayechhau…",
+      "vayechhau",
       "vyechhu"
     ]
   },
@@ -5656,10 +5647,10 @@
     "variants": [
       "nepaali",
       "nepakli",
-      "‘nepali",
+      "nepali",
       "neapli",
       "neplali",
-      "n€pali",
+      "npali",
       "neplee",
       "nepalaiii",
       "neplii",
@@ -5675,17 +5666,17 @@
       "nepili",
       "neopali",
       "nepaliii",
-      "“nepali",
+      "nepali",
       "nepalile",
       "nipali",
       "nepaalee",
       "nepalli",
-      "nepali…",
+      "nepali",
       "neapali",
       "nepallii",
       "neepali",
       "nepale",
-      "…nepali",
+      "nepali",
       "neppali",
       "nepallaii",
       "nonnepali",
@@ -5910,7 +5901,7 @@
       "sakthye",
       "saktheyee",
       "skte",
-      "sakthe…",
+      "sakthe",
       "shakte",
       "sakthiye"
     ]
@@ -6484,7 +6475,7 @@
       "merooo",
       "merro",
       "myaro",
-      "mêro",
+      "mero",
       "mayero"
     ]
   },
@@ -6540,7 +6531,7 @@
       "ekadam",
       "yakdaam",
       "ekkdamm",
-      "èkdam",
+      "ekdam",
       "eakadam",
       "yekdham",
       "eakdm",
@@ -6591,7 +6582,7 @@
     "variants": [
       "yerr",
       "urrrr",
-      "чσur",
+      "ur",
       "yar",
       "uar",
       "yyrr",
@@ -6604,7 +6595,7 @@
       "ylll",
       "urrr",
       "yrl",
-      "yrr”",
+      "yrr",
       "yr",
       "yrrr",
       "yrr"
@@ -6616,7 +6607,7 @@
       "rachna",
       "rachana",
       "raichana",
-      "rachàna",
+      "rachana",
       "rchana"
     ]
   },
@@ -6852,7 +6843,7 @@
       "choreographersneesa",
       "choriyographerko",
       "coriograph",
-      "coregrapher…",
+      "coregrapher",
       "choregrapher",
       "choreographr",
       "choreoghraper",
@@ -6973,7 +6964,7 @@
   "NHLY": {
     "base_word": "nahaaley",
     "variants": [
-      "naahaàley",
+      "naahaaley",
       "nahaley"
     ]
   },
@@ -7039,20 +7030,25 @@
     "base_word": "jaando",
     "variants": [
       "jando",
-      "jaanaudo",
-      "j̤a̤n̤d̤o̤"
+      "jaanado",
+      "jandho",
+      "jaandho"
     ]
   },
   "GNTN": {
-    "base_word": "ganthan",
+    "base_word": "gaaunthin",
     "variants": [
+      "gaunthin",
+      "gaauthin",
+      "gauthin",
       "gaunthin"
     ]
   },
   "PRSTLI": {
     "base_word": "paristhitilaai",
     "variants": [
-      "paristhitilai"
+      "paristhitilai",
+      "parishthitilai"
     ]
   },
   "KMNTS": {
@@ -7239,7 +7235,7 @@
       "sakkigayoni",
       "sakigno",
       "sakiyogoni",
-      "“sakigoni“munny",
+      "sakigonimunny",
       "sakkigoin"
     ]
   },
@@ -7481,7 +7477,7 @@
     "base_word": "taagat",
     "variants": [
       "tagata",
-      "ttathāgata",
+      "ttathagata",
       "tattathagata",
       "tattatagata"
     ]
@@ -7615,7 +7611,7 @@
       "namastae",
       "nnamaste",
       "namastey",
-      "nàmaste",
+      "namaste",
       "nmasate",
       "namate",
       "namastay",
@@ -7656,7 +7652,7 @@
     "variants": [
       "sakyoo",
       "shakyo",
-      "sakyo……",
+      "sakyo",
       "saakyo",
       "sakyyo",
       "sakyooo",
@@ -7674,7 +7670,7 @@
       "sakyeo",
       "sakiyi",
       "sakhiyo",
-      "sakiyo…",
+      "sakiyo",
       "sakkyo",
       "sakkiyo",
       "sakyio",
@@ -7897,7 +7893,7 @@
       "matraaii",
       "motrai",
       "matree",
-      "màtatrai",
+      "matatrai",
       "matari",
       "mamatrai",
       "maamatrai",
@@ -8219,7 +8215,7 @@
       "garthea",
       "garuta",
       "grthe",
-      "garthe…",
+      "garthe",
       "gartha",
       "gharta",
       "garata"
@@ -8999,7 +8995,7 @@
       "garnie",
       "garnee",
       "gharne",
-      "garne…",
+      "garne",
       "garnne",
       "garanue",
       "grnee",
@@ -9036,7 +9032,7 @@
       "thiyanww",
       "tiyna",
       "theayena",
-      "thiyena…",
+      "thiyena",
       "thena",
       "tanah",
       "thiyanw",
@@ -9209,7 +9205,7 @@
     "variants": [
       "gaurntee",
       "gurenty",
-      "guarantee……",
+      "guarantee",
       "gurantee",
       "guarante",
       "garentee",
@@ -9453,7 +9449,7 @@
       "aaudainana",
       "aaodaina",
       "aaudainaa",
-      "aaüdaina",
+      "aaudaina",
       "aauadaina",
       "aaudauna",
       "aaudainay",
@@ -9472,11 +9468,11 @@
     "base_word": "aba",
     "variants": [
       "aabaa",
-      "aba’",
+      "aba",
       "abah",
       "aiba",
       "ahbaa",
-      "aɓba",
+      "aba",
       "aaawaa",
       "ava",
       "abba",
@@ -9487,7 +9483,7 @@
       "aeba",
       "abo",
       "auba",
-      "“aba",
+      "aba",
       "abaa",
       "aboh",
       "apa",
@@ -9749,7 +9745,7 @@
       "suprp",
       "supreb",
       "supporb",
-      "superb…",
+      "superb",
       "suppo",
       "supoo",
       "supprb",
@@ -9835,7 +9831,7 @@
       "rahchha",
       "rachha",
       "raahechha",
-      "rachhaà",
+      "rachhaa",
       "raecha",
       "rhychha",
       "rahcha",
@@ -10139,7 +10135,7 @@
       "difi",
       "dhippi",
       "dpi",
-      "dopài",
+      "dopai",
       "dapi"
     ]
   },
@@ -10240,7 +10236,7 @@
       "aajei",
       "aajaai",
       "aajjhai",
-      "aajhai…",
+      "aajhai",
       "aajahi",
       "ajahai",
       "aajaiii",
@@ -11189,7 +11185,7 @@
       "indya",
       "endiya",
       "inddia",
-      "—india",
+      "india",
       "inda",
       "indea",
       "indiyaa",
@@ -11448,7 +11444,7 @@
   "GDNS": {
     "base_word": "gaidinus",
     "variants": [
-      "gaidinus’",
+      "gaidinus",
       "gaedinus"
     ]
   },
@@ -11509,8 +11505,8 @@
   "JSTKE": {
     "base_word": "justice",
     "variants": [
-      "justice…",
-      "…justice"
+      "justice",
+      "justice"
     ]
   },
   "ABWK": {
@@ -11925,7 +11921,7 @@
       "subhakamanahajur",
       "subkaman",
       "shubhakaamanahole",
-      "subhakamana……hjr",
+      "subhakamanahjr",
       "shubhakamaa",
       "subhamana",
       "subakaman",
@@ -11956,12 +11952,10 @@
   "OKO": {
     "base_word": "ooho",
     "variants": [
-      "okeuo",
-      "oko",
+      "oho",
       "ookho",
-      "oókoóóóóóooóoóœ",
+      "ookoooooooooooo",
       "okhooooo",
-      "okko",
       "okho"
     ]
   },
@@ -12136,7 +12130,7 @@
   "BMSI": {
     "base_word": "bamshi",
     "variants": [
-      "bimësi",
+      "bimesi",
       "bamsi",
       "vamshi"
     ]
@@ -12234,10 +12228,10 @@
     "base_word": "haamro",
     "variants": [
       "hamareo",
-      "“hamro",
+      "hamro",
       "hmaro",
       "hameru",
-      "√√hamro",
+      "hamro",
       "hamru",
       "hamaro",
       "hamrp",
@@ -12263,7 +12257,7 @@
       "hamruo",
       "hammro",
       "humro",
-      "hàmro",
+      "hamro",
       "haaamro",
       "hhamro"
     ]
@@ -12461,7 +12455,7 @@
       "dhimag",
       "dimak",
       "dimakh",
-      "dimàg",
+      "dimag",
       "diamak",
       "demag",
       "dimaak",
@@ -12506,7 +12500,7 @@
   "TSR": {
     "base_word": "teaser",
     "variants": [
-      "…teaser",
+      "teaser",
       "teajar",
       "teasear",
       "teser",
@@ -12779,7 +12773,7 @@
   "WHRS": {
     "base_word": "where is",
     "variants": [
-      "where’s",
+      "wheres",
       "wheres",
       "wheras",
       "wheriz",
@@ -12812,7 +12806,7 @@
       "hunchy",
       "hunucchha",
       "hnchhaa",
-      "hunchha…",
+      "hunchha",
       "hhunchha",
       "hhnchha",
       "hunchhcha",
@@ -12820,7 +12814,7 @@
       "hunechhw",
       "hinchhw",
       "hunjah",
-      "hunchha”",
+      "hunchha",
       "hinunchha",
       "hunechhaw",
       "hunchhaha",
@@ -12955,8 +12949,8 @@
       "bestin",
       "besht",
       "bezt",
-      "best‌",
-      "best…",
+      "best",
+      "best",
       "baest",
       "bbest",
       "bestt"
@@ -13874,7 +13868,7 @@
       "zendagi",
       "gendge",
       "jimdagi",
-      "“zindagi",
+      "zindagi",
       "zzendagi",
       "jindaki",
       "zindgi",
@@ -14199,7 +14193,7 @@
     "variants": [
       "napyer",
       "napayr",
-      "napayera…",
+      "napayera",
       "npayer",
       "napayra",
       "napayara",
@@ -14274,7 +14268,7 @@
       "jaosto",
       "jashto",
       "jastyo",
-      "jasto…",
+      "jasto",
       "jstowa",
       "jjasto",
       "jastoyo",
@@ -14725,7 +14719,7 @@
       "bahadr",
       "bahadurrrrr",
       "bhahadur",
-      "bahadur“",
+      "bahadur",
       "bahadurrrrrr",
       "bahdur",
       "bahadhr",
@@ -14809,7 +14803,7 @@
     "base_word": "diyo",
     "variants": [
       "diyao",
-      "diyo…",
+      "diyo",
       "daiyo",
       "deheyo",
       "dhiyoh",
@@ -14992,7 +14986,7 @@
       "ramuji",
       "raimaji",
       "raamji",
-      "ramji´",
+      "ramji",
       "rmji",
       "ramjiii",
       "ramaji",
@@ -15014,7 +15008,7 @@
       "smay",
       "samayak",
       "samay",
-      "sàmaya",
+      "samaya",
       "somya",
       "samy",
       "samyak",
@@ -15146,7 +15140,7 @@
   "DLYRA": {
     "base_word": "dilaayera",
     "variants": [
-      "dilaaye…ra",
+      "dilaayera",
       "dilayara",
       "dulayra",
       "dilayera"
@@ -15176,7 +15170,7 @@
       "aawona",
       "aanea",
       "yayana",
-      "àyana",
+      "ayana",
       "yana",
       "aaunna",
       "awna",
@@ -15409,7 +15403,7 @@
       "vhaner",
       "bhnarw",
       "bhanerah",
-      "bhanera…"
+      "bhanera"
     ]
   },
   "GLMI": {
@@ -15489,7 +15483,7 @@
       "saamaajik",
       "samjik",
       "samajhik",
-      "samajìk",
+      "samajik",
       "saamajic",
       "samajik",
       "samaaajik"
@@ -15644,7 +15638,7 @@
     "variants": [
       "partra",
       "parthora",
-      "paro…tara",
+      "parotara",
       "parootara"
     ]
   },
@@ -15679,10 +15673,10 @@
       "superr",
       "kosuperr",
       "spuer",
-      "℅super",
+      "super",
       "sapre",
       "soper",
-      "súper",
+      "super",
       "supor",
       "supr",
       "suopr",
@@ -15706,7 +15700,7 @@
       "sepre",
       "supaer",
       "supeer",
-      "superó",
+      "supero",
       "supepr",
       "supore",
       "ksuperr"
@@ -16633,9 +16627,9 @@
   "DMKRKY": {
     "base_word": "democracy",
     "variants": [
-      "democracy…",
+      "democracy",
       "democarcy",
-      "democracy’s…",
+      "democracys",
       "democrcy",
       "deemocracy"
     ]
@@ -16997,7 +16991,7 @@
   "SNSD": {
     "base_word": "samsad",
     "variants": [
-      "sansàd",
+      "sansad",
       "sangsad",
       "sansadh",
       "samsod",
@@ -17523,7 +17517,7 @@
     "base_word": "maanchhe",
     "variants": [
       "mancheya",
-      "mànchhey",
+      "manchhey",
       "mnchhky",
       "muchey",
       "manchhe",
@@ -17830,7 +17824,7 @@
       "ahuny",
       "auane",
       "awney",
-      "àaune",
+      "aaune",
       "anune",
       "ahuney",
       "aawane",
@@ -18050,7 +18044,7 @@
       "rere",
       "rree",
       "rre",
-      "re…",
+      "re",
       "reeeeeee"
     ]
   },
@@ -18441,15 +18435,15 @@
     "variants": [
       "neplish",
       "nepals",
-      "nàplz",
+      "naplz",
       "nepalies",
       "neplis",
-      "nepalezë",
+      "nepaleze",
       "nepaless",
       "nepalilolzzzz",
       "naplz",
       "nepalezas",
-      "nepal’s",
+      "nepals",
       "nefolis",
       "nepalais",
       "nepales",
@@ -19012,7 +19006,7 @@
       "hunuhunchh",
       "hanuhuchh",
       "hunhuncha",
-      "hunuhuchh…",
+      "hunuhuchh",
       "hunuhnchha",
       "hunuhunuchha",
       "hunuhunacha",
@@ -19116,7 +19110,7 @@
       "hyrera",
       "heyreyraa",
       "hrera",
-      "herèra",
+      "herera",
       "heareara",
       "huyra",
       "heraera",
@@ -19137,7 +19131,7 @@
       "herahera",
       "hererera",
       "heyreyra",
-      "herera…",
+      "herera",
       "harahara",
       "heryr",
       "hrerera",
@@ -19227,7 +19221,7 @@
       "lagine",
       "laghney",
       "lagnay",
-      "lagne…",
+      "lagne",
       "lagne",
       "lgne",
       "lognee",
@@ -19531,7 +19525,7 @@
   "YSTO": {
     "base_word": "yesto",
     "variants": [
-      "yàsto",
+      "yasto",
       "yasto",
       "eesto",
       "yssto",
@@ -19690,7 +19684,7 @@
       "baaburam",
       "baram",
       "bharuram",
-      "baburam…",
+      "baburam",
       "baburaam",
       "babram",
       "baburam"
@@ -19725,7 +19719,7 @@
       "sakincchh",
       "sakkinchha",
       "sakainchha",
-      "sakìncha",
+      "sakincha",
       "saiknchha",
       "sakinachha",
       "skincha",
@@ -20442,7 +20436,7 @@
     "variants": [
       "hernityo",
       "herinthiyo",
-      "herinthiyo…",
+      "herinthiyo",
       "herintyo"
     ]
   },
@@ -20505,7 +20499,7 @@
     "base_word": "system",
     "variants": [
       "systam",
-      "system”",
+      "system",
       "systum",
       "syestem",
       "systm",
@@ -21374,7 +21368,7 @@
       "gadini",
       "gaudini",
       "gaedini",
-      "għadni"
+      "gaadni"
     ]
   },
   "SNGYTA": {
@@ -21496,7 +21490,7 @@
       "hajurr",
       "hajr",
       "hajuur",
-      "hajìr",
+      "hajir",
       "hajjur",
       "hzur",
       "hagir",
@@ -21513,7 +21507,7 @@
       "hajujue",
       "hajuar",
       "hajor",
-      "hajur…",
+      "hajur",
       "hjurr",
       "hajurrr",
       "huhajur",
@@ -21535,7 +21529,7 @@
       "hagor",
       "hagurr",
       "hajiu",
-      "hàjur",
+      "hajur",
       "hajee",
       "haghur",
       "haijr",
@@ -21548,7 +21542,7 @@
       "hajer",
       "hajaur",
       "hjuur",
-      "hajuà",
+      "hajua",
       "hjue",
       "hojur",
       "haggr",
@@ -21735,7 +21729,7 @@
       "gundrukk",
       "gunduruk",
       "gundrukh",
-      "“gundruk",
+      "gundruk",
       "gundruc",
       "ghandruk",
       "gundruuk"
@@ -22122,7 +22116,7 @@
       "lyricas",
       "lyrichh",
       "lyrick",
-      "lyrics…"
+      "lyrics"
     ]
   },
   "LGKS": {
@@ -22364,7 +22358,7 @@
     "base_word": "timro",
     "variants": [
       "timoro",
-      "“timro",
+      "timro",
       "timiro",
       "tamro",
       "tmroo",
@@ -22441,7 +22435,7 @@
   "BDJI": {
     "base_word": "badhai ajai",
     "variants": [
-      "badhai…ajai"
+      "badhaiajai"
     ]
   },
   "PRJYA": {
@@ -23515,7 +23509,7 @@
     "variants": [
       "hunethiyi",
       "hunthoy",
-      "huntheo…",
+      "huntheo",
       "hunthoo",
       "hunthuo",
       "hunitheo",
@@ -23829,7 +23823,7 @@
     "variants": [
       "hotal",
       "htell",
-      "ho…”tel"
+      "hotel"
     ]
   },
   "NMLYA": {
@@ -24170,20 +24164,18 @@
   "AY1": {
     "base_word": "ehh",
     "variants": [
-      "aayey",
-      "ĸaтy",
+      "ayy",
       "aey",
+      "eh",
       "aaeyyy",
       "ehhh",
       "ayyyy",
       "aaay",
-      "внayх",
       "ayyayyy",
       "aoy",
       "aay",
       "aaey",
       "aaaayyy",
-      "çayı",
       "aeeyy",
       "aayay",
       "eeh",
@@ -24563,7 +24555,7 @@
       "mamitho",
       "muito",
       "mitthho",
-      "mitho…",
+      "mitho",
       "mietho",
       "mithao",
       "mutho",
@@ -24680,7 +24672,7 @@
   "KBDI": {
     "base_word": "kabaddi",
     "variants": [
-      "kabaddi³",
+      "kabaddi",
       "kabhadi",
       "kababdi",
       "kapaddi",
@@ -24992,7 +24984,7 @@
       "shapai",
       "saphai",
       "sabei",
-      "sàbai",
+      "sabai",
       "saapi",
       "sapaii",
       "subai",
@@ -25041,12 +25033,12 @@
       "sabvo",
       "saaabai",
       "sabhayi",
-      "sabài",
+      "sabai",
       "sabae",
       "sappi",
       "sabvai",
       "sepai",
-      "…sabbai",
+      "sabbai",
       "sappai",
       "sabbhai",
       "ssbao",
@@ -25412,7 +25404,7 @@
       "kathmadau",
       "kathmndu",
       "katmandu",
-      "katmandú",
+      "katmandu",
       "kathmanduu",
       "khatmandu",
       "kathmamdu",
@@ -25671,7 +25663,7 @@
     "base_word": "lagna",
     "variants": [
       "lagnaa",
-      "lagña",
+      "lagna",
       "lagna",
       "laghna",
       "lagnah"
@@ -25681,7 +25673,7 @@
     "base_word": "laagna",
     "variants": [
       "laagnaa",
-      "laagña",
+      "laagna",
       "laagnah"
     ]
   },
@@ -25886,7 +25878,7 @@
       "badhau",
       "badhou",
       "badhauu",
-      "badhau”",
+      "badhau",
       "baddau",
       "baddaau",
       "badhaaun"
@@ -25963,13 +25955,13 @@
   "BDS": {
     "base_word": "bidesh",
     "variants": [
-      "b’desh",
+      "bdesh",
       "bdes",
       "bidaes",
       "bideah",
       "bidesa",
       "bidhys",
-      "…bidesh",
+      "bidesh",
       "bdesh",
       "bidese",
       "badesh",
@@ -26039,7 +26031,7 @@
   "SNDTA": {
     "base_word": "sundaa ta",
     "variants": [
-      "sundatà",
+      "sundata",
       "sundat",
       "sundata",
       "sunndata",
@@ -26104,7 +26096,7 @@
       "ekloi",
       "akela",
       "yekloi",
-      "“eklai",
+      "eklai",
       "ekali",
       "ekalai",
       "akly",
@@ -26436,7 +26428,7 @@
       "nyycccc",
       "nicee",
       "noice",
-      "nice​",
+      "nice",
       "niceers",
       "nyc",
       "nycc",
@@ -27022,7 +27014,7 @@
     "variants": [
       "vilej",
       "vilegg",
-      "“village"
+      "village"
     ]
   },
   "ABN1": {
@@ -27122,13 +27114,13 @@
       "gariko",
       "garkeo",
       "garieko",
-      "gàreko",
+      "gareko",
       "gryko",
       "gareeko",
       "gaireko",
       "grayako",
       "gareyeko",
-      "gareko…",
+      "gareko",
       "garwko"
     ]
   },
@@ -27458,7 +27450,7 @@
     "base_word": "kaamai",
     "variants": [
       "kaaamai",
-      "kàamai",
+      "kaamai",
       "camei"
     ]
   },
@@ -27652,7 +27644,7 @@
       "neplese",
       "naplease",
       "neplease",
-      "népalaise",
+      "nepalaise",
       "nepalisse"
     ]
   },
@@ -28189,7 +28181,7 @@
     "base_word": "sakiyos",
     "variants": [
       "sakiyosh",
-      "sakiyos…",
+      "sakiyos",
       "sakiyoss",
       "skiyos",
       "sakayos",
@@ -28547,7 +28539,7 @@
     "variants": [
       "paiyothank",
       "payethank",
-      "paiyo…thank",
+      "paiyothank",
       "paayeyothank"
     ]
   },
@@ -28725,20 +28717,20 @@
       "wocom",
       "ww",
       "owoo",
-      "wowò",
+      "wowo",
       "wwi",
-      "“wow",
+      "wow",
       "wwow",
       "wooow",
       "wcm",
-      "wow…",
+      "wow",
       "waow",
       "owao",
       "woi",
       "woow",
       "oowo",
       "owwo",
-      "wow​",
+      "wow",
       "woww"
     ]
   },
@@ -28970,8 +28962,8 @@
     "variants": [
       "gamg",
       "gamimg",
-      "gāming",
-      "gàming",
+      "gaming",
+      "gaming",
       "geming",
       "gamaing",
       "gameing",
@@ -28997,7 +28989,7 @@
       "ghamanndi",
       "gamndi",
       "ghamdhi",
-      "gamandi…",
+      "gamandi",
       "ghmndi",
       "ghamanadi",
       "ghamndi",
@@ -29250,7 +29242,7 @@
       "timiai",
       "timmi",
       "timay",
-      "…timi"
+      "timi"
     ]
   },
   "ANRDA1": {
@@ -29489,7 +29481,7 @@
       "koyestai",
       "chauyestai",
       "chhayestai",
-      "chha…yestai",
+      "chhayestai",
       "chhayestoi",
       "chhayastai",
       "chhaaayestai",
@@ -29506,13 +29498,13 @@
     "base_word": "aru",
     "variants": [
       "aruu",
-      "……………aru",
+      "aru",
       "aaaru",
       "aro",
       "aarau",
       "aruo",
       "aauru",
-      "…aru",
+      "aru",
       "arruu",
       "aruaru",
       "arou",
@@ -29521,7 +29513,7 @@
       "arru",
       "auru",
       "aruuu",
-      "åaru",
+      "aaru",
       "aruaruaruaru",
       "airo",
       "arau",
@@ -29918,7 +29910,7 @@
       "namasakar",
       "namasker",
       "namashkaar",
-      "ñamskar",
+      "namskar",
       "namaskarram",
       "namsker",
       "namskhar",
@@ -30194,7 +30186,7 @@
       "afthero",
       "aaftharo",
       "aptharo",
-      "afthero…",
+      "afthero",
       "aafthero",
       "aftero",
       "ahftyro",
@@ -30251,7 +30243,7 @@
       "berojgar",
       "barojgar",
       "berojgarr",
-      "berojgaar—",
+      "berojgaar",
       "birojgar"
     ]
   },
@@ -30404,7 +30396,7 @@
       "jhyoti",
       "jyotii",
       "joyoiti",
-      "jyóti"
+      "jyoti"
     ]
   },
   "SRMNKO": {
@@ -30638,7 +30630,7 @@
       "chahoyo",
       "chahaiyo",
       "chahiyooo",
-      "chaheyo…",
+      "chaheyo",
       "chahayo",
       "chahiyoo",
       "chaheyo",
@@ -31036,7 +31028,7 @@
       "aouneharu",
       "auniharu",
       "aauneharu",
-      "àauneharu",
+      "aauneharu",
       "aaaunuharuu"
     ]
   },
@@ -31087,10 +31079,10 @@
       "leh",
       "leo",
       "loh",
-      "løh",
+      "loh",
       "lehh",
       "leeh",
-      "вlo",
+      "lo",
       "lh",
       "luhh",
       "lio",
@@ -31630,10 +31622,10 @@
       "dekhicha",
       "dekhyachha",
       "dekhaycha",
-      "dekhéchha",
+      "dekhechha",
       "dekhichha",
       "dekhecha",
-      "dekhécha",
+      "dekhecha",
       "dekhechh",
       "dekhyachh",
       "dhekyachha",
@@ -31728,7 +31720,7 @@
       "jayash",
       "jayas",
       "jayhos",
-      "jaya²hos",
+      "jayahos",
       "jayahosss",
       "jayoss",
       "joyash",
@@ -32640,7 +32632,7 @@
       "lagdoin",
       "lagdiina",
       "lagdyna",
-      "lagdain…",
+      "lagdain",
       "lagaudina",
       "lagdaian",
       "lagdain",
@@ -32790,7 +32782,7 @@
       "tabha",
       "taaaba",
       "taaba",
-      "tab”",
+      "tab",
       "thaba",
       "tabba",
       "tabh",
@@ -32889,7 +32881,7 @@
       "wada",
       "wadha",
       "wadda",
-      "waħda",
+      "waada",
       "waada",
       "wadaa"
     ]
@@ -33163,7 +33155,7 @@
       "brounder",
       "birendera",
       "virendar",
-      "…birendra",
+      "birendra",
       "birendar",
       "berendra",
       "birendraaaaa",
@@ -33396,13 +33388,14 @@
     ]
   },
   "AJKA": {
-    "base_word": "aajaka",
+    "base_word": "aajakaa",
     "variants": [
-      "ajka",
-      "aajaaka",
       "aajka",
-      "aajkaĺ",
-      "ajaka"
+      "aajaaka",
+      "aajaka",
+      "aajakaa",
+      "ajaka",
+      "ajakaa"
     ]
   },
   "DKRE": {
@@ -33410,12 +33403,11 @@
     "variants": [
       "dekhere",
       "dhekare",
-      "dekhare",
-      "dekhchhare"
+      "dekhare"
     ]
   },
   "SMJME": {
-    "base_word": "samaaj me",
+    "base_word": "samajhme",
     "variants": [
       "samajme",
       "samjme",
@@ -33475,7 +33467,7 @@
       "reviw",
       "reveiew",
       "revew",
-      "rêve",
+      "reve",
       "rebeu",
       "revievw"
     ]
@@ -33707,7 +33699,7 @@
       "heppy",
       "happpyy",
       "hepay",
-      "happyসাধু"
+      "happy"
     ]
   },
   "TMKO": {
@@ -33997,9 +33989,9 @@
     "base_word": "uttam",
     "variants": [
       "utam",
-      "ṳt̤t̤a̤m̤",
       "utthamm",
-      "uotaam"
+      "uottaam",
+      "uottam"
     ]
   },
   "UTM2": {
@@ -34012,7 +34004,7 @@
     ]
   },
   "OC1": {
-    "base_word": "aaich",
+    "base_word": "aich",
     "variants": [
       "oich",
       "haitch",
@@ -34167,9 +34159,9 @@
       "chhalcha",
       "chalcha",
       "chalchhaa",
-      "chàlchha",
+      "chalchha",
       "chalechha",
-      "chalchha…",
+      "chalchha",
       "chalchaa",
       "challchha",
       "chlchha",
@@ -34195,7 +34187,7 @@
       "chalauchann",
       "chalauchan",
       "chalauchhan",
-      "chalauchha…n",
+      "chalauchhan",
       "chaluchhan",
       "chlauchan",
       "chalanchan",
@@ -34389,7 +34381,7 @@
       "nahosss",
       "nahosh",
       "nahosz",
-      "nàhos",
+      "nahos",
       "nahus",
       "nhosh",
       "nahosha",
@@ -34401,7 +34393,7 @@
       "nhoas",
       "nhos",
       "nahooos",
-      "nahos…"
+      "nahos"
     ]
   },
   "ANHR1": {
@@ -34628,7 +34620,7 @@
   "WHN": {
     "base_word": "wahaa",
     "variants": [
-      "wahan”",
+      "wahan",
       "whean",
       "wahan"
     ]
@@ -34708,7 +34700,7 @@
       "haridik",
       "hardika",
       "hardike",
-      "hārdika",
+      "hardika",
       "hardk",
       "hardikk",
       "hardik"
@@ -35272,7 +35264,7 @@
       "oaya",
       "oye",
       "oai",
-      "“oi",
+      "oi",
       "oii",
       "oei",
       "oyee",
@@ -35385,7 +35377,7 @@
   "NRTYA": {
     "base_word": "nritya",
     "variants": [
-      "nr̥tya",
+      "nrtya",
       "nrityaa",
       "nertya",
       "nretya",
@@ -35406,6 +35398,7 @@
     "base_word": "ummhumm",
     "variants": [
       "umhumm",
+      "ummhum",
       "umhum",
       "umhm",
       "mmhm"
@@ -35414,15 +35407,17 @@
   "BTRYE": {
     "base_word": "bhitraaye",
     "variants": [
-      "bhitriye",
-      "bhitraye"
+      "bhitraye",
+      "bhitray",
+      "vitraye",
+      "vitray"
     ]
   },
   "JNDYA": {
     "base_word": "jhundiye",
     "variants": [
-      "jhundiya",
-      "jhundya",
+      "jhundiy",
+      "jhundiea",
       "jhundyeyeea",
       "jhundiyea"
     ]
@@ -36038,9 +36033,9 @@
       "laacha",
       "lacha",
       "lachha",
-      "lachha”",
+      "lachha",
       "lachhha",
-      "laachha”",
+      "laachha",
       "laachhha"
     ]
   },
@@ -37296,7 +37291,7 @@
   "ELKN": {
     "base_word": "election",
     "variants": [
-      "elección"
+      "eleccion"
     ]
   },
   "MTMNI": {
@@ -37340,22 +37335,15 @@
     "variants": [
       "ustae",
       "usatai",
-      "uesta",
-      "usati",
       "ustaii",
       "ustei",
-      "usta",
       "uestai",
-      "usita",
-      "uasta",
       "usthaii",
       "ostai",
       "ustoi",
       "usttai",
-      "usti",
-      "ġusta",
-      "osti",
-      "usaita",
+      "ustaai",
+      "ostai",
       "oshatei",
       "usthai",
       "uastai",
@@ -38409,7 +38397,7 @@
   "HNRMRO": {
     "base_word": "haina raamro",
     "variants": [
-      "hunna…ramro",
+      "hunnaramro",
       "hainaramro",
       "honaramro",
       "huneramro",
@@ -38794,7 +38782,7 @@
       "hununparyo",
       "hannuparo",
       "hunparyo",
-      "hunupàryø",
+      "hunuparyo",
       "hunupariyo",
       "hunuparyeo",
       "hinunparyo",
@@ -38931,7 +38919,7 @@
       "swhor",
       "swr",
       "swaor",
-      "swor…",
+      "swor",
       "showor",
       "sworr",
       "sowor",
@@ -39107,7 +39095,7 @@
       "simama",
       "samima",
       "smaa",
-      "samma…",
+      "samma",
       "samaa",
       "sammha",
       "sammaa",
@@ -39606,7 +39594,7 @@
       "sabaela",
       "sabaiele",
       "sappaile",
-      "…sabaile",
+      "sabaile",
       "sablia",
       "sabailey",
       "sabila",
@@ -39668,7 +39656,7 @@
       "tanks",
       "tnks",
       "thankssss",
-      "thánks",
+      "thanks",
       "thnkss",
       "thnks",
       "thanksh",
@@ -39834,7 +39822,7 @@
   "UTRA1": {
     "base_word": "uthera",
     "variants": [
-      "…uthera",
+      "uthera",
       "utera"
     ]
   },
@@ -40139,7 +40127,7 @@
     "variants": [
       "haaleeko",
       "haleko",
-      "haleko…",
+      "haleko",
       "halekoo",
       "halko"
     ]
@@ -40720,7 +40708,7 @@
     "base_word": "banglaamukhi",
     "variants": [
       "baglamukhi",
-      "bagalāmukhī"
+      "bagalamukhi"
     ]
   },
   "BCLO": {
@@ -41225,7 +41213,7 @@
       "amazzing",
       "amazaing",
       "amzaing",
-      "amazing’",
+      "amazing",
       "amzng",
       "amaing",
       "amaizing",
@@ -41482,7 +41470,7 @@
       "mildaeana",
       "mildinaa",
       "mildeina",
-      "mildaina…",
+      "mildaina",
       "mildinaaa",
       "mildaiina",
       "mildainan",
@@ -41607,7 +41595,7 @@
       "meali",
       "maeli",
       "mlaai",
-      "màlai",
+      "malai",
       "malaiaj",
       "malaj",
       "malahai",
@@ -41616,14 +41604,14 @@
       "mallaj",
       "malai",
       "malui",
-      "malai…",
+      "malai",
       "malahi",
       "mlahi",
       "mllai",
       "mlai",
       "maelai",
       "moali",
-      "malài",
+      "malai",
       "molyi",
       "malii",
       "melai",
@@ -41648,7 +41636,7 @@
       "malaoi",
       "malali",
       "maoli",
-      "“malai",
+      "malai",
       "maloi",
       "maalaii",
       "mamilai",
@@ -41834,10 +41822,10 @@
       "treaiiler",
       "tralier",
       "traleer",
-      "tralermā",
+      "tralerma",
       "trailor",
       "trailler",
-      "trailer…",
+      "trailer",
       "trilller",
       "teriler",
       "trler",
@@ -41853,7 +41841,7 @@
       "trialer",
       "triller",
       "terailer",
-      "trailermā",
+      "trailerma",
       "tariler",
       "traleir",
       "trrailer",
@@ -42068,7 +42056,7 @@
       "shakidina",
       "sakdeina",
       "shakidaina",
-      "sakdina…",
+      "sakdina",
       "skidaina",
       "sakindina",
       "sakdinna",
@@ -42086,7 +42074,7 @@
       "skdainaa",
       "skedina",
       "sikdina",
-      "sakidaina’",
+      "sakidaina",
       "sakdeinaa",
       "sakdina",
       "sakhdaina",
@@ -42424,7 +42412,7 @@
     "base_word": "chha best",
     "variants": [
       "chabest",
-      "chha…best",
+      "chhabest",
       "chubest",
       "chaiibest"
     ]
@@ -42432,7 +42420,7 @@
   "UPHR": {
     "base_word": "upahaar",
     "variants": [
-      "“upahar",
+      "upahar",
       "upaahar",
       "upahar"
     ]
@@ -42977,8 +42965,7 @@
   "WTC": {
     "base_word": "watch",
     "variants": [
-      "aαtch",
-      "watch…",
+      "waatch",
       "wwatch",
       "watchh"
     ]
@@ -42991,10 +42978,11 @@
     ]
   },
   "MGYA": {
-    "base_word": "maagya",
+    "base_word": "maagyaa",
     "variants": [
       "maghaya",
       "magya",
+      "maagya",
       "magyaa"
     ]
   },
@@ -43002,8 +42990,9 @@
     "base_word": "khaderimaa",
     "variants": [
       "khaderima",
-      "koderma",
-      "khdarima"
+      "koderima",
+      "khdarima",
+      "khaderima"
     ]
   },
   "GRKLND": {
@@ -43018,7 +43007,8 @@
     "base_word": "basaaleko",
     "variants": [
       "basaleko",
-      "bisalko"
+      "basaleyko",
+      "basaaleyko"
     ]
   },
   "BDYTLE": {
@@ -43026,14 +43016,22 @@
     "variants": [
       "badyetale",
       "badyatale",
-      "badhyatale"
+      "baadhyatale",
+      "badhyataale",
+      "badhyatale",
+      "badyetaley",
+      "badyataley",
+      "baadhyataley",
+      "badhyataaley",
+      "badhyataley"
     ]
   },
   "JLCA": {
     "base_word": "jalchha",
     "variants": [
-      "jalaucha",
-      "jalcha"
+      "jalachha",
+      "jalcha",
+      "jalacha"
     ]
   },
   "APRDKO": {
@@ -43252,7 +43250,7 @@
   "HRNI": {
     "base_word": "hernai",
     "variants": [
-      "herñai",
+      "hernai",
       "herrni",
       "hayrnai",
       "hyrnai",
@@ -43564,7 +43562,7 @@
   "SNDRKO": {
     "base_word": "sundariko",
     "variants": [
-      "“sundariko",
+      "sundariko",
       "sandarko"
     ]
   },
@@ -43781,7 +43779,7 @@
       "heraney",
       "herneyy",
       "herni",
-      "…herne",
+      "herne",
       "hayrnay",
       "hernay",
       "hyrny",
@@ -43868,7 +43866,7 @@
   "SJ": {
     "base_word": "saanjh",
     "variants": [
-      "sanjh……",
+      "sanjh",
       "sanoj",
       "sanjh",
       "saanj",
@@ -43878,7 +43876,7 @@
       "shj",
       "shaj",
       "sajh",
-      "sanjh…",
+      "sanjh",
       "saajh",
       "saaj"
     ]
@@ -44624,8 +44622,8 @@
   "SBTR": {
     "base_word": "saabitri",
     "variants": [
-      "sabitrì",
-      "sabtrí",
+      "sabitri",
+      "sabtri",
       "sabitir",
       "sabitar"
     ]
@@ -44738,7 +44736,7 @@
       "dhatury",
       "daturey",
       "dathurey",
-      "‘dhature",
+      "dhature",
       "dature",
       "dhatiure",
       "datura",
@@ -45147,7 +45145,7 @@
     "variants": [
       "onn",
       "ong",
-      "on…",
+      "on",
       "oon"
     ]
   },
@@ -45314,7 +45312,7 @@
   "ARPN": {
     "base_word": "arpan",
     "variants": [
-      "‘arpan",
+      "arpan",
       "aarpan",
       "arpon"
     ]
@@ -45545,7 +45543,7 @@
       "theyei",
       "thiyoa",
       "thyei",
-      "thhiyo…",
+      "thhiyo",
       "thayai",
       "theyi",
       "tehiho",
@@ -45785,7 +45783,7 @@
       "rajsansta",
       "raajsanastha",
       "rajsansthako",
-      "‘raajsanastha’",
+      "raajsanastha",
       "rajsanstha"
     ]
   },
@@ -45898,7 +45896,7 @@
     "base_word": "siwakoti",
     "variants": [
       "shiwakoti",
-      "siwakoti”",
+      "siwakoti",
       "siwaakoti",
       "sewakoti",
       "siwakotiiiii",
@@ -46556,7 +46554,7 @@
     "base_word": "estaa",
     "variants": [
       "est",
-      "está"
+      "esta"
     ]
   },
   "DRNMA": {
@@ -46773,12 +46771,12 @@
       "kasary",
       "kasasri",
       "kasri",
-      "…kasari",
+      "kasari",
       "kasrai",
       "kasarii",
       "kaeshari",
       "kasaraii",
-      "kasari…",
+      "kasari",
       "kasrie",
       "kosari",
       "chhukasari",
@@ -47235,7 +47233,7 @@
     "base_word": "games",
     "variants": [
       "ghames",
-      "game’s"
+      "games"
     ]
   },
   "HRDNM": {
@@ -47482,7 +47480,7 @@
       "chashma",
       "chsma",
       "chasmaa",
-      "chashma”",
+      "chashma",
       "chasmma",
       "chaasma"
     ]
@@ -47944,7 +47942,7 @@
   "LGKYST": {
     "base_word": "laagchha yesto",
     "variants": [
-      "lagchha…yasto",
+      "lagchhayasto",
       "lagchhayasto",
       "laagchhayesto"
     ]
@@ -48037,7 +48035,7 @@
       "aandholan",
       "aandol",
       "aadolan",
-      "añdolan",
+      "andolan",
       "andolana",
       "anadolan",
       "anndolan",
@@ -48046,7 +48044,7 @@
       "andolon",
       "adolan",
       "andoln",
-      "àandolan",
+      "aandolan",
       "andolann",
       "andolan",
       "andholan",
@@ -48372,7 +48370,7 @@
   "GSBMPS": {
     "base_word": "goosebumps",
     "variants": [
-      "goosebumps…",
+      "goosebumps",
       "gossbumps",
       "ghoosebums",
       "goosbums",
@@ -49132,7 +49130,7 @@
     "variants": [
       "chatapae",
       "chatapai",
-      "chha…tapai"
+      "chhatapai"
     ]
   },
   "GDNKU": {
@@ -49315,7 +49313,7 @@
   "ATMHTY": {
     "base_word": "aatmahatyaa",
     "variants": [
-      "“atmahatya’",
+      "atmahatya",
       "aatmahattya",
       "aatmaahatya",
       "aatmahatya",
@@ -50476,7 +50474,7 @@
       "sakkiyoni",
       "sakyoni",
       "sakiyoni",
-      "sakiyoñi"
+      "sakiyoni"
     ]
   },
   "HDST": {
@@ -50575,7 +50573,7 @@
     "variants": [
       "surgha",
       "swargea",
-      "“swarga",
+      "swarga",
       "sorga",
       "surga"
     ]
@@ -50881,7 +50879,7 @@
       "nahare",
       "naharey",
       "nahery",
-      "ñahare"
+      "nahare"
     ]
   },
   "JKRLI": {
@@ -50903,7 +50901,7 @@
     "base_word": "ramaayo",
     "variants": [
       "ramaeyo",
-      "ramayo’",
+      "ramayo",
       "ramayo",
       "ramyo"
     ]
@@ -51496,7 +51494,7 @@
   "CBDI": {
     "base_word": "chha badhaai",
     "variants": [
-      "chai…badhai",
+      "chaibadhai",
       "chabadhai"
     ]
   },
@@ -52406,7 +52404,7 @@
   "GRKL": {
     "base_word": "gurukul",
     "variants": [
-      "‘gurukul’"
+      "gurukul"
     ]
   },
   "HDYO": {
@@ -53161,7 +53159,7 @@
       "haruu",
       "harauu",
       "haruuu",
-      "haru…",
+      "haru",
       "hoaru",
       "hauaru",
       "hearau",
@@ -53179,7 +53177,7 @@
       "huaru",
       "aharu",
       "haeru",
-      "haru”",
+      "haru",
       "ahru",
       "harau",
       "haiaru",
@@ -53472,7 +53470,7 @@
       "shochera",
       "scher",
       "sochyara",
-      "…socherw",
+      "socherw",
       "socher",
       "sachyara",
       "sochyera",
@@ -53653,9 +53651,7 @@
   "BKGRND": {
     "base_word": "background",
     "variants": [
-      "backgroundko",
       "backrond",
-      "buckground",
       "bakground",
       "backgraound",
       "backround",
@@ -53663,7 +53659,7 @@
       "backgroundma",
       "backgrround",
       "bacground",
-      "bacķground",
+      "backgraund",
       "bckground",
       "backraound"
     ]
@@ -54031,7 +54027,7 @@
   "LBTO": {
     "base_word": "laai baato",
     "variants": [
-      "la……bato",
+      "labato",
       "laibato",
       "laaibato",
       "laibaato",
@@ -54406,7 +54402,7 @@
     "base_word": "sodhchha",
     "variants": [
       "sodcha",
-      "sodhcha…",
+      "sodhcha",
       "shodcha",
       "sodhcha"
     ]
@@ -54439,7 +54435,7 @@
       "chalachittrale",
       "chlchitra",
       "chalchittra",
-      "chalchitra…",
+      "chalchitra",
       "chalichitra",
       "chalachitrale",
       "chalchitrale",
@@ -55094,7 +55090,7 @@
     "base_word": "basera",
     "variants": [
       "bashera",
-      "baserà",
+      "basera",
       "basrea",
       "bashar",
       "bsera",
@@ -56249,7 +56245,7 @@
     "variants": [
       "pasoupati",
       "pasupti",
-      "pásupati",
+      "pasupati",
       "paspatti",
       "pushupati",
       "pashpati",
@@ -56705,15 +56701,15 @@
       "budapakha",
       "budopaka",
       "budapaka",
-      "“budapaka"
+      "budapaka"
     ]
   },
   "TRKY": {
     "base_word": "turkey",
     "variants": [
-      "türkiye",
+      "turkiye",
       "tarkey",
-      "türkiyeye",
+      "turkiyeye",
       "turky",
       "torkey"
     ]
@@ -58142,7 +58138,7 @@
     "base_word": "ho good",
     "variants": [
       "haigud",
-      "hai…good",
+      "haigood",
       "hgood",
       "hogood",
       "heigod"
@@ -58242,7 +58238,7 @@
   "WMLE": {
     "base_word": "wow maile",
     "variants": [
-      "wow…maile",
+      "wowmaile",
       "wowmaile"
     ]
   },
@@ -58337,10 +58333,10 @@
   "ALA": {
     "base_word": "aile",
     "variants": [
-      "aila”",
+      "aila",
       "ailaa",
       "oele",
-      "“aila",
+      "aila",
       "aiila",
       "ailia",
       "aiiila",
@@ -58356,7 +58352,7 @@
       "ailla",
       "aaiala",
       "aaila",
-      "àaila",
+      "aaila",
       "ole",
       "aaiela"
     ]
@@ -58384,7 +58380,7 @@
       "bhanunchan",
       "bhnchin",
       "bhanchhanan",
-      "bhanchhan”",
+      "bhanchhan",
       "bhannchan",
       "bhanchan",
       "bhanchhann",
@@ -58804,7 +58800,7 @@
       "prdesh",
       "paradesh",
       "pardhesh",
-      "pardesh”",
+      "pardesh",
       "pardes",
       "pardeas",
       "predesh",
@@ -58987,14 +58983,14 @@
       "hwy",
       "hahi",
       "hway",
-      "hai…",
+      "hai",
       "hoai",
       "heai",
       "howy",
       "ha",
       "haiii",
       "huai",
-      "çhai",
+      "chai",
       "hihihi",
       "haui",
       "hhai",
@@ -59504,7 +59500,7 @@
     "base_word": "lord",
     "variants": [
       "loard",
-      "lord”",
+      "lord",
       "lorddd"
     ]
   },
@@ -59554,7 +59550,7 @@
       "anmmol",
       "aanmol",
       "anmoll",
-      "“anmol",
+      "anmol",
       "anmols"
     ]
   },
@@ -59771,11 +59767,11 @@
     "variants": [
       "narahaya",
       "narhe",
-      "narahey”",
+      "narahey",
       "nrahe",
       "narahay",
       "narahya",
-      "narahaya”",
+      "narahaya",
       "narahey",
       "narahahe"
     ]
@@ -59859,14 +59855,13 @@
     "base_word": "I am",
     "variants": [
       "im",
-      "i̲̲m̲",
-      "i’m",
-      "imm",
+      "i'm",
       "iam",
-      "işim",
-      "i’am",
+      "imm",
+      "iamm",
+      "iaam",
+      "iam",
       "immmm",
-      "iom",
       "iem"
     ]
   },
@@ -60086,7 +60081,7 @@
     "base_word": "birgunj",
     "variants": [
       "birgunnj",
-      "•birgunj•",
+      "birgunj",
       "birgunja",
       "birganj"
     ]
@@ -60301,7 +60296,7 @@
   "SMLS": {
     "base_word": "shameless",
     "variants": [
-      "shameless…"
+      "shameless"
     ]
   },
   "LBE": {
@@ -61084,7 +61079,7 @@
     "base_word": "ending",
     "variants": [
       "endding",
-      "endιng",
+      "ending",
       "endin",
       "endng",
       "eanding",
@@ -61622,7 +61617,7 @@
       "dekhaudain",
       "dekhaidaain",
       "dekhidain",
-      "dekindaina…",
+      "dekindaina",
       "dhekhdain"
     ]
   },
@@ -61648,7 +61643,7 @@
     "variants": [
       "kaattdinchhuu",
       "kataidinchhu",
-      "katdinchhu’",
+      "katdinchhu",
       "katdinchhu"
     ]
   },
@@ -61901,7 +61896,7 @@
       "samjhiya",
       "samjya",
       "samjayea",
-      "samjyaà",
+      "samjyaa",
       "samjiye"
     ]
   },
@@ -62784,7 +62779,7 @@
     "base_word": "truly",
     "variants": [
       "truelyyyyyyy",
-      "…truly",
+      "truly",
       "truely"
     ]
   },
@@ -63201,7 +63196,7 @@
       "ginchha",
       "gainchaa",
       "gaencha",
-      "gainchha…"
+      "gainchha"
     ]
   },
   "NKLTE": {
@@ -63252,7 +63247,7 @@
     "base_word": "ho timi",
     "variants": [
       "hotimi",
-      "ho…timi"
+      "hotimi"
     ]
   },
   "MJRI": {
@@ -63451,7 +63446,7 @@
     "base_word": "sewak",
     "variants": [
       "sevak",
-      "sebāk",
+      "sebak",
       "sebaak",
       "sebak",
       "sebakk",
@@ -63508,7 +63503,7 @@
       "maiji",
       "majei",
       "majhee",
-      "màjhi",
+      "majhi",
       "majhii",
       "maaji",
       "majii"
@@ -63521,9 +63516,7 @@
       "treail",
       "tireal",
       "triral",
-      "trคil",
       "tiral",
-      "trl",
       "tearll",
       "tril",
       "tirel",
@@ -64478,7 +64471,7 @@
     "base_word": "tarbaar",
     "variants": [
       "tarabir",
-      "tarbaar”",
+      "tarbaar",
       "tarbbar",
       "tarbar"
     ]
@@ -65180,7 +65173,7 @@
       "aawchhu",
       "aaouchhu",
       "auchhu",
-      "aauchhu”",
+      "aauchhu",
       "aaucu",
       "auchhuu",
       "aaauchhu",
@@ -65339,7 +65332,7 @@
       "haija",
       "hijho",
       "hjo",
-      "“hijo",
+      "hijo",
       "haijja",
       "hja",
       "hijio",
@@ -65584,7 +65577,7 @@
   "BNSKYO2": {
     "base_word": "banisakyo",
     "variants": [
-      "banisakyo…",
+      "banisakyo",
       "banisakiyoo"
     ]
   },
@@ -66054,7 +66047,7 @@
   "NKYA": {
     "base_word": "nikaya",
     "variants": [
-      "nikāya",
+      "nikaya",
       "nekaya",
       "nikaaya"
     ]
@@ -67017,7 +67010,7 @@
   "GPT": {
     "base_word": "gift",
     "variants": [
-      "‘gift’",
+      "gift",
       "gifet",
       "gifit",
       "gft"
@@ -67550,7 +67543,7 @@
   "OPRD": {
     "base_word": "offroad",
     "variants": [
-      "offróad",
+      "offroad",
       "ofroad"
     ]
   },
@@ -68048,7 +68041,7 @@
   "BMBA": {
     "base_word": "bimba",
     "variants": [
-      "bimba”",
+      "bimba",
       "bumba"
     ]
   },
@@ -68790,7 +68783,7 @@
   "SWRTMA": {
     "base_word": "swaarthamaa",
     "variants": [
-      "swarthamā",
+      "swarthama",
       "swarthama",
       "swarthima"
     ]
@@ -68798,7 +68791,7 @@
   "NBDY1": {
     "base_word": "nobody",
     "variants": [
-      "…nobody",
+      "nobody",
       "nbody",
       "nobadi"
     ]
@@ -69154,7 +69147,7 @@
       "eowta",
       "eautaa",
       "eutha",
-      "…euta"
+      "euta"
     ]
   },
   "YGTA": {
@@ -70166,7 +70159,7 @@
     "base_word": "gaandu",
     "variants": [
       "gghandu",
-      "għandu",
+      "gaandu",
       "gundu",
       "gandu"
     ]
@@ -72411,7 +72404,7 @@
       "mathhi",
       "mathe",
       "maite",
-      "“mathi",
+      "mathi",
       "mathiy",
       "mathay",
       "mathie",
@@ -72572,7 +72565,7 @@
   "AKA1": {
     "base_word": "aaunchha",
     "variants": [
-      "aauchha…",
+      "aauchha",
       "auocha",
       "auuchha",
       "aunchh",
@@ -72585,7 +72578,7 @@
       "aucchha",
       "aauchhchha",
       "aauochha",
-      "aaucha…",
+      "aaucha",
       "aachaa",
       "aaicha",
       "aawchh",
@@ -72620,7 +72613,7 @@
       "aaauchaaa",
       "aaochha",
       "aaachha",
-      "auchha¿",
+      "auchha",
       "aauchhaua",
       "auichha",
       "aaunchch",
@@ -72754,7 +72747,7 @@
     "base_word": "hopefully",
     "variants": [
       "hopefullly",
-      "ho…hopefully"
+      "hohopefully"
     ]
   },
   "SNWL": {
@@ -72919,9 +72912,9 @@
   "JYNE": {
     "base_word": "jaayenge",
     "variants": [
-      "jayenтe",
+      "jayenge",
       "jayange",
-      "jayenge"
+      "jayenghe"
     ]
   },
   "MGCA": {
@@ -73304,14 +73297,11 @@
       "aiti",
       "aatih",
       "aeti",
-      "auti",
+      "ati",
       "aatiih",
       "atii",
       "atih",
-      "athi",
-      "atai",
-      "ti",
-      "ķati"
+      "athi"
     ]
   },
   "SMBRDI": {
@@ -73498,8 +73488,8 @@
       "laaagyo",
       "lageyoo",
       "lagyoio",
-      "lagyo…",
-      "lāgyo",
+      "lagyo",
+      "lagyo",
       "lagyooo",
       "lagyuo",
       "laggeyo",
@@ -73530,9 +73520,9 @@
       "laggyo",
       "lago",
       "lagoo",
-      "lagyoo…",
+      "lagyoo",
       "laagayo",
-      "lagyo……",
+      "lagyo",
       "lagho"
     ]
   },
@@ -74081,7 +74071,7 @@
   "UKN": {
     "base_word": "ukhan",
     "variants": [
-      "…ukhan",
+      "ukhan",
       "ukhaan",
       "uukhaan",
       "ukkhan"
@@ -74157,20 +74147,32 @@
     "base_word": "aawar",
     "variants": [
       "awar",
-      "awßar"
+      "awaar"
     ]
   },
   "JGMA": {
-    "base_word": "jaggama",
+    "base_word": "jaggaamaa",
     "variants": [
-      "jagama"
+      "jaggama",
+      "jagghama",
+      "jagama",
+      "jagghama",
+      "jaghama"
     ]
   },
   "TBNA": {
-    "base_word": "thabhanna",
+    "base_word": "thaahaa bhayena",
     "variants": [
-      "tabhanna",
-      "thabhaena"
+      "thabhaena",
+      "thabhayena",
+      "thahabhayena",
+      "thaahabhayena",
+      "thaahaabhayena",
+      "thavaena",
+      "thavayena",
+      "thahavayena",
+      "thaahavayena",
+      "thaahaavayena"
     ]
   },
   "GPTO": {
@@ -74268,7 +74270,7 @@
       "tikotok",
       "taktok",
       "tktok",
-      "…tiktok",
+      "tiktok",
       "titktok",
       "tiktokey",
       "tiktake",
@@ -75166,7 +75168,7 @@
   "BNJSTI": {
     "base_word": "bhane jastai",
     "variants": [
-      "bhanejastai…",
+      "bhanejastai",
       "bhanejastai",
       "bhanejastae"
     ]
@@ -76181,7 +76183,7 @@
     "base_word": "greetings",
     "variants": [
       "greatings",
-      "—greetings"
+      "greetings"
     ]
   },
   "DJDI": {
@@ -78188,7 +78190,7 @@
     "base_word": "lai dherai",
     "variants": [
       "laidheri",
-      "lai……dherai",
+      "laidherai",
       "laderai",
       "laiderai",
       "laidherai"
@@ -78977,7 +78979,7 @@
       "maerna",
       "marrna",
       "morna",
-      "marña",
+      "marna",
       "marnna",
       "maruna",
       "marona"
@@ -79742,7 +79744,7 @@
       "maanchhee",
       "maanchhe",
       "mnachhe",
-      "manche…",
+      "manche",
       "munchhe",
       "mance",
       "munche",
@@ -80261,12 +80263,12 @@
       "haittt",
       "hotait",
       "haitt",
-      "haitt…",
+      "haitt",
       "haieet",
       "haait",
       "haiet",
       "haiat",
-      "hait…",
+      "hait",
       "heaitt",
       "haaitt",
       "heait",
@@ -80790,7 +80792,7 @@
       "laasta",
       "lastae",
       "lashtai",
-      "“lasttaai",
+      "lasttaai",
       "lasata",
       "lastha",
       "lastoo",
@@ -81020,7 +81022,7 @@
       "laig",
       "lagh",
       "lagg",
-      "lagì"
+      "lagi"
     ]
   },
   "MBMA": {
@@ -81174,7 +81176,7 @@
     "base_word": "khudo",
     "variants": [
       "khedo",
-      "khudo”",
+      "khudo",
       "khado",
       "kuddo",
       "kudo",
@@ -81462,20 +81464,16 @@
     ]
   },
   "LGN": {
-    "base_word": "lagena",
+    "base_word": "laagena",
     "variants": [
       "lagenn",
       "lagennn",
-      "lügen",
+      "lagena",
       "lagenan",
-      "lgenn",
+      "lagenn",
       "lagaen",
-      "lagun",
-      "lagon",
       "laagen",
-      "lagin",
       "legen",
-      "lagn",
       "lgen"
     ]
   },
@@ -81737,7 +81735,7 @@
       "babababl",
       "bababbal",
       "baabal",
-      "babbaàlll",
+      "babbaalll",
       "babl",
       "babbabl",
       "balabal",
@@ -81840,7 +81838,7 @@
       "pr",
       "paer",
       "paur",
-      "paró",
+      "paro",
       "poar"
     ]
   },
@@ -82031,13 +82029,13 @@
     "variants": [
       "dami",
       "daamy",
-      "d’ami",
+      "dami",
       "dammey",
       "damyy",
       "daaami",
       "dammmy",
       "daammy",
-      "dami…",
+      "dami",
       "damy",
       "damii",
       "dammmmy",
@@ -82045,7 +82043,7 @@
       "daamii",
       "dammi",
       "ddami",
-      "dami²",
+      "dami",
       "dammmi",
       "daammyy",
       "daammi",
@@ -82247,18 +82245,16 @@
     ]
   },
   "SGA1": {
-    "base_word": "saga",
+    "base_word": "saagar",
     "variants": [
-      "shaga",
-      "sugha",
-      "sagaa",
-      "sagaŕ",
-      "sagga",
-      "saaga",
-      "sgha",
-      "sauga",
-      "sigha",
-      "sogha"
+      "shagar",
+      "sughar",
+      "sagaar",
+      "sagar",
+      "saggar",
+      "saagar",
+      "sghar",
+      "saghar"
     ]
   },
   "SG1": {
@@ -82267,16 +82263,9 @@
       "saagaa",
       "saagh",
       "saagoo",
-      "saag",
-      "saagg"
-    ]
-  },
-  "SG2": {
-    "base_word": "saag",
-    "variants": [
-      "saag",
-      "saagoo",
-      "saagaa",
+      "sag",
+      "sagg",
+      "saagg",
       "saagg",
       "saagh"
     ]
@@ -82288,7 +82277,7 @@
       "lagchhc",
       "llagchha",
       "laogchha",
-      "làgchha",
+      "lagchha",
       "laggcha",
       "lagkchh",
       "lagacha",
@@ -82311,7 +82300,7 @@
       "lagcchhchha",
       "laghachh",
       "lagchayeo",
-      "lagchha…",
+      "lagchha",
       "laagchha",
       "lagechh",
       "lagcha",
@@ -82320,7 +82309,7 @@
       "lagchh",
       "laghachha",
       "lagchhaa",
-      "lagcha…",
+      "lagcha",
       "lagcchha",
       "lagechha",
       "lalgchha",
@@ -82396,7 +82385,7 @@
       "aanandh",
       "aannd",
       "ananada",
-      "ānanda",
+      "ananda",
       "aandda",
       "anand",
       "annda",
@@ -82716,7 +82705,7 @@
       "herdainan",
       "herdein",
       "herdinn",
-      "herdinà",
+      "herdina",
       "herdinun",
       "herdinan"
     ]
@@ -82910,7 +82899,7 @@
       "aak",
       "akc",
       "akk",
-      "…ak",
+      "ak",
       "aek",
       "aik"
     ]
@@ -82986,7 +82975,7 @@
     "variants": [
       "kaasam",
       "kasham",
-      "“kasam",
+      "kasam",
       "kosam",
       "kasamm",
       "khassam",
@@ -83139,7 +83128,7 @@
       "babbaa",
       "babaa",
       "bababa",
-      "baba”"
+      "baba"
     ]
   },
   "PWS1": {
@@ -83176,7 +83165,7 @@
     "base_word": "sakdainas",
     "variants": [
       "sakdaenas",
-      "sakdainas…",
+      "sakdainas",
       "sakdainss",
       "sakdoinas",
       "sakdeinas",
@@ -83218,7 +83207,7 @@
       "industryso",
       "indtry",
       "industrys",
-      "industry’s",
+      "industrys",
       "industryjay",
       "indusrty",
       "indestery",
@@ -83295,7 +83284,7 @@
       "supoprt",
       "soupprt",
       "suppport",
-      "support…",
+      "support",
       "supporrt",
       "suppord",
       "suppot",
@@ -83350,7 +83339,7 @@
     "base_word": "haha",
     "variants": [
       "hahha",
-      "haha…",
+      "haha",
       "hehaha",
       "heheh",
       "hahaua",
@@ -83461,9 +83450,9 @@
     "base_word": "mode",
     "variants": [
       "moode",
-      "mode”",
+      "mode",
       "modee",
-      "“mode"
+      "mode"
     ]
   },
   "PRBT1": {
@@ -83562,7 +83551,7 @@
     "base_word": "purai",
     "variants": [
       "puroi",
-      "purai…",
+      "purai",
       "porai",
       "purahi",
       "purei",
@@ -83940,13 +83929,13 @@
   "GD": {
     "base_word": "good",
     "variants": [
-      "good​",
+      "good",
       "ggood",
       "goodd",
       "gd",
-      "“good",
+      "good",
       "goood",
-      "good…"
+      "good"
     ]
   },
   "TBYRA": {
@@ -84127,14 +84116,14 @@
     ]
   },
   "AGYO": {
-    "base_word": "aagyo",
+    "base_word": "aghaayo",
     "variants": [
-      "ĺagyo",
-      "agayo"
+      "agayo",
+      "aghayo"
     ]
   },
   "JBO": {
-    "base_word": "jabo",
+    "base_word": "jaabo",
     "variants": [
       "jaabo",
       "jaboo"
@@ -84157,7 +84146,7 @@
     ]
   },
   "MJG": {
-    "base_word": "majag",
+    "base_word": "majaak",
     "variants": []
   },
   "BCA": {
@@ -84192,7 +84181,6 @@
     "base_word": "bhayena",
     "variants": [
       "bhayona",
-      "bhaiyena",
       "bhayeana",
       "bhyenaa",
       "bahyena",
@@ -84201,24 +84189,37 @@
       "bhayana",
       "vhayen",
       "vhayena",
-      "bhayiena",
-      "baayena",
-      "bhayeno",
       "bhaeyna",
-      "bhyayena",
       "bhoyena",
-      "bhayena…",
+      "bhayena",
       "bhayna",
       "bhyaena",
       "bhayahna",
       "bayenaa",
       "vhayenna",
       "bhayenna",
-      "bheyena",
       "bayena",
       "bhayenaa",
       "bhyena",
-      "bhayehna"
+      "bhayehna",
+      "vayeana",
+      "vyenaa",
+      "bahyena",
+      "vaenahhh",
+      "vayaena",
+      "vayana",
+      "vaeyna",
+      "voyena",
+      "vayena",
+      "vayna",
+      "vyaena",
+      "vayahna",
+      "vayenaa",
+      "vayenna",
+      "vayena",
+      "vayenaa",
+      "vyena",
+      "vayehna"
     ]
   },
   "KPYRGT": {
@@ -84250,7 +84251,7 @@
       "banauana",
       "banaunaa",
       "banawnuna",
-      "banauna…",
+      "banauna",
       "banaouna",
       "bannauna",
       "banauona",
@@ -84667,7 +84668,7 @@
       "afnao",
       "afuno",
       "aafono",
-      "“afno",
+      "afno",
       "aanfo",
       "aaafno",
       "afanoo",
@@ -84733,7 +84734,7 @@
     "variants": [
       "payioo",
       "pyo",
-      "paiyo…",
+      "paiyo",
       "paoyo",
       "paayao",
       "payuo",
@@ -84845,7 +84846,7 @@
       "khushii",
       "khusii",
       "khussii",
-      "“khusi",
+      "khusi",
       "khsii",
       "kusii",
       "khuusi"
@@ -84878,7 +84879,7 @@
       "yetua",
       "youta",
       "yaeutaa",
-      "“yeuta",
+      "yeuta",
       "yauta"
     ]
   },
@@ -85116,7 +85117,7 @@
     "variants": [
       "thpapa",
       "thaapaa",
-      "thapa’",
+      "thapa",
       "thpa",
       "thpaa",
       "thapah",
@@ -85946,7 +85947,7 @@
       "bishwash",
       "beswas",
       "bswash",
-      "“biswas",
+      "biswas",
       "baswas",
       "biswass",
       "biswash"
@@ -85991,7 +85992,7 @@
     "base_word": "suna",
     "variants": [
       "sunaaa",
-      "suñna",
+      "sunna",
       "suena",
       "sna",
       "shuuna",
@@ -86016,7 +86017,7 @@
   "BRI": {
     "base_word": "baari",
     "variants": [
-      "bari…",
+      "bari",
       "barii",
       "barri",
       "baari"
@@ -86068,12 +86069,9 @@
       "deede",
       "deidee",
       "deedee",
-      "dai",
-      "dooi",
-      "duī",
       "dedie",
       "dd",
-      "dui",
+      "di",
       "dedaie"
     ]
   },
@@ -86424,7 +86422,7 @@
   "CNA1": {
     "base_word": "chhaina",
     "variants": [
-      "chhaina…",
+      "chhaina",
       "chhhaina",
       "chhaaina",
       "chhainna",
@@ -86523,13 +86521,13 @@
       "garuns",
       "garaaunus",
       "gornus",
-      "garnus…",
+      "garnus",
       "gaarnus",
       "garnuns",
       "garanus",
       "garnnus",
       "garnusss",
-      "garaunus…",
+      "garaunus",
       "garaunush",
       "garnush",
       "garnuss",
@@ -86677,7 +86675,7 @@
       "echhperence",
       "echhprience",
       "echhprenc",
-      "echhpérience",
+      "echhperience",
       "echhprienced",
       "echhperinced",
       "echhperiences",
@@ -86807,9 +86805,9 @@
       "mans",
       "manis",
       "manosh",
-      "manish”",
+      "manish",
       "manush",
-      "mànish",
+      "manish",
       "maanis",
       "manesh",
       "mansh"
@@ -86873,13 +86871,13 @@
     "variants": [
       "chaan",
       "chn",
-      "chan”",
+      "chan",
       "chan",
       "chhann",
       "chhan",
       "chhaun",
       "chann",
-      "chan…"
+      "chan"
     ]
   },
   "CHHIN1": {
@@ -86973,7 +86971,7 @@
   "TMS": {
     "base_word": "teams",
     "variants": [
-      "team’s",
+      "teams",
       "theams",
       "thams",
       "tems",
@@ -86984,10 +86982,12 @@
     "base_word": "farkini",
     "variants": [
       "farkinei",
-      "farkauni",
+      "farkani",
       "faarkani",
-      "farkinai",
-      "parkhini"
+      "pharkinei",
+      "pharkani",
+      "phaarkani",
+      "pharkhini"
     ]
   },
   "DRSN": {
@@ -86997,24 +86997,22 @@
       "dershan",
       "dharshan",
       "drsan",
-      "dairesan",
       "darashan",
       "darsan",
       "darsn"
     ]
   },
   "UNBRSM": {
-    "base_word": "universe ma",
+    "base_word": "universemaa",
     "variants": [
       "universma",
-      "universemai",
+      "universemah",
       "universema"
     ]
   },
   "LGYRA": {
-    "base_word": "lagayera",
+    "base_word": "lagaayera",
     "variants": [
-      "ligyera",
       "lagayeraa",
       "lageyera",
       "lageyra",
@@ -87026,8 +87024,6 @@
       "lagyara",
       "lagaeyera",
       "lagyra",
-      "lagyora",
-      "lagiyera",
       "lagaayaera",
       "lagaeyra",
       "lagayeira",
@@ -87035,7 +87031,7 @@
     ]
   },
   "HNDSP": {
-    "base_word": "handsup",
+    "base_word": "hands up",
     "variants": [
       "hndsupp",
       "hndsup",
@@ -87043,7 +87039,7 @@
     ]
   },
   "SLJO": {
-    "base_word": "salai jo",
+    "base_word": "saalaijo",
     "variants": [
       "salalajo",
       "shaloijo",
@@ -87061,7 +87057,7 @@
     ]
   },
   "IJT": {
-    "base_word": "ijat",
+    "base_word": "ijjat",
     "variants": [
       "iijat",
       "ijajat",
@@ -87087,16 +87083,17 @@
     ]
   },
   "BJDU": {
-    "base_word": "bujhaideu",
+    "base_word": "bujhaaideu",
     "variants": [
       "bujaideau",
       "bhujaideu",
       "bujaideu",
-      "bujideu"
+      "bujideu",
+      "bujhaideu"
     ]
   },
   "AMI1": {
-    "base_word": "aimai",
+    "base_word": "aaimaai",
     "variants": [
       "aaimai",
       "aiimai",
@@ -87122,19 +87119,20 @@
   "HNST": {
     "base_word": "honest",
     "variants": [
-      "hauhonest",
-      "hnst"
+      "hanest",
+      "hanest"
     ]
   },
   "JYP": {
-    "base_word": "jhyap",
+    "base_word": "jhyaap",
     "variants": [
       "jyaap",
       "jhyapp",
       "jyap",
       "jyapp",
       "jhayap",
-      "jhyaap"
+      "jhyaap",
+      "jhyap"
     ]
   },
   "JBA": {
@@ -87142,7 +87140,6 @@
     "variants": [
       "jabaa",
       "jhaba",
-      "jba",
       "jabaaa",
       "jaabaa",
       "jaaba",
@@ -87150,12 +87147,11 @@
     ]
   },
   "JNTA": {
-    "base_word": "janta",
+    "base_word": "janataa",
     "variants": [
       "jnta",
       "janntaa",
       "jaanta",
-      "januta",
       "janetta",
       "jnata",
       "jhanta",
@@ -87166,7 +87162,7 @@
       "jantha",
       "jantta",
       "janeta",
-      "janta…",
+      "janta",
       "jhantaa",
       "jaantaa",
       "jantaaa",
@@ -87287,7 +87283,7 @@
       "prchaa",
       "porcha",
       "porchh",
-      "pàrcha",
+      "parcha",
       "parachha",
       "paracha"
     ]
@@ -87740,7 +87736,7 @@
     "variants": [
       "luckkk",
       "lukck",
-      "lucký",
+      "lucky",
       "luk",
       "lucck",
       "luuck",
@@ -87871,7 +87867,7 @@
       "thimlai",
       "thimalai",
       "timilaai",
-      "“tmlai",
+      "tmlai",
       "tiemlai",
       "tmilai",
       "tmlaii",
@@ -88003,7 +87999,7 @@
       "chora",
       "chhora",
       "chhhora",
-      "“chora"
+      "chora"
     ]
   },
   "CRA2": {
@@ -88055,7 +88051,7 @@
       "thikk",
       "thiaik",
       "thiok",
-      "thik…",
+      "thik",
       "thikkk",
       "thichhk",
       "thuikk",
@@ -88122,7 +88118,7 @@
     "variants": [
       "molyo",
       "meelyo",
-      "milyo…",
+      "milyo",
       "milyoo",
       "milyoyo",
       "millyo",
@@ -88762,7 +88758,7 @@
       "nagarai",
       "nagaari",
       "ngarii",
-      "nagariiì",
+      "nagariii",
       "nagarii",
       "nagarerai",
       "nigari",
@@ -89006,7 +89002,7 @@
       "raramilo",
       "ramaelo",
       "ramalio",
-      "“ramailo",
+      "ramailo",
       "ramieloo",
       "ramrlo",
       "ramilio",
@@ -89048,7 +89044,7 @@
       "aatyo",
       "aithyo",
       "authayo",
-      "authyo…",
+      "authyo",
       "atyoo",
       "atyo",
       "aathiyo",
@@ -89178,7 +89174,7 @@
     "variants": [
       "grba",
       "garbha",
-      "‘garba",
+      "garba",
       "garva",
       "gaurba",
       "gharba",
@@ -89254,7 +89250,7 @@
     "variants": [
       "garchhs",
       "grchhas",
-      "garchas…",
+      "garchas",
       "garchhash",
       "garechhas",
       "grchas",
@@ -89383,7 +89379,7 @@
       "sabad",
       "shabad",
       "shabhdh",
-      "sabdà",
+      "sabda",
       "shabid"
     ]
   },
@@ -89567,14 +89563,14 @@
     "base_word": "team",
     "variants": [
       "teamm",
-      "team…",
+      "team",
       "teeam",
       "teammm",
       "theam",
       "tem",
       "taeam",
       "tieam",
-      "…team"
+      "team"
     ]
   },
   "MLSA": {
@@ -89892,7 +89888,7 @@
     "base_word": "patak",
     "variants": [
       "pathk",
-      "patak…",
+      "patak",
       "patik",
       "pathak",
       "phatak",
@@ -90262,7 +90258,7 @@
       "hernh",
       "heyrnaa",
       "hernna",
-      "herña",
+      "herna",
       "hyrnaa",
       "hernah",
       "heerna",
@@ -90613,7 +90609,7 @@
   "BNM": {
     "base_word": "bhanam",
     "variants": [
-      "banaum”",
+      "banaum",
       "binam",
       "banum",
       "banamm",
@@ -90621,7 +90617,7 @@
       "banaam",
       "bhangam",
       "bhanm",
-      "banam…",
+      "banam",
       "bnam",
       "banam",
       "bangam",
@@ -91126,7 +91122,7 @@
       "matna",
       "mettina",
       "metena",
-      "metàuna"
+      "metauna"
     ]
   },
   "SNJL": {
@@ -91174,7 +91170,7 @@
       "boliii",
       "bhooli",
       "bholli",
-      "bholi…",
+      "bholi",
       "boulai",
       "boli",
       "bholii"
@@ -91340,7 +91336,7 @@
       "dajau",
       "dajjuu",
       "dhaju",
-      "daju…",
+      "daju",
       "dajquu",
       "dajuu",
       "daajju",
@@ -91462,7 +91458,7 @@
   "MRS": {
     "base_word": "memories",
     "variants": [
-      "memories…",
+      "memories",
       "memores"
     ]
   },
@@ -91488,12 +91484,9 @@
     "base_word": "mai",
     "variants": [
       "maui",
-      "mami",
       "meai",
-      "maĺi",
       "maei",
       "maai",
-      "maṇi",
       "moai",
       "maii"
     ]
@@ -91639,8 +91632,8 @@
       "nunber",
       "numbr",
       "numver",
-      "number÷",
       "namber",
+      "nambar",
       "nubr",
       "numbrr",
       "nmbr",
@@ -91740,7 +91733,7 @@
     "base_word": "ghulam",
     "variants": [
       "gulaam",
-      "gulam’",
+      "gulam",
       "gulam",
       "galam"
     ]
@@ -91907,9 +91900,9 @@
       "watiing",
       "witing",
       "weiting",
-      "waiting¡",
+      "waiting",
       "waitin",
-      "watçhing",
+      "watching",
       "woiting",
       "waitning",
       "waoting"
@@ -91948,7 +91941,7 @@
       "shre",
       "shereee",
       "shrre",
-      "“shree"
+      "shree"
     ]
   },
   "STPA": {
@@ -92088,7 +92081,7 @@
     "variants": [
       "paaiyos",
       "paiyoush",
-      "paiyos…",
+      "paiyos",
       "paiyaos",
       "paiyeos",
       "paaiyoss",
@@ -92118,7 +92111,7 @@
       "paieyos",
       "paiiyosh",
       "paiiyosss",
-      "paieyos…",
+      "paieyos",
       "paaiyosh",
       "paeiyos",
       "payos",
@@ -92452,7 +92445,7 @@
       "tapaili",
       "tapoilaoi",
       "topalai",
-      "tapailài",
+      "tapailai",
       "tapaeilaei",
       "tapailaiii",
       "tapili",
@@ -92479,7 +92472,7 @@
       "ramala",
       "ramaiela",
       "ramla",
-      "ramaula”",
+      "ramaula",
       "ramalaa",
       "ramila",
       "ramaela",
@@ -92551,9 +92544,9 @@
       "garchann",
       "garchhan",
       "garchin",
-      "garchan’",
+      "garchan",
       "gharchan",
-      "garchan……",
+      "garchan",
       "grchan",
       "garrchannn",
       "gerchan",
@@ -92561,7 +92554,7 @@
       "garchhann",
       "garchhhan",
       "garchanan",
-      "garchhan”"
+      "garchhan"
     ]
   },
   "BW": {
@@ -92668,7 +92661,7 @@
       "jaanchhu",
       "janchhhu",
       "janechu",
-      "janchhu”"
+      "janchhu"
     ]
   },
   "JNCU2": {
@@ -92888,7 +92881,7 @@
     "variants": [
       "okh",
       "ook",
-      "çok",
+      "cok",
       "okc",
       "okk"
     ]
@@ -93009,7 +93002,7 @@
       "sarkarrr",
       "srkar",
       "sarkarr",
-      "“sarkar",
+      "sarkar",
       "sarkaaaar",
       "sarkarar",
       "sharkar",
@@ -93025,7 +93018,7 @@
       "sarkaar",
       "sarkhr",
       "sharkhar",
-      "sarkar…",
+      "sarkar",
       "sarcar",
       "saarkar",
       "sarakar",
@@ -93156,7 +93149,7 @@
       "bakwaz",
       "bakawas",
       "bkws",
-      "bakwas…",
+      "bakwas",
       "bkwash",
       "baakwaas",
       "bakwashs",
@@ -93522,9 +93515,9 @@
       "mahindra",
       "mahendera",
       "mahindera",
-      "mahendra’",
+      "mahendra",
       "mahendara",
-      "‘mahendra",
+      "mahendra",
       "mahendraa"
     ]
   },
@@ -94426,7 +94419,7 @@
     "variants": [
       "kutha",
       "khuutta",
-      "…kutta",
+      "kutta",
       "kutauta",
       "kitta",
       "katta",
@@ -94435,7 +94428,7 @@
       "ktita",
       "ktta",
       "kotta",
-      "“khutta",
+      "khutta",
       "kutua",
       "kucta",
       "chhutta",
@@ -94681,7 +94674,7 @@
       "kamalal",
       "khamal",
       "komal",
-      "kamalà",
+      "kamala",
       "kmal"
     ]
   },
@@ -94878,7 +94871,7 @@
     "variants": [
       "vandaaa",
       "vanadha",
-      "vanda…",
+      "vanda",
       "vndha",
       "vnnda",
       "bhanda",
@@ -94931,7 +94924,7 @@
     "variants": [
       "talkeyo",
       "talikyo",
-      "talkiyo”",
+      "talkiyo",
       "talkyo",
       "talkayo",
       "talkoyo"
@@ -94976,7 +94969,7 @@
       "jagr",
       "jagar",
       "jhagir",
-      "jagir”",
+      "jagir",
       "jagur"
     ]
   },
@@ -95041,10 +95034,10 @@
   "JY": {
     "base_word": "jay",
     "variants": [
-      "‘jay",
+      "jay",
       "jy",
       "jhay",
-      "…jay",
+      "jay",
       "jaay",
       "jayy"
     ]
@@ -95139,13 +95132,13 @@
       "holaa",
       "haoula",
       "holoa",
-      "hola…",
+      "hola",
       "hoala",
       "hollla",
       "hoolaa",
-      "hola¿",
+      "hola",
       "holaaa",
-      "hola”",
+      "hola",
       "hoolla",
       "haola",
       "hla",
@@ -95214,7 +95207,7 @@
       "halunu",
       "hhalnu",
       "helnu",
-      "hαlnu",
+      "halnu",
       "halenau",
       "hhallnu",
       "halanu",
@@ -95339,7 +95332,7 @@
       "betr",
       "beeter",
       "btter",
-      "better…",
+      "better",
       "bettr",
       "bettrer",
       "bheter",
@@ -95351,7 +95344,7 @@
     "variants": [
       "jouthe",
       "jjuthe",
-      "‌juthe",
+      "juthe",
       "jutthe",
       "juthee",
       "jothe",
@@ -95470,37 +95463,34 @@
     ]
   },
   "TRK": {
-    "base_word": "tarak",
+    "base_word": "tharak",
     "variants": [
       "trak",
-      "​taarak",
+      "taarak",
       "tark",
-      "tharak",
-      "treak",
-      "trcak",
-      "tarik"
+      "thrak"
     ]
   },
   "SDBA": {
-    "base_word": "sadba",
+    "base_word": "shabda",
     "variants": [
-      "sadaiba"
+      "sadaba",
+      "sabada"
     ]
   },
   "AJPNI": {
-    "base_word": "ajapani",
+    "base_word": "aajapani",
     "variants": [
       "aajaapani",
       "ajpani",
       "aajaipani",
       "ajhapani",
-      "ajhaipani",
-      "aajhaipani",
+      "ajhapani",
+      "aajhapani",
       "aajapani",
       "aajpani",
-      "ajaipani",
-      "ajhaeepani",
-      "aajhapani"
+      "ajapani",
+      "ajhapani"
     ]
   },
   "ASKR": {
@@ -95541,7 +95531,7 @@
       "manamaa",
       "mangma",
       "mainama",
-      "“maanma",
+      "maanma",
       "manmaa",
       "maanma",
       "monma",
@@ -95847,7 +95837,7 @@
       "malathi",
       "malthi",
       "milti",
-      "malàti",
+      "malati",
       "maliti",
       "multi"
     ]
@@ -96046,14 +96036,14 @@
       "halucha",
       "halauchhha",
       "halauchha",
-      "halaucha…",
+      "halaucha",
       "halauchaa",
       "halaucha",
       "hallauchaaa",
       "hallucha",
       "hallauchhha",
       "hallauchha",
-      "hallaucha…",
+      "hallaucha",
       "hallauchaa",
       "hallaucha"
     ]
@@ -96119,7 +96109,7 @@
       "touchin",
       "tuooching",
       "teching",
-      "touchíng",
+      "touching",
       "tauching",
       "tuchung"
     ]
@@ -97027,10 +97017,10 @@
   "LI": {
     "base_word": "lai",
     "variants": [
-      "lai…",
+      "lai",
       "laei",
       "layi",
-      "lai”",
+      "lai",
       "lyi",
       "liyi",
       "llai",
@@ -97073,18 +97063,13 @@
     "base_word": "katak",
     "variants": [
       "kattak",
-      "katek",
       "khattak",
-      "catak",
-      "kathak",
       "katk",
-      "katkı",
-      "kotak",
-      "katik"
+      "kotak"
     ]
   },
   "AHLKA": {
-    "base_word": "ahileka",
+    "base_word": "ahilekaa",
     "variants": [
       "ahilekaa",
       "aheleka"
@@ -97544,7 +97529,7 @@
     "variants": [
       "wwo",
       "wao",
-      "wнo"
+      "wo"
     ]
   },
   "TSPKI": {
@@ -97727,7 +97712,7 @@
     "base_word": "siraani",
     "variants": [
       "siranii",
-      "sir…ani",
+      "sirani",
       "serani",
       "sairani",
       "siraani"
@@ -97771,7 +97756,7 @@
       "tiwar",
       "tiwaar",
       "twar",
-      "tìhar",
+      "tihar",
       "thewar"
     ]
   },
@@ -97819,7 +97804,7 @@
     "variants": [
       "kui",
       "kii",
-      "ki…",
+      "ki",
       "kki"
     ]
   },
@@ -98169,7 +98154,7 @@
     "base_word": "gundaa ko",
     "variants": [
       "gundaako",
-      "gunda…ko",
+      "gundako",
       "gundako"
     ]
   },
@@ -98599,7 +98584,7 @@
       "sudo",
       "soddho",
       "shuddo",
-      "​suddo"
+      "suddo"
     ]
   },
   "GNSO": {
@@ -98736,7 +98721,7 @@
     "variants": [
       "bhetamla",
       "vetmala",
-      "bhetamlaà"
+      "bhetamlaa"
     ]
   },
   "JN": {
@@ -98785,7 +98770,7 @@
       "muleko",
       "milko",
       "melko",
-      "“mulko",
+      "mulko",
       "muluko",
       "malko",
       "mulko"
@@ -98884,7 +98869,7 @@
   "GYS": {
     "base_word": "guys",
     "variants": [
-      "guys”",
+      "guys",
       "guyzs",
       "guyss",
       "guysss",
@@ -98894,7 +98879,7 @@
       "guyes",
       "guyas",
       "guyis",
-      "guy’s",
+      "guys",
       "gys"
     ]
   },
@@ -98965,7 +98950,7 @@
       "garichhan",
       "garchhain",
       "garchhen",
-      "garchan”",
+      "garchan",
       "garchhchhann",
       "gorchhan",
       "garchhn",
@@ -98977,7 +98962,7 @@
       "garichan",
       "garchcan",
       "gharchhn",
-      "garchhan”",
+      "garchhan",
       "garchain",
       "gharchan",
       "gorchan",
@@ -99046,7 +99031,7 @@
       "gorkali",
       "gorkhalii",
       "gorikali",
-      "gorkhali…",
+      "gorkhali",
       "gorakhkali",
       "gorkhali",
       "gorkhli",
@@ -99294,7 +99279,7 @@
     "base_word": "is",
     "variants": [
       "iss",
-      "is​",
+      "is",
       "ish",
       "ios"
     ]
@@ -99495,9 +99480,9 @@
       "seo",
       "soo",
       "sio",
-      "so​",
+      "so",
       "suo",
-      "são",
+      "sao",
       "sso"
     ]
   },
@@ -99633,7 +99618,7 @@
       "lma",
       "laima",
       "lamma",
-      "lama…",
+      "lama",
       "laema",
       "laaama",
       "laama",
@@ -100149,7 +100134,7 @@
       "bollnu",
       "bolanu",
       "bholnu",
-      "…bolnu"
+      "bolnu"
     ]
   },
   "LGTE": {
@@ -100236,7 +100221,7 @@
       "abaeko",
       "aabako",
       "aabaiko",
-      "àabko",
+      "aabko",
       "aboko"
     ]
   },
@@ -100295,7 +100280,7 @@
       "testho",
       "testoo",
       "testooo",
-      "‘testo",
+      "testo",
       "tessto",
       "tesatho",
       "thestho",
@@ -101081,7 +101066,7 @@
     "variants": [
       "garamataaa",
       "garumta",
-      "͜garamta",
+      "garamta",
       "garaamtaaa",
       "garaamtaa",
       "garmta",
@@ -101092,7 +101077,7 @@
       "garmata",
       "grmta",
       "garammta",
-      "garamta※°"
+      "garamta"
     ]
   },
   "TYTKI": {
@@ -101242,7 +101227,7 @@
       "painchaa",
       "paieenchha",
       "paincha",
-      "paincha”",
+      "paincha",
       "paencha",
       "paaincha",
       "paunchha",
@@ -101336,7 +101321,7 @@
   "NDNU": {
     "base_word": "nadinu",
     "variants": [
-      "ñadinu",
+      "nadinu",
       "ndinu",
       "nidinu",
       "nadenu",
@@ -102025,9 +102010,9 @@
       "mayaya",
       "maiiya",
       "mya",
-      "“maya",
+      "maya",
       "mayaaa",
-      "maya…",
+      "maya",
       "mayaa",
       "maaiya",
       "maayaa",
@@ -102214,7 +102199,7 @@
       "glti",
       "galtai",
       "ghalti",
-      "“galti",
+      "galti",
       "galiti",
       "gallti",
       "gulti",
@@ -103159,7 +103144,7 @@
   "BTRS": {
     "base_word": "voters",
     "variants": [
-      "voter’s"
+      "voters"
     ]
   },
   "DNKO": {
@@ -103276,7 +103261,7 @@
   "KPE": {
     "base_word": "cafe",
     "variants": [
-      "cafe”"
+      "cafe"
     ]
   },
   "ASTRI": {
@@ -103380,7 +103365,7 @@
     "variants": [
       "funyy",
       "funney",
-      "funny​",
+      "funny",
       "funnny",
       "fanny",
       "funy",
@@ -103457,7 +103442,7 @@
       "sukhama",
       "sukama",
       "sakhma",
-      "……sukhma"
+      "sukhma"
     ]
   },
   "BNKTA": {
@@ -103568,7 +103553,7 @@
       "governmentley",
       "governemnt",
       "governments",
-      "government…"
+      "government"
     ]
   },
   "DKLA": {
@@ -103720,14 +103705,14 @@
     "variants": [
       "muruk",
       "murkh",
-      "murkhà"
+      "murkha"
     ]
   },
   "CDRY1": {
     "base_word": "chaudhari",
     "variants": [
       "chaudary",
-      "chaudhary…",
+      "chaudhary",
       "chaoudhary",
       "choudhry",
       "chaudhry",
@@ -103897,11 +103882,11 @@
       "bnayo",
       "bonayo",
       "banaaiyo",
-      "banayo…",
+      "banayo",
       "bnaayo",
       "banayooo",
       "banayeo",
-      "banayo”",
+      "banayo",
       "banyayo",
       "bhanayo"
     ]
@@ -103916,7 +103901,7 @@
       "lombu",
       "lumbu",
       "limibu",
-      "limbu…",
+      "limbu",
       "limbhu",
       "limbuh"
     ]
@@ -104184,7 +104169,7 @@
       "chalaucha",
       "chalaauchha",
       "chalauchha",
-      "chalauchha…",
+      "chalauchha",
       "chaluchha",
       "chlaucha"
     ]
@@ -104214,7 +104199,7 @@
     "base_word": "killer",
     "variants": [
       "killar",
-      "ᴳᴳkiller",
+      "killer",
       "kiler",
       "keller"
     ]
@@ -104223,7 +104208,8 @@
     "base_word": "salyaani",
     "variants": [
       "salyanni",
-      "saleyani"
+      "saleyani",
+      "salyani"
     ]
   },
   "BNLE2": {
@@ -104462,7 +104448,7 @@
       "tapaaele",
       "tapaele",
       "tapaille",
-      "tapaile…",
+      "tapaile",
       "tapla",
       "tpile"
     ]
@@ -104537,7 +104523,7 @@
     "variants": [
       "kamsakam",
       "kamshikam",
-      "…kamsekam",
+      "kamsekam",
       "kamsekaam",
       "kamsikam",
       "kamskam"
@@ -104816,7 +104802,7 @@
     "base_word": "adore",
     "variants": [
       "adere",
-      "adorée"
+      "adoree"
     ]
   },
   "USLI1": {
@@ -104921,7 +104907,7 @@
       "chaliko",
       "chhhaleko",
       "chalieko",
-      "cháleko",
+      "chaleko",
       "choleko"
     ]
   },
@@ -105011,7 +104997,7 @@
     "base_word": "dont",
     "variants": [
       "dnt",
-      "don’t",
+      "dont",
       "donut",
       "donet",
       "donnt",
@@ -105082,7 +105068,7 @@
       "sikigo",
       "sakego",
       "sakaigao",
-      "sakhiàgo",
+      "sakhiago",
       "sakgo",
       "sakigooo",
       "sakiigo"
@@ -105274,7 +105260,7 @@
       "lookgeeet",
       "lookget",
       "lakgeet",
-      "lokgèet",
+      "lokgeet",
       "lookgeet"
     ]
   },
@@ -105360,7 +105346,7 @@
     "variants": [
       "ratoo",
       "ratho",
-      "“rato",
+      "rato",
       "raatoo",
       "rato"
     ]
@@ -105493,7 +105479,7 @@
       "saakchhu",
       "saku",
       "sakchu",
-      "sakchu”",
+      "sakchu",
       "sachhau",
       "sakechhu",
       "sakachhu",
@@ -105682,7 +105668,7 @@
     "variants": [
       "pailka",
       "palieka",
-      "palika…",
+      "palika",
       "paileka",
       "palka",
       "palkeka",
@@ -106235,7 +106221,7 @@
     ]
   },
   "HLKA": {
-    "base_word": "halka",
+    "base_word": "halkaa",
     "variants": [
       "haleka",
       "halak",
@@ -106251,12 +106237,10 @@
       "hohalka",
       "halleka",
       "hlka",
-      "halkı",
       "hallka",
-      "hàlka",
+      "halka",
       "hlkaa",
       "holka",
-      "halkà",
       "helka",
       "halkha",
       "halukka"
@@ -106397,8 +106381,8 @@
       "futin",
       "pution",
       "puttin",
-      "pütin",
-      "“putin",
+      "putin",
+      "putin",
       "putn",
       "puitn",
       "putiiin",
@@ -106449,7 +106433,7 @@
       "kalakarrr",
       "kalakaar",
       "klakaar",
-      "kàlakar",
+      "kalakar",
       "karkr",
       "klkar",
       "klakar",
@@ -106463,7 +106447,7 @@
       "kalakarr",
       "kalaakaara",
       "kalakkar",
-      "kalakàr",
+      "kalakar",
       "karaakar",
       "kalaakara",
       "khelakar",
@@ -106505,7 +106489,7 @@
       "sarehi",
       "sarhi",
       "sarhaiii",
-      "sàrhai",
+      "sarhai",
       "sharhai",
       "saarhi",
       "sarhahi",
@@ -106731,7 +106715,7 @@
     "variants": [
       "kiddny",
       "kidny",
-      "…kidney",
+      "kidney",
       "kudney"
     ]
   },
@@ -106914,7 +106898,7 @@
   "PRSTKO": {
     "base_word": "prastutiko",
     "variants": [
-      "prastutiko…",
+      "prastutiko",
       "prstutiko",
       "prastotako"
     ]
@@ -107212,7 +107196,7 @@
       "sbilai",
       "sabailaiiii",
       "sablailai",
-      "sabàilai",
+      "sabailai",
       "sabalaii",
       "sabeilai",
       "sapailai",
@@ -107230,7 +107214,7 @@
       "sepali",
       "sabaiilaii",
       "saablai",
-      "sabailài",
+      "sabailai",
       "savailaii",
       "sbaelai",
       "sabili",
@@ -107271,7 +107255,7 @@
       "verrry",
       "veray",
       "verey",
-      "very​",
+      "very",
       "verry",
       "veary",
       "veerry",
@@ -107284,25 +107268,23 @@
     "base_word": "timiharu",
     "variants": [
       "tmaru",
-      "timur",
-      "tamar",
+      "timiharu",
+      "timharu",
+      "timaru",
       "timru",
-      "tomar",
       "tmeru",
-      "timrō",
-      "temar",
-      "timeru",
-      "timr"
+      "temaru",
+      "timeru"
     ]
   },
   "PLNE1": {
-    "base_word": "palne",
+    "base_word": "paalne",
     "variants": [
-      "palaune",
       "palane",
-      "plne",
-      "pelne",
-      "paalne"
+      "paalane",
+      "palne",
+      "palney",
+      "paalney"
     ]
   },
   "PLNE2": {
@@ -107443,7 +107425,7 @@
     "base_word": "nadine",
     "variants": [
       "nadene",
-      "nadìne"
+      "nadine"
     ]
   },
   "HSTNE": {
@@ -107663,7 +107645,7 @@
       "soltuni",
       "solltini",
       "solitne",
-      "soltini’",
+      "soltini",
       "sholtini"
     ]
   },
@@ -107712,7 +107694,7 @@
   "MYKO": {
     "base_word": "maayaako",
     "variants": [
-      "“mayako",
+      "mayako",
       "myako",
       "mayeko",
       "mayko",
@@ -107807,7 +107789,7 @@
       "ailee",
       "aiile",
       "aoile",
-      "aile…",
+      "aile",
       "aille",
       "aiale",
       "aiele",
@@ -108131,9 +108113,9 @@
       "sathiharuuuu",
       "shathiharu",
       "sateharu",
-      "sathiharu​",
+      "sathiharu",
       "ssthiharu",
-      "sathiharu……",
+      "sathiharu",
       "sathiharuu",
       "sathihaharu",
       "ssthihru",
@@ -108233,7 +108215,7 @@
       "dhurga",
       "dhurgha",
       "durgha",
-      "dùrga",
+      "durga",
       "duurgaa",
       "durgey",
       "duraga",
@@ -108332,7 +108314,7 @@
       "pratichhhchhhya",
       "pratichhaya",
       "partichya",
-      "pratichhya…",
+      "pratichhya",
       "partichheya",
       "partichhya"
     ]
@@ -108814,7 +108796,7 @@
       "daniyabadh",
       "dhnybad",
       "dhanyabaad",
-      "dhanyabad…",
+      "dhanyabad",
       "dhanyabad",
       "dhanneybad",
       "dhaniybad",
@@ -109929,7 +109911,7 @@
     "base_word": "dancer",
     "variants": [
       "dancsar",
-      "dancér",
+      "dancer",
       "dancr",
       "dancesir",
       "dancar",
@@ -110024,7 +110006,7 @@
       "lgdo",
       "lagdho",
       "lagddo",
-      "lagdo…",
+      "lagdo",
       "lagodo",
       "lagado",
       "lagedo",
@@ -110461,7 +110443,7 @@
       "bikash",
       "bikas",
       "bikkash",
-      "bikashã",
+      "bikasha",
       "biksh",
       "bikhas"
     ]
@@ -110499,7 +110481,7 @@
       "ktr",
       "khatir",
       "khatr",
-      "khatrà",
+      "khatra",
       "khater",
       "khtr",
       "khtter",
@@ -110843,7 +110825,7 @@
   "LGI": {
     "base_word": "laagi",
     "variants": [
-      "lāgi",
+      "lagi",
       "laghi",
       "laaghi",
       "lagi"
@@ -111124,7 +111106,7 @@
       "bolnee",
       "bolney",
       "boleney",
-      "bolnéy",
+      "bolney",
       "bolnni",
       "bollni",
       "bolnii",
@@ -111341,7 +111323,7 @@
       "laaagtheo",
       "laagatahe",
       "lagatahe",
-      "lagthiyo…",
+      "lagthiyo",
       "lagthiyo",
       "lagtheo",
       "lagetho",
@@ -111848,7 +111830,7 @@
       "beatutyfull",
       "bueatifull",
       "butifull",
-      "beutiful​",
+      "beutiful",
       "beutfull",
       "beatifull",
       "butfull",
@@ -111859,7 +111841,7 @@
       "baeutifull",
       "beautyful",
       "beautifulll",
-      "beautiful”",
+      "beautiful",
       "beutifull",
       "beautifullll",
       "buttifull",
@@ -113369,7 +113351,7 @@
   "KLSN": {
     "base_word": "closing",
     "variants": [
-      "“closing"
+      "closing"
     ]
   },
   "BSWSTA": {
@@ -114226,8 +114208,8 @@
   "TLCN": {
     "base_word": "thaalchhan",
     "variants": [
-      "thaalchan…",
-      "thalachhan…",
+      "thaalchan",
+      "thalachhan",
       "thalchan",
       "thalchhan"
     ]
@@ -114533,11 +114515,11 @@
       "garom",
       "garem",
       "garm",
-      "garam…",
+      "garam",
       "geram",
       "garaam",
       "garim",
-      "garúm",
+      "garum",
       "ghram",
       "garaamm",
       "gaarm",
@@ -115470,8 +115452,8 @@
     "variants": [
       "auyo",
       "ayo",
-      "ayo…",
-      "aàyo",
+      "ayo",
+      "aayo",
       "ayyo",
       "ayao",
       "ayoo",
@@ -115589,7 +115571,7 @@
       "auli",
       "alii",
       "al",
-      "…ali",
+      "ali",
       "alli",
       "aili",
       "aoli",
@@ -115879,7 +115861,7 @@
       "shatya",
       "saatyee",
       "sataye",
-      "satya…",
+      "satya",
       "satyeee",
       "satye",
       "stya",
@@ -116996,7 +116978,7 @@
       "sdaabahar",
       "sadhabahaar",
       "sadabahar",
-      "sadabahar……",
+      "sadabahar",
       "shadabahar",
       "sadhabahar",
       "sdabahar",
@@ -117051,8 +117033,8 @@
     "variants": [
       "juth",
       "jhuut",
-      "juthà",
-      "juthè",
+      "jutha",
+      "juthe",
       "jhut"
     ]
   },
@@ -117932,12 +117914,12 @@
     "variants": [
       "ghi",
       "gai",
-      "gởi",
-      "giờ",
+      "gi",
+      "gi",
       "gi",
       "gui",
       "gii",
-      "gọi",
+      "gi",
       "gei"
     ]
   },
@@ -118148,7 +118130,7 @@
       "chtwan",
       "chitwanah",
       "chitwaan",
-      "chitwan…",
+      "chitwan",
       "chhitona"
     ]
   },
@@ -118168,7 +118150,7 @@
     "base_word": "megastar",
     "variants": [
       "megsetar",
-      "megastar”",
+      "megastar",
       "megastor",
       "megasatar",
       "megstar",
@@ -118460,7 +118442,7 @@
       "battw",
       "batww",
       "bataw",
-      "batwà",
+      "batwa",
       "batow",
       "bhattw",
       "bhataaw",
@@ -118916,8 +118898,8 @@
       "bngladesh",
       "bangadesh",
       "bangaladesh",
-      "bangladesh’s",
-      "banau…desh",
+      "bangladeshs",
+      "banaudesh",
       "bangaldesh",
       "banladesh",
       "bangladeshis"
@@ -119027,7 +119009,7 @@
     "base_word": "melody",
     "variants": [
       "meldiai",
-      "mélodie",
+      "melodie",
       "meldai",
       "meladi",
       "melodi",
@@ -119910,7 +119892,7 @@
     "variants": [
       "chaih",
       "chahi",
-      "chahì",
+      "chahi",
       "chhahi"
     ]
   },
@@ -120603,7 +120585,7 @@
     "base_word": "jaagyo",
     "variants": [
       "jagayo",
-      "jagyo…",
+      "jagyo",
       "jagyo",
       "jogyo",
       "jagyoo",
@@ -121177,7 +121159,7 @@
     "variants": [
       "hidchhaan",
       "hidchhn",
-      "hidchhan…",
+      "hidchhan",
       "hiddchhan",
       "hidechhan",
       "hidachhan",
@@ -121244,7 +121226,7 @@
       "grish",
       "giris",
       "grash",
-      "“girish"
+      "girish"
     ]
   },
   "GRS2": {
@@ -121901,7 +121883,7 @@
     "variants": [
       "prahri",
       "parahari",
-      "prhàri"
+      "prhari"
     ]
   },
   "NKR": {
@@ -122136,11 +122118,11 @@
       "nhai",
       "nia",
       "niii",
-      "nàhi",
+      "nahi",
       "nna",
-      "naì",
+      "nai",
       "nhii",
-      "…na",
+      "na",
       "nahi",
       "nhi",
       "nii",
@@ -122856,7 +122838,7 @@
       "mmme",
       "me",
       "mame",
-      "même",
+      "meme",
       "mme"
     ]
   },
@@ -123704,7 +123686,7 @@
   "AMRKA": {
     "base_word": "american",
     "variants": [
-      "américa",
+      "america",
       "amarican",
       "america",
       "amrica",
@@ -124841,7 +124823,7 @@
       "yesrinai",
       "yasarini",
       "yesharinai",
-      "yasàrinai",
+      "yasarinai",
       "yashrinai",
       "ysrinai",
       "yeshrinai",
@@ -125069,10 +125051,10 @@
     "variants": [
       "rajtantrw",
       "rajatantra",
-      "“rajtantra”",
+      "rajtantra",
       "rajtantra",
       "rajtntra",
-      "‘rajtantra’",
+      "rajtantra",
       "rajtantraaa",
       "rajtantrako",
       "rajtantrai",
@@ -125201,7 +125183,7 @@
   "ARGKNC1": {
     "base_word": "arghakhaanchi",
     "variants": [
-      "arghàkhanchi",
+      "arghakhanchi",
       "arghikhanchi",
       "arghakhanchiko",
       "aarghakhanchi",
@@ -126219,7 +126201,7 @@
     "variants": [
       "chire",
       "chere",
-      "chérie",
+      "cherie",
       "chuire",
       "chre",
       "chorie",
@@ -126228,7 +126210,7 @@
       "chure",
       "choure",
       "chhare",
-      "chaùre",
+      "chaure",
       "chiure",
       "chhere",
       "charee",
@@ -126565,14 +126547,13 @@
     ]
   },
   "GKO": {
-    "base_word": "gauko",
+    "base_word": "gaako",
     "variants": [
-      "gaeko",
+      "gaaeko",
       "ghako",
-      "gaiko",
+      "gaeko",
       "gakko",
       "gakoo",
-      "gaŕko",
       "gaako",
       "gaoko",
       "gakho",
@@ -126634,7 +126615,7 @@
       "paichhan",
       "paiichan",
       "poichan",
-      "phaïchan"
+      "phaichan"
     ]
   },
   "JKRI": {
@@ -126735,7 +126716,7 @@
       "jhantat",
       "janat",
       "janet",
-      "jantà",
+      "janta",
       "jhant"
     ]
   },
@@ -126948,12 +126929,12 @@
   "YU": {
     "base_word": "you",
     "variants": [
-      "yêu",
+      "yeu",
       "u",
       "yau",
       "yeu",
       "yuu",
-      "yøu",
+      "you",
       "yu",
       "yiu"
     ]
@@ -127431,7 +127412,7 @@
   "BDYLYA": {
     "base_word": "bhidhyalaya",
     "variants": [
-      "vidyālaya",
+      "vidyalaya",
       "vidyalaya",
       "bidyalaya"
     ]
@@ -127473,9 +127454,9 @@
   "MY1": {
     "base_word": "my",
     "variants": [
-      "“my",
-      "…my",
-      "mày",
+      "my",
+      "my",
+      "may",
       "mey",
       "myy",
       "mmy",
@@ -127608,12 +127589,12 @@
       "chahhnchu",
       "chahanchhaou",
       "chahaanchhu",
-      "chahanchhau’",
+      "chahanchhau",
       "chaahanchhu",
       "chaahaanchhu",
       "chahanchhhu",
       "chaahanchhau",
-      "chahanchhu…",
+      "chahanchhu",
       "chahanchhuuu",
       "chahnchhu",
       "chahannchhu",
@@ -127722,7 +127703,7 @@
   "SCYO": {
     "base_word": "sochyo",
     "variants": [
-      "sochiyo…",
+      "sochiyo",
       "sachyo",
       "sochiyo"
     ]
@@ -127854,7 +127835,7 @@
     "base_word": "hola tara",
     "variants": [
       "holaatara",
-      "hola…tara",
+      "holatara",
       "holatara",
       "holatra"
     ]
@@ -128284,9 +128265,9 @@
     "base_word": "sochne",
     "variants": [
       "sochane",
-      "schöne",
+      "schone",
       "sachne",
-      "sochne…",
+      "sochne",
       "sochnee",
       "sochnay",
       "sochney",
@@ -128368,7 +128349,7 @@
     "base_word": "raakhnu",
     "variants": [
       "rakhnau",
-      "ràkhnu",
+      "rakhnu",
       "rakhenu",
       "raknu",
       "rkhnuu",
@@ -128376,7 +128357,7 @@
       "rakhunu",
       "raakhnu",
       "rakhinu",
-      "rakhnu”",
+      "rakhnu",
       "rakhnnu",
       "rakhanu"
     ]
@@ -128473,14 +128454,14 @@
       "masterpice",
       "masterpic",
       "masterpieces",
-      "“masterpiece"
+      "masterpiece"
     ]
   },
   "ERO": {
     "base_word": "euro",
     "variants": [
       "ero",
-      "мero"
+      "ero"
     ]
   },
   "HJRHMT": {
@@ -128649,7 +128630,7 @@
   "JGDA": {
     "base_word": "jhagada",
     "variants": [
-      "jhàgdàa",
+      "jhagdaa",
       "jigda",
       "jhgda",
       "jhagdaa",
@@ -128947,8 +128928,8 @@
     "base_word": "last",
     "variants": [
       "lst",
-      "làst",
-      "lást"
+      "last",
+      "last"
     ]
   },
   "PRPRE": {
@@ -129327,7 +129308,7 @@
     "base_word": "chorni",
     "variants": [
       "chornay",
-      "chórny",
+      "chorny",
       "chorney",
       "chorniy"
     ]
@@ -129538,7 +129519,7 @@
     "variants": [
       "sabitraa",
       "sabetra",
-      "‌sabitra",
+      "sabitra",
       "sabtara"
     ]
   },
@@ -130114,7 +130095,7 @@
       "hunuprthiye",
       "hunuparthiyo",
       "hunuprthyo",
-      "hunuparthyo…",
+      "hunuparthyo",
       "hunuperthiyo",
       "hunaparthyo",
       "hunaparthiyo",
@@ -130482,7 +130463,7 @@
     "variants": [
       "lagyotara",
       "lageyotara",
-      "lagyo…tara",
+      "lagyotara",
       "lagyootara",
       "lagyotra"
     ]
@@ -130514,7 +130495,7 @@
       "chaldena",
       "chaldauna",
       "chaldeina",
-      "chaldaina…",
+      "chaldaina",
       "chhaldaena",
       "chaldaiana",
       "chaldoina",
@@ -131544,8 +131525,8 @@
       "kanad",
       "khand",
       "kanod",
-      "kand²",
-      "kandà",
+      "kand",
+      "kanda",
       "kand",
       "kaand",
       "khandd"
@@ -131790,7 +131771,7 @@
     "base_word": "chamkiyo",
     "variants": [
       "chamkaaiyo",
-      "chamikyo…",
+      "chamikyo",
       "chamkayo",
       "chamkaayo"
     ]
@@ -132089,7 +132070,7 @@
       "hellp",
       "healp",
       "helpp",
-      "help​"
+      "help"
     ]
   },
   "MRNPRN": {
@@ -132732,7 +132713,7 @@
       "chuy",
       "chey",
       "chy",
-      "chyè",
+      "chye",
       "chhy",
       "chiy"
     ]
@@ -134221,7 +134202,7 @@
     "base_word": "ho nepal",
     "variants": [
       "hunnepal",
-      "hónepal",
+      "honepal",
       "honepal",
       "hoonnepal"
     ]
@@ -134318,7 +134299,7 @@
     "variants": [
       "channelma",
       "chainalma",
-      "channelma”",
+      "channelma",
       "chanelma",
       "chanalma",
       "chhanelma"
@@ -134407,7 +134388,7 @@
       "raaja",
       "rajaa",
       "rajja",
-      "“raja",
+      "raja",
       "rraja",
       "rajha",
       "rajea",
@@ -134951,7 +134932,7 @@
     "variants": [
       "hanchhm",
       "hnchham",
-      "hnchhöm",
+      "hnchhom",
       "hanchhum",
       "hnchhm",
       "hinchham",
@@ -135346,7 +135327,7 @@
     "base_word": "neta harule",
     "variants": [
       "neetaharule",
-      "“netaharule",
+      "netaharule",
       "netaharule",
       "netaaaharule",
       "netaaharule"
@@ -135897,7 +135878,7 @@
       "histry",
       "houstory",
       "hishtry",
-      "històry"
+      "history"
     ]
   },
   "CDE": {
@@ -135968,7 +135949,7 @@
       "mykuri",
       "myyakuri",
       "maykuri",
-      "myakuri‌",
+      "myakuri",
       "myaakuri",
       "myakuriii",
       "meyakuri",
@@ -136345,7 +136326,7 @@
       "prbhu",
       "parbhu",
       "prabu",
-      "prabhu”"
+      "prabhu"
     ]
   },
   "PRNTYO": {
@@ -136741,12 +136722,11 @@
     "base_word": "daaijo",
     "variants": [
       "daijo",
-      "dhajo",
-      "dajoo",
+      "dhaijo",
+      "daijoo",
       "daiejo",
       "daejo",
-      "dajeĸo",
-      "dajo"
+      "dahijo"
     ]
   },
   "SGNDA": {
@@ -136861,7 +136841,7 @@
       "sattiyanash",
       "styanash",
       "satayanash",
-      "satyanas…",
+      "satyanas",
       "satyenas"
     ]
   },
@@ -137007,7 +136987,7 @@
     "base_word": "sambaidhaanik",
     "variants": [
       "sambaidhanik",
-      "“saimbaidhanik"
+      "saimbaidhanik"
     ]
   },
   "JWSB": {
@@ -137077,7 +137057,7 @@
     "variants": [
       "lekhyo",
       "lekyo",
-      "lekhyo…",
+      "lekhyo",
       "lekhyoo"
     ]
   },
@@ -137663,7 +137643,7 @@
       "taaha",
       "tahaa",
       "thaaha",
-      "taha’",
+      "taha",
       "thahaha"
     ]
   },
@@ -138023,7 +138003,7 @@
       "gareyos",
       "gariyosh",
       "garyas",
-      "gariyos…",
+      "gariyos",
       "garys"
     ]
   },
@@ -138038,7 +138018,7 @@
     "base_word": "puchhar",
     "variants": [
       "puchr",
-      "pùchchar",
+      "puchchar",
       "puchar",
       "pachhar",
       "puchchhar",
@@ -138361,7 +138341,7 @@
       "maaha",
       "mahia",
       "mohaa",
-      "“maha",
+      "maha",
       "mahaa"
     ]
   },
@@ -138488,7 +138468,7 @@
     "base_word": "hitman",
     "variants": [
       "haitamang",
-      "hitman”"
+      "hitman"
     ]
   },
   "BRSDI": {
@@ -139015,7 +138995,7 @@
     "variants": [
       "contenent",
       "conetnt",
-      "content´",
+      "content",
       "kcontent",
       "ckntent",
       "contant",
@@ -139024,7 +139004,7 @@
       "containt",
       "conetent",
       "contnet",
-      "content…"
+      "content"
     ]
   },
   "SDYO1": {
@@ -139259,7 +139239,7 @@
     "base_word": "mukh",
     "variants": [
       "muk",
-      "”mukh"
+      "mukh"
     ]
   },
   "MK2": {
@@ -140742,7 +140722,7 @@
       "natek",
       "natakk",
       "nathak",
-      "nàtak",
+      "natak",
       "natk",
       "natatak",
       "naatak",
@@ -141088,7 +141068,7 @@
       "sammasya",
       "samasiya",
       "smasya",
-      "samasya…",
+      "samasya",
       "samsaya",
       "samasiyaa",
       "samashiya",
@@ -141107,7 +141087,7 @@
   "BJM": {
     "base_word": "bujum",
     "variants": [
-      "bhujum’",
+      "bhujum",
       "bujhum",
       "bujim",
       "bujam",
@@ -141364,7 +141344,7 @@
       "thapaes",
       "thapaiesh",
       "thapas",
-      "thapa’s",
+      "thapas",
       "thapaus",
       "thaapais",
       "thapaesss",
@@ -143026,7 +143006,7 @@
       "garnehosh",
       "garaunuhos",
       "garnuhoss",
-      "garnuhōs",
+      "garnuhos",
       "garnuhosh",
       "garnuhohos"
     ]
@@ -143268,15 +143248,13 @@
     ]
   },
   "KYM": {
-    "base_word": "kayam",
+    "base_word": "kaayam",
     "variants": [
       "kyam",
       "kayem",
-      "kaayam",
-      "kayım",
-      "khyam",
+      "kayam",
+      "kaayem",
       "kaym",
-      "khayam",
       "kaeym"
     ]
   },
@@ -143490,7 +143468,7 @@
       "jaaunu",
       "jaunu",
       "janguu",
-      "‘janu",
+      "janu",
       "jhanuu",
       "jannu",
       "janu",
@@ -143601,10 +143579,11 @@
     ]
   },
   "GLNA": {
-    "base_word": "galna",
+    "base_word": "gaalna",
     "variants": [
       "galuna",
-      "għalina"
+      "gaalina",
+      "galna"
     ]
   },
   "DJBI": {
@@ -143643,7 +143622,7 @@
   "BRO1": {
     "base_word": "bro",
     "variants": [
-      "bro…",
+      "bro",
       "baro",
       "brooo",
       "brro",
@@ -145166,7 +145145,7 @@
     "variants": [
       "blance",
       "bailance",
-      "balance…"
+      "balance"
     ]
   },
   "SMPTI": {
@@ -145788,7 +145767,7 @@
     "base_word": "aadesh",
     "variants": [
       "adesh",
-      "aadesh”",
+      "aadesh",
       "aaadhesh"
     ]
   },
@@ -146128,7 +146107,7 @@
     "base_word": "touch",
     "variants": [
       "touche",
-      "touché",
+      "touche",
       "tuch",
       "toch"
     ]
@@ -146727,12 +146706,12 @@
     "base_word": "haami",
     "variants": [
       "hahmi",
-      "“hami",
+      "hami",
       "hamei",
       "hamai",
-      "‘hami",
-      "…hami",
-      "hami…",
+      "hami",
+      "hami",
+      "hami",
       "hamii",
       "hammi"
     ]
@@ -147229,7 +147208,7 @@
       "nagarm",
       "nagarmm",
       "nagaraum",
-      "nagaram…",
+      "nagaram",
       "nagaramm",
       "nagarum",
       "nagaarum",
@@ -148506,7 +148485,7 @@
     "variants": [
       "yars",
       "yers",
-      "year’s"
+      "years"
     ]
   },
   "ARJKO1": {
@@ -149355,7 +149334,7 @@
   "DMBE": {
     "base_word": "daami movie",
     "variants": [
-      "daaami…movie",
+      "daaamimovie",
       "damovie",
       "damimove"
     ]
@@ -149445,7 +149424,7 @@
     "base_word": "ghumaayera",
     "variants": [
       "ghumayara",
-      "gumayera…",
+      "gumayera",
       "ghumayera",
       "ghuumayera",
       "gumayera",
@@ -150572,7 +150551,7 @@
       "tesmaa",
       "tesima",
       "teasma",
-      "“tesma",
+      "tesma",
       "tsma",
       "teshma",
       "tessma"
@@ -150924,7 +150903,7 @@
       "magnee",
       "maggne",
       "maghne",
-      "“magne"
+      "magne"
     ]
   },
   "BNKTW": {
@@ -152401,7 +152380,7 @@
     "base_word": "worst",
     "variants": [
       "worest",
-      "worst…",
+      "worst",
       "worsst"
     ]
   },
@@ -153022,7 +153001,7 @@
       "chalaaeko",
       "chalaako",
       "chalakoo",
-      "chalako”",
+      "chalako",
       "chalaaako",
       "chalaaayko"
     ]
@@ -160821,7 +160800,7 @@
   "NDI1": {
     "base_word": "nadi",
     "variants": [
-      "ñadi",
+      "nadi",
       "ndi",
       "nadii",
       "nade",
@@ -160908,12 +160887,12 @@
       "gaarau",
       "garouu",
       "garou",
-      "garau”",
+      "garau",
       "garaau",
       "garaou",
       "garoou",
       "garruu",
-      "garauu¡",
+      "garauu",
       "gaaru",
       "gaaarauuu"
     ]
