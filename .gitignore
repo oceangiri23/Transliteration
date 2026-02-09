@@ -4,3 +4,6 @@ Normalization/Clustering/Fast_text_model_for_gpt_variations
 Training/ByT5/fine_tuned_byt5.pt
 ADS/FastText
 venv
+giri/
+models/
+Training/mT5/mt5_all_augmented_2.pt
