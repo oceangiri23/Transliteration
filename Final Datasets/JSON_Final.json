@@ -193,9 +193,11 @@
     ]
   },
   "BJYI": {
-    "base_word": "bujhai",
+    "base_word": "bujhaai",
     "variants": [
-      "bujayi"
+      "bujayi",
+      "bujaai",
+      "bujhai"
     ]
   },
   "KNKR": {
@@ -390,7 +392,7 @@
       "reajay"
     ]
   },
-  "WLCM1": {
+  "WLCM": {
     "base_word": "welcome",
     "variants": [
       "welcom",
@@ -401,12 +403,7 @@
       "wellcome",
       "wecome",
       "wlcme",
-      "wolcome"
-    ]
-  },
-  "WLCM2": {
-    "base_word": "welcome",
-    "variants": [
+      "wolcome",
       "wlcm",
       "welcm",
       "wlc"
@@ -740,7 +737,7 @@
     ]
   },
   "PRCYA": {
-    "base_word": "parikshya",
+    "base_word": "parikshyaa",
     "variants": [
       "pariksha",
       "parichiya",
@@ -750,7 +747,7 @@
     ]
   },
   "LCI1": {
-    "base_word": "lalchi",
+    "base_word": "laalchi",
     "variants": [
       "laalachi",
       "laachi",
@@ -815,9 +812,12 @@
   "BGDNU": {
     "base_word": "bujhidinu",
     "variants": [
-      "bugaidinu",
       "bugidinu",
-      "bhugidinu"
+      "bughidinu",
+      "bhugidinu",
+      "bujhidenu",
+      "bhujidinu",
+      "bhughidinu"
     ]
   },
   "LMBNI": {
