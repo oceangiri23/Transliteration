@@ -12781,6 +12781,17 @@
       "whereis"
     ]
   },
+  "HNKA2": {
+    "base_word": "haanchha",
+    "variants": [
+      "hancha",
+      "hanchha",
+      "haancha",
+      "hanch",
+      "hanncha",
+      "hannchha"
+    ]
+  },
   "HNKA1": {
     "base_word": "hunchha",
     "variants": [
@@ -12806,7 +12817,6 @@
       "hunchy",
       "hunucchha",
       "hnchhaa",
-      "hunchha",
       "hhunchha",
       "hhnchha",
       "hunchhcha",
@@ -12814,7 +12824,6 @@
       "hunechhw",
       "hinchhw",
       "hunjah",
-      "hunchha",
       "hinunchha",
       "hunechhaw",
       "hunchhaha",
@@ -12851,11 +12860,9 @@
       "honch",
       "huinchha",
       "hunanchha",
-      "hanchha",
       "hunch",
       "hunchhak",
       "haunuchha",
-      "huunechha",
       "hunachha",
       "hnnchh",
       "hunnechha",
@@ -12863,16 +12870,10 @@
       "hunccha",
       "huncja",
       "haunchha",
-      "hinchha",
       "honchha",
-      "hadhunchha",
-      "hync",
       "hunchh",
       "hunchhchhaa",
-      "hunechhchha",
       "hunchhchh",
-      "hunuha",
-      "hunchhu",
       "hunchhachha"
     ]
   },
@@ -157456,7 +157457,6 @@
   "HNCH": {
     "base_word": "hunchha",
     "variants": [
-      "hunchha",
       "hunchaah"
     ]
   },
@@ -159137,15 +159137,14 @@
     "variants": [
       "ok",
       "oke",
-      "oky",
-      "kk",
-      "k"
+      "oky"
     ]
   },
   "YOU": {
     "base_word": "you",
     "variants": [
-      "u"
+      "u",
+      "yu"
     ]
   },
   "YOUR": {
@@ -160424,7 +160423,8 @@
   "HMLE": {
     "base_word": "haamile",
     "variants": [
-      "hola"
+      "hamile",
+      "hamiley"
     ]
   },
   "NI2": {
