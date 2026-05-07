@@ -4,6 +4,7 @@ import gradio as gr
 from huggingface_hub import hf_hub_download
 import os 
 from huggingface_hub import hf_hub_download
+from keep_english.two_sentence_pipeline import repair_transliteration
 hf_token = os.getenv("HF_TOKEN")
 
 device = torch.device("cpu")
@@ -45,7 +46,8 @@ def transliterate(sentence: str, max_length: int = 128):
     
     
     decoded = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    return decoded
+    repaired, _ = repair_transliteration(sentence, decoded)
+    return repaired
 
 
 iface = gr.Interface(
