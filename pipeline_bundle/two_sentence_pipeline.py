@@ -25,6 +25,7 @@ import sys
 from dataclasses import dataclass
 from difflib import SequenceMatcher
 from math import exp
+from functools import lru_cache
 from pathlib import Path
 from typing import Iterable
 
@@ -338,6 +339,28 @@ def reconstruct_sentence_pair(
 
     reconstructed_tokens = [replacements_map.get(index, token) for index, token in enumerate(deva_raw)]
     return " ".join(reconstructed_tokens), replacements
+
+
+@lru_cache(maxsize=1)
+def get_default_english_vocab() -> frozenset[str]:
+    return frozenset(load_english_vocab())
+
+
+def repair_transliteration(
+    roman_sentence: str,
+    deva_sentence: str,
+    window_type: str = "symmetric",
+    phonetic_threshold: float = PHONETIC_MIN_SCORE,
+    vocab_path: Path | None = None,
+) -> tuple[str, list[Replacement]]:
+    english_vocab = load_english_vocab(vocab_path) if vocab_path is not None else get_default_english_vocab()
+    return reconstruct_sentence_pair(
+        roman_sentence,
+        deva_sentence,
+        english_vocab=set(english_vocab),
+        window_type=window_type,
+        phonetic_threshold=phonetic_threshold,
+    )
 
 
 def format_replacements(replacements: Iterable[Replacement]) -> str:
