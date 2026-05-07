@@ -19782,8 +19782,6 @@
       "vanchha",
       "bhanchh",
       "bhanchhha",
-      "bhanchhe",
-      "bhanchhu",
       "bhanchaa",
       "bhanchho",
       "bhanchhchh",
@@ -58991,7 +58989,6 @@
       "ha",
       "haiii",
       "huai",
-      "chai",
       "hihihi",
       "haui",
       "hhai",
@@ -126962,27 +126959,32 @@
       "bhanchheu",
       "bhnchu",
       "bhnchhu",
-      "bhanchhau",
       "bhonchu",
       "bhnchhhu"
     ]
   },
-  "BNCU2": {
-    "base_word": "bhanchu",
-    "variants": []
+  "BNCU3": {
+    "base_word": "bhanchha",
+    "variants": [
+      "bhancha",
+      "bancha",
+      "bhancha",
+      "bhanncha",
+      "bhncha",
+      "bhnchha",
+      "bhoncha",
+      "bhnchhha"
+    ]
   },
   "CRNU": {
-    "base_word": "chirnu",
+    "base_word": "chhirnu",
     "variants": [
-      "chiraunu",
-      "chornu",
-      "charnu"
+      "chhiranu"
     ]
   },
   "LYRA": {
     "base_word": "layera",
     "variants": [
-      "lyayara",
       "layeera",
       "layira",
       "laayara",
