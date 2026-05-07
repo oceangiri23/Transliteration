@@ -4,7 +4,7 @@ import gradio as gr
 from huggingface_hub import hf_hub_download
 import os 
 from huggingface_hub import hf_hub_download
-from keep_english.two_sentence_pipeline import repair_transliteration
+from pipeline_bundle.two_sentence_pipeline import repair_transliteration
 hf_token = os.getenv("HF_TOKEN")
 
 device = torch.device("cpu")

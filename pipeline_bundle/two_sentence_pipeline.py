@@ -12,7 +12,7 @@ final architecture:
 
 Example:
 
-    python keep_english/two_sentence_pipeline.py \
+    python pipeline_bundle/two_sentence_pipeline.py \
         --roman "aaja market ma price ekdam high rahechha" \
         --deva  "आज मार्केट मा प्राइस एकदम हाइ रहेको छ"
 """
