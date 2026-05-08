@@ -58981,7 +58981,6 @@
     "variants": [
       "hwy",
       "hahi",
-      "hway",
       "hai",
       "hoai",
       "heai",
@@ -58994,9 +58993,7 @@
       "hhai",
       "haei",
       "haii",
-      "haoi",
-      "haai",
-      "hihi"
+      "haoi"
     ]
   },
   "ARNTA": {
@@ -80128,13 +80125,13 @@
   "BNU1": {
     "base_word": "bhannu",
     "variants": [
-      
       "bahnnu",
       "bhanounu",
       "bhnu",
       "bhannnu",
       "bhanou",
-      "bhnnu"]
+      "bhnnu"
+    ]
   },
   "MHNA": {
     "base_word": "mahinaa",
@@ -80170,7 +80167,6 @@
       "haiot",
       "haiit",
       "haittt",
-      
       "haitt",
       "haitt",
       "haieet",
@@ -80213,7 +80209,6 @@
       "pathakko",
       "phthako",
       "pathauko",
-      
       "pthako",
       "phathako",
       "pothako",
@@ -86379,9 +86374,7 @@
     "base_word": "khatera",
     "variants": [
       "khateraa",
-      "khetera",
-      "katera",
-      "kathera"
+      "khetera"
     ]
   },
   "KTRA3": {
@@ -86390,6 +86383,14 @@
       "khatira",
       "khateeraa",
       "khatiraaa"
+    ]
+  },
+  "KTRA4": {
+    "base_word": "kaatera",
+    "variants": [
+      "katera",
+      "kathera",
+      "kateyra"
     ]
   },
   "LGNU1": {
@@ -116698,9 +116699,9 @@
     ]
   },
   "BSTI1": {
-    "base_word": "basthi",
+    "base_word": "basti",
     "variants": [
-      "basti",
+      "basthi",
       "bastii",
       "basati"
     ]
@@ -118964,13 +118965,10 @@
     ]
   },
   "CRCA": {
-    "base_word": "chorcha",
+    "base_word": "chorchha",
     "variants": [
-      "charcha",
-      "chorechha",
+      "chorcha",
       "charchaa",
-      "chircha",
-      "choriracha",
       "charchha"
     ]
   },
@@ -119005,23 +119003,24 @@
     ]
   },
   "BNLGW": {
-    "base_word": "bonglow",
+    "base_word": "banglaa",
     "variants": [
       "bangla",
-      "bongla"
+      "bongla",
+      "bonglow",
+      "bunglow"
     ]
   },
   "BNLA": {
     "base_word": "banla",
     "variants": [
-      "bhanla",
       "banula",
       "banala",
       "banlaa"
     ]
   },
   "PCTO": {
-    "base_word": "pachuto",
+    "base_word": "pachhuto",
     "variants": [
       "pachhuto",
       "pachhhuto",
@@ -119032,9 +119031,9 @@
     "base_word": "masaane",
     "variants": [
       "masane",
-      "masne",
-      "masine",
-      "mashne"
+      "masaney",
+      "masaaney",
+      "mashane"
     ]
   },
   "GTRHKO": {
@@ -119045,7 +119044,7 @@
     ]
   },
   "RWYO": {
-    "base_word": "ruwayo",
+    "base_word": "ruwaayo",
     "variants": [
       "rwyo",
       "riwayo",
@@ -154960,7 +154959,9 @@
   },
   "DKCS": {
     "base_word": "dekhchhas",
-    "variants": []
+    "variants": [
+      "dekhchas","dhekchas","dhekchhas"
+    ]
   },
   "BYSK": {
     "base_word": "baisaakh",
@@ -159052,7 +159053,7 @@
     "variants": []
   },
   "KE": {
-    "base_word": "ki",
+    "base_word": "k",
     "variants": [
       "ke"
     ]
@@ -159060,16 +159061,23 @@
   "RMLCA": {
     "base_word": "ramaailo chha",
     "variants": [
-      "ramailocha"
+      "ramailocha",
+      "ramailochha"
     ]
   },
   "GYE": {
     "base_word": "gaye",
-    "variants": []
+    "variants": [
+      "gayay",
+      "gayae"
+    ]
   },
   "SNU": {
     "base_word": "sunaau",
-    "variants": []
+    "variants": [
+      "sunau",
+      "shunau"
+    ]
   },
   "NDRBYO": {
     "base_word": "nindraa bhayo",
@@ -159103,7 +159111,9 @@
   },
   "JNCS": {
     "base_word": "jaanchhas",
-    "variants": []
+    "variants": [
+      "janchas"
+    ]
   },
   "LKNSKD": {
     "base_word": "lekhna sakdina",
@@ -159115,7 +159125,9 @@
     "base_word": "please",
     "variants": [
       "plz",
-      "pls"
+      "pls",
+      "plich",
+      "pilich"
     ]
   },
   "OFC": {
@@ -160933,9 +160945,9 @@
     ]
   },
   "HR": {
-    "base_word": "har",
+    "base_word": "hara",
     "variants": [
-      "hara",
+      "har",
       "harr"
     ]
   },
