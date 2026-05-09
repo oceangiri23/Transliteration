@@ -80851,53 +80851,55 @@
     ]
   },
   "TA1": {
-    "base_word": "taita",
+    "base_word": "teita",
     "variants": [
-      "tata",
-      "thaitta",
-      "titha",
       "taeia",
-      "tita",
       "taitha",
       "thita",
-      "tatha",
       "toita",
-      "taoita",
-      "teita"
+      "taoita"
     ]
   },
   "TA2": {
     "base_word": "tetaa",
     "variants": [
-      "tetaa"
+      "teta"
     ]
   },
-  "BGRKO": {
-    "base_word": "bigareko",
+  "BGRKO1": {
+    "base_word": "bigaareko",
     "variants": [
+      "bigaareko",
       "bigaareeko",
-      "bigreeko",
       "biagareko",
       "bigereko",
+      "bigarako",
+      "bigariko",
+      "bigareako",
+      "bigarekoo",
+      "vigareko",
+      "bagareko",
+      "bugareko",
+      "begareko"
+    ]
+  },
+  "BGRKO2": {
+    "base_word": "bigreko",
+    "variants": [
+      "bigreko",
+      "bigreeko",
       "bigreako",
-      "bigaareko",
       "bigrako",
       "bigrekoo",
-      "begareko",
-      "bigireko",
       "begreko",
-      "bigarako",
-      "bugareko",
-      "bigariko",
-      "bigreko",
-      "bgreko",
+      "bgreko"
+    ]
+  },
+  "BGRKO3": {
+    "base_word": "bigriyeko",
+    "variants": [
       "bigrieko",
-      "begarko",
-      "bigareako",
-      "bigriko",
-      "vigareko",
-      "bigarekoo",
-      "bagareko"
+      "bigriko"
     ]
   },
   "AO": {
