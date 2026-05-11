@@ -87543,44 +87543,67 @@
       "rashi"
     ]
   },
-  "SKNU": {
-    "base_word": "saknu",
+
+  "SKNU1": {
+    "base_word": "sakinu",
     "variants": [
       "sakkinu",
-      "sacnu",
-      "sakunu",
-      "suknu",
-      "saknau",
-      "sakinau",
-      "saaknu",
-      "siknu",
-      "seknu",
-      "sakknu",
-      "sakanu",
-      "sakenu",
-      "sakhnu",
-      "sknu",
       "sakinu",
-      "soknu",
-      "sakaunu",
-      "sakhanu",
-      "saknnu",
-      "saknuu",
-      "shaknu",
       "sakinnu",
-      "sakenau",
       "skinu"
     ]
   },
-  "BTNE": {
-    "base_word": "betne",
+  "SKNU2": {
+    "base_word": "saknu",
     "variants": [
-      "batne",
-      "bataune",
-      "batane",
-      "bhatne",
-      "vatne",
-      "bitne"
+      "sacnu",
+      "sakunu",
+
+      "saaknu",
+      "sakknu",
+      "sakhnu",
+      "sknu",
+      "soknu",
+      "saknnu",
+      "saknuu",
+      "shaknu",
+      "saknu"
+    ]
+  },
+  "SKNU3": {
+    "base_word": "sakaunu",
+    "variants": [
+      "sakaunu",
+      "sakkaunu",
+      "sakhaunu"
+    ]
+  },
+  "SKNU4": {
+    "base_word": "siknu",
+    "variants": [
+      "siknu",
+      "seeknu",
+      "sikhnu"
+    ]
+  },
+  "SKNU5": {
+    "base_word": "sakenau",
+    "variants": [
+      "sakeynau",
+      "sakeenau",
+      "sakenauu",
+      "sakeynauu"
+    ]
+  },
+  "BTNE": {
+    "base_word": "bhetne",
+    "variants": [
+      "betne",
+      "betane",
+      "vetane",
+      "vetne",
+      "vatney",
+      "vetney"
     ]
   },
   "NLMA": {
@@ -88097,34 +88120,61 @@
       "dekheya"
     ]
   },
-  "LGU": {
+  "LGU1": {
+    "base_word": "laagu",
+    "variants": [
+      "laghu",
+      "lagu",
+      "laaguu",
+      "laguu"
+    ]
+  },
+  "LGU2": {
     "base_word": "lageu",
     "variants": [
-      "laigu",
-      "laghu",
       "lageau",
       "laghau",
-      "lagaau",
-      "laugau",
       "lagou",
-      "lagiu",
       "lagau",
-      "lagu",
       "lagauu",
-      "laageu",
       "lagaou",
       "laggeu",
-      "laagiu",
       "lageeu",
       "lageuu",
       "lagieu",
-      "laagu"
+      "lageu"
+    ]
+  },
+  "LGU3": {
+    "base_word": "laageu",
+    "variants": [
+      "laageau",
+      "laaghau",
+      "laagou",
+      "laagau",
+      "laagauu",
+      "laagaou",
+      "laaggeu",
+      "laageeu",
+      "laageuu",
+      "laagieu",
+      "laageu"
+    ]
+  },
+  "LGU4": {
+    "base_word": "lagaau",
+    "variants": [
+      "lagaau",
+      "laugau",
+      "laghaau",
+      "laghau"
     ]
   },
   "GTLO": {
-    "base_word": "gothalo",
+    "base_word": "gothaalo",
     "variants": [
       "gotalo",
+      "gothalo",
       "gothaloo",
       "gothaalo",
       "gathalo",
@@ -107719,37 +107769,49 @@
       "halchau"
     ]
   },
-  "YTI": {
-    "base_word": "eautai",
+  "YTI1": {
+    "base_word": "yeti",
     "variants": [
       "yetii",
       "yeati",
       "yyeti",
-      "ewaitai",
-      "yeutai",
-      "yetaii",
       "yetei",
       "yeatti",
-      "yeti",
       "yettti",
-      "eawtai",
-      "yetoi",
-      "yetai",
       "yetiii",
       "yaeti",
       "yteti",
-      "yeatai",
-      "yeutoi",
-      "yettii",
-      "yeauti",
-      "yeuti",
       "yethi",
-      "yti",
+      "yti"
+    ]
+  },
+  "YTI2": {
+    "base_word": "yeutai",
+    "variants": [
+      "yeutai",
+      "yeutoi",
       "ewutai",
-      "yeatei",
       "yeutei",
-      "ewtai",
+      "eawtai",
+      "ewtai"
+    ]
+  },
+  "YTI3": {
+    "base_word": "yetai",
+    "variants": [
+      "yetaii",
+      "yetoi",
+      "yetai",
+      "yeatai",
+      "yeatei",
       "yeotei"
+    ]
+  },
+  "YTI4": {
+    "base_word": "yeuti",
+    "variants": [
+      "yeauti",
+      "yeuti"
     ]
   },
   "JNK": {
@@ -119105,12 +119167,12 @@
     ]
   },
   "JTO": {
-    "base_word": "jhutho",
+    "base_word": "jhuto",
     "variants": [
       "jhatho",
       "jhutto",
       "juttho",
-      "jhuto"
+      "jhutho"
     ]
   },
   "BLG": {
