@@ -247,7 +247,7 @@
     ]
   },
   "PNPRK": {
-    "base_word": "paunuparchha",
+    "base_word": "paaunuparchha",
     "variants": [
       "paunuparchh",
       "paunuprchh",
@@ -6140,7 +6140,6 @@
       "sathy",
       "shathe",
       "sathe",
-      "dochht",
       "sahathi",
       "sathay",
       "saate",
@@ -6161,6 +6160,15 @@
       "sahatai",
       "saste",
       "satie"
+    ]
+  },
+  "DST": {
+    "base_word": "dost",
+    "variants": [
+      "dochht",
+      "dchht",
+      "dostt",
+      "doost"
     ]
   },
   "PRNKO": {
@@ -6582,7 +6590,6 @@
     "variants": [
       "yerr",
       "urrrr",
-      "ur",
       "yar",
       "uar",
       "yyrr",
@@ -9736,9 +9743,8 @@
     "base_word": "superb",
     "variants": [
       "suprb",
-      "supoppppo",
+      "supoppppop",
       "suppurb",
-      "super",
       "suprv",
       "supereb",
       "suparb",
@@ -9746,10 +9752,10 @@
       "supreb",
       "supporb",
       "superb",
-      "suppo",
-      "supoo",
+      "suppop",
+      "supoob",
       "supprb",
-      "supo",
+      "supob",
       "sperb",
       "suparp",
       "suporb",
@@ -13569,7 +13575,7 @@
     ]
   },
   "TMBA": {
-    "base_word": "tumbaa",
+    "base_word": "tongbaa",
     "variants": [
       "thumba",
       "tumba"
@@ -15170,18 +15176,9 @@
     "variants": [
       "aawona",
       "aanea",
-      "yayana",
-      "ayana",
-      "yana",
-      "aaunna",
       "awna",
-      "aunna",
-      "aaunnaa",
       "yauna",
-      "aaunnwa",
       "awnaa",
-      "yaana",
-      "aana",
       "aawana",
       "auna",
       "aawna",
@@ -15674,10 +15671,8 @@
       "superr",
       "kosuperr",
       "spuer",
-      "super",
       "sapre",
       "soper",
-      "super",
       "supor",
       "supr",
       "suopr",
@@ -20349,7 +20344,7 @@
     ]
   },
   "SKSA": {
-    "base_word": "shiksha",
+    "base_word": "shikshyaa",
     "variants": [
       "siksha",
       "shikhsa"
@@ -22746,7 +22741,7 @@
     ]
   },
   "INHRLI": {
-    "base_word": "yiniharulai",
+    "base_word": "yiniharulaai",
     "variants": [
       "iniiharulai",
       "iniharulae",
@@ -23783,9 +23778,8 @@
   "NDE": {
     "base_word": "nade",
     "variants": [
-      "nadee",
-      "nadie",
-      "nande"
+      "nadeey",
+      "nadey"
     ]
   },
   "DTU": {
@@ -26773,14 +26767,13 @@
     ]
   },
   "BRYO2": {
-    "base_word": "bharyo",
+    "base_word": "bhariyo",
     "variants": [
       "bhariyo",
-      "bhairayo",
+      "bhariayo",
       "variyo",
       "vareyo",
-      "varyo",
-      "vryo"
+      "vriyo"
     ]
   },
   "BRYO5": {
@@ -31074,25 +31067,17 @@
   "LH": {
     "base_word": "la",
     "variants": [
-      "leah",
-      "leh",
-      "leo",
       "loh",
-      "loh",
-      "lehh",
-      "leeh",
       "lo",
       "lh",
       "luhh",
-      "lio",
       "luh",
       "lahhh",
       "lahh",
       "lah",
       "laah",
       "lohh",
-      "lalh",
-      "lao"
+      "lalh"
     ]
   },
   "HNDY": {
@@ -31893,7 +31878,7 @@
     ]
   },
   "BWNA": {
-    "base_word": "bhaawana",
+    "base_word": "bhaawanaa",
     "variants": [
       "bhawanna",
       "bhaawna",
@@ -42412,8 +42397,7 @@
     "variants": [
       "chabest",
       "chhabest",
-      "chubest",
-      "chaiibest"
+      "chhbest"
     ]
   },
   "UPHR": {
@@ -45816,6 +45800,7 @@
       "ayno",
       "ayana",
       "ayeana",
+      "yayana",
       "auhayana",
       "ahyena",
       "aayenw",
@@ -46228,7 +46213,6 @@
     "variants": [
       "gayii",
       "gyoii",
-      "gayae",
       "gyi",
       "gayi"
     ]
@@ -58330,11 +58314,11 @@
     ]
   },
   "ALA": {
-    "base_word": "aile",
+    "base_word": "ailaa",
     "variants": [
       "aila",
       "ailaa",
-      "oele",
+      "oela",
       "aila",
       "aiila",
       "ailia",
@@ -58343,16 +58327,11 @@
       "aailaa",
       "ailaaa",
       "aoila",
-      "olee",
-      "oile",
-      "ailea",
-      "aailea",
       "aaaila",
       "ailla",
       "aaiala",
       "aaila",
       "aaila",
-      "ole",
       "aaiela"
     ]
   },
@@ -70042,35 +70021,19 @@
     ]
   },
   "SNU1": {
-    "base_word": "sunnu",
+    "base_word": "sunu",
     "variants": [
-      "sunau",
       "shunu",
       "sinnu",
       "suunu",
-      "sannu",
-      "sunanu",
-      "sunenau",
       "saunu",
       "sununu",
-      "sunnuho",
-      "sunnuh",
-      "sunou",
-      "suninu",
       "sunuh",
       "siunu",
       "sunno",
-      "sunnnu",
-      "snnu",
-      "sunnau",
       "sunu",
-      "suunnu",
       "sunuu",
-      "sunaonu",
-      "sunnanu",
-      "sunaunu",
-      "sunnuu",
-      "suneu"
+      "sunaonu"
     ]
   },
   "SNH3": {
@@ -80918,8 +80881,7 @@
       "lg",
       "laig",
       "lagh",
-      "lagg",
-      "lagi"
+      "lagg"
     ]
   },
   "MBMA": {
@@ -82199,18 +82161,14 @@
       "lagchayeo",
       "lagchha",
       "laagchha",
-      "lagechh",
       "lagcha",
-      "lagaucha",
       "lagocha",
       "lagchh",
       "laghachha",
       "lagchhaa",
       "lagcha",
       "lagcchha",
-      "lagechha",
       "lalgchha",
-      "lgechha",
       "lagcchh",
       "lagakchha",
       "lagachh",
@@ -89270,7 +89228,7 @@
     ]
   },
   "SBD": {
-    "base_word": "sabdha",
+    "base_word": "shabda",
     "variants": [
       "sabd",
       "sabdd",
@@ -95247,7 +95205,6 @@
     "variants": [
       "jouthe",
       "jjuthe",
-      "juthe",
       "jutthe",
       "juthee",
       "jothe",
@@ -100359,7 +100316,6 @@
       "gharrr",
       "ghagar",
       "ghair",
-      "gharu",
       "ghara",
       "gharhee",
       "gharo",
@@ -101415,19 +101371,15 @@
     ]
   },
   "BDCA": {
-    "base_word": "badhchha",
+    "base_word": "badhaai chha",
     "variants": [
-      "badcha",
-      "badhaichha",
-      "badchha",
-      "badhichha",
-      "badechha",
-      "badaichha",
-      "badhauchha",
       "badaicha",
-      "badhechha",
-      "bhadcha",
-      "badhcha"
+      "badhaichha",
+      "badhaicha",
+      "badhichha",
+      "badhaiechha",
+      "badaichha",
+      "badaicha"
     ]
   },
   "GLYO": {
@@ -104127,9 +104079,12 @@
   "BNLE3": {
     "base_word": "bhannaale",
     "variants": [
-      "bhannele",
+      "bhannale",
       "bhannaley",
-      "bhanaley"
+      "bhanaley",
+      "vannale",
+      "vannaley",
+      "vanaley"
     ]
   },
   "BNLE4": {
@@ -104148,8 +104103,12 @@
     "variants": [
       "bhanaile",
       "bhanailey",
-      "bhanale",
-      "bhanaley"
+      "bhanaily",
+      "bhanailey",
+      "vanaile",
+      "vanailey",
+      "vanaily",
+      "vanailey"
     ]
   },
   "ANSR": {
@@ -104800,7 +104759,6 @@
   "CLKO": {
     "base_word": "chaleko",
     "variants": [
-      "chalako",
       "chalekooo",
       "chalko",
       "chhaleko",
@@ -107686,7 +107644,7 @@
     ]
   },
   "ALE": {
-    "base_word": "aaile",
+    "base_word": "ahile",
     "variants": [
       "aeile",
       "ailee",
@@ -108209,7 +108167,7 @@
     ]
   },
   "PRTCYA": {
-    "base_word": "pratichhya",
+    "base_word": "pratikshyaa",
     "variants": [
       "pratachya",
       "pratichya",
@@ -110728,7 +110686,6 @@
   "LGI": {
     "base_word": "laagi",
     "variants": [
-      "lagi",
       "laghi",
       "laaghi",
       "lagi"
@@ -112542,8 +112499,7 @@
       "thaleychhan",
       "thalechhin",
       "thalechhan",
-      "thaleychan",
-      "thalachhan"
+      "thaleychan"
     ]
   },
   "KTDKO": {
@@ -115485,7 +115441,7 @@
     "base_word": "ali ali",
     "variants": [
       "aliali",
-      "ali"
+      "alili"
     ]
   },
   "NKL": {
@@ -116937,7 +116893,6 @@
       "juth",
       "jhuut",
       "jutha",
-      "juthe",
       "jhut"
     ]
   },
@@ -119747,7 +119702,7 @@
     ]
   },
   "BRYMA": {
-    "base_word": "barema",
+    "base_word": "baaremaa",
     "variants": [
       "bareyma",
       "baryma",
@@ -122017,24 +121972,16 @@
     "variants": [
       "nehi",
       "nhai",
-      "nia",
-      "niii",
-      "nahi",
-      "nna",
       "nai",
       "nhii",
-      "na",
-      "nahi",
-      "nhi",
-      "nii",
-      "nga"
+      "nahi"
     ]
   },
   "NHI2": {
     "base_word": "na hai",
     "variants": [
       "nahai",
-      "nihai"
+      "nahoi"
     ]
   },
   "NCDNE": {
@@ -122406,7 +122353,7 @@
     ]
   },
   "BSA": {
-    "base_word": "bhawisya",
+    "base_word": "bhawishya",
     "variants": [
       "bhabisha",
       "bhasha",
@@ -124267,8 +124214,12 @@
   "BNLY": {
     "base_word": "bhannaale",
     "variants": [
-      "bhneley",
-      "bhanneley"
+      "bhnaley",
+      "bhannaley",
+      "vannale",
+      "vannaley",
+      "vanaley",
+      "vanale"
     ]
   },
   "LDN": {
@@ -126611,7 +126562,7 @@
     ]
   },
   "JNT": {
-    "base_word": "janata",
+    "base_word": "janataa",
     "variants": [
       "jant",
       "jhantat",
@@ -126968,7 +126919,8 @@
     "base_word": "bhanchha",
     "variants": [
       "bhancha",
-      "bancha",
+      "vancha",
+      "vanchha",
       "bhancha",
       "bhanncha",
       "bhncha",
@@ -129690,7 +129642,6 @@
     "variants": [
       "chitya",
       "chtiya",
-      "chutya",
       "chitiya",
       "chuitya",
       "chuitiya"
@@ -132419,10 +132370,7 @@
     "base_word": "chaau best",
     "variants": [
       "chhaubest",
-      "chhabest",
-      "chhbest",
-      "chhbeast",
-      "chhubest"
+      "chaubest"
     ]
   },
   "SNTYA1": {
@@ -133104,24 +133052,20 @@
       "chiu",
       "chuu",
       "chu",
-      "chhahu",
-      "chou",
       "chhhhu",
-      "chahu",
-      "chhhu",
-      "cheu",
-      "chau"
+      "chhhu"
     ]
   },
   "CU2": {
     "base_word": "see you",
     "variants": [
       "cu",
-      "cya"
+      "cya",
+      "seeyou"
     ]
   },
   "GNSE": {
-    "base_word": "gunjee",
+    "base_word": "ganji",
     "variants": [
       "ganze",
       "ganzee",
@@ -137541,7 +137485,7 @@
       "thaahaa",
       "tihaa",
       "thhaa",
-      "tehaa",
+      "thaa",
       "tahaha",
       "thhha",
       "thahha",
@@ -138314,10 +138258,14 @@
   "PLNY": {
     "base_word": "faalne",
     "variants": [
-      "palney",
+      "phalney",
+      "phalnay",
       "falnay",
-      "failauney",
-      "falney"
+      "falney",
+      "phaalney",
+      "phaalnay",
+      "faalnay",
+      "faalney"
     ]
   },
   "ANDN": {
@@ -154962,7 +154910,9 @@
   "DKCS": {
     "base_word": "dekhchhas",
     "variants": [
-      "dekhchas","dhekchas","dhekchhas"
+      "dekhchas",
+      "dhekchas",
+      "dhekchhas"
     ]
   },
   "BYSK": {
@@ -156929,7 +156879,9 @@
     "base_word": "ho ho",
     "variants": [
       "hoho",
-      "hoo"
+      "hohoo",
+      "hooho",
+      "hoohoo"
     ]
   },
   "SMYCNA": {
@@ -157169,7 +157121,7 @@
     "base_word": "ali ali",
     "variants": [
       "aliali",
-      "ali"
+      "alliallli"
     ]
   },
   "HMLI": {
@@ -157179,9 +157131,9 @@
     ]
   },
   "NI": {
-    "base_word": "naai",
+    "base_word": "ni",
     "variants": [
-      "nani",
+      "nee",
       "nii",
       "niii"
     ]
@@ -160046,9 +159998,10 @@
     ]
   },
   "MNDRH": {
-    "base_word": "maanadhar",
+    "base_word": "maanandhar",
     "variants": [
-      "manandharh"
+      "manandharh",
+      "maanadhar"
     ]
   },
   "BST": {
@@ -160061,7 +160014,11 @@
     "base_word": "le",
     "variants": [
       "ley",
+      "leah",
       "leh",
+      "leo",
+      "lehh",
+      "leeh",
       "lay"
     ]
   },
@@ -160721,7 +160678,6 @@
       "nadi",
       "ndi",
       "nadii",
-      "nade",
       "nadee",
       "nadhi",
       "nodi"
@@ -160797,9 +160753,7 @@
       "garaau",
       "garauu",
       "garauuu",
-      "garaaru",
       "gararu",
-      "gareau",
       "grau",
       "grou",
       "gaarau",
@@ -160809,9 +160763,7 @@
       "garaau",
       "garaou",
       "garoou",
-      "garruu",
       "garauu",
-      "gaaru",
       "gaaarauuu"
     ]
   },
@@ -160856,10 +160808,8 @@
       "milchan",
       "milchhhan",
       "milachhan",
-      "milechhan",
       "milchhan",
-      "melchan",
-      "milechan"
+      "melchan"
     ]
   },
   "MLECAN": {
@@ -160880,7 +160830,8 @@
       "mileeychhan",
       "mileychhan",
       "meleychan",
-      "mileeychan"
+      "mileeychan",
+      "milechhan"
     ]
   },
   "KTRIYA": {
