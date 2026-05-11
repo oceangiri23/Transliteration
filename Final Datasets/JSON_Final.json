@@ -22334,6 +22334,7 @@
       "parnyo",
       "paraho",
       "parho",
+      "paro",
       "paryhoo",
       "paryoh",
       "paryoho",
@@ -70447,6 +70448,8 @@
       "chhaa",
       "chhwhh",
       "chaaa",
+      "chh",
+      "ch",
       "cha",
       "chhah",
       "chhwh"
@@ -81691,14 +81694,13 @@
     ]
   },
   "PR": {
-    "base_word": "par",
+    "base_word": "paar",
     "variants": [
       "phar",
       "puar",
       "pr",
       "paer",
       "paur",
-      "paro",
       "poar"
     ]
   },
