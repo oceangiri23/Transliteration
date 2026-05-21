@@ -2547,12 +2547,20 @@
       "tysto"
     ]
   },
-  "PLTU": {
-    "base_word": "faltu",
+  "FLTU": {
+    "base_word": "faaltu",
     "variants": [
       "falthu",
       "fltu",
-      "faaltu",
+      "faaltu"
+    ]
+  },
+  "PLTU": {
+    "base_word": "paaltu",
+    "variants": [
+      "palthu",
+      "pltu",
+      "paaltu",
       "paltu"
     ]
   },
@@ -3358,7 +3366,7 @@
     ]
   },
   "PRCNDY": {
-    "base_word": "prachande",
+    "base_word": "prachandey",
     "variants": [
       "parcande",
       "pracande",
@@ -5239,6 +5247,8 @@
       "thankyo",
       "takhnu",
       "thankiyo",
+      "tq",
+      "tqs",
       "thankyou",
       "thankyouu",
       "tankyou",
@@ -5480,12 +5490,13 @@
     ]
   },
   "DRGLN": {
-    "base_word": "darjeeling",
+    "base_word": "daarjeeling",
     "variants": [
       "drageeling",
       "darjing",
       "dareeling",
       "dargaling",
+      "darjeeling",
       "darjeeing",
       "dargling",
       "dargeeling"
@@ -5768,6 +5779,8 @@
       "bujchh",
       "bujchhha",
       "bujcha",
+      "bugcha",
+      "bugchha",
       "bujachh",
       "bujchhah",
       "bujch",
@@ -11118,6 +11131,14 @@
       "simaran"
     ]
   },
+  "SLA": {
+    "base_word": "saalaa",
+    "variants": [
+      "sala",
+      "saala",
+      "salaa"
+    ]
+  },
   "CPGN": {
     "base_word": "chapagain",
     "variants": [
@@ -11491,12 +11512,23 @@
       "manchhenai"
     ]
   },
+  "LDO1": {
+    "base_word": "laado",
+    "variants": [
+      "lado",
+      "ladho",
+      "laando"
+    ]
+  },
   "JNHA": {
-    "base_word": "jaanaa",
+    "base_word": "janaa",
     "variants": [
       "jana",
       "janha",
-      "jhana"
+      "jhana",
+      "jaana",
+      "jaanha",
+      "jhaana"
     ]
   },
   "KRST": {
@@ -11593,6 +11625,7 @@
       "bhhn",
       "bhahen",
       "bauun",
+      "bahun",
       "baun",
       "vaun",
       "bahunk"
@@ -14563,7 +14596,16 @@
       "dehes",
       "deshhh",
       "dehs",
+      "des",
       "desah"
+    ]
+  },
+  "CHD": {
+    "base_word": "chhod",
+    "variants": [
+      "chod",
+      "chhood",
+      "chood"
     ]
   },
   "YNJN": {
@@ -31861,6 +31903,8 @@
       "vidro",
       "bhidwo",
       "vidieyo",
+      "vdo",
+      "vdeo",
       "videyo",
       "bhdewo",
       "videp",
@@ -34033,7 +34077,7 @@
     ]
   },
   "ANPD": {
-    "base_word": "anpadh",
+    "base_word": "anapadh",
     "variants": [
       "anpaad",
       "anpdh",
@@ -46625,6 +46669,7 @@
       "cgai",
       "cagi",
       "chehi",
+      "chhai",
       "chei",
       "chai"
     ]
@@ -47179,10 +47224,21 @@
     ]
   },
   "NBRSNS": {
-    "base_word": "nabirsanus",
+    "base_word": "nabirsinus",
     "variants": [
       "nabirsinus",
-      "nbirsinnus"
+      "nbirsinnus",
+      "nabitsinus",
+      "nbitsinus"
+    ]
+  },
+  "NBRSN": {
+    "base_word": "nabirsinu",
+    "variants": [
+      "nabirsinu",
+      "nbirsinnu",
+      "nabitsinu",
+      "nbitsinu"
     ]
   },
   "ADNKTA": {
@@ -47196,14 +47252,19 @@
     "base_word": "akhand",
     "variants": [
       "akand",
-      "aakhand"
+      "aakhand",
+      "akhanda",
+      "akanda",
+      "aakhanda"
     ]
   },
   "SJNI": {
     "base_word": "sojhaaune",
     "variants": [
       "sojauni",
-      "sujni"
+      "sojaune",
+      "sojaauni",
+      "sojaaune"
     ]
   },
   "PNRSTP": {
@@ -63051,7 +63112,35 @@
       "pakchaya",
       "paksya",
       "pakchey",
-      "pakhchy"
+      "pakhchy",
+      "pachhya"
+    ]
+  },
+  "PKCYM": {
+    "base_word": "pakshyamaa",
+    "variants": [
+      "pakkshyama",
+      "pakchhyama",
+      "pakshiyama",
+      "pakchheyma",
+      "pachhcheyma",
+      "pakchyama",
+      "pakchayama",
+      "paksyama",
+      "pakcheyma",
+      "pakhchyma",
+      "pachhyama",
+      "pakkshyamaa",
+      "pakchhyamaa",
+      "pakshiyamaa",
+      "pakchheymaa",
+      "pachhcheymaa",
+      "pakchyamaa",
+      "pakchayamaa",
+      "paksyamaa",
+      "pakcheymaa",
+      "pakhchymaa",
+      "pachhyamaa"
     ]
   },
   "TLSI": {
@@ -63466,7 +63555,7 @@
     ]
   },
   "MJI1": {
-    "base_word": "muji",
+    "base_word": "mujee",
     "variants": [
       "mug",
       "mugi",
@@ -72246,11 +72335,14 @@
     ]
   },
   "TKPNI": {
-    "base_word": "thikpani",
-    "variants": []
+    "base_word": "thik pani",
+    "variants": [
+      "thikpani",
+      "thkpani"
+    ]
   },
   "CHNY": {
-    "base_word": "chahine",
+    "base_word": "chaahine",
     "variants": [
       "chahiny",
       "chaheney",
@@ -72260,16 +72352,16 @@
     ]
   },
   "HSHI": {
-    "base_word": "hosahai",
+    "base_word": "ho sahi",
     "variants": [
       "hosehai",
-      "hosahi"
+      "hosahi",
+      "hosahee"
     ]
   },
   "MRC": {
     "base_word": "marich",
     "variants": [
-      "marchh",
       "morich"
     ]
   },
@@ -72997,9 +73089,17 @@
   "KTHRKO2": {
     "base_word": "ketiharuko",
     "variants": [
-      "ketaharuko",
+      "ketiharuko",
       "kethiharuko",
-      "ketharuko"
+      "kethiruko"
+    ]
+  },
+  "KT": {
+    "base_word": "keti",
+    "variants": [
+      "ktaaaru",
+      "ketii",
+      "ketee"
     ]
   },
   "KTHRKO3": {
@@ -82780,13 +82880,6 @@
     "base_word": "aik",
     "variants": []
   },
-  "KTHI": {
-    "base_word": "ketahi",
-    "variants": [
-      "ketahai",
-      "katahi"
-    ]
-  },
   "LGNMA": {
     "base_word": "laganima",
     "variants": [
@@ -87557,7 +87650,6 @@
       "rashi"
     ]
   },
-
   "SKNU1": {
     "base_word": "sakinu",
     "variants": [
@@ -87572,7 +87664,6 @@
     "variants": [
       "sacnu",
       "sakunu",
-
       "saaknu",
       "sakknu",
       "sakhnu",
@@ -90534,26 +90625,42 @@
       "daraja"
     ]
   },
-  "BNM": {
+  "BNM1": {
+    "base_word": "banaam",
+    "variants": [
+      "banaam",
+      "banaum",
+      "banaaum",
+      "banum",
+      "banam",
+      "banamm",
+      "banm",
+      "bnam"
+    ]
+  },
+  "BNM2": {
     "base_word": "bhanam",
     "variants": [
-      "banaum",
-      "binam",
-      "banum",
-      "banamm",
-      "bhannam",
-      "banaam",
-      "bhangam",
-      "bhanm",
-      "banam",
-      "bnam",
-      "banam",
-      "bangam",
       "vanam",
-      "banm",
+      "bhanam",
+      "bhannam",
+      "bhanm",
+      "vannam",
+      "vanm"
+    ]
+  },
+  "BNM3": {
+    "base_word": "benaam",
+    "variants": [
       "benam",
-      "banaum",
-      "banaaum"
+      "binam"
+    ]
+  },
+  "BNM4": {
+    "base_word": "bangaam",
+    "variants": [
+      "bangam",
+      "bhangam"
     ]
   },
   "DRDRI": {
@@ -91061,28 +91168,53 @@
       "sanjaal"
     ]
   },
-  "PDI": {
-    "base_word": "padhai",
+  "PDI1": {
+    "base_word": "padhaai",
     "variants": [
-      "padhae",
+      "padhai",
       "padhaai",
+      "padhae",
       "padai",
-      "padhdai",
-      "padaii",
-      "paidhai",
-      "padaai",
-      "padhi",
-      "paudai",
-      "padhdhai",
-      "pdhai",
-      "padhadi",
-      "padi",
       "padhaii",
-      "paedai",
-      "paidai",
-      "paddhi",
-      "paddai",
+      "padaii",
+      "padaai",
+      "pdhai",
+      "padhdhai",
       "paddhai"
+    ]
+  },
+  "PDI2": {
+    "base_word": "padhdai",
+    "variants": [
+      "padhdai",
+      "paddai",
+      "paddhi"
+    ]
+  },
+  "PDI3": {
+    "base_word": "padhi",
+    "variants": [
+      "padhi",
+      "padi",
+      "padhadi"
+    ]
+  },
+  "PDI4": {
+    "base_word": "paaidai",
+    "variants": [
+      "paidai",
+      "paedai",
+      "paidhai",
+      "paudai"
+    ]
+  },
+  "PDI5": {
+    "base_word": "paaudai",
+    "variants": [
+      "paaudhai",
+      "paudai",
+      "paudhai",
+      "paaudai"
     ]
   },
   "BLI1": {
@@ -91848,28 +91980,28 @@
       "hasira"
     ]
   },
-  "SRE": {
+  "SRE1": {
     "base_word": "shree",
     "variants": [
       "sreee",
-      "sheree",
-      "seree",
       "shreee",
       "siree",
-      "shere",
-      "suree",
-      "sushree",
       "shiree",
-      "sharee",
-      "saree",
       "sree",
-      "shreeee",
-      "shusree",
       "shiiree",
-      "shre",
-      "shereee",
+      "shreeee",
       "shrre",
-      "shree"
+      "shree",
+      "shre"
+    ]
+  },
+  "SRE2": {
+    "base_word": "sherey",
+    "variants": [
+      "sheree",
+      "seree",
+      "shere",
+      "shereee"
     ]
   },
   "STPA": {
@@ -94109,6 +94241,7 @@
     "variants": [
       "phagl",
       "pagalll",
+      "pgl",
       "pagall",
       "paagaal",
       "pagl",
@@ -94794,42 +94927,55 @@
       "aatya"
     ]
   },
-  "BNDA": {
+  "BNDA1": {
     "base_word": "bhandaa",
     "variants": [
-      "vandaaa",
-      "vanadha",
+      "bhandaa",
+      "bhanda",
+      "vandaa",
       "vanda",
+      "vandhaa",
+      "vandha",
+      "vandda",
+      "vandaaa",
+      "vndaa",
+      "vnda",
       "vndha",
       "vnnda",
-      "bhanda",
-      "vandea",
+      "vnada",
+      "vanada",
       "vanadaa",
-      "vaninda",
+      "vannda",
+      "vanndda",
+      "vanadha",
+      "vannada",
+      "vandea",
+      "vandia",
       "vandida",
       "bvanda",
-      "vannada",
-      "vandia",
-      "vanndda",
-      "venda",
-      "vinda",
-      "vandhaa",
-      "vandaa",
-      "vanuda",
-      "vanada",
-      "vandda",
-      "vandha",
-      "vnda",
-      "vnada",
-      "vndaa",
-      "vannda",
-      "vanaida",
-      "vananda",
       "vavnda",
-      "vaanda",
-      "vanauda",
-      "vonda",
       "vbhanda",
+      "vaanda",
+      "vonda"
+    ]
+  },
+  "BNDA2": {
+    "base_word": "bhanaaundaa",
+    "variants": [
+      "vanaauda",
+      "vanaida",
+      "vanaudaa",
+      "vanuda",
+      "vanauda",
+      "vananda"
+    ]
+  },
+  "BNDA3": {
+    "base_word": "bhindaa",
+    "variants": [
+      "vinda",
+      "venda",
+      "vaninda",
       "vunda"
     ]
   },
@@ -94964,6 +95110,7 @@
     "variants": [
       "jay",
       "jy",
+      "jai",
       "jhay",
       "jay",
       "jaay",
@@ -95557,14 +95704,11 @@
       "katalai",
       "katilae",
       "katilaai",
-      "ketilai",
-      "ktilai",
       "kattilai",
       "katiali",
       "khetlai",
       "kthalai",
       "katilaii",
-      "khatelaai",
       "khatilai"
     ]
   },
@@ -96132,19 +96276,6 @@
     "variants": [
       "sajanya",
       "sujanya"
-    ]
-  },
-  "KTN": {
-    "base_word": "katan",
-    "variants": [
-      "kataun",
-      "katn",
-      "katin",
-      "khatn",
-      "kathan",
-      "ketan",
-      "kitan",
-      "khaitan"
     ]
   },
   "SHKI": {
@@ -99800,7 +99931,7 @@
       "chahanale",
       "chahanele",
       "chhahanele",
-      "chahinele"
+      "chahanele"
     ]
   },
   "DNHLA": {
@@ -100613,7 +100744,6 @@
     "base_word": "haanni",
     "variants": [
       "hanni",
-      "hani",
       "hannii",
       "hanny",
       "hanney",
@@ -100621,6 +100751,18 @@
       "hannai",
       "hannay",
       "hannae"
+    ]
+  },
+  "HNI6": {
+    "base_word": "haani",
+    "variants": [
+      "haanii",
+      "haany",
+      "haaney",
+      "haanee",
+      "haanai",
+      "haanay",
+      "haanae"
     ]
   },
   "HNI2": {
@@ -101083,70 +101225,127 @@
       "jaheleni"
     ]
   },
-  "BRSTCR": {
-    "base_word": "bhrashtaachaar",
+  "BRSTCR1": {
+    "base_word": "bhrastaachaari",
     "variants": [
-      "bhastachar",
-      "vrastachaar",
-      "bastachar",
-      "bhrashtacharima",
       "bhrashtaachaari",
-      "brastachari",
-      "bharstacharii",
-      "bhrasthachar",
-      "vastachar",
-      "varastachar",
       "bhrashtachaari",
-      "bhrastchar",
-      "bhrastachar",
-      "bhrasthachari",
-      "bharstachar",
-      "bharasthachar",
-      "bharastchaar",
-      "barstachari",
-      "bastacher",
-      "bhrastachhari",
-      "bharstachari",
       "bhrashtachari",
-      "bharastachari",
-      "bharastchar",
-      "bhrastacharilai",
-      "vrastchar",
-      "vrasthachar",
-      "brsatachara",
-      "bharastchari",
-      "brastachhari",
-      "bhrstachar",
-      "vrasatachar",
-      "bhrashtaachaar",
-      "bharastachaar",
       "bhrastachaari",
       "bhrastachari",
-      "bhrastachariharu",
-      "brstachari",
-      "bharsthachar",
-      "brashtachari",
-      "bhraastachar",
-      "bhrashtachar",
-      "bharastachaari",
-      "bharstachaar",
-      "brastachar",
-      "bhrastacharko",
-      "brashtachar",
-      "bharstchar",
-      "bhasttachar",
-      "bhastchar",
-      "bhrasatachari",
+      "bhrasthachari",
       "bhrasthachaari",
-      "bharstchaar",
-      "vrastachar",
+      "bharstachari",
+      "bharstacharii",
+      "bharastachari",
+      "bharastachaari",
+      "bharastchari",
       "bharstchari",
+      "barstachari",
+      "brastachari",
+      "brastachhari",
+      "brstachari",
+      "brashtachari",
+      "bhrasatachari",
+      "bhrastachhari",
       "bhrastchari",
       "bhrastacharri",
-      "bhrastacharu",
       "vrastachari"
     ]
   },
+  "BRSTCR3": {
+    "base_word": "bhrastaachaari",
+    "variants": [
+      "bhrashtaachaarilai",
+      "bhrashtachaarilai",
+      "bhrashtacharilai",
+      "bhrastachaarilai",
+      "bhrastacharilai",
+      "bhrasthacharilai",
+      "bhrasthachaarilai",
+      "bharstacharilai",
+      "bharstachariilai",
+      "bharastacharilai",
+      "bharastachaarilai",
+      "bharastcharilai",
+      "bharstcharilai",
+      "barstacharilai",
+      "brastacharilai",
+      "brastachharilai",
+      "brstacharilai",
+      "brashtacharilai",
+      "bhrasatacharilai",
+      "bhrastachharilai",
+      "bhrastcharilai",
+      "bhrastacharrilai",
+      "vrastacharilai"
+    ]
+  },
+  "BRSTCR2": {
+    "base_word": "bhrastaachaari",
+    "variants": [
+      "bhrashtaachaariko",
+      "bhrashtachaariko",
+      "bhrashtachariko",
+      "bhrastachaariko",
+      "bhrastachariko",
+      "bhrasthachariko",
+      "bhrasthachaariko",
+      "bharstachariko",
+      "bharstachariiko",
+      "bharastachariko",
+      "bharastachaariko",
+      "bharastchariko",
+      "bharstchariko",
+      "barstachariko",
+      "brastachariko",
+      "brastachhariko",
+      "brstachariko",
+      "brashtachariko",
+      "bhrasatachariko",
+      "bhrastachhariko",
+      "bhrastchariko",
+      "bhrastacharriko",
+      "vrastachariko"
+    ]
+  },
+  "BRSTCR": {
+    "base_word": "bhrastaachaar",
+    "variants": [
+      "bhrashtaachaar",
+      "bhrashtachar",
+      "bhrastachar",
+      "bhrasthachar",
+      "bharstachar",
+      "bharasthachar",
+      "bharastachaar",
+      "bharstachaar",
+      "bharastchaar",
+      "bharstchaar",
+      "bharastchar",
+      "bharstchar",
+      "bhraastachar",
+      "bhastachar",
+      "bhasttachar",
+      "bhastchar",
+      "bastachar",
+      "bastacher",
+      "brastachar",
+      "brashtachar",
+      "bhrstachar",
+      "bhrastchar",
+      "vrastachar",
+      "vrastachaar",
+      "vrastchar",
+      "vrasthachar",
+      "vrasatachar",
+      "varastachar",
+      "vastachar",
+      "brsatachara",
+      "bhrastacharu"
+    ]
+  },
+
   "PNCA": {
     "base_word": "paainchha",
     "variants": [
@@ -110346,7 +110545,8 @@
       "inahru",
       "inihru",
       "inaiharu",
-      "iniharu"
+      "iniharu",
+      "yeneharu"
     ]
   },
   "MNCNE": {
@@ -112847,13 +113047,13 @@
     ]
   },
   "CHNE": {
-    "base_word": "chaahane",
+    "base_word": "chaahaane",
     "variants": [
       "chahne",
-      "chahine",
+      "chahaane",
       "chaahane",
       "chaahine",
-      "chahaane",
+      "chaahaane",
       "chahane"
     ]
   },
@@ -128138,8 +128338,8 @@
   "KTRKO": {
     "base_word": "keta haruko",
     "variants": [
-      "ktharuko",
-      "kthruko"
+      "ktaharuko",
+      "ktahruko"
     ]
   },
   "DKNPRK": {
@@ -128332,12 +128532,12 @@
       "dukhaly"
     ]
   },
-  "KRHRLI": {
-    "base_word": "keta harulai",
+  "KTA4": {
+    "base_word": "ketaa",
     "variants": [
-      "kuraharulai",
-      "kukurharulai",
-      "karharulai"
+      "keta",
+      "ktaa",
+      "kta"
     ]
   },
   "AYJA": {
@@ -129850,6 +130050,17 @@
       "sampauna",
       "sampana",
       "sampaana"
+    ]
+  },
+  "SMPNG": {
+    "base_word": "saampaang",
+    "variants": [
+      "samppannga",
+      "sampanga",
+      "sampaunga",
+      "sampanga",
+      "sampaanga",
+      "sampang"
     ]
   },
   "LGNH": {
@@ -138467,6 +138678,7 @@
       "eskooo",
       "essko",
       "eaisko",
+      "ekso",
       "eshko",
       "esako",
       "easkoo",
@@ -140645,7 +140857,7 @@
     ]
   },
   "NTK": {
-    "base_word": "natak",
+    "base_word": "naatak",
     "variants": [
       "naatk",
       "natok",
@@ -159088,6 +159300,12 @@
     "base_word": "k",
     "variants": [
       "ke"
+    ]
+  },
+  "KTA3": {
+    "base_word": "kataa",
+    "variants": [
+      "kata"
     ]
   },
   "RMLCA": {
