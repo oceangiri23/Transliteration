@@ -6188,6 +6188,7 @@
     "variants": [
       "satte",
       "saathee",
+      "sathi",
       "sahati",
       "saathy",
       "sathee",
@@ -20777,10 +20778,11 @@
     ]
   },
   "LTU": {
-    "base_word": "lutu",
+    "base_word": "luteu",
     "variants": [
       "luteu",
-      "lutau"
+      "lutau",
+      "luteyu"
     ]
   },
   "ALRDY": {
@@ -43371,7 +43373,6 @@
     "variants": [
       "nanimaiya",
       "nanimaya",
-
       "naanimaiya",
       "naanimaya"
     ]
@@ -46786,7 +46787,6 @@
       "chehi",
       "chhai",
       "chei",
-      "chae",
       "chaee",
       "chai",
       "chae"
@@ -50399,20 +50399,51 @@
       "sapdako"
     ]
   },
-  "JNMNA": {
-    "base_word": "janmana",
+  "JNMNA1": {
+    "base_word": "janminna",
     "variants": [
       "janminna",
       "janmanna",
-      "janmina",
-      "janmauna"
+      "janminn",
+      "janmannaa",
+      "janminnaa",
+      "janmna",
+      "janmnn"
+    ]
+  },
+  "JNMNA2": {
+    "base_word": "janmina",
+    "variants": [
+      "janmin"
+    ]
+  },
+  "JNMNA3": {
+    "base_word": "janmaauna",
+    "variants": [
+      "janmauna",
+      "janmaauna",
+      "janmaune",
+      "janmaunaa",
+      "janmawna",
+      "janmaunaa",
+      "janmau na"
+    ]
+  },
+  "JNMNA4": {
+    "base_word": "janmine",
+    "variants": [
+      "janmine",
+      "janminne",
+      "janminee",
+      "janminay",
+      "janmney"
     ]
   },
   "HRHMRO": {
     "base_word": "haru haamro",
     "variants": [
       "haruhamro",
-      "hairhamro"
+      "haruhaamro"
     ]
   },
   "NBNSO": {
@@ -72757,6 +72788,13 @@
       "haltma"
     ]
   },
+  "HLT1": {
+    "base_word": "haalat",
+    "variants": [
+      "halat",
+      "halaat"
+    ]
+  },
   "AKA1": {
     "base_word": "aaunchha",
     "variants": [
@@ -88707,28 +88745,66 @@
       "paisaki"
     ]
   },
-  "MNE": {
-    "base_word": "mane",
+  "MNE1": {
+    "base_word": "maanne",
     "variants": [
-      "manene",
-      "manue",
-      "mne",
-      "mnaune",
-      "maange",
-      "maine",
-      "maane",
       "manee",
-      "manaie",
-      "manie",
-      "manane",
-      "manine",
+      "maine",
       "maene",
-      "mangne",
-      "manune",
-      "manne",
       "maanne",
+      "manne",
       "mammne",
-      "maune"
+      "mne",
+      "maanne",
+      "maannei"
+    ]
+  },
+  "MNE2": {
+    "base_word": "manaaune",
+    "variants": [
+      "mnaune",
+      "maune",
+      "manue",
+      "manaie",
+      "manune",
+      "manaune",
+      "manaaune",
+      "manauney",
+      "manaunee",
+      "mnau ne"
+    ]
+  },
+  "MNE3": {
+    "base_word": "maagne",
+    "variants": [
+      "maange",
+      "mangne",
+      "magne",
+      "maagney",
+      "maagnne",
+      "maagane",
+      "magne"
+    ]
+  },
+  "MNE4": {
+    "base_word": "maanine",
+    "variants": [
+      "manine",
+      "manie",
+      "manene",
+      "manane",
+      "maanine",
+      "maaniney",
+      "maaninay",
+      "maninee"
+    ]
+  },
+  "MNE5": {
+    "base_word": "maane",
+    "variants": [
+      "mane",
+      "maane",
+      "manee"
     ]
   },
   "PRNKA": {
@@ -90281,17 +90357,19 @@
     ]
   },
   "ATWA": {
-    "base_word": "aathwa",
+    "base_word": "athawaa",
     "variants": [
       "aatwa",
       "atawa",
       "athuwa",
       "athawa",
+      "aathwa",
+      "athwa",
       "atwa"
     ]
   },
   "DBKU": {
-    "base_word": "dubechu",
+    "base_word": "dubechhu",
     "variants": [
       "dubechhu",
       "dibchhu",
@@ -90359,7 +90437,7 @@
     ]
   },
   "SHTE": {
-    "base_word": "sathi",
+    "base_word": "saathi",
     "variants": [
       "sahatie"
     ]
@@ -93829,8 +93907,8 @@
   "HRLY": {
     "base_word": "harule",
     "variants": [
-      "haruliy",
-      "harulaiy",
+      "haruly",
+      "haruley",
       "harulay"
     ]
   },
@@ -94370,12 +94448,13 @@
     ]
   },
   "PGL": {
-    "base_word": "pagal",
+    "base_word": "paagal",
     "variants": [
       "phagl",
       "pagalll",
       "pgl",
       "pagall",
+      "pagal",
       "paagaal",
       "pagl",
       "pagol",
@@ -95241,13 +95320,17 @@
   "JY": {
     "base_word": "jay",
     "variants": [
-      "jay",
       "jy",
       "jai",
       "jhay",
-      "jay",
       "jaay",
       "jayy"
+    ]
+  },
+  "JU1": {
+    "base_word": "jaau",
+    "variants": [
+      "jau"
     ]
   },
   "KRKNA": {
@@ -96589,21 +96672,61 @@
       "kajoo"
     ]
   },
-  "NBNA": {
+  "NBHN1": {
     "base_word": "nabhana",
     "variants": [
-      "nabina",
-      "nabhanuna",
+      "nabhana",
+      "nabhana",
+      "nabhanna",
+      "nabhanna",
+      "nabhna",
+      "nabhannaa",
       "navana",
-      "nabauna",
-      "nabanna",
-      "nabanana",
+      "navana",
+      "navanna",
+      "navanna",
+      "navna",
+      "navannaa"
+    ]
+  },
+  "NBN1": {
+    "base_word": "nabana",
+    "variants": [
       "nabana",
+      "nabanna",
+      "nabna",
+      "nabanae",
+      "nabanaa",
+      "nabaana",
+      "nabnna",
+      "naban"
+    ]
+  },
+  "NBHN2": {
+    "base_word": "nabhannuna",
+    "variants": [
+      "nabhannuna",
+      "nabhannuna",
+      "nabhannunaa",
+      "nabhannun",
+      "nabhannnuna",
+      "navannuna",
+      "navannuna",
+      "navannunaa",
+      "navannun",
+      "navannnuna"
+    ]
+  },
+  "NBN2": {
+    "base_word": "nabannuna",
+    "variants": [
       "nabannuna",
-      "nabanuna",
-      "nabanauna",
-      "nbana",
-      "nabanaa"
+      "nabannun",
+      "nabannunaa",
+      "nabannunae",
+      "nabannunaai",
+      "nabannnuna",
+      "nabannuna"
     ]
   },
   "HNM": {
@@ -105264,31 +105387,59 @@
       "bhaiyale"
     ]
   },
-  "MRKO": {
-    "base_word": "mareko",
+  "MRKO1": {
+    "base_word": "maariyeko",
+    "variants": [
+      "maarieko",
+      "marieko",
+      "maryeko",
+      "mareyako"
+    ]
+  },
+  "MRKO2": {
+    "base_word": "maareko",
     "variants": [
       "maarko",
-      "mreko",
       "mareako",
-      "mareyko",
       "marako",
       "marekko",
-      "mrko",
-      "marieko",
-      "maareko",
-      "maroko",
       "marekeko",
-      "moreko",
-      "marko",
       "marekoo",
-      "marereko",
-      "marrko",
-      "mareeko",
-      "maryeko",
-      "mariko",
-      "mereko",
       "marekooo",
-      "mareyako"
+      "marrko",
+      "marereko",
+
+      "maaryko",
+      "mareako",
+      "marayko",
+      "mareykko",
+      "mareykoo",
+      "mareykooo",
+      "marryko",
+      "marereyko"
+    ]
+  },
+  "MRKO3": {
+    "base_word": "mareko",
+    "variants": [
+      "mareyko",
+      "mreko",
+      "mrko",
+      "mereko",
+      "moreko"
+    ]
+  },
+  "MRKO4": {
+    "base_word": "ma royeko",
+    "variants": [
+      "maroko",
+      "maroyeko"
+    ]
+  },
+  "MRKO5": {
+    "base_word": "marko",
+    "variants": [
+      "marko"
     ]
   },
   "AKTBTS": {
@@ -112318,10 +112469,11 @@
     ]
   },
   "KRH1": {
-    "base_word": "kyare",
+    "base_word": "kyaare",
     "variants": [
       "khareh",
       "kareh",
+      "kyare",
       "kere",
       "kyareh"
     ]
@@ -125966,7 +126118,8 @@
     "variants": [
       "haalte",
       "halate",
-      "hallauthe"
+      "hallthe",
+      "halthe"
     ]
   },
   "HLKU": {
@@ -127251,16 +127404,21 @@
       "aawthiyo"
     ]
   },
-  "CDNA": {
+  "CDNA1": {
     "base_word": "chadhna",
     "variants": [
       "chadauna",
-      "chaadna",
       "chadnaa",
       "choadna",
-      "chhadna",
       "chadna",
       "chadina"
+    ]
+  },
+  "CDNA2": {
+    "base_word": "chhaadna",
+    "variants": [
+      "chaadna",
+      "chhadna"
     ]
   },
   "MLK": {
@@ -128852,6 +129010,13 @@
       "dukhalay",
       "dhukkaly",
       "dukhaly"
+    ]
+  },
+  "DKHI": {
+    "base_word": "dukhaai",
+    "variants": [
+      "dhukhai",
+      "dukhai"
     ]
   },
   "KTA4": {
@@ -134639,7 +134804,9 @@
     "base_word": "wakil",
     "variants": [
       "wokil",
-      "wakiil"
+      "wakiil",
+      "okil",
+      "okkil"
     ]
   },
   "LGNLI1": {
@@ -138142,7 +138309,6 @@
       "taaha",
       "tahaa",
       "thaaha",
-      "taha",
       "thahaha"
     ]
   },
