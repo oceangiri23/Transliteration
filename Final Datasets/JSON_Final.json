@@ -46797,26 +46797,54 @@
     "variants": []
   },
   "KHI1": {
+    "base_word": "kahi",
+    "variants": [
+      "kahi",
+      "kahii",
+      "kahhi",
+      "kahai",
+      "kaahi",
+      "kaehi",
+      "kahin",
+      "kahiii"
+    ]
+  },
+  "KHI2": {
+    "base_word": "kehi",
+    "variants": [
+      "kehi",
+      "kehai",
+      "keahi",
+      "khehi",
+      "kehii",
+      "kehhi",
+      "kehin",
+      "kehiii"
+    ]
+  },
+  "KHI3": {
     "base_word": "khai",
     "variants": [
-      "kgai",
-      "kahoi",
-      "kahii",
-      "khauhai",
-      "keahi",
-      "kgoi",
-      "khaik",
-      "kaohi",
-      "kahi",
-      "kehai",
-      "kaahi",
+      "khai",
       "khahi",
-      "kaehi",
-      "kahhi",
-      "kohai",
+      "khauhai",
+      "khaik",
+      "khaai",
+      "khae",
+      "khay",
+      "khaiii"
+    ]
+  },
+  "KHI4": {
+    "base_word": "khoi",
+    "variants": [
+      "khoi",
       "khohi",
-      "kahai",
-      "khehi"
+      "khoii",
+      "khoiii",
+      "khoee",
+      "khoiy",
+      "khoin"
     ]
   },
   "UPLKMA": {
@@ -126903,7 +126931,7 @@
     ]
   },
   "SRO": {
-    "base_word": "shaaro",
+    "base_word": "saaro",
     "variants": [
       "saaro",
       "sharo",
