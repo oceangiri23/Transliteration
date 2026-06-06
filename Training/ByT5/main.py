@@ -20,7 +20,7 @@ CONFIG = {
     "train_bs": 8,
     "val_bs": 8,
     "gradient_accumulation_steps": 2,
-    "patience": 3,
+    "patience": 3,r
     "eval_steps": 1000,
     "grad_clip": 1.0,
     "warmup_steps": 500,

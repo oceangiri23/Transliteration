@@ -8,7 +8,7 @@ This directory contains tools, datasets, notebooks and pipelines for translitera
 - Produce cleaned, augmented parallel datasets for downstream NLP tasks.
 
 **Where to look**
-- Core encoder: [Transliteration/nepPhoneticEncoder.py](Transliteration/nepPhoneticEncoder.py)
+- Core encoder: [Transliteration/nepPhoneticEncoder.py](Transliteration/src/app/app.py)
 - App helpers / small demo utilities: [Transliteration/app_hf.py](Transliteration/app_hf.py)
 - Pipeline components: [Transliteration/pipeline_bundle/two_sentence_pipeline.py](Transliteration/pipeline_bundle/two_sentence_pipeline.py)
 - Phonetic dictionaries & merged corpora: [Transliteration/ADS/Complete_phonetic_Dictionary.json](Transliteration/ADS/Complete_phonetic_Dictionary.json)
