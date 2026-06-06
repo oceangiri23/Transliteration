@@ -70,3 +70,4 @@ Contact
 
 Model checkpoints & metrics
 - Model training artifacts and evaluation metrics (mT5, byT5) are referenced in the workspace; see relevant experiment notebooks for full training logs and links to model checkpoints.
+- Best model achieved: CER: 0.0210, WER: 0.0804
