@@ -4148,6 +4148,7 @@
       "maynat",
       "menhat",
       "mhaynat",
+      "meheant",
       "mehinata",
       "mehanta",
       "menehat",
@@ -5532,9 +5533,10 @@
     ]
   },
   "DRGLN": {
-    "base_word": "daarjeeling",
+    "base_word": "darjeeling",
     "variants": [
       "drageeling",
+      "daarjeeling",
       "darjing",
       "dareeling",
       "dargaling",
@@ -8433,6 +8435,16 @@
       "sammbad"
     ]
   },
+  "SMBT": {
+    "base_word": "sambat",
+    "variants": [
+      "samvat",
+      "sambadh",
+      "samvaat",
+      "sambad",
+      "sambhat"
+    ]
+  },
   "SMNTA": {
     "base_word": "samaanta",
     "variants": [
@@ -9155,10 +9167,12 @@
     ]
   },
   "NMKE": {
-    "base_word": "nimukhey",
+    "base_word": "nimukhe",
     "variants": [
       "namake",
-      "nimuke"
+      "nimuke",
+      "nimukey",
+      "nimukhey"
     ]
   },
   "PRKYT": {
@@ -9316,7 +9330,7 @@
     ]
   },
   "ABNS": {
-    "base_word": "abhinaash",
+    "base_word": "awinaash",
     "variants": [
       "abhinash",
       "avinas",
@@ -9354,7 +9368,7 @@
     ]
   },
   "SKDNCU": {
-    "base_word": "sikaai dinchhu",
+    "base_word": "sikaaidinchhu",
     "variants": [
       "sikaidinchu",
       "sikaoidinchu",
@@ -14666,7 +14680,8 @@
       "deshhh",
       "dehs",
       "des",
-      "desah"
+      "desah",
+      "desho"
     ]
   },
   "CHD": {
@@ -20443,6 +20458,7 @@
       "bhanneh",
       "vnneh",
       "bhamne",
+      "vaney",
       "vnne",
       "bhanih",
       "bamne",
@@ -28120,8 +28136,18 @@
       "sukaile"
     ]
   },
+  "SKI": {
+    "base_word": "sukai",
+    "variants": [
+      "sukhoi",
+      "sukaye",
+      "sukayi",
+      "sukkai",
+      "sukae"
+    ]
+  },
   "LSMA": {
-    "base_word": "laasma",
+    "base_word": "laasmaa",
     "variants": [
       "lasama",
       "lasamaa",
@@ -34354,6 +34380,17 @@
       "pardam"
     ]
   },
+  "PRNLI": {
+    "base_word": "pranaali",
+    "variants": [
+      "pradali",
+      "pranali",
+      "parnali",
+      "pardali",
+      "parnaali",
+      "paranaali"
+    ]
+  },
   "AGRJ": {
     "base_word": "agraj",
     "variants": [
@@ -34563,7 +34600,7 @@
     ]
   },
   "HSPTLM": {
-    "base_word": "hospital maa",
+    "base_word": "hospitalmaa",
     "variants": [
       "haspitlma",
       "hospitalma",
@@ -40766,10 +40803,29 @@
     ]
   },
   "BDYBND": {
-    "base_word": "biddhya bhandaari",
+    "base_word": "biddhyaa bhandaari",
     "variants": [
       "bidhiyabhandari",
       "biddhyabhandari"
+    ]
+  },
+  "BDYDVI": {
+    "base_word": "biddhyaadevi",
+    "variants": [
+      "vidhyadevi",
+      "bidhyadevi",
+      "vidyaadevi"
+    ]
+  },
+  "BDYA1": {
+    "base_word": "biddhyaa",
+    "variants": [
+      "vidhya",
+      "bidhya",
+      "vidyaa",
+      "biddhya",
+      "bidya",
+      "vidya"
     ]
   },
   "JMDR": {
@@ -40825,7 +40881,7 @@
     ]
   },
   "SPLY": {
-    "base_word": "sab le",
+    "base_word": "sable",
     "variants": [
       "spley",
       "sply",
@@ -40879,14 +40935,6 @@
       "sunsaree"
     ]
   },
-  "SNSRE2": {
-    "base_word": "sunsari",
-    "variants": [
-      "sunsarii",
-      "sunsary",
-      "sunsaree"
-    ]
-  },
   "PRSNSK": {
     "base_word": "prashamsak",
     "variants": [
@@ -40913,9 +40961,12 @@
     ]
   },
   "JDRK": {
-    "base_word": "jaadoraichha",
+    "base_word": "jaado raichha",
     "variants": [
-      "jadoraichh"
+      "jadoraichh",
+      "jadoraicha",
+      "jadoraichha",
+      "jaadoraicha"
     ]
   },
   "BKSA": {
@@ -40946,9 +40997,13 @@
     ]
   },
   "MKYKA": {
-    "base_word": "macchyaauchha",
+    "base_word": "machyaaunchha",
     "variants": [
-      "maccyauchha"
+      "maccyauchha",
+      "machyaucha",
+      "machyaaucha",
+      "machyaauchha",
+      "macchyaucha"
     ]
   },
   "BLNHN": {
@@ -44998,6 +45053,18 @@
       "somapal"
     ]
   },
+  "SMLA1": {
+    "base_word": "somaaliyaa",
+    "variants": [
+      "somalia",
+      "somaliya",
+      "somaaliya",
+      "somaliy",
+      "somaliyyaa",
+      "somaliyya",
+      "somaliy"
+    ]
+  },
   "HPLM": {
     "base_word": "ho film",
     "variants": [
@@ -45657,7 +45724,8 @@
       "thiyaai",
       "thiyey",
       "thiyee",
-      "thiyay"
+      "thiyay",
+      "thea"
     ]
   },
   "THYU": {
@@ -46780,7 +46848,7 @@
     ]
   },
   "KGI3": {
-    "base_word": "chaanhi",
+    "base_word": "chaahi",
     "variants": [
       "cgai",
       "cagi",
@@ -46789,6 +46857,7 @@
       "chei",
       "chaee",
       "chai",
+      "chahi",
       "chae"
     ]
   },
@@ -46830,6 +46899,7 @@
       "khauhai",
       "khaik",
       "khaai",
+      "khaii",
       "khae",
       "khay",
       "khaiii"
@@ -47383,6 +47453,7 @@
     "variants": [
       "nabirsinu",
       "nbirsinnu",
+      "nabitsinu",
       "nabitsinu",
       "nbitsinu"
     ]
@@ -56919,6 +56990,15 @@
       "kuhiera"
     ]
   },
+  "KHKO": {
+    "base_word": "kuhiyeko",
+    "variants": [
+      "kuiyeko",
+      "kuheko",
+      "kuhieko",
+      "kuiyekoo"
+    ]
+  },
   "JTNKA": {
     "base_word": "jitinchha",
     "variants": [
@@ -56987,6 +57067,14 @@
       "kaldoma"
     ]
   },
+  "KLDO1": {
+    "base_word": "khaaldo",
+    "variants": [
+      "khalda",
+      "khaldo",
+      "kaldo"
+    ]
+  },
   "HRHR": {
     "base_word": "harihar",
     "variants": [
@@ -56995,7 +57083,7 @@
     ]
   },
   "NSKNLE": {
-    "base_word": "nasakne le",
+    "base_word": "nasaknele",
     "variants": [
       "nasakinele",
       "nasaknele",
@@ -62125,6 +62213,17 @@
       "nabhakoe"
     ]
   },
+  "NBKO": {
+    "base_word": "nabhaako",
+    "variants": [
+      "nabhakoo",
+      "nabhaakoo",
+      "navako",
+      "navaako",
+      "navaakoo",
+      "navakoo"
+    ]
+  },
   "SMJYA": {
     "base_word": "samjhiye",
     "variants": [
@@ -63303,7 +63402,7 @@
     ]
   },
   "PKCYM": {
-    "base_word": "pakshyamaa",
+    "base_word": "pakshamaa",
     "variants": [
       "pakkshyama",
       "pakchhyama",
@@ -63330,10 +63429,12 @@
     ]
   },
   "TLSI": {
-    "base_word": "tulshi",
+    "base_word": "tulasi",
     "variants": [
       "tulashi",
-      "tlsi"
+      "tlsi",
+      "tulsi",
+      "tulshi"
     ]
   },
   "MDB": {
@@ -63347,13 +63448,13 @@
     ]
   },
   "LYDKA": {
-    "base_word": "lyaudaichha",
+    "base_word": "lyaaudaichha",
     "variants": [
       "lyaidechha"
     ]
   },
   "JGYSA": {
-    "base_word": "jigyaasa",
+    "base_word": "jigyaasaa",
     "variants": [
       "jigya",
       "jigyasa",
@@ -63379,6 +63480,17 @@
       "lutaune"
     ]
   },
+  "LTNA1": {
+    "base_word": "lutna",
+    "variants": [
+      "lutn",
+      "lutana",
+      "lutnaa",
+      "lootna",
+      "lootnah",
+      "lutnah"
+    ]
+  },
   "ORYO": {
     "base_word": "oryo",
     "variants": [
@@ -63387,7 +63499,7 @@
     ]
   },
   "RMSWR": {
-    "base_word": "raameshwor",
+    "base_word": "raameshwar",
     "variants": [
       "rameswar",
       "rameshwar",
@@ -63540,7 +63652,7 @@
     ]
   },
   "BDRHS": {
-    "base_word": "badhi rahos",
+    "base_word": "badhirahos",
     "variants": [
       "badhirahos",
       "badhirahosh",
@@ -63620,7 +63732,7 @@
     ]
   },
   "LBLGDO": {
-    "base_word": "lobh laagdo",
+    "base_word": "lobhlaagdo",
     "variants": [
       "lobhlagdo",
       "loblagdo",
@@ -63670,10 +63782,9 @@
     ]
   },
   "SNGR2": {
-    "base_word": "sringhar",
+    "base_word": "sringaar",
     "variants": [
       "singhar",
-      "sanghar",
       "singgar"
     ]
   },
@@ -63723,8 +63834,8 @@
     "variants": [
       "parchhahi",
       "prichai",
-      "parchhahai",
-      "parchhhai",
+      "parchhahi",
+      "parchhhi",
       "parchhi",
       "parchi",
       "parchai",
@@ -64296,17 +64407,17 @@
   "HTYRHR": {
     "base_word": "hatyaaraaharu",
     "variants": [
-      "hatyaraharulai",
+      "hatyaaraharu",
       "hatayaraharu",
       "hatyaraharu",
-      "hutiyaraharu"
+      "hatyaraaharu"
     ]
   },
   "RMU": {
     "base_word": "raamu",
     "variants": [
       "ramu",
-      "ramau"
+      "rammu"
     ]
   },
   "SNTSTI": {
@@ -72088,6 +72199,7 @@
       "dihal",
       "dahl",
       "dahall",
+      "dahal",
       "dhahl",
       "dhahal",
       "dahalh",
@@ -78248,6 +78360,13 @@
       "thukah"
     ]
   },
+  "TIKH": {
+    "base_word": "thuikka",
+    "variants": [
+      "thuikkah",
+      "thuikah"
+    ]
+  },
   "YHTA": {
     "base_word": "yehita",
     "variants": [
@@ -80376,6 +80495,16 @@
       "saillima"
     ]
   },
+  "SLI1": {
+    "base_word": "shaili",
+    "variants": [
+      "saili",
+      "shaili",
+      "sailee",
+      "sailli",
+      "saeli"
+    ]
+  },
   "MKO": {
     "base_word": "maakho",
     "variants": [
@@ -80491,6 +80620,16 @@
       "pathaako"
     ]
   },
+  "PTK1": {
+    "base_word": "paathak",
+    "variants": [
+      "pathakk",
+      "phthak",
+      "pathak",
+      "pthak",
+      "phathak"
+    ]
+  },
   "BNTA1": {
     "base_word": "bhana ta",
     "variants": [
@@ -80563,6 +80702,8 @@
       "chhiinan",
       "chhinan",
       "chhianan",
+      "chhoina",
+      "choina",
       "chainaah",
       "chhainan",
       "chhin"
@@ -86592,6 +86733,7 @@
       "chhaaina",
       "chhainna",
       "chhnaina",
+      "chainah",
       "chhina",
       "chaina",
       "chainaa",
@@ -90147,7 +90289,6 @@
       "pathk",
       "patak",
       "patik",
-      "pathak",
       "phatak",
       "fatak",
       "patack",
@@ -90206,19 +90347,28 @@
     ]
   },
   "BRSTA": {
-    "base_word": "bhrashta",
+    "base_word": "bhrasta",
     "variants": [
       "bhrshta",
       "brashata",
       "bhrsta",
       "bharashta",
       "brashtaa",
-      "bhrasta",
+      "bhrashta",
       "bhrastha",
       "bharastha",
       "brasta",
       "bharsta",
-      "bharasta"
+      "bharasta",
+
+      "vrshta",
+      "vrsta",
+      "varashta",
+      "vrashta",
+      "vrastha",
+      "varastha",
+      "varsta",
+      "varasta"
     ]
   },
   "HRO": {
@@ -90257,7 +90407,7 @@
     ]
   },
   "WHYT": {
-    "base_word": "wahiyaat",
+    "base_word": "waahiyaat",
     "variants": [
       "waahiyaat",
       "wahyat",
@@ -90272,7 +90422,7 @@
     ]
   },
   "CHNK": {
-    "base_word": "chahanchha",
+    "base_word": "chaahanchha",
     "variants": [
       "chahanchhuh",
       "chahanchhchh",
@@ -90293,7 +90443,7 @@
     ]
   },
   "UTRKND": {
-    "base_word": "uttarakhand",
+    "base_word": "uttaraakhand",
     "variants": [
       "uttrakhand",
       "uttarkhanda",
@@ -90310,7 +90460,7 @@
     ]
   },
   "GN1": {
-    "base_word": "gaon",
+    "base_word": "gaaun",
     "variants": [
       "gaoun",
       "gaong",
@@ -90325,14 +90475,14 @@
     ]
   },
   "LKYRW": {
-    "base_word": "lekhye ra",
+    "base_word": "lekhera",
     "variants": [
       "lekhyerw",
       "lekhyarw"
     ]
   },
   "BTKMA": {
-    "base_word": "bhai tikama",
+    "base_word": "bhaaitikaamaa",
     "variants": [
       "bhaitikama",
       "vaitikama"
@@ -90349,10 +90499,8 @@
     ]
   },
   "KYO1": {
-    "base_word": "kayo",
+    "base_word": "kyaaho",
     "variants": [
-      "koyo",
-      "kuyo",
       "keyo",
       "khyo",
       "kyao",
@@ -91112,7 +91260,9 @@
     "base_word": "ghiu",
     "variants": [
       "giu",
-      "ghu"
+      "ghu",
+      "gheu",
+      "ghea"
     ]
   },
   "BKRM": {
@@ -91558,24 +91708,47 @@
       "anaabasyak"
     ]
   },
-  "HTYRA": {
-    "base_word": "hattayara",
+  "HTRA1": {
+    "base_word": "hatyaaraa",
     "variants": [
-      "hatyaera",
-      "hateyara",
-      "hatyra",
-      "hatayara",
-      "hatayra",
-      "hateyera",
-      "hatyera",
-      "hatteyara",
+      "hatyaaraa",
       "hatyara",
       "hatyaara",
+      "hatyaraa",
+      "hatyaaraa",
+      "hatyra",
+      "hatyraa",
+      "hatyaraa",
       "htyara",
-      "hateayra",
-      "hateyra",
+      "htyaara"
+    ]
+  },
+  "HTRA2": {
+    "base_word": "hataayera",
+    "variants": [
+      "hataayera",
+      "hataera",
+      "hataayra",
       "hatayera",
-      "hattyara"
+      "hataiyera",
+      "hataaira",
+      "hataayara",
+      "hataeraa",
+      "htaayera"
+    ]
+  },
+  "HTRA3": {
+    "base_word": "hatera",
+    "variants": [
+      "hatera",
+      "hateraa",
+      "haterae",
+      "hatera",
+      "hateraaa",
+      "haterae",
+      "htra",
+      "hatra",
+      "hte ra"
     ]
   },
   "TKN1": {
@@ -92417,28 +92590,24 @@
       "paiyoos"
     ]
   },
-  "BNYA": {
-    "base_word": "banaya",
+  "BNE1": {
+    "base_word": "bhanne",
     "variants": [
-      "bangaya",
-      "bannya",
-      "bhanaiya",
-      "banaunya",
-      "bnya",
-      "bonaya",
-      "banaaya",
+      "vanne",
+      "bhnne",
+      "vnne"
+    ]
+  },
+
+  "BNYA": {
+    "base_word": "bhanyaa",
+    "variants": [
+      "vannya",
+      "bhnneya",
+      "vnnya",
+      "vanya",
       "bhanya",
-      "bhanaya",
-      "binaya",
-      "vanaya",
-      "baneya",
-      "bnaaya",
-      "baneayaa",
-      "banayaa",
-      "baunya",
-      "banyaa",
-      "banaiya",
-      "bangya"
+      "vanyaa"
     ]
   },
   "PRSTU": {
@@ -92493,12 +92662,12 @@
   "PT": {
     "base_word": "paat",
     "variants": [
-      "paaat",
+      "pat",
       "paath"
     ]
   },
   "HYT": {
-    "base_word": "hyat",
+    "base_word": "hait",
     "variants": [
       "hayt",
       "hyait",
@@ -92511,14 +92680,14 @@
     ]
   },
   "NCHDA": {
-    "base_word": "nachahida",
+    "base_word": "nachaahida",
     "variants": [
       "nachahudha",
       "nachahada"
     ]
   },
   "BHPNI": {
-    "base_word": "bihepani",
+    "base_word": "bhayepani",
     "variants": [
       "bahepani"
     ]
@@ -96758,11 +96927,11 @@
     ]
   },
   "HNM": {
-    "base_word": "hanum",
+    "base_word": "haanum",
     "variants": [
       "hunum",
-      "hangum",
       "hanaum",
+      "hanum",
       "hanam",
       "hanmm",
       "haanum",
@@ -96780,7 +96949,7 @@
     ]
   },
   "DKMA": {
-    "base_word": "dokoma",
+    "base_word": "dokomaa",
     "variants": [
       "dikoma",
       "dekoma",
@@ -97274,7 +97443,6 @@
       "badheako",
       "badaiko",
       "baddaako",
-      "badhako",
       "bhadkako",
       "bhadeko",
       "bhaidakeko",
@@ -97283,6 +97451,14 @@
       "baddako",
       "bhadekoo",
       "bhadaiko"
+    ]
+  },
+  "BDK1": {
+    "base_word": "baadhak",
+    "variants": [
+      "badhakk",
+      "badhak",
+      "badak"
     ]
   },
   "DKYNA": {
@@ -99658,7 +99834,8 @@
     "variants": [
       "chuty",
       "chutiy",
-      "chutiey"
+      "chutiey",
+      "chutiya"
     ]
   },
   "PDNE": {
@@ -101576,7 +101753,7 @@
     ]
   },
   "BRSTCR3": {
-    "base_word": "bhrastaachaari",
+    "base_word": "bhrastaachaarilaai",
     "variants": [
       "bhrashtaachaarilai",
       "bhrashtachaarilai",
@@ -101604,7 +101781,7 @@
     ]
   },
   "BRSTCR2": {
-    "base_word": "bhrastaachaari",
+    "base_word": "bhrastaachaariko",
     "variants": [
       "bhrashtaachaariko",
       "bhrashtachaariko",
@@ -107437,17 +107614,21 @@
       "reatti",
       "rattai",
       "raty",
-      "rathey",
-      "rathy",
       "raati",
       "ratey",
       "raiti",
-      "ratthi",
-      "rathi",
-      "raathi",
       "ratii",
       "raatti",
       "ratiii"
+    ]
+  },
+  "RTI2": {
+    "base_word": "raathi",
+    "variants": [
+      "rathey",
+      "rathy",
+      "ratthi",
+      "rathi"
     ]
   },
   "SBDI1": {
@@ -107462,7 +107643,7 @@
     ]
   },
   "SBDY1": {
-    "base_word": "subedi",
+    "base_word": "suvedi",
     "variants": [
       "subediih",
       "subeddy",
@@ -107471,7 +107652,7 @@
     ]
   },
   "SBDY2": {
-    "base_word": "subedi",
+    "base_word": "suvedi",
     "variants": [
       "subediih",
       "subedy",
@@ -113710,12 +113891,13 @@
     ]
   },
   "DSO": {
-    "base_word": "deuso",
+    "base_word": "diuso",
     "variants": [
-      "desho",
+      "deusho",
       "daeso",
       "dedso",
-      "disho"
+      "disho",
+      "deuso"
     ]
   },
   "GSGRI": {
@@ -116453,7 +116635,15 @@
     "variants": [
       "rakhiyosh",
       "rakhiyos",
-      "rakhiiyosh",
+      "rakhiiyosh"
+    ]
+  },
+  "RKOS": {
+    "base_word": "raakhos",
+    "variants": [
+      "rakhyosh",
+      "rakhyos",
+      "rakhyosh",
       "rakhos"
     ]
   },
@@ -120451,11 +120641,9 @@
     ]
   },
   "CH1": {
-    "base_word": "chaanhi",
+    "base_word": "chaahi",
     "variants": [
       "chaih",
-      "chahi",
-      "chahi",
       "chhahi",
       "chaahi",
       "chaahee"
@@ -120667,13 +120855,13 @@
     ]
   },
   "NHNA": {
-    "base_word": "nuhauna",
+    "base_word": "nahuna",
     "variants": [
       "nahouna",
       "nhuna",
       "nohuna",
       "nahunea",
-      "nahuna"
+      "nwhuna"
     ]
   },
   "RSMI": {
@@ -122379,16 +122567,19 @@
     ]
   },
   "RKS": {
-    "base_word": "rakchas",
+    "base_word": "raakshas",
     "variants": [
       "rakhas",
       "rakshas",
+      "raachhchhas",
+      "raachhchas",
+      "rachhchhas",
       "rakhchhas",
       "rkhas"
     ]
   },
   "GRNCA2": {
-    "base_word": "garna aaunchha",
+    "base_word": "garna aauchha",
     "variants": [
       "garnaaauxa",
       "garnaaucha"
@@ -122418,7 +122609,7 @@
     ]
   },
   "BRTYE": {
-    "base_word": "bharatiye",
+    "base_word": "bhaaratiya",
     "variants": [
       "bharatoye",
       "bhaaratiye"
@@ -123456,8 +123647,15 @@
       "daihru"
     ]
   },
+  "DI1": {
+    "base_word": "daai",
+    "variants": [
+      "dai",
+      "daii"
+    ]
+  },
   "KRYKRT": {
-    "base_word": "karyakaarta",
+    "base_word": "kaaryakarta",
     "variants": [
       "kariyakarta",
       "karyakartya",
@@ -123485,11 +123683,11 @@
     ]
   },
   "KLRKA": {
-    "base_word": "kholi rachha",
+    "base_word": "kholiraachha",
     "variants": [
       "kholirachha",
-      "khulirachha",
-      "khelirachha"
+      "kholiirachha",
+      "kholiracha"
     ]
   },
   "PCMKO": {
@@ -123530,7 +123728,7 @@
     ]
   },
   "NKLNU2": {
-    "base_word": "nakhalaunu",
+    "base_word": "nakhelaaunu",
     "variants": [
       "nakhelaunu",
       "nikhalaauunu",
@@ -123570,7 +123768,7 @@
     ]
   },
   "GLYN": {
-    "base_word": "galyang",
+    "base_word": "galyaang",
     "variants": [
       "glayang"
     ]
@@ -123595,7 +123793,7 @@
     ]
   },
   "MLTKO": {
-    "base_word": "malatiko",
+    "base_word": "maalatiko",
     "variants": [
       "maalatiko",
       "maltiko",
@@ -123640,7 +123838,7 @@
     ]
   },
   "KYR": {
-    "base_word": "khayer",
+    "base_word": "khaayera",
     "variants": [
       "kayer",
       "khyer",
@@ -123659,34 +123857,34 @@
     ]
   },
   "BHNM": {
-    "base_word": "vanam",
+    "base_word": "bhanam",
     "variants": [
       "vhanum",
       "vhanam",
       "vhnm",
-      "vhanm"
+      "vhanm",
+
+      "bhanum",
+      "bhanam",
+      "bhnm",
+      "bhanm"
     ]
   },
   "PSLA": {
-    "base_word": "paisa la",
+    "base_word": "faisalaa",
     "variants": [
       "phaisala",
-      "poisala",
+      "phoisala",
       "faisala",
-      "paisala"
+      "phaisalaa",
+      "faisla"
     ]
   },
   "PRTBA": {
-    "base_word": "prativa",
+    "base_word": "pratibhaa",
     "variants": [
       "partiva",
       "prtiva"
-    ]
-  },
-  "TGKO": {
-    "base_word": "thugeko",
-    "variants": [
-      "thugko"
     ]
   },
   "HYRY": {
@@ -123873,9 +124071,12 @@
     ]
   },
   "MKRJE": {
-    "base_word": "mukherjee",
+    "base_word": "mukharjee",
     "variants": [
-      "mukherjhe"
+      "mukherjhe",
+      "mukherjee",
+      "mukharji",
+      "mukherji"
     ]
   },
   "CPRI": {
@@ -123884,6 +124085,16 @@
       "chepri",
       "chapri",
       "chepari"
+    ]
+  },
+  "CPRO1": {
+    "base_word": "chhepaaro",
+    "variants": [
+      "cheparo",
+      "chheparo",
+      "chayparo",
+      "chaypaaro",
+      "chhayparo"
     ]
   },
   "AB": {
@@ -124572,12 +124783,14 @@
     ]
   },
   "NKY": {
-    "base_word": "niski",
+    "base_word": "naaike",
     "variants": [
       "nikey",
-      "niky",
       "naikey",
-      "nikay"
+      "naikey",
+      "naikay",
+      "naike",
+      "naaikey"
     ]
   },
   "JTRKO": {
@@ -124600,7 +124813,7 @@
     ]
   },
   "RNCNI": {
-    "base_word": "rangi-changi",
+    "base_word": "rangichangi",
     "variants": [
       "rangichangi",
       "rangichangiii"
@@ -129619,16 +129832,35 @@
       "bishnoo"
     ]
   },
-  "JNKU": {
+  "JNKU2": {
     "base_word": "jaanchhu",
     "variants": [
       "janchhu",
       "junchhu",
-      "janechhu",
       "jaanchhu",
-      "janachhu",
+      
       "jonchhu",
       "jnchhu"
+    ]
+  },
+  "JNKU1": {
+    "base_word": "jaanechhu",
+    "variants": [
+      "janechhu",
+      "junechhu",
+      "jaaneychhu",
+      "janechhu",
+      "janachhu",
+      "jonechhu",
+      "jnechhu",
+
+      "janechu",
+      "junechu",
+      "jaaneychu",
+      "janechu",
+      "janachu",
+      "jonechu",
+      "jnechu"
     ]
   },
   "SKLA": {
@@ -130433,13 +130665,14 @@
     ]
   },
   "CTYA": {
-    "base_word": "chutiya",
+    "base_word": "chutiyaa",
     "variants": [
       "chitya",
       "chtiya",
       "chitiya",
       "chuitya",
-      "chuitiya"
+      "chuitiya",
+      "chutiya"
     ]
   },
   "MNKN": {
@@ -130451,7 +130684,7 @@
     ]
   },
   "HLR": {
-    "base_word": "halera",
+    "base_word": "haalera",
     "variants": [
       "halir",
       "haaler",
@@ -130527,7 +130760,7 @@
     ]
   },
   "RGKO": {
-    "base_word": "ragako",
+    "base_word": "raagoko",
     "variants": [
       "ragoko"
     ]
@@ -135052,7 +135285,7 @@
     ]
   },
   "RJA": {
-    "base_word": "raja",
+    "base_word": "raajaa",
     "variants": [
       "raaja",
       "rajaa",
@@ -135260,10 +135493,11 @@
     ]
   },
   "WYD": {
-    "base_word": "waiyaat",
+    "base_word": "waaiyaat",
     "variants": [
       "wayad",
       "wayed",
+      "waiyat",
       "waiyad",
       "wayaad",
       "waeyaad"
@@ -144110,27 +144344,29 @@
       "yovaen"
     ]
   },
-  "PRTKSY": {
+  "PRTKSY2": {
     "base_word": "pratikshyaa",
     "variants": [
-      "pratikshyako",
       "prtkshya",
-      "pratikshyama",
-      "pratekshya",
       "partikshya",
       "prtikshya",
       "pratikshya",
-      "pratikshyaa",
-      "prataksya",
       "pratiksya",
       "pritikshya",
-      "pratakshey",
+      "pratikshaya"
+    ]
+  },
+  "PRTKSY1": {
+    "base_word": "pratyakshya",
+    "variants": [
+      "pratekshya",
       "partakshya",
       "pratkshya",
+      "pratakshey",
+      "prataksya",
       "pratakshya",
-      "pratiksyama",
-      "partikshyama",
-      "pratikshaya"
+      "pratekchhya",
+      "pratakchha"
     ]
   },
   "TBI": {
@@ -145637,6 +145873,8 @@
     "base_word": "sanga",
     "variants": [
       "sangga",
+      "snga",
+      "sngh",
       "sangha",
       "sanggha",
       "sanaga",
@@ -145646,10 +145884,8 @@
   "BLNS": {
     "base_word": "billions",
     "variants": [
-      "ballons",
       "billons",
-      "bliions",
-      "billings"
+      "bliions"
     ]
   },
   "DBKTA1": {
@@ -145724,7 +145960,9 @@
   },
   "SHNKA": {
     "base_word": "sahinchha",
-    "variants": []
+    "variants": [
+      "sahincha"
+    ]
   },
   "SCKA1": {
     "base_word": "sochko",
@@ -146089,7 +146327,8 @@
       "hernunaa",
       "hernunau",
       "hernunaau",
-      "hernunah"
+      "hernunah",
+      "hernuna"
     ]
   },
   "HRMNA3": {
@@ -146829,8 +147068,12 @@
     ]
   },
   "GJRA": {
-    "base_word": "gujara",
-    "variants": []
+    "base_word": "gujaaraa",
+    "variants": [
+      "gujara",
+      "gujaara",
+      "gujaraa"
+    ]
   },
   "BYKT": {
     "base_word": "boycott",
@@ -147751,8 +147994,12 @@
     ]
   },
   "MGKA": {
-    "base_word": "magchha",
-    "variants": []
+    "base_word": "maagchha",
+    "variants": [
+      "magcha",
+      "maagcha",
+      "magchha"
+    ]
   },
   "HNTYU": {
     "base_word": "hunthyo",
@@ -148013,7 +148260,7 @@
     ]
   },
   "DRTMA": {
-    "base_word": "dhartima",
+    "base_word": "dhartimaa",
     "variants": [
       "dhrtima",
       "dartimaa",
@@ -148022,7 +148269,7 @@
     ]
   },
   "KLKRTK1": {
-    "base_word": "kalakriti",
+    "base_word": "kalaakriti",
     "variants": [
       "kalakritii",
       "kalakrity",
@@ -148049,7 +148296,7 @@
     ]
   },
   "BLKLI": {
-    "base_word": "bilkullai",
+    "base_word": "bilkulai",
     "variants": [
       "bilkulei",
       "bilkulai",
@@ -148090,7 +148337,7 @@
     ]
   },
   "HSNY1": {
-    "base_word": "haansne",
+    "base_word": "haasne",
     "variants": [
       "haasnai",
       "hasne",
@@ -148448,7 +148695,9 @@
   },
   "RML": {
     "base_word": "rumaal",
-    "variants": []
+    "variants": [
+      "rumal"
+    ]
   },
   "BDMBNA": {
     "base_word": "bidambana",
@@ -158522,9 +158771,13 @@
     ]
   },
   "EH": {
-    "base_word": "ehh",
+    "base_word": "e",
     "variants": [
-      "eeh"
+      "eeh",
+      "ehh",
+      "ey",
+      "eh",
+      "eyy"
     ]
   },
   "SNCA": {
@@ -161065,7 +161318,8 @@
     "variants": [
       "dheroi",
       "deroi",
-      "dherahi"
+      "dherahi",
+      "dharai"
     ]
   },
   "CLTRAL": {
@@ -161163,6 +161417,16 @@
       "khanaa",
       "khana",
       "khaanah"
+    ]
+  },
+  "KHNLI": {
+    "base_word": "khaanalaai",
+    "variants": [
+      "khaanalai",
+      "khanaalai",
+      "khanalai",
+      "khaanahlai",
+      "khanlai"
     ]
   },
   "MLA1": {

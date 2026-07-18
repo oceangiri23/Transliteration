@@ -64,11 +64,14 @@ def main():
     reference_file = os.path.join(base_path, "devanagari.txt")
     
     tool_files = {
-        "Google": os.path.join(base_path, "1_google.txt"),
-        "Kokil Thapa": os.path.join(base_path, "2_kokil_thapa.txt"),
+        "Easy Nepali Typing": os.path.join(base_path, "1_easy_nepali_typing.txt"),
+        "Kokil Thapa": os.path.join(base_path, "4_kokil_dot_com.txt"),
         "Nepali Unicode": os.path.join(base_path, "3_nepali_unicode_dot_com.txt"),
-        "Ashesh": os.path.join(base_path, "4_ashesh_dot_com.txt"),
-        "IndicXlit": os.path.join(base_path, "5_indicxlit.txt")
+        "Ashesh": os.path.join(base_path, "2_ashesh_dot_com.txt"),
+        "IndicXlit": os.path.join(base_path, "5_indicxlit.txt"),
+        "Google Transliteration": os.path.join(base_path, "6_google_translit.txt"),
+        "ByT5 (Normalized)": os.path.join(base_path, "7_byt5_normalized.txt"),
+        "ByT5 (Raw)": os.path.join(base_path, "8_byt5_raw.txt")
     }
     
     # Read reference file
