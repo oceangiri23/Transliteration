@@ -92687,7 +92687,7 @@
     ]
   },
   "BHPNI": {
-    "base_word": "bhayepani",
+    "base_word": "bihepani",
     "variants": [
       "bahepani"
     ]
@@ -137599,14 +137599,9 @@
   "PRYA": {
     "base_word": "priya",
     "variants": [
-      "prya",
       "priyaa",
       "perya",
-      "pariyoa",
       "piriya",
-      "porya",
-      "parya",
-      "purya",
       "priyaaa",
       "pirya",
       "preya",
@@ -137614,9 +137609,12 @@
     ]
   },
   "BSRM": {
-    "base_word": "bisram",
+    "base_word": "bishraam",
     "variants": [
-      "besram"
+      "besram",
+      "bisram",
+      "bishram",
+      "bisraam"
     ]
   },
   "HJRNI": {
@@ -137679,7 +137677,7 @@
     ]
   },
   "BYPNE": {
-    "base_word": "vayapani",
+    "base_word": "bhayepani",
     "variants": [
       "vayapanee",
       "vayepane",
