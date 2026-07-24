@@ -12,6 +12,7 @@ import Levenshtein
 
 torch.cuda.empty_cache()
 
+
 def loadData(val_ratio: float = 0.15, max_len: int = 300, seed: int = 27):
     df = pd.read_csv("../Clean_corpus_dataset.csv")
     df = df.sample(frac=1, random_state=seed).reset_index(drop=True)
@@ -27,9 +28,9 @@ def loadData(val_ratio: float = 0.15, max_len: int = 300, seed: int = 27):
     return train_df, val_df
 
 
-
 train_df, val_df = loadData()
 print("The length of train dataset and valdataset  is: ", len(train_df), len(val_df))
+
 
 class MyDataset(Dataset):
     def __init__(self, df):
@@ -41,6 +42,7 @@ class MyDataset(Dataset):
     def __getitem__(self, idx):
         row = self.df.iloc[idx]
         return row.input, row.label
+
 
 class DataCollator:
     def __init__(self, tokenizer):
@@ -61,12 +63,15 @@ class DataCollator:
             "attention_mask": attention_mask,
             "labels": labels,
         }
-        
+
+
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
 
 def model_init(checkpoint):
     model = MT5ForConditionalGeneration.from_pretrained(checkpoint)
     return model.to(device)
+
 
 def dict_to_cuda(batch):
     return {k: v.to(device) for k, v in batch.items()}
@@ -86,6 +91,7 @@ max_epochs = 3
 best = float("inf")
 trigger = 0
 
+
 @torch.no_grad()
 def eval_model(model, val_loader, tokenizer):
     model.eval()
@@ -102,22 +108,22 @@ def eval_model(model, val_loader, tokenizer):
     model.train()
     return total / count
 
+
 def transliterate(sentence: str, max_length: int = 128):
 
     inputs = tokenizer(sentence, return_tensors="pt").to(device)
-
 
     outputs = model.generate(
         input_ids=inputs.input_ids,
         attention_mask=inputs.attention_mask,
         max_length=max_length,
         num_beams=5,
-        early_stopping=True
+        early_stopping=True,
     )
-
 
     decoded = tokenizer.decode(outputs[0], skip_special_tokens=True)
     return decoded
+
 
 def evaluate(df_val):
     total_chars = 0
@@ -129,8 +135,8 @@ def evaluate(df_val):
     smooth = SmoothingFunction().method1
 
     for idx, row in df_val.iterrows():
-        pred = transliterate(row['input'])
-        true = row['label']
+        pred = transliterate(row["input"])
+        true = row["label"]
 
         # --- Character Error Rate (CER) ---
         char_errors = Levenshtein.distance(pred, true)
@@ -142,14 +148,19 @@ def evaluate(df_val):
         true_words = true.split()
         total_words += len(true_words)
         # Count exact word matches
-        correct_words = sum(p==t for p,t in zip(pred_words,true_words))
+        correct_words = sum(p == t for p, t in zip(pred_words, true_words))
         total_word_correct += correct_words
 
         # --- BLEU-4 (character level) ---
         # split characters for BLEU
         pred_chars = list(pred)
         true_chars = list(true)
-        bleu = sentence_bleu([true_chars], pred_chars, weights=(0.25,0.25,0.25,0.25), smoothing_function=smooth)
+        bleu = sentence_bleu(
+            [true_chars],
+            pred_chars,
+            weights=(0.25, 0.25, 0.25, 0.25),
+            smoothing_function=smooth,
+        )
         bleu_scores.append(bleu)
 
     cer = total_char_errors / total_chars
@@ -183,10 +194,9 @@ for epoch in range(max_epochs):
     print(
         f"Epoch {epoch}/{max_epochs} | Loss {loss: .3f} | Val Loss {eval_metric: .4f}"
     )
-    
+
     model.eval()
     evaluate(val_df)
     to_save = {"model": model.state_dict(), "optimizer": optimizer}
     name = f"mt5_all_augmented_{epoch}.pt"
     torch.save(to_save, name)
-
