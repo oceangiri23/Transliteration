@@ -13,7 +13,9 @@ This directory contains tools, datasets, notebooks and pipelines for translitera
 - Pipeline components: [Transliteration/pipeline_bundle/two_sentence_pipeline.py](Transliteration/pipeline_bundle/two_sentence_pipeline.py)
 - Phonetic dictionaries & merged corpora: [Transliteration/ADS/Complete_phonetic_Dictionary.json](Transliteration/ADS/Complete_phonetic_Dictionary.json)
 - Final cleaned datasets: [Transliteration/Final%20Datasets/augmented_parallel.csv](Transliteration/Final%20Datasets/augmented_parallel.csv)
+- Checkpoints: [Hugging Face Repository](https://huggingface.co/Sagar32/LipiMix)
 
+  
 Directory layout (high level)
 - `nepPhoneticEncoder.py` — phonetic encoding and normalization logic.
 - `app_hf.py` — helper functions for small apps or demos.
